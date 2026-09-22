@@ -35,9 +35,9 @@ export default function WorkoutReference({ year, gender, category }) {
           </div>
           <p className="source-line">
             {lang === 'fr' ? (
-              <>Format officiel, copié mot pour mot, <a href={yearData.sourceUrl} target="_blank" rel="noreferrer">source : {yearData.sourceUrl}</a>.</>
+              <>Format officiel : <a href={yearData.sourceUrl} target="_blank" rel="noreferrer">{yearData.sourceUrl}</a>.</>
             ) : (
-              <>Official format, copied word for word, <a href={yearData.sourceUrl} target="_blank" rel="noreferrer">source: {yearData.sourceUrl}</a>.</>
+              <>Official format: <a href={yearData.sourceUrl} target="_blank" rel="noreferrer">{yearData.sourceUrl}</a>.</>
             )}
           </p>
         </div>

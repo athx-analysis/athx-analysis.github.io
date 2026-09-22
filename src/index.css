@@ -2061,10 +2061,141 @@ button {
   text-decoration: underline;
 }
 
+/* ==================== Cartes d'accroche (3 questions -> 3 pages) ====================
+   Cartes claires (contraste volontaire avec les cartes sombres du Format juste en dessous),
+   numero fantome en fond pour un cote "editorial", legere elevation au survol -- objectif :
+   que la page d'accueil ait un vrai relief visuel, pas juste du texte + un tableau. */
+.hook-section-title {
+  font-family: var(--font-display);
+  font-size: clamp(24px, 2.6vw, 30px);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+
+.hook-section-sub {
+  color: var(--gray-500);
+  font-size: 15px;
+  margin: 0 0 32px;
+}
+
+.hook-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+@media (max-width: 860px) {
+  .hook-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+.hook-card {
+  position: relative;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 28px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 220px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.hook-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px rgba(10, 10, 10, 0.08);
+}
+
+.hook-card-num {
+  position: absolute;
+  top: -14px;
+  right: 10px;
+  font-family: var(--font-display);
+  font-size: 84px;
+  font-weight: 800;
+  color: var(--bg-panel-2);
+  line-height: 1;
+  z-index: 0;
+  user-select: none;
+}
+
+.hook-card-eyebrow {
+  position: relative;
+  z-index: 1;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent-dark);
+}
+
+.hook-card-title {
+  position: relative;
+  z-index: 1;
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.15;
+  margin: 0;
+  color: var(--ink);
+}
+
+.hook-card-body {
+  position: relative;
+  z-index: 1;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--gray-300);
+  margin: 0;
+}
+
+.hook-card-cta {
+  position: relative;
+  z-index: 1;
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 700;
+  font-size: 13.5px;
+  color: var(--accent-dark);
+}
+
+.hook-card-cta .btn-pill-icon {
+  width: 20px;
+  height: 20px;
+  background: var(--accent-dark);
+  color: #ffffff;
+  transition: transform 0.15s ease;
+}
+
+.hook-card:hover .hook-card-cta .btn-pill-icon {
+  transform: translate(2px, -2px);
+}
+
 /* ==================== Format officiel ATHX (WorkoutFormatCard) ====================
    Carte sombre + accents rouge/orange -- reprend volontairement la DA du hero (fond noir,
    gradient rouge->orange) pour rester dans l'identite visuelle ATHX plutot que d'inventer un
    nouveau style pour ces cartes. */
+.wof-page-title {
+  font-family: var(--font-display);
+  font-size: clamp(26px, 3vw, 34px);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  margin: 0 0 28px;
+}
+
 .wof-card {
   background: var(--panel-dark);
   border: 1px solid var(--border-dark);
@@ -2099,12 +2230,13 @@ button {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  color: #ffffff;
+  color: var(--accent-2);
 }
 
+/* "Temps total pour faire l'epreuve" (demande explicite) : duree en blanc, pas grise. */
 .wof-card-duration {
   font-size: 11px;
-  color: #9a9a9a;
+  color: #ffffff;
   white-space: nowrap;
 }
 
@@ -2131,28 +2263,11 @@ button {
   color: var(--accent-2);
 }
 
-.wof-line-cat[data-cat-active="1"] {
+/* "Temps total pour faire l'epreuve" (TIME CAP, meme demande que la duree en tete de carte) :
+   blanc et mis en avant, pas une ligne de mouvement comme les autres. */
+.wof-line-timecap {
   color: #ffffff;
   font-weight: 700;
-}
-
-.wof-line-cat[data-cat-active="1"]::before {
-  content: '▸ ';
-  color: var(--accent);
-}
-
-.wof-line-cat[data-cat-active="0"] {
-  color: #5c5c5c;
-  font-size: 11.5px;
-}
-
-.wof-gender-active {
-  color: #ffffff;
-  font-weight: 700;
-}
-
-.wof-gender-dim {
-  color: #6a6a6a;
 }
 
 .wof-notes {
@@ -2174,22 +2289,34 @@ button {
 
 /* Selecteurs (annee / team-solo / genre / categorie) -- pastilles compactes, meme langage
    visuel que .sim-square (gradient rouge->orange actif) mais en plus petit format, pensees
-   pour etre repetees plusieurs fois sur une meme page. */
+   pour etre repetees plusieurs fois sur une meme page. Chaque groupe = sous-titre AU-DESSUS,
+   boutons EN DESSOUS (demande explicite -- avant, le libelle etait sur la meme ligne que les
+   boutons, moins lisible). */
+.wof-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  margin-bottom: 24px;
+}
+
+.wof-filter-block {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.wof-filter-title {
+  font-size: 11.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+}
+
 .wof-toggle-group {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 18px;
-}
-
-.wof-toggle-label {
-  font-size: 11px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--gray-400);
-  margin-right: 4px;
-  align-self: center;
 }
 
 .wof-toggle-btn {

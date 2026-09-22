@@ -1,42 +1,71 @@
 // Rendu d'UNE zone (Force/Endurance/MetCon X) du format officiel ATHX, verbatim (voir
-// src/data/workout_official.js). Aucune ligne n'est jamais retiree ni reformulee : la
-// categorie/le genre choisis ne font que mettre en valeur visuellement la portion du texte
-// source qui s'applique (gras/surlignage), tout le reste reste visible (juste estompe).
-//
-// Regles de detection (simples et non-destructives, cf. commentaire en tete de
-// workout_official.js) :
-//   - ligne commencant par "SCORE" -> regle de score, mise en avant en bas de carte
-//   - ligne commencant par "LITE -"/"ATHX -"/"PRO -" -> variante de categorie, activee/estompee
-//     selon `categoryTag`
-//   - portion "M: X" / "F: X" (ou "M X"/"F X", format 2025) dans une ligne -> poids Homme/Femme,
-//     mis en avant selon `gender`
+// src/data/workout_official.js). Les chiffres/mots source ne sont jamais reformules -- mais,
+// demande explicite de l'utilisateur, la categorie et le genre NON selectionnes sont retires
+// de l'affichage plutot que simplement estompes (ex: un utilisateur qui regarde le format ATHX
+// "normal" n'a pas a voir la distance PRO/LITE, ca embrouille) : la valeur gardee est toujours
+// copiee mot pour mot depuis la source, seule la mise en page choisit laquelle montrer.
 const CATEGORY_RE = /^(LITE|ATHX|PRO)\s*-\s*/i
 const SCORE_RE = /^SCORE\b/i
-// "M: 20KG", "M 20KG", "F: 12.5KG", "M: 45CAL"... -- jamais "MIX" (le M n'est alors pas suivi
-// d'espace/":"/chiffre direct, donc ne matche pas).
-const GENDER_TOKEN_RE = /([MF]\s*:?\s*[\d.]+(?:KG|CAL|CM)?"?)/g
+const TIME_CAP_RE = /TIME CAP/i
+// "0-6MIN", "0-8 MINS", "5-10 MIN", "12-20MIN"... -- ligne qui ne contient QUE une fenetre de
+// temps, rien d'autre (donc jamais un faux positif sur une ligne de mouvement/protocole).
+const TIME_WINDOW_ONLY_RE = /^\d{1,2}(-\d{1,2})?\s*MINS?$/i
+// "M: 20KG / F: 12.5KG", "M 20KG / F 12.5KG" (format 2025, sans ":"), "M: 60 / F: 45 / MIX: 60"...
+const GENDER_PAIR_RE = /M\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)\s*\/\s*F\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)(?:\s*\/\s*MIX\s*:?\s*[\d.]+(?:KG|CAL|CM)?"?)?/gi
 
-function GenderEmphasisLine({ text, gender }) {
-  const parts = text.split(GENDER_TOKEN_RE)
-  return (
-    <>
-      {parts.map((part, i) => {
-        if (!part) return null
-        const isM = /^M\s*:?\s*[\d.]/.test(part)
-        const isF = /^F\s*:?\s*[\d.]/.test(part)
-        if (isM || isF) {
-          const active = (isM && gender === 'Male') || (isF && gender === 'Female')
-          return <span key={i} className={active ? 'wof-gender-active' : 'wof-gender-dim'}>{part}</span>
-        }
-        return <span key={i}>{part}</span>
-      })}
-    </>
-  )
+// Etape 1 : "0-6MIN" + "1RM STRICT PRESS" (deux lignes consecutives) -> "1RM STRICT PRESS :
+// 0-6MIN" (une ligne) -- style demande explicitement par l'utilisateur pour la zone Force.
+function mergeTimeWindowLines(lines) {
+  const out = []
+  for (let i = 0; i < lines.length; i++) {
+    if (TIME_WINDOW_ONLY_RE.test(lines[i]) && lines[i + 1] && !CATEGORY_RE.test(lines[i + 1])) {
+      out.push(`${lines[i + 1]} : ${lines[i]}`)
+      i += 1
+    } else {
+      out.push(lines[i])
+    }
+  }
+  return out
+}
+
+// Etape 2 : ne garde, pour chaque ligne taguee LITE-/ATHX-/PRO-, que celle qui correspond a la
+// categorie selectionnee -- et, si une ligne SANS tag est immediatement suivie d'une variante
+// taguee qui correspond a la selection (cas MetCon : ligne de base = ATHX implicite + override
+// LITE/PRO), la ligne de base s'efface au profit de la variante choisie.
+function filterByCategory(lines, categoryTag) {
+  const out = []
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i]
+    const m = CATEGORY_RE.exec(line)
+    if (m) {
+      if (m[1].toUpperCase() === categoryTag) out.push(line.replace(CATEGORY_RE, ''))
+      continue
+    }
+    let j = i + 1
+    let overridden = false
+    while (j < lines.length && CATEGORY_RE.test(lines[j])) {
+      if (CATEGORY_RE.exec(lines[j])[1].toUpperCase() === categoryTag) overridden = true
+      j += 1
+    }
+    if (!overridden) out.push(line)
+  }
+  return out
+}
+
+// Etape 3 : "M: 20KG / F: 12.5KG" -> "20KG" (ou "12.5KG") selon le genre selectionne -- le
+// chiffre garde est toujours copie mot pour mot, seul celui qui ne concerne pas le genre choisi
+// (et l'eventuelle valeur MIX) disparait de l'affichage.
+function filterGenderInLine(line, gender) {
+  return line.replace(GENDER_PAIR_RE, (_match, mVal, fVal) => (gender === 'Male' ? mVal : fVal))
 }
 
 export default function WorkoutFormatCard({ zone, mode, gender, categoryTag }) {
   const data = mode === 'pairs' ? zone.pairs : zone.individual
   if (!data) return null
+
+  const lines = filterByCategory(mergeTimeWindowLines(data.lines), categoryTag)
+    .map((l) => filterGenderInLine(l, gender))
+
   return (
     <div className="wof-card">
       <div className="wof-card-head">
@@ -45,21 +74,13 @@ export default function WorkoutFormatCard({ zone, mode, gender, categoryTag }) {
         <span className="wof-card-duration">{zone.duration}</span>
       </div>
       <div className="wof-card-body">
-        {data.lines.map((line, i) => {
-          const catMatch = CATEGORY_RE.exec(line)
+        {lines.map((line, i) => {
           const isScore = SCORE_RE.test(line)
+          const isTimeCap = TIME_CAP_RE.test(line)
           let cls = 'wof-line'
           if (isScore) cls += ' wof-line-score'
-          else if (catMatch) cls += ' wof-line-cat'
-          return (
-            <div
-              key={i}
-              className={cls}
-              data-cat-active={catMatch ? (catMatch[1].toUpperCase() === categoryTag ? '1' : '0') : undefined}
-            >
-              <GenderEmphasisLine text={line} gender={gender} />
-            </div>
-          )
+          else if (isTimeCap) cls += ' wof-line-timecap'
+          return <div key={i} className={cls}>{line}</div>
         })}
       </div>
       {data.notes && (
