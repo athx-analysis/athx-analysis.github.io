@@ -1,10 +1,12 @@
 # ATHX Analysis
 
-Site React (Vite) pour consulter les leaderboards ATHX Games, dans le style visuel du site
-original [athxgames.com](https://athxgames.com) (logo vectoriel officiel, thème noir/blanc/rouge,
-police Helvetica Neue).
+Site React (Vite) d'analyse des résultats ATHX Games, dans le style visuel du site officiel
+[athxgames.com](https://athxgames.com) (logo vectoriel officiel, thème noir/blanc/rouge, police
+Helvetica Neue). Disponible en français (par défaut) et en anglais.
 
-## Lancer le site
+**En ligne :** https://athx-analysis.github.io/
+
+## Lancer le site en local
 Double-clique sur `ATHXAnalysis.command` (installe les dépendances si besoin, lance le serveur
 et ouvre Safari sur `localhost:5173`).
 
@@ -14,62 +16,46 @@ npm install
 npm run dev
 ```
 
+Build de production :
+```bash
+npm run build   # génère dist/
+npm run preview # sert dist/ en local pour vérifier le build
+```
+
 ## Pages
-- **Accueil** (`/`) : hero + accès direct aux 3 leaderboards.
-- **About** (`/about`) : histoire et chiffres clés d'ATHX Games — croissance du nombre
-  d'événements/pays/participants (graphiques + carte du monde interactifs) et comparatif face à
-  HYROX. Voir "Données du site" ci-dessous : tous les chiffres sont calculés depuis les CSV
-  scrapés, rien n'est codé en dur.
-- **Header** : menu déroulant "Results" (comme sur le site original) listant les 3 types de
-  leaderboards :
+- **Accueil** (`/`) : chiffres clés de la croissance ATHX (participants, événements, pays),
+  comparatif face à HYROX.
+- **Analyses** (`/analyses`) : 6 questions statistiques sur la saison (profils d'athlètes,
+  transfert entre épreuves, évolution en cours de saison, écarts par ville, seuils de
+  performance...), graphiques calculés depuis les données réelles.
+- **Simulation** (`/simulation`) : l'utilisateur entre ses performances et voit le classement
+  exact qu'il aurait obtenu, saison par saison, division par division, catégorie par catégorie
+  (ATHX / ATHX Pro), face aux vrais résultats.
+- **Résultats** (menu déroulant dans le header) : 3 leaderboards bruts, avec les mêmes filtres
+  que le site original (Année, Pays, Ville, Catégorie, Division, Workout, recherche par nom) :
   - Individual Leaderboard (`/individual-leaderboards`)
   - Team Leaderboard (`/team-leaderboards`)
   - Team Individual Leaderboards (`/team-individual-leaderboards`)
-
-Chaque page leaderboard propose les mêmes filtres que le site original (Année, Pays, Ville,
-Catégorie, Division, Workout, recherche par nom) et affiche un classement paginé.
+- Pages légales (`/contact`, `/privacy-policy`, `/terms`, `/cookie-policy`, `/legal-notice`).
 
 ## Données
-Les CSV scrapés (`../data_general/`, `../2026/`, `../2025/`) sont copiés tels quels dans
-`public/data/` et chargés à la demande côté client (PapaParse), en fonction des filtres
-Année/Pays/Ville choisis — exactement les fichiers produits par `scrape_leaderboards.py` et
-`scrape_by_location.py` (voir le dossier parent `athx/`). Si ces scripts sont relancés avec de
-nouvelles données, recopier `public/data/` :
-```bash
-cd ..
-rm -rf site_athx/public/data
-cp -R data_general 2026 2025 site_athx/public/data/
-cd site_athx
-python3 - <<'EOF'
-# régénère src/data/manifest.json à partir de public/data/2026 et 2025
-# (voir la génération initiale dans l'historique du projet)
-EOF
-```
+Ce dossier contient uniquement ce qui est nécessaire pour **faire tourner** le site :
+- `src/data/*.json` : données déjà calculées/agrégées (analyses, simulation, stats du site),
+  consommées directement par les pages React -- rien n'est codé en dur dans les composants.
+- `public/data/` : CSV bruts des leaderboards (chargés à la demande côté client via PapaParse
+  sur les pages Résultats).
 
-⚠️ Rang et points affichés dépendent du niveau de filtrage (global / pays / ville) : le site
-recalcule ces valeurs selon le sous-ensemble filtré (vérifié empiriquement sur le site source),
-donc chaque niveau correspond à un fichier scrapé séparément — pas d'agrégation locale possible.
+Le **pipeline de génération** de ces fichiers (scraping, notebooks d'exploration, scripts
+`generate_*.py`) vit dans le dépôt de travail séparé (pas inclus ici, pour garder ce dossier
+propre et minimal). Pour mettre à jour les données après une nouvelle saison/un nouveau scraping,
+relancer les scripts dans ce dépôt de travail puis recopier leurs sorties
+(`src/data/*.json`, `public/data/`) ici.
 
-## Données du site (page About)
-Contrairement aux CSV bruts (chargés à la demande depuis `public/data/`), les chiffres et
-graphiques de la page **About** sont pré-calculés dans un seul fichier :
-`src/data/site_stats.json` (généré par `scripts/generate_site_stats.py`, à relancer après chaque
-scraping pour garder les stats à jour) :
-```bash
-cd site_athx
-python3 scripts/generate_site_stats.py
-```
-Ce script lit `../data_general/team_leaderboard.csv` (+ `individual_leaderboard.csv` pour les
-participants solo) et calcule : nombre d'événements/pays/participants par année, l'empreinte
-géographique actuelle (pour la carte du monde, avec un fond de carte topojson dans
-`public/geo/world-110m.json`), et le comparatif ATHX vs HYROX (les chiffres HYROX, externes, sont
-curés à la main dans le script, avec leurs sources — cf. `HYROX_2025_26` en haut du fichier, à
-mettre à jour si de nouveaux chiffres HYROX sont publiés).
-
-Aucun chiffre n'est codé en dur dans les composants React (`About.jsx`, `TrendChart.jsx`,
-`WorldMapFootprint.jsx`, `ComparisonBars.jsx`) : tout est lu depuis ce JSON, donc relancer le
-script suffit à mettre le site à jour après un nouveau scraping.
+## Déploiement (GitHub Pages)
+Le push sur `main` déclenche automatiquement `.github/workflows/deploy.yml` : build Vite
+(`npm ci && npm run build`) puis publication du dossier `dist/` sur GitHub Pages. Rien à faire
+manuellement après un `git push` -- voir l'onglet **Actions** du repo pour suivre le déploiement.
 
 ## Stack
-React 19 + Vite, react-router-dom (HashRouter, pas besoin de config serveur), papaparse,
-recharts (graphiques), react-simple-maps + d3-geo (carte du monde interactive).
+React 19 + Vite, react-router-dom (`HashRouter`, pas besoin de config serveur pour les routes),
+recharts (graphiques), react-simple-maps + d3-geo (carte du monde), papaparse (CSV bruts).
