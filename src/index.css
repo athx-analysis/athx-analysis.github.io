@@ -1119,6 +1119,27 @@ button {
   font-weight: 600;
 }
 
+/* Minutes/secondes MetCon en deux champs separes (voir updateMetconPart dans Simulation.jsx) :
+   chaque champ reste petit et centre, le ":" au milieu est un separateur visuel fixe, pas un
+   champ de saisie. */
+.sim-clock-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sim-clock-row input {
+  width: 64px;
+  flex: none;
+  text-align: center;
+}
+
+.sim-clock-sep {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--gray-400);
+}
+
 /* ---------- Rappel des epreuves (Simulation) ---------- */
 
 .workout-ref {

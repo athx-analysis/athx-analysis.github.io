@@ -183,6 +183,25 @@ export default function Simulation() {
     setSubmitted(false)
   }
 
+  // Le champ MetCon (MM:SS) etait un seul <input> avec inputMode="numeric" -- sur mobile, ce
+  // mode force un clavier NUMERIQUE PUR (comme un code PIN), qui n'a pas la touche ":" (aucun
+  // inputMode standard, ni "numeric" ni "decimal" ni "tel", n'inclut ":"). Impossible de taper
+  // "14:30" au clavier tactile. Fix : deux petits champs numeriques (minutes / secondes)
+  // separes par un ":" purement visuel (pas de saisie dessus) -- chaque champ garde son clavier
+  // numerique mobile, et on recompose "MM:SS" en interne pour ne rien changer a la validation/
+  // au calcul existants (inputs.metcon reste la source de verite, format inchange).
+  function splitClock(raw) {
+    const [m, s] = (raw || '').split(':')
+    return { m: m || '', s: s || '' }
+  }
+
+  function updateMetconPart(part, rawValue) {
+    const digits = rawValue.replace(/\D/g, '').slice(0, 2)
+    const { m, s } = splitClock(inputs.metcon)
+    const next = part === 'm' ? { m: digits, s } : { m, s: digits }
+    updateInput('metcon', next.m === '' && next.s === '' ? '' : `${next.m}:${next.s}`)
+  }
+
   function changeYear(y) {
     setYear(y)
     setGender(null)
@@ -321,17 +340,31 @@ export default function Simulation() {
                 </div>
 
                 <div className="sim-form-group">
-                  <h3>MetCon X <span className="sim-form-unit">{lang === 'fr' ? '(temps total, format MM:SS, 00:00 à 30:00)' : '(total time, MM:SS format, 00:00 to 30:00)'}</span></h3>
+                  <h3>MetCon X <span className="sim-form-unit">{lang === 'fr' ? '(temps total, minutes et secondes, 00:00 à 30:00)' : '(total time, minutes and seconds, 00:00 to 30:00)'}</span></h3>
                   <Field
                     label={`${lang === 'fr' ? 'Temps total' : 'Total time'}${inputs.metcon && !fieldErrors.metcon && Number.isFinite(parseClockToSeconds(inputs.metcon)) ? ` (= ${parseClockToSeconds(inputs.metcon)}s)` : ''}`}
                     error={fieldErrors.metcon}
                   >
-                    <input
-                      type="text" inputMode="numeric" placeholder="ex : 14:30"
-                      className={fieldErrors.metcon ? 'has-error' : ''}
-                      value={inputs.metcon}
-                      onChange={(e) => updateInput('metcon', e.target.value)}
-                    />
+                    {/* Deux champs numeriques separes (clavier mobile numerique valide sur les
+                        deux) plutot qu'un seul champ "MM:SS" -- voir commentaire sur
+                        updateMetconPart plus haut dans le fichier. */}
+                    <div className="sim-clock-row">
+                      <input
+                        type="text" inputMode="numeric" pattern="[0-9]*" maxLength={2} placeholder="14"
+                        aria-label={lang === 'fr' ? 'Minutes' : 'Minutes'}
+                        className={fieldErrors.metcon ? 'has-error' : ''}
+                        value={splitClock(inputs.metcon).m}
+                        onChange={(e) => updateMetconPart('m', e.target.value)}
+                      />
+                      <span className="sim-clock-sep" aria-hidden="true">:</span>
+                      <input
+                        type="text" inputMode="numeric" pattern="[0-9]*" maxLength={2} placeholder="30"
+                        aria-label={lang === 'fr' ? 'Secondes' : 'Seconds'}
+                        className={fieldErrors.metcon ? 'has-error' : ''}
+                        value={splitClock(inputs.metcon).s}
+                        onChange={(e) => updateMetconPart('s', e.target.value)}
+                      />
+                    </div>
                   </Field>
                 </div>
               </div>
