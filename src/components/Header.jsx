@@ -55,6 +55,7 @@ export default function Header() {
 
           <nav className={`nav${mobileOpen ? ' nav-mobile-open' : ''}`}>
             <Link to="/" className="nav-link">{t('nav_home')}</Link>
+            <Link to="/le-sport" className="nav-link">{t('nav_sport')}</Link>
             <Link to="/analyses" className="nav-link">{t('nav_analyses')}</Link>
             <Link to="/simulation" className="nav-link">{t('nav_simulation')}</Link>
 

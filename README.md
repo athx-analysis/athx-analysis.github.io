@@ -23,8 +23,12 @@ npm run preview # sert dist/ en local pour vérifier le build
 ```
 
 ## Pages
-- **Accueil** (`/`) : chiffres clés de la croissance ATHX (participants, événements, pays),
-  comparatif face à HYROX.
+- **Accueil** (`/`) : page d'accroche -- présente les 3 épreuves ATHX et leur format officiel
+  EXACT (verbatim, copié mot pour mot depuis athxgames.com/workouts/2025, 2026 et 2027 --
+  voir `src/data/workout_official.js`), avec sélecteurs Saison / Solo-Team / Genre / Catégorie
+  (ATHX / ATHX Pro / LITE). Amène ensuite vers la page "Le Sport".
+- **Le Sport** (`/le-sport`) : chiffres clés de la croissance ATHX (participants, événements,
+  pays, affiliation CrossFit), comparatif face à HYROX.
 - **Analyses** (`/analyses`) : 6 questions statistiques sur la saison (profils d'athlètes,
   transfert entre épreuves, évolution en cours de saison, écarts par ville, seuils de
   performance...), graphiques calculés depuis les données réelles.

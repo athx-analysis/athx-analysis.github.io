@@ -2,6 +2,7 @@ import { HashRouter, Routes, Route, Link } from 'react-router-dom'
 import Header from './components/Header'
 import ScrollToTop from './components/ScrollToTop'
 import Home from './pages/Home'
+import Sport from './pages/Sport'
 import Leaderboard from './pages/Leaderboard'
 import Simulation from './pages/Simulation'
 import Analyses from './pages/Analyses'
@@ -22,6 +23,7 @@ export default function App() {
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/le-sport" element={<Sport />} />
           <Route path="/simulation" element={<Simulation />} />
           <Route path="/analyses" element={<Analyses />} />
           <Route path="/individual-leaderboards" element={<Leaderboard lbKey="individual" />} />

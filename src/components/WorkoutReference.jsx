@@ -1,16 +1,19 @@
 import { useState } from 'react'
-import { WORKOUT_REFERENCE } from '../data/workout_reference'
+import { OFFICIAL_WORKOUTS } from '../data/workout_official'
+import WorkoutFormatCard from './WorkoutFormatCard'
 import { useLanguage } from '../i18n/LanguageContext'
 
-const ZONE_COLOR = { strength: 'var(--accent)', endurance: 'var(--blue)', metcon: 'var(--accent-2)' }
-
-// Rappel repliable de ce qui est demande a chaque epreuve, pour la saison selectionnee --
-// reprend la structure "zone / duree / description" des pages officielles athxgames.com/workouts.
-export default function WorkoutReference({ year, movements }) {
+// Rappel repliable du format officiel EXACT (verbatim, voir workout_official.js) pour la
+// saison/le genre/la categorie deja choisis dans le formulaire Simulation -- remplace
+// l'ancienne version qui paraphrasait le format en prose (demande explicite : "le format
+// demande a la lettre, pas de zones d'ombre"). Simulation ne modelise que le classement
+// INDIVIDUEL (jamais Team/Pairs), donc mode toujours 'individual' ici.
+export default function WorkoutReference({ year, gender, category }) {
   const [open, setOpen] = useState(false)
-  const { lang, t } = useLanguage()
-  const ref = WORKOUT_REFERENCE[lang]?.[year]
-  if (!ref) return null
+  const { lang } = useLanguage()
+  const yearData = OFFICIAL_WORKOUTS[year]
+  if (!yearData) return null
+  const categoryTag = category === 'ATHX Pro' ? 'PRO' : 'ATHX'
 
   return (
     <div className="workout-ref">
@@ -25,32 +28,16 @@ export default function WorkoutReference({ year, movements }) {
 
       {open && (
         <div className="workout-ref-body">
-          {[
-            { key: 'strength', label: t('discipline_force'), movs: movements.strength },
-            { key: 'endurance', label: t('discipline_endurance'), movs: movements.endurance },
-            { key: 'metcon', label: 'MetCon X', movs: null },
-          ].map(({ key, label, movs }) => {
-            const z = ref[key]
-            return (
-              <div key={key} className="workout-zone-card" style={{ '--zone-color': ZONE_COLOR[key] }}>
-                <div className="workout-zone-head">
-                  <span className="workout-zone-name">{z.zone}</span>
-                  <span className="workout-zone-duration">{z.duration}</span>
-                </div>
-                <p className="workout-zone-desc">{z.description}</p>
-                {movs && (
-                  <p className="workout-zone-movements">
-                    {movs.map((m, i) => <span key={m}>{i > 0 && ' · '}{m}</span>)}
-                  </p>
-                )}
-              </div>
-            )
-          })}
+          <div className="wof-cards-row wof-cards-row-compact">
+            <WorkoutFormatCard zone={yearData.zones.strength} mode="individual" gender={gender} categoryTag={categoryTag} />
+            <WorkoutFormatCard zone={yearData.zones.endurance} mode="individual" gender={gender} categoryTag={categoryTag} />
+            <WorkoutFormatCard zone={yearData.zones.metconx} mode="individual" gender={gender} categoryTag={categoryTag} />
+          </div>
           <p className="source-line">
             {lang === 'fr' ? (
-              <>Paraphrase du format officiel, <a href={ref.sourceUrl} target="_blank" rel="noreferrer">source : {ref.sourceUrl}</a>. En cas de doute sur le format exact, se référer à la page officielle.</>
+              <>Format officiel, copié mot pour mot, <a href={yearData.sourceUrl} target="_blank" rel="noreferrer">source : {yearData.sourceUrl}</a>.</>
             ) : (
-              <>Paraphrased from the official format, <a href={ref.sourceUrl} target="_blank" rel="noreferrer">source: {ref.sourceUrl}</a>. When in doubt about the exact format, refer to the official page.</>
+              <>Official format, copied word for word, <a href={yearData.sourceUrl} target="_blank" rel="noreferrer">source: {yearData.sourceUrl}</a>.</>
             )}
           </p>
         </div>

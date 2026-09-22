@@ -305,7 +305,7 @@ export default function Simulation() {
               <p className="section-title">{lang === 'fr' ? 'Étape 4' : 'Step 4'}</p>
               <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Vos estimations de performance' : 'Your performance estimates'}</h2>
 
-              <WorkoutReference year={year} movements={{ strength: strengthMovements, endurance: yearData.endurance_movements }} />
+              <WorkoutReference year={year} gender={gender} category={category} />
 
               <div className="sim-form">
                 <div className="sim-form-group">

@@ -5,6 +5,7 @@
 export const DICT = {
   fr: {
     nav_home: 'Accueil',
+    nav_sport: 'Le Sport',
     nav_analyses: 'Analyses',
     nav_simulation: 'Simulation',
     nav_results: 'Résultats',
@@ -63,6 +64,7 @@ export const DICT = {
   },
   en: {
     nav_home: 'Home',
+    nav_sport: 'The Sport',
     nav_analyses: 'Analyses',
     nav_simulation: 'Simulation',
     nav_results: 'Results',
