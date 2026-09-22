@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- À mettre à jour avec le domaine réel une fois le site hébergé (remplacer REMPLACER-PAR-LE-DOMAINE). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/analyses</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/simulation</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/individual-leaderboards</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/team-leaderboards</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/team-individual-leaderboards</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/privacy-policy</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/terms</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/cookie-policy</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/legal-notice</loc></url>
+  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/contact</loc></url>
+</urlset>

@@ -1,0 +1,374 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Tom,Cornish,Tom Cornish,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,2 (251KG),1 (9.614KM),3 (10:51),,,,,,6
+2,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,4 (248KG),2 (9.49KM),1 (09:21),,,,,,7
+3,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,3 (250KG),3 (9.397KM),2 (10:32),,,,,,8
+4,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,1 (270KG),7 (9.054KM),4 (10:54),,,,,,12
+5,Rorie,Fielding,Rorie Fielding,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,6 (215KG),5 (9.352KM),5 (11:21),,,,,,16
+6,Jonas,Gutsche,Jonas Gutsche,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,7 (182KG),4 (9.389KM),6 (12:12),,,,,,17
+7,James,OConnor,James OConnor,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,5 (238KG),6 (9.21KM),7 (12:54),,,,,,18
+8,Ignacio,Martin Gorroño,Ignacio Martin Gorroño,Male,,,https://ui-avatars.com/api/?name=I+M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,8 (181KG),8 (9.039KM),9 (20:36),,,,,,25
+9,Jacob,Ward,Jacob Ward,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,9 (150KG),9 (8.598KM),8 (18:54),,,,,,26
+1,Tom,Cornish,Tom Cornish,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Jonas,Gutsche,Jonas Gutsche,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Rorie,Fielding,Rorie Fielding,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,James,OConnor,James OConnor,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,Ignacio,Martin Gorroño,Ignacio Martin Gorroño,Male,,,https://ui-avatars.com/api/?name=I+M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+9,Jacob,Ward,Jacob Ward,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,9
+1,Stacey,Winter,Stacey Winter,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,1
+2,Megan,Gregory,Megan Gregory,Female,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,2
+3,Abby,Beswick,Abby Beswick,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,3
+4,Romisha,Keller,Romisha Keller,Female,,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,4
+4,Kelsey,Sinclair,Kelsey Sinclair,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,4
+6,Kate,Shilland,Kate Shilland,Female,United Kingdom,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,6
+6,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,6
+8,Taz,Cheema,Taz Cheema,Female,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,8
+9,Lily,Anderson,Lily Anderson,Female,United Kingdom,Madisons Fitness,https://ui-avatars.com/api/?name=L+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,9
+10,Ellie,Collar,Ellie Collar,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,10
+11,Laura,Calcagno,Laura Calcagno,Female,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,11
+12,Jo,Hunter,Jo Hunter,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,12
+13,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,13
+13,Angie,Chen,Angie Chen,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,13
+15,Essie,Routledge,Essie Routledge,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+16,Harriette,Withers,Harriette Withers,Female,,,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,16
+17,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,17
+18,Jenna,Daniel,Jenna Daniel,Female,New Zealand,ThirdSpace,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,18
+19,SHYLLA,CARTY-DUHANEY,SHYLLA CARTY-DUHANEY,Female,United Kingdom,Rumble Fitness,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,19
+20,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,20
+20,Karen,Snowling,Karen Snowling,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,20
+22,Abi,Chandler,Abi Chandler,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,22
+23,Samantha,Anderson,Samantha Anderson,Female,United Kingdom,Saxon fitness,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,23
+24,Jodie,Andrews,Jodie Andrews,Female,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,24
+25,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,25
+26,Christy,Hill,Christy Hill,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,26
+1,jeromine,geroudet,jeromine geroudet,Female,France,crossfit lazuli,https://ui-avatars.com/api/?name=j+g&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:25,,,,,,1
+2,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:55,,,,,,2
+3,Abby,Beswick,Abby Beswick,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:00,,,,,,3
+4,Lena,Trick,Lena Trick,Female,,Die Krafthalle,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:02,,,,,,4
+5,Karen,Snowling,Karen Snowling,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:24,,,,,,5
+6,Taz,Cheema,Taz Cheema,Female,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:35,,,,,,6
+7,Claire,Small,Claire Small,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:08,,,,,,7
+8,Stacey,Winter,Stacey Winter,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:13,,,,,,8
+9,Angie,Chen,Angie Chen,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:17,,,,,,9
+10,Ellie,Collar,Ellie Collar,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:18,,,,,,10
+11,Lily,Anderson,Lily Anderson,Female,United Kingdom,Madisons Fitness,https://ui-avatars.com/api/?name=L+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:22,,,,,,11
+12,Romisha,Keller,Romisha Keller,Female,,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:49,,,,,,12
+13,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:13,,,,,,13
+14,Kelsey,Sinclair,Kelsey Sinclair,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:16,,,,,,14
+15,Harriette,Withers,Harriette Withers,Female,,,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:18,,,,,,15
+16,Kate,Shilland,Kate Shilland,Female,United Kingdom,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:19,,,,,,16
+17,Laura,Calcagno,Laura Calcagno,Female,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:42,,,,,,17
+18,Megan,Gregory,Megan Gregory,Female,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:43,,,,,,18
+19,Christy,Hill,Christy Hill,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:55,,,,,,19
+20,Jo,Hunter,Jo Hunter,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:53,,,,,,20
+21,Samantha,Anderson,Samantha Anderson,Female,United Kingdom,Saxon fitness,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:56,,,,,,21
+22,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:59,,,,,,22
+23,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:40,,,,,,23
+24,SHYLLA,CARTY-DUHANEY,SHYLLA CARTY-DUHANEY,Female,United Kingdom,Rumble Fitness,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:54,,,,,,24
+25,Essie,Routledge,Essie Routledge,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:56,,,,,,25
+26,Jenna,Daniel,Jenna Daniel,Female,New Zealand,ThirdSpace,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:01,,,,,,26
+27,Abi,Chandler,Abi Chandler,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:23,,,,,,27
+28,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:22,,,,,,28
+29,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:19,,,,,,29
+30,Jodie,Andrews,Jodie Andrews,Female,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,18:04,,,,,,30
+1,jeromine,geroudet,jeromine geroudet,Female,France,crossfit lazuli,https://ui-avatars.com/api/?name=j+g&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,2 (185KG),1 (8.933KM),1 (07:24),,,,,,4
+2,Lena,Trick,Lena Trick,Female,,Die Krafthalle,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,1 (189KG),4 (8.299KM),2 (08:03),,,,,,7
+3,Claire,Small,Claire Small,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,4 (122KG),2 (8.776KM),3 (09:07),,,,,,9
+4,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,3 (127KG),3 (8.468KM),4 (09:33),,,,,,10
+1,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,1
+2,Matthew,Rossiter,Matthew Rossiter,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,2
+3,Lee,Colliver,Lee Colliver,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,3
+4,Elliot,Young,Elliot Young,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/hJjhgVdc19VDNcU2Q5HfP0l0QKnZAK6oToWE6m1a.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,4
+5,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+5,Joshua,Fallon,Joshua Fallon,Male,,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+7,Sam,Lawlor,Sam Lawlor,Male,,,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,7
+7,Darren,Hancock,Darren Hancock,Male,United Kingdom,Oxhouse,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,7
+9,Ben,Mcclean,Ben Mcclean,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,9
+10,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,10
+10,Benjamin,Pearson,Benjamin Pearson,Male,,,https://athxgames.com/storage/profile-photos/R5fPwxte0Hqv2VPyKSLY4JRG6ejvAazmVggaYeC3.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,10
+10,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,10
+10,Tom,Penn,Tom Penn,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,10
+14,jack,newhouse,jack newhouse,Male,,,https://ui-avatars.com/api/?name=j+n&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,14
+15,Liam,Hindnarsh,Liam Hindnarsh,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,15
+16,Rob,Haselgrove,Rob Haselgrove,Male,United Kingdom,Market Town Crossfit + Leading Results Fitness,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,16
+17,Kieran,Campbell,Kieran Campbell,Male,United Kingdom,BKW CrossFit,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,17
+18,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,18
+19,Ollie,Armond,Ollie Armond,Male,,,https://ui-avatars.com/api/?name=O+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Luke,Baden Barnsley,Luke Baden Barnsley,Male,United Kingdom,Third Space,https://athxgames.com/storage/profile-photos/B9Vgxk3I0pA2PeCyzcSSvrEm8zv1ODfYh9VgoozT.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+21,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,21
+22,Daniel,Williams,Daniel Williams,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,22
+23,Dan,Hart,Dan Hart,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,23
+24,DANIEL,GODDARD,DANIEL GODDARD,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,24
+25,Elliot,Moreton,Elliot Moreton,Male,,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+26,James,Hodges,James Hodges,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,26
+27,Tom,Collins,Tom Collins,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+27,Max,Slattery,Max Slattery,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+27,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+27,Paul,Muir,Paul Muir,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+27,John,Aiwone,John Aiwone,Male,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+27,Adam,Aziz,Adam Aziz,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+33,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,33
+34,Joe,Hewison,Joe Hewison,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+35,Tom,Pratt,Tom Pratt,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,35
+35,Mark,NUGENT,Mark NUGENT,Male,United Kingdom,CTPT,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,35
+37,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,37
+38,Joe,Georgiou,Joe Georgiou,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,38
+39,Chad,Webb,Chad Webb,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,39
+40,Charlie,Wallis,Charlie Wallis,Male,,,https://athxgames.com/storage/profile-photos/nN92O6LxmGWLm30yydc4JJhdupVSMXzhvWZj51UA.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+41,Richard,Daniels,Richard Daniels,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,41
+42,Oscar,Yong,Oscar Yong,Male,United Kingdom,,https://ui-avatars.com/api/?name=O+Y&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,42
+43,Ricardo,Gato,Ricardo Gato,Male,,,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,43
+44,Clive,Marcus,Clive Marcus,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,44
+45,Ben,Craft,Ben Craft,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,45
+46,Luke,De Benedictis,Luke De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+D+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,46
+47,Stuart,Gollands,Stuart Gollands,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,47
+48,Kieran,Berry,Kieran Berry,Male,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,48
+49,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,49
+1,jeromine,geroudet,jeromine geroudet,Female,France,crossfit lazuli,https://ui-avatars.com/api/?name=j+g&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,07:24,,,,,,1
+2,Lena,Trick,Lena Trick,Female,,Die Krafthalle,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:03,,,,,,2
+3,Claire,Small,Claire Small,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:07,,,,,,3
+4,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:33,,,,,,4
+1,Tom,Penn,Tom Penn,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:18,,,,,,1
+2,Chad,Webb,Chad Webb,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:45,,,,,,2
+3,James,Hodges,James Hodges,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:07,,,,,,3
+4,Elliot,Young,Elliot Young,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/hJjhgVdc19VDNcU2Q5HfP0l0QKnZAK6oToWE6m1a.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:13,,,,,,4
+5,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:18,,,,,,5
+6,Dan,Hart,Dan Hart,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:21,,,,,,6
+7,Luke,Baden Barnsley,Luke Baden Barnsley,Male,United Kingdom,Third Space,https://athxgames.com/storage/profile-photos/B9Vgxk3I0pA2PeCyzcSSvrEm8zv1ODfYh9VgoozT.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:30,,,,,,7
+8,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:35,,,,,,8
+9,Sam,Lawlor,Sam Lawlor,Male,,,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:52,,,,,,9
+10,Joshua,Fallon,Joshua Fallon,Male,,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:54,,,,,,10
+11,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:57,,,,,,11
+12,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:04,,,,,,12
+13,Joe,Hewison,Joe Hewison,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:09,,,,,,13
+14,DANIEL,GODDARD,DANIEL GODDARD,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:10,,,,,,14
+15,Matthew,Rossiter,Matthew Rossiter,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:12,,,,,,15
+16,Darren,Hancock,Darren Hancock,Male,United Kingdom,Oxhouse,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:14,,,,,,16
+17,Charlie,Wallis,Charlie Wallis,Male,,,https://athxgames.com/storage/profile-photos/nN92O6LxmGWLm30yydc4JJhdupVSMXzhvWZj51UA.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:20,,,,,,17
+18,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:21,,,,,,18
+19,Lee,Colliver,Lee Colliver,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:23,,,,,,19
+20,Rob,Haselgrove,Rob Haselgrove,Male,United Kingdom,Market Town Crossfit + Leading Results Fitness,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:44,,,,,,20
+21,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:45,,,,,,21
+22,Liam,Hindnarsh,Liam Hindnarsh,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:47,,,,,,22
+23,Daniel,Williams,Daniel Williams,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:52,,,,,,23
+24,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:32,,,,,,24
+25,Max,Slattery,Max Slattery,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:38,,,,,,25
+26,Benjamin,Pearson,Benjamin Pearson,Male,,,https://athxgames.com/storage/profile-photos/R5fPwxte0Hqv2VPyKSLY4JRG6ejvAazmVggaYeC3.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:50,,,,,,26
+27,Ollie,Armond,Ollie Armond,Male,,,https://ui-avatars.com/api/?name=O+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:52,,,,,,27
+28,Tom,Cornish,Tom Cornish,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:53,,,,,,28
+29,Richard,Daniels,Richard Daniels,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:09,,,,,,29
+30,Paul,Muir,Paul Muir,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:17,,,,,,30
+31,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:23,,,,,,31
+31,Rorie,Fielding,Rorie Fielding,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:23,,,,,,31
+33,Luke,De Benedictis,Luke De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+D+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:24,,,,,,33
+34,Kieran,Campbell,Kieran Campbell,Male,United Kingdom,BKW CrossFit,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:33,,,,,,34
+35,Elliot,Moreton,Elliot Moreton,Male,,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:38,,,,,,35
+36,jack,newhouse,jack newhouse,Male,,,https://ui-avatars.com/api/?name=j+n&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:41,,,,,,36
+37,Jonas,Gutsche,Jonas Gutsche,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:11,,,,,,37
+38,James,OConnor,James OConnor,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:55,,,,,,38
+39,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:20,,,,,,39
+40,Adam,Aziz,Adam Aziz,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:37,,,,,,40
+41,Tom,Pratt,Tom Pratt,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:52,,,,,,41
+42,Joe,Georgiou,Joe Georgiou,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:27,,,,,,42
+43,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:42,,,,,,43
+44,Oscar,Yong,Oscar Yong,Male,United Kingdom,,https://ui-avatars.com/api/?name=O+Y&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:45,,,,,,44
+45,Ben,Craft,Ben Craft,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:01,,,,,,45
+46,John,Aiwone,John Aiwone,Male,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:32,,,,,,46
+47,Tom,Collins,Tom Collins,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:44,,,,,,47
+48,Ricardo,Gato,Ricardo Gato,Male,,,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:52,,,,,,48
+49,Mark,NUGENT,Mark NUGENT,Male,United Kingdom,CTPT,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:34,,,,,,49
+50,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:40,,,,,,50
+51,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,19:21,,,,,,51
+52,Ignacio,Martin Gorroño,Ignacio Martin Gorroño,Male,,,https://ui-avatars.com/api/?name=I+M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,20:37,,,,,,52
+53,Stuart,Gollands,Stuart Gollands,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:34,,,,,,53
+54,Kieran,Berry,Kieran Berry,Male,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,28:08,,,,,,54
+55,Clive,Marcus,Clive Marcus,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,28:09,,,,,,55
+56,Jacob,Ward,Jacob Ward,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,28:40,,,,,,56
+57,Ben,Mcclean,Ben Mcclean,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,29:50,,,,,,57
+1,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+2,Tom,Cornish,Tom Cornish,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,2
+3,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,James,OConnor,James OConnor,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+6,Rorie,Fielding,Rorie Fielding,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+7,Jonas,Gutsche,Jonas Gutsche,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,7
+8,Ignacio,Martin Gorroño,Ignacio Martin Gorroño,Male,,,https://ui-avatars.com/api/?name=I+M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+9,Jacob,Ward,Jacob Ward,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,9
+1,Lena,Trick,Lena Trick,Female,,Die Krafthalle,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+2,jeromine,geroudet,jeromine geroudet,Female,France,crossfit lazuli,https://ui-avatars.com/api/?name=j+g&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,2
+3,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+4,Claire,Small,Claire Small,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,4
+1,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,09:21,,,,,,1
+2,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:32,,,,,,2
+3,Tom,Cornish,Tom Cornish,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:51,,,,,,3
+4,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:54,,,,,,4
+5,Rorie,Fielding,Rorie Fielding,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:21,,,,,,5
+6,Jonas,Gutsche,Jonas Gutsche,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:12,,,,,,6
+7,James,OConnor,James OConnor,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:54,,,,,,7
+8,Jacob,Ward,Jacob Ward,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,18:54,,,,,,8
+9,Ignacio,Martin Gorroño,Ignacio Martin Gorroño,Male,,,https://ui-avatars.com/api/?name=I+M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,20:36,,,,,,9
+1,jeromine,geroudet,jeromine geroudet,Female,France,crossfit lazuli,https://ui-avatars.com/api/?name=j+g&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+2,Claire,Small,Claire Small,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,2
+3,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,3
+4,Lena,Trick,Lena Trick,Female,,Die Krafthalle,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,4
+1,Abby,Beswick,Abby Beswick,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,3 (128KG),6 (8.307KM),3 (08:00),,,,,,12
+2,Stacey,Winter,Stacey Winter,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,1 (136KG),8 (8.294KM),8 (09:13),,,,,,17
+3,Lily,Anderson,Lily Anderson,Female,United Kingdom,Madisons Fitness,https://ui-avatars.com/api/?name=L+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,9 (114KG),3 (8.513KM),11 (09:22),,,,,,23
+4,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,20 (86KG),4 (8.462KM),2 (07:55),,,,,,26
+5,Taz,Cheema,Taz Cheema,Female,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,8 (120KG),13 (8.077KM),6 (08:35),,,,,,27
+6,Karen,Snowling,Karen Snowling,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,20 (86KG),5 (8.368KM),5 (08:24),,,,,,30
+6,Ellie,Collar,Ellie Collar,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,10 (112KG),10 (8.141KM),10 (09:18),,,,,,30
+8,Kate,Shilland,Kate Shilland,Female,United Kingdom,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,6 (122KG),9 (8.208KM),16 (10:19),,,,,,31
+9,Romisha,Keller,Romisha Keller,Female,,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,4 (123KG),16 (7.843KM),12 (09:49),,,,,,32
+10,Kelsey,Sinclair,Kelsey Sinclair,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,4 (123KG),15 (7.866KM),14 (10:16),,,,,,33
+11,Megan,Gregory,Megan Gregory,Female,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,2 (130KG),17 (7.808KM),18 (10:43),,,,,,37
+12,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,13 (105KG),12 (8.084KM),13 (10:13),,,,,,38
+13,Angie,Chen,Angie Chen,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,13 (105KG),19 (7.766KM),9 (09:17),,,,,,41
+14,Harriette,Withers,Harriette Withers,Female,,,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,16 (96KG),11 (8.107KM),15 (10:18),,,,,,42
+15,Jo,Hunter,Jo Hunter,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,12 (108KG),17 (7.808KM),20 (11:53),,,,,,49
+16,Laura,Calcagno,Laura Calcagno,Female,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,11 (109KG),25 (7.347KM),17 (10:42),,,,,,53
+17,SHYLLA,CARTY-DUHANEY,SHYLLA CARTY-DUHANEY,Female,United Kingdom,Rumble Fitness,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,19 (88KG),14 (7.917KM),24 (12:54),,,,,,57
+18,Essie,Routledge,Essie Routledge,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (98KG),21 (7.588KM),25 (12:56),,,,,,61
+19,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,6 (122KG),28 (6.158KM),29 (17:19),,,,,,63
+20,Jenna,Daniel,Jenna Daniel,Female,New Zealand,ThirdSpace,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,18 (91KG),20 (7.675KM),26 (13:01),,,,,,64
+21,Christy,Hill,Christy Hill,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,26 (61KG),22 (7.539KM),19 (10:55),,,,,,67
+22,Samantha,Anderson,Samantha Anderson,Female,United Kingdom,Saxon fitness,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,23 (82KG),24 (7.448KM),21 (11:56),,,,,,68
+23,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,17 (95KG),27 (6.872KM),28 (16:22),,,,,,72
+23,Abi,Chandler,Abi Chandler,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,22 (85KG),23 (7.457KM),27 (14:23),,,,,,72
+25,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,25 (66KG),29 (1.226KM),23 (12:40),,,,,,77
+26,Jodie,Andrews,Jodie Andrews,Female,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,24 (78KG),26 (7.264KM),30 (18:04),,,,,,80
+1,Claire,Small,Claire Small,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,jeromine,geroudet,jeromine geroudet,Female,France,crossfit lazuli,https://ui-avatars.com/api/?name=j+g&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Lily,Anderson,Lily Anderson,Female,United Kingdom,Madisons Fitness,https://ui-avatars.com/api/?name=L+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Karen,Snowling,Karen Snowling,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,Abby,Beswick,Abby Beswick,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,Lena,Trick,Lena Trick,Female,,Die Krafthalle,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Stacey,Winter,Stacey Winter,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,8
+9,Kate,Shilland,Kate Shilland,Female,United Kingdom,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,9
+10,Ellie,Collar,Ellie Collar,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,10
+11,Harriette,Withers,Harriette Withers,Female,,,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,11
+12,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,Taz,Cheema,Taz Cheema,Female,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,SHYLLA,CARTY-DUHANEY,SHYLLA CARTY-DUHANEY,Female,United Kingdom,Rumble Fitness,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Kelsey,Sinclair,Kelsey Sinclair,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Romisha,Keller,Romisha Keller,Female,,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,Jo,Hunter,Jo Hunter,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,17
+17,Megan,Gregory,Megan Gregory,Female,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,17
+19,Angie,Chen,Angie Chen,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Jenna,Daniel,Jenna Daniel,Female,New Zealand,ThirdSpace,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,Essie,Routledge,Essie Routledge,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Christy,Hill,Christy Hill,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,22
+23,Abi,Chandler,Abi Chandler,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,23
+24,Samantha,Anderson,Samantha Anderson,Female,United Kingdom,Saxon fitness,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,24
+25,Laura,Calcagno,Laura Calcagno,Female,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,25
+26,Jodie,Andrews,Jodie Andrews,Female,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,26
+27,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,27
+28,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,28
+29,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,29
+1,Tom,Penn,Tom Penn,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,10 (180KG),1 (9.868KM),1 (07:18),,,,,,12
+2,Joshua,Fallon,Joshua Fallon,Male,,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (195KG),5 (9.387KM),10 (08:54),,,,,,20
+3,Darren,Hancock,Darren Hancock,Male,United Kingdom,Oxhouse,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,7 (190KG),8 (9.28KM),16 (09:14),,,,,,31
+4,Elliot,Young,Elliot Young,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/hJjhgVdc19VDNcU2Q5HfP0l0QKnZAK6oToWE6m1a.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,4 (205KG),25 (8.9KM),4 (08:13),,,,,,33
+5,James,Hodges,James Hodges,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,26 (153KG),6 (9.382KM),3 (08:07),,,,,,35
+6,Matthew,Rossiter,Matthew Rossiter,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,2 (240KG),22 (8.967KM),15 (09:12),,,,,,39
+7,Sam,Lawlor,Sam Lawlor,Male,,,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,7 (190KG),24 (8.945KM),9 (08:52),,,,,,40
+8,Dan,Hart,Dan Hart,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,23 (163KG),16 (9.066KM),6 (08:21),,,,,,45
+9,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,33 (149KG),11 (9.211KM),5 (08:18),,,,,,49
+10,Luke,Baden Barnsley,Luke Baden Barnsley,Male,United Kingdom,Third Space,https://athxgames.com/storage/profile-photos/B9Vgxk3I0pA2PeCyzcSSvrEm8zv1ODfYh9VgoozT.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),26 (8.875KM),7 (08:30),,,,,,52
+11,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,18 (171KG),15 (9.118KM),21 (09:45),,,,,,54
+11,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (150KG),19 (9.028KM),8 (08:35),,,,,,54
+13,Lee,Colliver,Lee Colliver,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,3 (224KG),33 (8.724KM),19 (09:23),,,,,,55
+14,Daniel,Williams,Daniel Williams,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,22 (165KG),18 (9.038KM),23 (09:52),,,,,,63
+15,Rob,Haselgrove,Rob Haselgrove,Male,United Kingdom,Market Town Crossfit + Leading Results Fitness,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,16 (174KG),28 (8.846KM),20 (09:44),,,,,,64
+16,Max,Slattery,Max Slattery,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (150KG),14 (9.139KM),25 (10:38),,,,,,66
+17,Joe,Hewison,Joe Hewison,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (148KG),20 (9.023KM),13 (09:09),,,,,,67
+18,Liam,Hindnarsh,Liam Hindnarsh,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,15 (175KG),34 (8.682KM),22 (09:47),,,,,,71
+19,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,10 (180KG),51 (8.045KM),11 (08:57),,,,,,72
+20,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,21 (169KG),40 (8.368KM),12 (09:04),,,,,,73
+21,Benjamin,Pearson,Benjamin Pearson,Male,,,https://athxgames.com/storage/profile-photos/R5fPwxte0Hqv2VPyKSLY4JRG6ejvAazmVggaYeC3.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,10 (180KG),41 (8.345KM),26 (10:50),,,,,,77
+22,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (195KG),42 (8.337KM),31 (11:23),,,,,,78
+23,jack,newhouse,jack newhouse,Male,,,https://ui-avatars.com/api/?name=j+n&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,14 (179KG),30 (8.84KM),36 (11:41),,,,,,80
+24,Chad,Webb,Chad Webb,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,39 (135KG),44 (8.234KM),2 (07:45),,,,,,85
+25,Ollie,Armond,Ollie Armond,Male,,,https://ui-avatars.com/api/?name=O+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),39 (8.37KM),27 (10:52),,,,,,85
+26,DANIEL,GODDARD,DANIEL GODDARD,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,24 (156KG),49 (8.063KM),14 (09:10),,,,,,87
+27,Elliot,Moreton,Elliot Moreton,Male,,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (155KG),28 (8.846KM),35 (11:38),,,,,,88
+28,Tom,Pratt,Tom Pratt,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,35 (145KG),13 (9.172KM),41 (13:52),,,,,,89
+28,Luke,De Benedictis,Luke De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+D+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,46 (110KG),10 (9.236KM),33 (11:24),,,,,,89
+28,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,37 (143KG),9 (9.264KM),43 (14:42),,,,,,89
+28,Charlie,Wallis,Charlie Wallis,Male,,,https://athxgames.com/storage/profile-photos/nN92O6LxmGWLm30yydc4JJhdupVSMXzhvWZj51UA.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (130KG),32 (8.772KM),17 (09:20),,,,,,89
+32,Richard,Daniels,Richard Daniels,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,41 (123KG),21 (9.013KM),29 (11:09),,,,,,91
+33,Kieran,Campbell,Kieran Campbell,Male,United Kingdom,BKW CrossFit,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,17 (172KG),45 (8.223KM),34 (11:33),,,,,,96
+34,John,Aiwone,John Aiwone,Male,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (150KG),27 (8.857KM),46 (15:32),,,,,,100
+35,Paul,Muir,Paul Muir,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (150KG),48 (8.077KM),30 (11:17),,,,,,105
+36,Ben,Mcclean,Ben Mcclean,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,9 (186KG),43 (8.266KM),57 (29:50),,,,,,109
+37,Joe,Georgiou,Joe Georgiou,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,38 (140KG),31 (8.785KM),42 (14:27),,,,,,111
+38,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,10 (180KG),52 (7.97KM),50 (16:40),,,,,,112
+39,Adam,Aziz,Adam Aziz,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (150KG),46 (8.153KM),40 (13:37),,,,,,113
+40,Tom,Collins,Tom Collins,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (150KG),50 (8.056KM),47 (15:44),,,,,,124
+41,Ben,Craft,Ben Craft,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,45 (111KG),36 (8.432KM),45 (15:01),,,,,,126
+42,Mark,NUGENT,Mark NUGENT,Male,United Kingdom,CTPT,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,35 (145KG),47 (8.101KM),49 (16:34),,,,,,131
+43,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,49 (81KG),37 (8.414KM),51 (19:21),,,,,,137
+44,Stuart,Gollands,Stuart Gollands,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,47 (102KG),38 (8.383KM),53 (22:34),,,,,,138
+45,Oscar,Yong,Oscar Yong,Male,United Kingdom,,https://ui-avatars.com/api/?name=O+Y&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,42 (122KG),54 (7.706KM),44 (14:45),,,,,,140
+46,Ricardo,Gato,Ricardo Gato,Male,,,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,43 (119KG),55 (7.643KM),48 (15:52),,,,,,146
+47,Clive,Marcus,Clive Marcus,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,44 (115KG),56 (7.125KM),55 (28:09),,,,,,155
+47,Kieran,Berry,Kieran Berry,Male,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,48 (86KG),53 (7.882KM),54 (28:08),,,,,,155
+1,Tom,Penn,Tom Penn,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Tom,Cornish,Tom Cornish,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Joshua,Fallon,Joshua Fallon,Male,,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,James,Hodges,James Hodges,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Rorie,Fielding,Rorie Fielding,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Darren,Hancock,Darren Hancock,Male,United Kingdom,Oxhouse,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Luke,De Benedictis,Luke De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+D+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,James,OConnor,James OConnor,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Tom,Pratt,Tom Pratt,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Max,Slattery,Max Slattery,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,Dan,Hart,Dan Hart,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,Ignacio,Martin Gorroño,Ignacio Martin Gorroño,Male,,,https://ui-avatars.com/api/?name=I+M+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Daniel,Williams,Daniel Williams,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Joe,Hewison,Joe Hewison,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,20
+21,Richard,Daniels,Richard Daniels,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,21
+22,Matthew,Rossiter,Matthew Rossiter,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,22
+23,Jonas,Gutsche,Jonas Gutsche,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,23
+24,Sam,Lawlor,Sam Lawlor,Male,,,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,24
+25,Elliot,Young,Elliot Young,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/hJjhgVdc19VDNcU2Q5HfP0l0QKnZAK6oToWE6m1a.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,25
+26,Luke,Baden Barnsley,Luke Baden Barnsley,Male,United Kingdom,Third Space,https://athxgames.com/storage/profile-photos/B9Vgxk3I0pA2PeCyzcSSvrEm8zv1ODfYh9VgoozT.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,26
+27,John,Aiwone,John Aiwone,Male,,,https://ui-avatars.com/api/?name=J+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,27
+28,Rob,Haselgrove,Rob Haselgrove,Male,United Kingdom,Market Town Crossfit + Leading Results Fitness,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,28
+28,Elliot,Moreton,Elliot Moreton,Male,,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,28
+30,jack,newhouse,jack newhouse,Male,,,https://ui-avatars.com/api/?name=j+n&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,30
+31,Joe,Georgiou,Joe Georgiou,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,31
+32,Charlie,Wallis,Charlie Wallis,Male,,,https://athxgames.com/storage/profile-photos/nN92O6LxmGWLm30yydc4JJhdupVSMXzhvWZj51UA.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,32
+33,Lee,Colliver,Lee Colliver,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,33
+34,Liam,Hindnarsh,Liam Hindnarsh,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,34
+35,Jacob,Ward,Jacob Ward,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,35
+36,Ben,Craft,Ben Craft,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,36
+37,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,37
+38,Stuart,Gollands,Stuart Gollands,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,38
+39,Ollie,Armond,Ollie Armond,Male,,,https://ui-avatars.com/api/?name=O+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,39
+40,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,40
+41,Benjamin,Pearson,Benjamin Pearson,Male,,,https://athxgames.com/storage/profile-photos/R5fPwxte0Hqv2VPyKSLY4JRG6ejvAazmVggaYeC3.jpg,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,41
+42,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,42
+43,Ben,Mcclean,Ben Mcclean,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,43
+44,Chad,Webb,Chad Webb,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,44
+45,Kieran,Campbell,Kieran Campbell,Male,United Kingdom,BKW CrossFit,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,45
+46,Adam,Aziz,Adam Aziz,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,46
+47,Mark,NUGENT,Mark NUGENT,Male,United Kingdom,CTPT,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,47
+48,Paul,Muir,Paul Muir,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,48
+49,DANIEL,GODDARD,DANIEL GODDARD,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,49
+50,Tom,Collins,Tom Collins,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,50
+51,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,51
+52,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,52
+53,Kieran,Berry,Kieran Berry,Male,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,53
+54,Oscar,Yong,Oscar Yong,Male,United Kingdom,,https://ui-avatars.com/api/?name=O+Y&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,54
+55,Ricardo,Gato,Ricardo Gato,Male,,,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,55
+56,Clive,Marcus,Clive Marcus,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,56

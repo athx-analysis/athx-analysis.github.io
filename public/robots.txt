@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# À mettre à jour avec le domaine réel une fois le site hébergé.
+Sitemap: https://REMPLACER-PAR-LE-DOMAINE/sitemap.xml

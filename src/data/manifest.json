@@ -1,0 +1,71 @@
+{
+    "leaderboards": [
+        {
+            "key": "individual",
+            "csv": "individual_leaderboard.csv",
+            "label": "Individual Leaderboard",
+            "kind": "user"
+        },
+        {
+            "key": "team",
+            "csv": "team_leaderboard.csv",
+            "label": "Team Leaderboard",
+            "kind": "team"
+        },
+        {
+            "key": "team_individual",
+            "csv": "team_individual_leaderboard.csv",
+            "label": "Team Individual Leaderboards",
+            "kind": "user"
+        }
+    ],
+    "years": {
+        "2025": {
+            "Germany": [
+                "Berlin"
+            ],
+            "Ireland": [
+                "Dublin"
+            ],
+            "United Kingdom": [
+                "Birmingham",
+                "Cardiff",
+                "Finals",
+                "Glasgow",
+                "Liverpool",
+                "London"
+            ]
+        },
+        "2026": {
+            "Denmark": [
+                "Copenhagen"
+            ],
+            "France": [
+                "Marseille",
+                "Paris"
+            ],
+            "Germany": [
+                "Berlin",
+                "Munich"
+            ],
+            "Ireland": [
+                "Dublin"
+            ],
+            "Italy": [
+                "Milan"
+            ],
+            "Spain": [
+                "Barcelona",
+                "Madrid"
+            ],
+            "United Kingdom": [
+                "Birmingham",
+                "Glasgow",
+                "London"
+            ],
+            "United States": [
+                "Invitational Miami Beach"
+            ]
+        }
+    }
+}

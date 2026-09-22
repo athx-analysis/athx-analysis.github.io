@@ -1,0 +1,641 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Grace,Mannion,Grace Mannion,Female,,,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,1 (303KG),2 (4.557KM),1 (09:37),,,,,,4
+2,Katherine,Perry,Katherine Perry,Female,,Hybrid Human,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,7 (260KG),1 (4.617KM),7 (10:43),,,,,,15
+3,Gemma,Dixon,Gemma Dixon,Female,,,https://ui-avatars.com/api/?name=G+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,4 (285KG),6 (4.518KM),8 (11:08),,,,,,18
+4,Kristýna,Hellerová,Kristýna Hellerová,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,10 (256KG),7 (4.5KM),2 (10:01),,,,,,19
+5,Niamh,Mcphillips,Niamh Mcphillips,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,7 (260KG),8 (4.499KM),6 (10:39),,,,,,21
+6,Francesca,Walshe,Francesca Walshe,Female,,,https://ui-avatars.com/api/?name=F+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,9 (258KG),3 (4.552KM),10 (11:19),,,,,,22
+7,Marjane,Asmahri,Marjane Asmahri,Female,,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,17 (228KG),4 (4.543KM),4 (10:33),,,,,,25
+8,Lucie,Nechalova,Lucie Nechalova,Female,Czech Republic,Perpetua,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,12 (253KG),5 (4.519KM),9 (11:09),,,,,,26
+9,Alison,Wilson,Alison Wilson,Female,United Kingdom,Base Training Club,https://athxgames.com/storage/profile-photos/4T8iM9qVsyQOd2N0WdTH3Ykvk1vAdlyJ69561KDO.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,13 (248KG),14 (4.278KM),4 (10:33),,,,,,31
+10,Catherine,McBride,Catherine McBride,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,3 (291KG),18 (4.238KM),11 (11:22),,,,,,32
+11,Jenny,Wylie,Jenny Wylie,Female,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,5 (266KG),15 (4.261KM),14 (12:14),,,,,,34
+12,Kellyann,Halstead,Kellyann Halstead,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,23 (220KG),9 (4.497KM),3 (10:29),,,,,,35
+13,Emma,O Brien,Emma O Brien,Female,Ireland,,https://ui-avatars.com/api/?name=E+O+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,14 (245KG),16 (4.252KM),12 (11:25),,,,,,42
+14,Lana,Perić-McDermott,Lana Perić-McDermott,Female,Canada,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,6 (263KG),13 (4.301KM),25 (13:40),,,,,,44
+15,Esther,Murphy Akanji,Esther Murphy Akanji,Female,,,https://ui-avatars.com/api/?name=E+M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,1 (303KG),24 (4.111KM),20 (12:57),,,,,,45
+16,Sue,Howley,Sue Howley,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,23 (220KG),10 (4.355KM),12 (11:25),,,,,,45
+17,Roisin,Markey,Roisin Markey,Female,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,15 (233KG),20 (4.168KM),16 (12:29),,,,,,51
+18,Nil,Celebi,Nil Celebi,Female,,,https://ui-avatars.com/api/?name=N+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,27 (210KG),11 (4.348KM),21 (12:59),,,,,,59
+19,Julia,Gruszczynska,Julia Gruszczynska,Female,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,20 (221KG),25 (3.984KM),17 (12:47),,,,,,62
+20,Jennifer,Johnston,Jennifer Johnston,Female,Ireland,FitHouse Belfast,https://ui-avatars.com/api/?name=J+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,20 (221KG),17 (4.241KM),27 (13:59),,,,,,64
+21,Natalie,Blumenthal,Natalie Blumenthal,Female,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,19 (225KG),30 (3.791KM),19 (12:52),,,,,,68
+22,Amy,Byrne,Amy Byrne,Female,Ireland,Hybrid,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,23 (220KG),27 (3.956KM),22 (13:16),,,,,,72
+23,Sarah,McKenna,Sarah McKenna,Female,Ireland,Granite,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,35 (190KG),21 (4.154KM),18 (12:51),,,,,,74
+24,Kate,Ring,Kate Ring,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,34 (194KG),12 (4.335KM),30 (14:17),,,,,,76
+25,Nikki,Lowndes,Nikki Lowndes,Female,Ireland,,https://ui-avatars.com/api/?name=N+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,11 (255KG),33 (3.758KM),34 (15:08),,,,,,78
+26,Orla,Kerbey,Orla Kerbey,Female,Ireland,A & S Fitness,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,20 (221KG),26 (3.982KM),33 (15:03),,,,,,79
+27,Aoife,Murphy,Aoife Murphy,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,31 (203KG),34 (3.757KM),15 (12:15),,,,,,80
+28,Michele,Davies,Michele Davies,Female,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,37 (180KG),23 (4.116KM),23 (13:22),,,,,,83
+29,Liza,Kearney,Liza Kearney,Female,,HD Strength and conditioning,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,16 (230KG),38 (3.521KM),30 (14:17),,,,,,84
+30,Ella,Giglione,Ella Giglione,Female,,,https://athxgames.com/storage/profile-photos/z4jJ74R2TQ6yCFyUxRw0lkhIoufY80xNDJdEdvcB.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,31 (203KG),28 (3.929KM),28 (14:09),,,,,,87
+31,Helen,Whearity,Helen Whearity,Female,,Wellfit Skerries,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,42 (160KG),22 (4.148KM),26 (13:47),,,,,,90
+32,Amie,Dawber-Smith,Amie Dawber-Smith,Female,,,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,27 (210KG),35 (3.752KM),29 (14:12),,,,,,91
+33,Dani,Hegarty,Dani Hegarty,Female,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,36 (188KG),32 (3.762KM),24 (13:31),,,,,,92
+34,Sorcha,Haverty,Sorcha Haverty,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,18 (226KG),39 (3.461KM),38 (16:05),,,,,,95
+35,Ellie,Parker,Ellie Parker,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,40 (175KG),19 (4.181KM),37 (16:01),,,,,,96
+36,Megan,Daly,Megan Daly,Female,Ireland,Fianna,https://athxgames.com/storage/profile-photos/PSICfDLU3RRWSOgHd94ZN1zZ2qYzWmJgh5neZbmv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,26 (211KG),31 (3.763KM),40 (17:42),,,,,,97
+37,Emma,Buick,Emma Buick,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,41 (166KG),29 (3.821KM),30 (14:17),,,,,,100
+38,Laure,Dupont,Laure Dupont,Female,France,Crossfit rengo,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,30 (205KG),37 (3.627KM),36 (15:42),,,,,,103
+39,eryne,barbieux,eryne barbieux,Female,,,https://ui-avatars.com/api/?name=e+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,38 (179KG),36 (3.646KM),35 (15:11),,,,,,109
+40,Alyssa,Haven,Alyssa Haven,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,29 (208KG),42 (3.23KM),39 (16:30),,,,,,110
+41,Karen,Heggarty,Karen Heggarty,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,33 (198KG),40 (3.4KM),41 (17:50),,,,,,114
+42,Cara,McConnell,Cara McConnell,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Overall,39 (177KG),41 (3.297KM),42 (19:56),,,,,,122
+1,William,Lendeborg,William Lendeborg,Male,Dominican Republic,,https://ui-avatars.com/api/?name=W+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,3KM,2.497KM,1
+2,David,Kelly,David Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,3KM,2.345KM,2
+3,Trevor,Greer,Trevor Greer,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.906KM,2.255KM,3
+4,ryan,burton,ryan burton,Male,,,https://ui-avatars.com/api/?name=r+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.893KM,2.265KM,4
+5,Finn,McNulty,Finn McNulty,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.899KM,2.257KM,5
+6,Christopher,Lavelle,Christopher Lavelle,Male,Ireland,BE Coaching,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.794KM,2.262KM,6
+7,Ryan,Burnison,Ryan Burnison,Male,,,https://ui-avatars.com/api/?name=R+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.791KM,2.263KM,7
+8,Mark,Murphy,Mark Murphy,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.793KM,2.258KM,8
+9,Dan,Knight,Dan Knight,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.754KM,2.262KM,9
+10,Anthony,McDonnell,Anthony McDonnell,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.72KM,2.26KM,10
+11,Cian,Cosgrave,Cian Cosgrave,Male,Ireland,Perpetua,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.687KM,2.282KM,11
+12,Theon,Doran,Theon Doran,Male,Ireland,Urban Gym,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.677KM,2.266KM,12
+13,Brian,McGarvey,Brian McGarvey,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.669KM,2.256KM,13
+14,Lewis,Harland,Lewis Harland,Male,United Kingdom,Funk Training Club,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.363KM,2.521KM,14
+15,Liam,Bassett,Liam Bassett,Male,,Fit House Belfast,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.605KM,2.26KM,15
+16,Mark,McCann,Mark McCann,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.576KM,2.258KM,16
+17,Jamie,Sheldon,Jamie Sheldon,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.571KM,2.256KM,17
+18,Stephen,Dixon,Stephen Dixon,Male,Ireland,,https://athxgames.com/storage/profile-photos/36BpqUQp0BqCM6EQGZlT4NdhULdisWvlLBvNMqER.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.299KM,18
+19,Ciarán,Breathnach,Ciarán Breathnach,Male,Ireland,,https://athxgames.com/storage/profile-photos/G0mOh1KnpRxFfQqFj5vPcnRHo70qjLtIeSknRNDz.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.535KM,2.263KM,19
+20,Sam,Coffey,Sam Coffey,Male,,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.272KM,20
+21,David,Gibbons,David Gibbons,Male,United Kingdom,Kore gym,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.511KM,2.257KM,21
+22,Luke,Dennison,Luke Dennison,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.482KM,2.257KM,22
+23,Ryan,McGearty,Ryan McGearty,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.453KM,2.257KM,23
+24,Cormac,Gallagher,Cormac Gallagher,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.446KM,2.258KM,24
+24,Ian,Flood,Ian Flood,Male,,,https://ui-avatars.com/api/?name=I+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.449KM,2.255KM,24
+24,Giorgio,Cecchini,Giorgio Cecchini,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.204KM,24
+27,David,Sheahan,David Sheahan,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.435KM,2.265KM,27
+28,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.424KM,2.263KM,28
+29,Alex,Bingham,Alex Bingham,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.408KM,2.266KM,29
+30,Sam,Treharne,Sam Treharne,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/0SkFqyvfCWRO5gz9ZWsLHXBy89Hl0XaGyGc6EDUH.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.361KM,2.29KM,30
+31,adam,dehaty,adam dehaty,Male,United Kingdom,,https://ui-avatars.com/api/?name=a+d&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.369KM,2.241KM,31
+32,Jack,Mathews,Jack Mathews,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.34KM,2.268KM,32
+33,Ricky,Dennison,Ricky Dennison,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.355KM,2.252KM,33
+34,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.355KM,34
+35,Valdas,Gruselionis,Valdas Gruselionis,Male,,,https://ui-avatars.com/api/?name=V+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.321KM,2.271KM,35
+36,Dylan,Hoey,Dylan Hoey,Male,Ireland,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.324KM,2.26KM,36
+37,Kevin,Kirwan,Kevin Kirwan,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.3KM,2.259KM,37
+38,Joe,Finnegan,Joe Finnegan,Male,Ireland,SKF Dundalk,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.272KM,2.266KM,38
+39,Patrick,Mc garry,Patrick Mc garry,Male,Ireland,GLADIATOR BALLYMENA,https://athxgames.com/storage/profile-photos/eToi2qRzZ87uGItObz7L82dv8HT19eOHPnnWGgCV.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.275KM,39
+40,Gerard,Walsh,Gerard Walsh,Male,,,https://ui-avatars.com/api/?name=G+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.274KM,40
+41,Eoin,Vines,Eoin Vines,Male,,,https://ui-avatars.com/api/?name=E+V&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.273KM,41
+42,Luke,Kennedy,Luke Kennedy,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.258KM,2.259KM,42
+42,Ryan,Lynn,Ryan Lynn,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.267KM,42
+44,Gavin,Eakin,Gavin Eakin,Male,,,https://ui-avatars.com/api/?name=G+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.266KM,44
+44,Michael,Walker,Michael Walker,Male,Ireland,Unit 4B,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.266KM,44
+46,Colm,Mcsharry,Colm Mcsharry,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.264KM,46
+47,Cameron,Knell,Cameron Knell,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.261KM,47
+48,Owen,Davies,Owen Davies,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.259KM,48
+49,John,Totten,John Totten,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.252KM,49
+50,James,Egan,James Egan,Male,,,https://ui-avatars.com/api/?name=J+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.248KM,50
+51,Scott,Prendergast,Scott Prendergast,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.245KM,51
+52,John,Dever,John Dever,Male,Ireland,GFT,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.236KM,52
+53,Jeffrey,Mason,Jeffrey Mason,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.226KM,53
+54,Matthew,Horner,Matthew Horner,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.209KM,54
+55,Phillip,Shortt,Phillip Shortt,Male,,,https://athxgames.com/storage/profile-photos/SGjBTYOunN8PXf9dFVDpoG0cqQXmjLfz7bGLNzBp.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.2KM,55
+56,Thomas,Payne,Thomas Payne,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.191KM,56
+57,Jason,Kane,Jason Kane,Male,Ireland,Elite Gym,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.5KM,1.939KM,57
+58,James,Belding,James Belding,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.177KM,58
+59,Shay,Kearney,Shay Kearney,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.16KM,59
+60,Vissarion,Petrikis,Vissarion Petrikis,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.159KM,60
+61,Martin,Gouldsbury,Martin Gouldsbury,Male,Ireland,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.111KM,61
+62,Jamie,McGonigal,Jamie McGonigal,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.056KM,62
+63,Richie,Mahony,Richie Mahony,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.02KM,63
+64,Hans Kristian Andreassen,Sandø,Hans Kristian Andreassen Sandø,Male,Norway,,https://ui-avatars.com/api/?name=H+K+A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.993KM,64
+65,Conor,conorryan1993@gmail.com,Conor conorryan1993@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.965KM,65
+66,Andy,Hancox,Andy Hancox,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.887KM,66
+67,Mark,Teague,Mark Teague,Male,Ireland,Mecca,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.873KM,67
+68,Richard,Coffey,Richard Coffey,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.87KM,68
+69,Peter,O'Flynn,Peter O'Flynn,Male,,,https://ui-avatars.com/api/?name=P+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.856KM,69
+70,Federico,Marceca,Federico Marceca,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.823KM,70
+71,Thomas,O’Dowd,Thomas O’Dowd,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.783KM,71
+72,Vincent,Audiffren,Vincent Audiffren,Male,France,,https://ui-avatars.com/api/?name=V+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.761KM,72
+73,Patrick,Beckford,Patrick Beckford,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.735KM,73
+74,Brian,Curry,Brian Curry,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.702KM,74
+75,Toby,Bell,Toby Bell,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.693KM,75
+76,Kamil,Koc,Kamil Koc,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.659KM,76
+77,Obi,Johnson,Obi Johnson,Male,South Africa,,https://ui-avatars.com/api/?name=O+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.628KM,77
+78,Ross,Leslie,Ross Leslie,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.604KM,78
+79,Benji,Kovacevic,Benji Kovacevic,Male,Ireland,,https://athxgames.com/storage/profile-photos/yXgfuZ1HGmn0MHyERPoqSzBgTWcWQYreQLBKOsDC.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.552KM,79
+80,Rory,Wilson,Rory Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.51KM,80
+81,Sandro,Di giminiani,Sandro Di giminiani,Male,Venezuela,,https://ui-avatars.com/api/?name=S+D+g&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.279KM,1.458KM,81
+82,Paul,Hassan,Paul Hassan,Male,,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.163KM,1.515KM,82
+83,Matt,Williamson,Matt Williamson,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.09KM,1.514KM,83
+84,Michael,Newbold,Michael Newbold,Male,,,https://athxgames.com/storage/profile-photos/mu35c3qUHqzrF6fN8KJia0WSp0GQBYb64KiRkzYv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,2.003KM,1.513KM,84
+85,James,Mahon,James Mahon,Male,Ireland,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,1.984KM,1.515KM,85
+86,Darryn,Brownfield,Darryn Brownfield,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,1.981KM,1.505KM,86
+1,Aoife,O Rourke,Aoife O Rourke,Female,Ireland,,https://ui-avatars.com/api/?name=A+O+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,4 (278KG),1 (5.371KM),1 (09:40),,,,,,6
+2,Kate,Cullen,Kate Cullen,Female,Ireland,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,1 (315KG),3 (4.845KM),2 (11:38),,,,,,6
+3,Yasmin Orla,Wahli,Yasmin Orla Wahli,Female,,,https://ui-avatars.com/api/?name=Y+O+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,3 (285KG),4 (4.457KM),3 (12:22),,,,,,10
+4,Cerian,Harries,Cerian Harries,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,6 (250KG),2 (5.032KM),4 (12:29),,,,,,12
+5,Niamh,Geraghty,Niamh Geraghty,Female,,,https://ui-avatars.com/api/?name=N+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,2 (288KG),6 (4.343KM),5 (13:47),,,,,,13
+6,Katie,Buckmaster,Katie Buckmaster,Female,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,5 (251KG),5 (4.364KM),6 (15:04),,,,,,16
+7,Laura,Power,Laura Power,Female,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,6 (250KG),8 (4.012KM),7 (16:08),,,,,,21
+8,Lucy,Hodgins,Lucy Hodgins,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,8 (233KG),7 (4.074KM),8 (17:54),,,,,,23
+1,Aoife,O Rourke,Aoife O Rourke,Female,Ireland,,https://ui-avatars.com/api/?name=A+O+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,3KM,2.371KM,1
+2,Cerian,Harries,Cerian Harries,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,3KM,2.032KM,2
+3,Kate,Cullen,Kate Cullen,Female,Ireland,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,2.832KM,2.013KM,3
+4,Yasmin Orla,Wahli,Yasmin Orla Wahli,Female,,,https://ui-avatars.com/api/?name=Y+O+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,2.454KM,2.003KM,4
+5,Katie,Buckmaster,Katie Buckmaster,Female,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,2.349KM,2.015KM,5
+6,Niamh,Geraghty,Niamh Geraghty,Female,,,https://ui-avatars.com/api/?name=N+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,2.332KM,2.011KM,6
+7,Lucy,Hodgins,Lucy Hodgins,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,2.058KM,2.016KM,7
+8,Laura,Power,Laura Power,Female,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Endurance,,,,,,,2KM,2.012KM,8
+1,Aaron,Travers,Aaron Travers,Male,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,2 (515KG),1 (6.019KM),2 (10:44),,,,,,5
+2,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,1 (526KG),6 (5.471KM),1 (10:35),,,,,,8
+3,Victor,Esparza Monreal,Victor Esparza Monreal,Male,Spain,,https://ui-avatars.com/api/?name=V+E+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,10 (450KG),3 (5.636KM),5 (12:42),,,,,,18
+4,Aaron,Claxton,Aaron Claxton,Male,Ireland,Rf,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,16 (408KG),2 (5.831KM),3 (11:40),,,,,,21
+5,Jeff,Flood,Jeff Flood,Male,Ireland,CrossFit Santry,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,10 (450KG),7 (5.45KM),6 (12:58),,,,,,23
+6,Conner,Scarfe,Conner Scarfe,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,3 (480KG),11 (5.141KM),10 (14:28),,,,,,24
+7,Decky,Thompson,Decky Thompson,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,17 (403KG),4 (5.548KM),4 (11:48),,,,,,25
+8,Roman,Koprucki,Roman Koprucki,Male,Poland,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,6 (465KG),13 (5.07KM),7 (13:52),,,,,,26
+9,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,6 (465KG),10 (5.201KM),12 (14:58),,,,,,28
+10,Andy,Hickey,Andy Hickey,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,8 (460KG),14 (5.01KM),8 (14:08),,,,,,30
+11,Oisin,Downey,Oisin Downey,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,14 (415KG),5 (5.5KM),14 (15:58),,,,,,33
+12,Tom,Roadnight,Tom Roadnight,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,12 (445KG),17 (4.988KM),9 (14:11),,,,,,38
+13,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,13 (421KG),12 (5.074KM),15 (16:49),,,,,,40
+14,Alexandre,Soler,Alexandre Soler,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,19 (390KG),9 (5.406KM),13 (15:49),,,,,,41
+14,Johny,Daniel,Johny Daniel,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,4 (468KG),21 (4.609KM),16 (17:54),,,,,,41
+16,Jake,Smyth,Jake Smyth,Male,Ireland,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,14 (415KG),19 (4.927KM),11 (14:47),,,,,,44
+17,James,McLaughlin,James McLaughlin,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,4 (468KG),22 (4.554KM),20 (19:25),,,,,,46
+18,Daniel,De Lange,Daniel De Lange,Male,,,https://ui-avatars.com/api/?name=D+D+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,22 (350KG),8 (5.418KM),17 (18:04),,,,,,47
+19,Daniel,Kelly,Daniel Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,20 (383KG),14 (5.01KM),18 (18:08),,,,,,52
+20,Maurice,Walshe,Maurice Walshe,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,9 (455KG),24 (4.163KM),22 (21:18),,,,,,55
+20,Tadhg,Kearney,Tadhg Kearney,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,17 (403KG),18 (4.957KM),20 (19:25),,,,,,55
+22,Charles,Zellenwarger,Charles Zellenwarger,Male,,,https://ui-avatars.com/api/?name=C+Z&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,22 (350KG),16 (5.007KM),19 (18:11),,,,,,57
+23,Brian,Clarke,Brian Clarke,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,21 (370KG),20 (4.62KM),23 (21:34),,,,,,64
+24,Kevin,Mclaughlin,Kevin Mclaughlin,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Overall,24 (293KG),23 (4.512KM),24 (25:03),,,,,,71
+1,Aaron,Travers,Aaron Travers,Male,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,3.019KM,1
+2,Aaron,Claxton,Aaron Claxton,Male,Ireland,Rf,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.831KM,2
+3,Victor,Esparza Monreal,Victor Esparza Monreal,Male,Spain,,https://ui-avatars.com/api/?name=V+E+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.636KM,3
+4,Decky,Thompson,Decky Thompson,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.548KM,4
+5,Oisin,Downey,Oisin Downey,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.5KM,5
+6,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.471KM,6
+7,Jeff,Flood,Jeff Flood,Male,Ireland,CrossFit Santry,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.45KM,7
+8,Daniel,De Lange,Daniel De Lange,Male,,,https://ui-avatars.com/api/?name=D+D+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.418KM,8
+9,Alexandre,Soler,Alexandre Soler,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.406KM,9
+10,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.201KM,10
+11,Conner,Scarfe,Conner Scarfe,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.141KM,11
+12,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.074KM,12
+13,Roman,Koprucki,Roman Koprucki,Male,Poland,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.07KM,13
+14,Andy,Hickey,Andy Hickey,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.01KM,14
+14,Daniel,Kelly,Daniel Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.01KM,14
+16,Charles,Zellenwarger,Charles Zellenwarger,Male,,,https://ui-avatars.com/api/?name=C+Z&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.007KM,16
+17,Tom,Roadnight,Tom Roadnight,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.975KM,2.013KM,17
+18,Tadhg,Kearney,Tadhg Kearney,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.95KM,2.007KM,18
+19,Jake,Smyth,Jake Smyth,Male,Ireland,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.923KM,2.004KM,19
+20,Brian,Clarke,Brian Clarke,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.613KM,2.007KM,20
+21,Johny,Daniel,Johny Daniel,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.597KM,2.012KM,21
+22,James,McLaughlin,James McLaughlin,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.541KM,2.013KM,22
+23,Kevin,Mclaughlin,Kevin Mclaughlin,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.5KM,2.012KM,23
+24,Maurice,Walshe,Maurice Walshe,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Endurance,,,,,,,2.153KM,2.01KM,24
+1,David,Kelly,David Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,11 (448KG),2 (5.345KM),1 (09:42),,,,,,14
+2,Ryan,Burnison,Ryan Burnison,Male,,,https://ui-avatars.com/api/?name=R+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,14 (430KG),7 (5.054KM),4 (10:19),,,,,,25
+3,ryan,burton,ryan burton,Male,,,https://ui-avatars.com/api/?name=r+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,16 (428KG),4 (5.158KM),6 (10:46),,,,,,26
+4,William,Lendeborg,William Lendeborg,Male,Dominican Republic,,https://ui-avatars.com/api/?name=W+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,26 (400KG),1 (5.497KM),2 (10:00),,,,,,29
+5,Finn,McNulty,Finn McNulty,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,21 (413KG),5 (5.156KM),3 (10:12),,,,,,29
+6,Christopher,Lavelle,Christopher Lavelle,Male,Ireland,BE Coaching,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,20 (416KG),6 (5.056KM),4 (10:19),,,,,,30
+7,Dan,Knight,Dan Knight,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,26 (400KG),9 (5.016KM),10 (11:57),,,,,,45
+8,Ryan,McGearty,Ryan McGearty,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,14 (430KG),23 (4.71KM),17 (12:36),,,,,,54
+9,David,Gibbons,David Gibbons,Male,United Kingdom,Kore gym,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,16 (428KG),21 (4.768KM),18 (12:37),,,,,,55
+10,Patrick,Mc garry,Patrick Mc garry,Male,Ireland,GLADIATOR BALLYMENA,https://athxgames.com/storage/profile-photos/eToi2qRzZ87uGItObz7L82dv8HT19eOHPnnWGgCV.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,7 (463KG),39 (4.525KM),15 (12:23),,,,,,61
+11,adam,dehaty,adam dehaty,Male,United Kingdom,,https://ui-avatars.com/api/?name=a+d&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,12 (435KG),31 (4.61KM),19 (12:46),,,,,,62
+12,Trevor,Greer,Trevor Greer,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,47 (355KG),3 (5.161KM),13 (12:07),,,,,,63
+13,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,16 (428KG),28 (4.687KM),21 (12:56),,,,,,65
+13,Stephen,Dixon,Stephen Dixon,Male,Ireland,,https://athxgames.com/storage/profile-photos/36BpqUQp0BqCM6EQGZlT4NdhULdisWvlLBvNMqER.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,3 (500KG),18 (4.799KM),44 (14:24),,,,,,65
+15,Jack,Mathews,Jack Mathews,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,31 (385KG),32 (4.608KM),11 (12:02),,,,,,74
+15,Mark,McCann,Mark McCann,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,49 (353KG),16 (4.834KM),9 (11:49),,,,,,74
+17,Anthony,McDonnell,Anthony McDonnell,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,51 (351KG),10 (4.98KM),16 (12:30),,,,,,77
+18,Brian,McGarvey,Brian McGarvey,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,52 (350KG),13 (4.925KM),14 (12:17),,,,,,79
+19,Thomas,Payne,Thomas Payne,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,1 (510KG),56 (4.441KM),26 (13:26),,,,,,83
+20,Theon,Doran,Theon Doran,Male,Ireland,Urban Gym,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,52 (350KG),12 (4.943KM),21 (12:56),,,,,,85
+21,Valdas,Gruselionis,Valdas Gruselionis,Male,,,https://ui-avatars.com/api/?name=V+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,31 (385KG),35 (4.592KM),20 (12:52),,,,,,86
+22,Cian,Cosgrave,Cian Cosgrave,Male,Ireland,Perpetua,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,71 (315KG),11 (4.969KM),8 (11:34),,,,,,90
+23,Jamie,McGonigal,Jamie McGonigal,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,22 (410KG),62 (4.306KM),7 (11:27),,,,,,91
+23,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,22 (410KG),34 (4.605KM),35 (13:57),,,,,,91
+25,Michael,Walker,Michael Walker,Male,Ireland,Unit 4B,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,13 (433KG),44 (4.516KM),35 (13:57),,,,,,92
+26,Lewis,Harland,Lewis Harland,Male,United Kingdom,Funk Training Club,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,67 (325KG),14 (4.884KM),12 (12:05),,,,,,93
+27,John,Dever,John Dever,Male,Ireland,GFT,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,9 (450KG),52 (4.486KM),33 (13:49),,,,,,94
+28,Ciarán,Breathnach,Ciarán Breathnach,Male,Ireland,,https://athxgames.com/storage/profile-photos/G0mOh1KnpRxFfQqFj5vPcnRHo70qjLtIeSknRNDz.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,49 (353KG),19 (4.798KM),31 (13:45),,,,,,99
+29,Liam,Bassett,Liam Bassett,Male,,Fit House Belfast,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,58 (345KG),15 (4.865KM),27 (13:27),,,,,,100
+30,Ryan,Lynn,Ryan Lynn,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,37 (370KG),42 (4.517KM),24 (13:07),,,,,,103
+31,Ian,Flood,Ian Flood,Male,,,https://ui-avatars.com/api/?name=I+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,52 (350KG),24 (4.704KM),28 (13:32),,,,,,104
+31,Alex,Bingham,Alex Bingham,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,47 (355KG),29 (4.674KM),28 (13:32),,,,,,104
+33,Gavin,Eakin,Gavin Eakin,Male,,,https://ui-avatars.com/api/?name=G+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,39 (365KG),44 (4.516KM),25 (13:25),,,,,,108
+34,Mark,Murphy,Mark Murphy,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,60 (343KG),8 (5.051KM),43 (14:23),,,,,,111
+35,Giorgio,Cecchini,Giorgio Cecchini,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,58 (345KG),24 (4.704KM),30 (13:42),,,,,,112
+35,Hans Kristian Andreassen,Sandø,Hans Kristian Andreassen Sandø,Male,Norway,,https://ui-avatars.com/api/?name=H+K+A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,9 (450KG),64 (4.243KM),39 (14:06),,,,,,112
+35,Jamie,Sheldon,Jamie Sheldon,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,72 (310KG),17 (4.827KM),23 (12:58),,,,,,112
+38,James,Egan,James Egan,Male,,,https://ui-avatars.com/api/?name=J+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,34 (375KG),50 (4.498KM),34 (13:56),,,,,,118
+39,Thomas,O’Dowd,Thomas O’Dowd,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,6 (480KG),71 (4.033KM),42 (14:22),,,,,,119
+39,Scott,Prendergast,Scott Prendergast,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,30 (390KG),51 (4.495KM),38 (14:04),,,,,,119
+41,Jason,Kane,Jason Kane,Male,Ireland,Elite Gym,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,19 (420KG),57 (4.439KM),47 (14:54),,,,,,123
+42,Sam,Treharne,Sam Treharne,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/0SkFqyvfCWRO5gz9ZWsLHXBy89Hl0XaGyGc6EDUH.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,57 (348KG),30 (4.651KM),37 (14:01),,,,,,124
+43,Richard,Coffey,Richard Coffey,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,5 (485KG),68 (4.12KM),53 (15:43),,,,,,126
+44,Sam,Coffey,Sam Coffey,Male,,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,67 (325KG),20 (4.772KM),40 (14:13),,,,,,127
+45,Kevin,Kirwan,Kevin Kirwan,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,33 (380KG),37 (4.559KM),58 (16:02),,,,,,128
+46,Cormac,Gallagher,Cormac Gallagher,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,64 (335KG),24 (4.704KM),41 (14:15),,,,,,129
+47,Luke,Kennedy,Luke Kennedy,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,42 (363KG),42 (4.517KM),49 (15:02),,,,,,133
+48,Cameron,Knell,Cameron Knell,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,60 (343KG),47 (4.511KM),31 (13:45),,,,,,138
+48,Jeffrey,Mason,Jeffrey Mason,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,25 (408KG),53 (4.476KM),60 (16:09),,,,,,138
+50,Colm,Mcsharry,Colm Mcsharry,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,46 (358KG),46 (4.514KM),51 (15:12),,,,,,143
+51,Matt,Williamson,Matt Williamson,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,8 (455KG),83 (3.604KM),53 (15:43),,,,,,144
+52,Federico,Marceca,Federico Marceca,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,1 (510KG),70 (4.073KM),78 (19:47),,,,,,149
+53,James,Belding,James Belding,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,37 (370KG),58 (4.427KM),55 (15:46),,,,,,150
+54,Sandro,Di giminiani,Sandro Di giminiani,Male,Venezuela,,https://ui-avatars.com/api/?name=S+D+g&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,22 (410KG),81 (3.737KM),48 (14:56),,,,,,151
+55,Gerard,Walsh,Gerard Walsh,Male,,,https://ui-avatars.com/api/?name=G+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,29 (393KG),40 (4.524KM),86 (26:58),,,,,,155
+55,Rory,Wilson,Rory Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,4 (493KG),80 (3.76KM),71 (17:51),,,,,,155
+57,Ricky,Dennison,Ricky Dennison,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,73 (305KG),33 (4.607KM),56 (15:58),,,,,,162
+58,John,Totten,John Totten,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,64 (335KG),49 (4.502KM),50 (15:04),,,,,,163
+59,Conor,conorryan1993@gmail.com,Conor conorryan1993@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,39 (365KG),65 (4.215KM),63 (16:40),,,,,,167
+59,Martin,Gouldsbury,Martin Gouldsbury,Male,Ireland,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,44 (360KG),61 (4.361KM),62 (16:37),,,,,,167
+59,Luke,Dennison,Luke Dennison,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,81 (275KG),22 (4.739KM),64 (16:46),,,,,,167
+62,Joe,Finnegan,Joe Finnegan,Male,Ireland,SKF Dundalk,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,60 (343KG),38 (4.538KM),70 (17:35),,,,,,168
+62,Obi,Johnson,Obi Johnson,Male,South Africa,,https://ui-avatars.com/api/?name=O+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,26 (400KG),77 (3.878KM),65 (16:50),,,,,,168
+62,Shay,Kearney,Shay Kearney,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,63 (340KG),59 (4.41KM),46 (14:45),,,,,,168
+65,David,Sheahan,David Sheahan,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,85 (251KG),27 (4.7KM),57 (16:00),,,,,,169
+66,Dylan,Hoey,Dylan Hoey,Male,Ireland,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,76 (303KG),36 (4.584KM),61 (16:18),,,,,,173
+66,Phillip,Shortt,Phillip Shortt,Male,,,https://athxgames.com/storage/profile-photos/SGjBTYOunN8PXf9dFVDpoG0cqQXmjLfz7bGLNzBp.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,73 (305KG),55 (4.45KM),45 (14:37),,,,,,173
+68,Ross,Leslie,Ross Leslie,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,44 (360KG),78 (3.854KM),52 (15:39),,,,,,174
+69,Kamil,Koc,Kamil Koc,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,34 (375KG),76 (3.909KM),69 (17:31),,,,,,179
+70,Eoin,Vines,Eoin Vines,Male,,,https://ui-avatars.com/api/?name=E+V&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,66 (328KG),41 (4.523KM),73 (18:15),,,,,,180
+71,Richie,Mahony,Richie Mahony,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,52 (350KG),63 (4.27KM),68 (17:16),,,,,,183
+72,Brian,Curry,Brian Curry,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,43 (361KG),74 (3.952KM),77 (19:10),,,,,,194
+72,Benji,Kovacevic,Benji Kovacevic,Male,Ireland,,https://athxgames.com/storage/profile-photos/yXgfuZ1HGmn0MHyERPoqSzBgTWcWQYreQLBKOsDC.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,34 (375KG),79 (3.802KM),81 (20:27),,,,,,194
+74,Owen,Davies,Owen Davies,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,79 (283KG),48 (4.509KM),72 (17:58),,,,,,199
+75,Peter,O'Flynn,Peter O'Flynn,Male,,,https://ui-avatars.com/api/?name=P+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,52 (350KG),69 (4.106KM),80 (20:14),,,,,,201
+76,Matthew,Horner,Matthew Horner,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,73 (305KG),54 (4.459KM),76 (19:07),,,,,,203
+76,Mark,Teague,Mark Teague,Male,Ireland,Mecca,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,70 (318KG),67 (4.123KM),66 (17:10),,,,,,203
+78,Vissarion,Petrikis,Vissarion Petrikis,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,86 (215KG),60 (4.409KM),59 (16:06),,,,,,205
+79,Darryn,Brownfield,Darryn Brownfield,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,39 (365KG),86 (3.486KM),83 (23:42),,,,,,208
+80,Andy,Hancox,Andy Hancox,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,82 (265KG),66 (4.137KM),67 (17:12),,,,,,215
+81,Vincent,Audiffren,Vincent Audiffren,Male,France,,https://ui-avatars.com/api/?name=V+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,80 (276KG),72 (4.011KM),75 (18:20),,,,,,227
+82,Michael,Newbold,Michael Newbold,Male,,,https://athxgames.com/storage/profile-photos/mu35c3qUHqzrF6fN8KJia0WSp0GQBYb64KiRkzYv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,67 (325KG),84 (3.516KM),79 (19:48),,,,,,230
+83,Patrick,Beckford,Patrick Beckford,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,76 (303KG),73 (3.985KM),85 (23:50),,,,,,234
+84,Paul,Hassan,Paul Hassan,Male,,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,82 (265KG),82 (3.678KM),74 (18:17),,,,,,238
+85,Toby,Bell,Toby Bell,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,84 (260KG),75 (3.943KM),82 (21:03),,,,,,241
+86,James,Mahon,James Mahon,Male,Ireland,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Overall,78 (298KG),85 (3.499KM),83 (23:42),,,,,,246
+1,Grace,Mannion,Grace Mannion,Female,,,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,09:37,,,,,,1
+2,Kristýna,Hellerová,Kristýna Hellerová,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,10:01,,,,,,2
+3,Kellyann,Halstead,Kellyann Halstead,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,10:29,,,,,,3
+4,Alison,Wilson,Alison Wilson,Female,United Kingdom,Base Training Club,https://athxgames.com/storage/profile-photos/4T8iM9qVsyQOd2N0WdTH3Ykvk1vAdlyJ69561KDO.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,10:33,,,,,,4
+4,Marjane,Asmahri,Marjane Asmahri,Female,,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,10:33,,,,,,4
+6,Niamh,Mcphillips,Niamh Mcphillips,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,10:39,,,,,,6
+7,Katherine,Perry,Katherine Perry,Female,,Hybrid Human,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,10:43,,,,,,7
+8,Gemma,Dixon,Gemma Dixon,Female,,,https://ui-avatars.com/api/?name=G+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,11:08,,,,,,8
+9,Lucie,Nechalova,Lucie Nechalova,Female,Czech Republic,Perpetua,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,11:09,,,,,,9
+10,Francesca,Walshe,Francesca Walshe,Female,,,https://ui-avatars.com/api/?name=F+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,11:19,,,,,,10
+11,Catherine,McBride,Catherine McBride,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,11:22,,,,,,11
+12,Sue,Howley,Sue Howley,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,11:25,,,,,,12
+12,Emma,O Brien,Emma O Brien,Female,Ireland,,https://ui-avatars.com/api/?name=E+O+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,11:25,,,,,,12
+14,Jenny,Wylie,Jenny Wylie,Female,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:14,,,,,,14
+15,Aoife,Murphy,Aoife Murphy,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:15,,,,,,15
+16,Roisin,Markey,Roisin Markey,Female,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:29,,,,,,16
+17,Julia,Gruszczynska,Julia Gruszczynska,Female,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:47,,,,,,17
+18,Sarah,McKenna,Sarah McKenna,Female,Ireland,Granite,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:51,,,,,,18
+19,Natalie,Blumenthal,Natalie Blumenthal,Female,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:52,,,,,,19
+20,Esther,Murphy Akanji,Esther Murphy Akanji,Female,,,https://ui-avatars.com/api/?name=E+M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:57,,,,,,20
+21,Nil,Celebi,Nil Celebi,Female,,,https://ui-avatars.com/api/?name=N+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,12:59,,,,,,21
+22,Amy,Byrne,Amy Byrne,Female,Ireland,Hybrid,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,13:16,,,,,,22
+23,Michele,Davies,Michele Davies,Female,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,13:22,,,,,,23
+24,Dani,Hegarty,Dani Hegarty,Female,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,13:31,,,,,,24
+25,Lana,Perić-McDermott,Lana Perić-McDermott,Female,Canada,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,13:40,,,,,,25
+26,Helen,Whearity,Helen Whearity,Female,,Wellfit Skerries,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,13:47,,,,,,26
+27,Jennifer,Johnston,Jennifer Johnston,Female,Ireland,FitHouse Belfast,https://ui-avatars.com/api/?name=J+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,13:59,,,,,,27
+28,Ella,Giglione,Ella Giglione,Female,,,https://athxgames.com/storage/profile-photos/z4jJ74R2TQ6yCFyUxRw0lkhIoufY80xNDJdEdvcB.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,14:09,,,,,,28
+29,Amie,Dawber-Smith,Amie Dawber-Smith,Female,,,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,14:12,,,,,,29
+30,Kate,Ring,Kate Ring,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,14:17,,,,,,30
+30,Emma,Buick,Emma Buick,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,14:17,,,,,,30
+30,Liza,Kearney,Liza Kearney,Female,,HD Strength and conditioning,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,14:17,,,,,,30
+33,Orla,Kerbey,Orla Kerbey,Female,Ireland,A & S Fitness,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,15:03,,,,,,33
+34,Nikki,Lowndes,Nikki Lowndes,Female,Ireland,,https://ui-avatars.com/api/?name=N+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,15:08,,,,,,34
+35,eryne,barbieux,eryne barbieux,Female,,,https://ui-avatars.com/api/?name=e+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,15:11,,,,,,35
+36,Laure,Dupont,Laure Dupont,Female,France,Crossfit rengo,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,15:42,,,,,,36
+37,Ellie,Parker,Ellie Parker,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,16:01,,,,,,37
+38,Sorcha,Haverty,Sorcha Haverty,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,16:05,,,,,,38
+39,Alyssa,Haven,Alyssa Haven,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,16:30,,,,,,39
+40,Megan,Daly,Megan Daly,Female,Ireland,Fianna,https://athxgames.com/storage/profile-photos/PSICfDLU3RRWSOgHd94ZN1zZ2qYzWmJgh5neZbmv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,17:42,,,,,,40
+41,Karen,Heggarty,Karen Heggarty,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,17:50,,,,,,41
+42,Cara,McConnell,Cara McConnell,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,19:56,,,,,,42
+1,Federico,Marceca,Federico Marceca,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,90KG,200KG,220KG,,,1
+1,Thomas,Payne,Thomas Payne,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,100KG,170KG,240KG,,,1
+3,Stephen,Dixon,Stephen Dixon,Male,Ireland,,https://athxgames.com/storage/profile-photos/36BpqUQp0BqCM6EQGZlT4NdhULdisWvlLBvNMqER.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,185KG,235KG,,,3
+4,Rory,Wilson,Rory Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,183KG,230KG,,,4
+5,Richard,Coffey,Richard Coffey,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,85KG,190KG,210KG,,,5
+6,Thomas,O’Dowd,Thomas O’Dowd,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,200KG,200KG,,,6
+7,Patrick,Mc garry,Patrick Mc garry,Male,Ireland,GLADIATOR BALLYMENA,https://athxgames.com/storage/profile-photos/eToi2qRzZ87uGItObz7L82dv8HT19eOHPnnWGgCV.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,83KG,180KG,200KG,,,7
+8,Matt,Williamson,Matt Williamson,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,180KG,205KG,,,8
+9,Hans Kristian Andreassen,Sandø,Hans Kristian Andreassen Sandø,Male,Norway,,https://ui-avatars.com/api/?name=H+K+A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,180KG,190KG,,,9
+9,John,Dever,John Dever,Male,Ireland,GFT,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,90KG,180KG,180KG,,,9
+11,David,Kelly,David Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,78KG,180KG,190KG,,,11
+12,adam,dehaty,adam dehaty,Male,United Kingdom,,https://ui-avatars.com/api/?name=a+d&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,95KG,160KG,180KG,,,12
+13,Michael,Walker,Michael Walker,Male,Ireland,Unit 4B,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,88KG,165KG,180KG,,,13
+14,Ryan,Burnison,Ryan Burnison,Male,,,https://ui-avatars.com/api/?name=R+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,90KG,160KG,180KG,,,14
+14,Ryan,McGearty,Ryan McGearty,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,180KG,180KG,,,14
+16,David,Gibbons,David Gibbons,Male,United Kingdom,Kore gym,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,90KG,145KG,193KG,,,16
+16,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,88KG,160KG,180KG,,,16
+16,ryan,burton,ryan burton,Male,,,https://ui-avatars.com/api/?name=r+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,93KG,155KG,180KG,,,16
+19,Jason,Kane,Jason Kane,Male,Ireland,Elite Gym,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,160KG,180KG,,,19
+20,Christopher,Lavelle,Christopher Lavelle,Male,Ireland,BE Coaching,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,78KG,150KG,188KG,,,20
+21,Finn,McNulty,Finn McNulty,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,83KG,160KG,170KG,,,21
+22,Sandro,Di giminiani,Sandro Di giminiani,Male,Venezuela,,https://ui-avatars.com/api/?name=S+D+g&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,170KG,180KG,,,22
+22,Jamie,McGonigal,Jamie McGonigal,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,150KG,180KG,,,22
+22,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,150KG,180KG,,,22
+25,Jeffrey,Mason,Jeffrey Mason,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,88KG,150KG,170KG,,,25
+26,William,Lendeborg,William Lendeborg,Male,Dominican Republic,,https://ui-avatars.com/api/?name=W+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,140KG,180KG,,,26
+26,Obi,Johnson,Obi Johnson,Male,South Africa,,https://ui-avatars.com/api/?name=O+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,150KG,180KG,,,26
+26,Dan,Knight,Dan Knight,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,155KG,170KG,,,26
+29,Gerard,Walsh,Gerard Walsh,Male,,,https://ui-avatars.com/api/?name=G+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,135KG,178KG,,,29
+30,Scott,Prendergast,Scott Prendergast,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,140KG,170KG,,,30
+31,Jack,Mathews,Jack Mathews,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,140KG,180KG,,,31
+31,Valdas,Gruselionis,Valdas Gruselionis,Male,,,https://ui-avatars.com/api/?name=V+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,150KG,155KG,,,31
+33,Kevin,Kirwan,Kevin Kirwan,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,135KG,170KG,,,33
+34,Benji,Kovacevic,Benji Kovacevic,Male,Ireland,,https://athxgames.com/storage/profile-photos/yXgfuZ1HGmn0MHyERPoqSzBgTWcWQYreQLBKOsDC.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,90KG,135KG,150KG,,,34
+34,Kamil,Koc,Kamil Koc,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,140KG,160KG,,,34
+34,James,Egan,James Egan,Male,,,https://ui-avatars.com/api/?name=J+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,120KG,180KG,,,34
+37,James,Belding,James Belding,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,50KG,170KG,150KG,,,37
+37,Ryan,Lynn,Ryan Lynn,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,140KG,165KG,,,37
+39,Conor,conorryan1993@gmail.com,Conor conorryan1993@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,140KG,150KG,,,39
+39,Darryn,Brownfield,Darryn Brownfield,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,145KG,160KG,,,39
+39,Gavin,Eakin,Gavin Eakin,Male,,,https://ui-avatars.com/api/?name=G+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,130KG,165KG,,,39
+42,Luke,Kennedy,Luke Kennedy,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,73KG,130KG,160KG,,,42
+43,Brian,Curry,Brian Curry,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,68KG,135KG,158KG,,,43
+44,Ross,Leslie,Ross Leslie,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,130KG,150KG,,,44
+44,Martin,Gouldsbury,Martin Gouldsbury,Male,Ireland,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,80KG,140KG,140KG,,,44
+46,Colm,Mcsharry,Colm Mcsharry,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,68KG,130KG,160KG,,,46
+47,Trevor,Greer,Trevor Greer,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,120KG,165KG,,,47
+47,Alex,Bingham,Alex Bingham,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,145KG,140KG,,,47
+49,Ciarán,Breathnach,Ciarán Breathnach,Male,Ireland,,https://athxgames.com/storage/profile-photos/G0mOh1KnpRxFfQqFj5vPcnRHo70qjLtIeSknRNDz.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,130KG,158KG,,,49
+49,Mark,McCann,Mark McCann,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,53KG,130KG,170KG,,,49
+51,Anthony,McDonnell,Anthony McDonnell,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,73KG,128KG,150KG,,,51
+52,Ian,Flood,Ian Flood,Male,,,https://ui-avatars.com/api/?name=I+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,130KG,150KG,,,52
+52,Theon,Doran,Theon Doran,Male,Ireland,Urban Gym,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,50KG,120KG,180KG,,,52
+52,Peter,O'Flynn,Peter O'Flynn,Male,,,https://ui-avatars.com/api/?name=P+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,130KG,150KG,,,52
+52,Brian,McGarvey,Brian McGarvey,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,130KG,155KG,,,52
+52,Richie,Mahony,Richie Mahony,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,130KG,160KG,,,52
+57,Sam,Treharne,Sam Treharne,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/0SkFqyvfCWRO5gz9ZWsLHXBy89Hl0XaGyGc6EDUH.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,78KG,120KG,150KG,,,57
+58,Giorgio,Cecchini,Giorgio Cecchini,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,125KG,150KG,,,58
+58,Liam,Bassett,Liam Bassett,Male,,Fit House Belfast,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,140KG,140KG,,,58
+60,Cameron,Knell,Cameron Knell,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,73KG,130KG,140KG,,,60
+60,Mark,Murphy,Mark Murphy,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,125KG,153KG,,,60
+60,Joe,Finnegan,Joe Finnegan,Male,Ireland,SKF Dundalk,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,68KG,115KG,160KG,,,60
+63,Shay,Kearney,Shay Kearney,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,125KG,140KG,,,63
+64,Cormac,Gallagher,Cormac Gallagher,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,125KG,150KG,,,64
+64,John,Totten,John Totten,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,120KG,140KG,,,64
+66,Eoin,Vines,Eoin Vines,Male,,,https://ui-avatars.com/api/?name=E+V&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,58KG,120KG,150KG,,,66
+67,Lewis,Harland,Lewis Harland,Male,United Kingdom,Funk Training Club,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,75KG,120KG,130KG,,,67
+67,Sam,Coffey,Sam Coffey,Male,,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,120KG,145KG,,,67
+67,Michael,Newbold,Michael Newbold,Male,,,https://athxgames.com/storage/profile-photos/mu35c3qUHqzrF6fN8KJia0WSp0GQBYb64KiRkzYv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,120KG,140KG,,,67
+70,Mark,Teague,Mark Teague,Male,Ireland,Mecca,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,68KG,120KG,130KG,,,70
+71,Cian,Cosgrave,Cian Cosgrave,Male,Ireland,Perpetua,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,125KG,130KG,,,71
+72,Jamie,Sheldon,Jamie Sheldon,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,70KG,130KG,110KG,,,72
+73,Matthew,Horner,Matthew Horner,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,55KG,100KG,150KG,,,73
+73,Phillip,Shortt,Phillip Shortt,Male,,,https://athxgames.com/storage/profile-photos/SGjBTYOunN8PXf9dFVDpoG0cqQXmjLfz7bGLNzBp.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,55KG,120KG,130KG,,,73
+73,Ricky,Dennison,Ricky Dennison,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,60KG,95KG,150KG,,,73
+76,Dylan,Hoey,Dylan Hoey,Male,Ireland,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,53KG,110KG,140KG,,,76
+76,Patrick,Beckford,Patrick Beckford,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,83KG,100KG,120KG,,,76
+78,James,Mahon,James Mahon,Male,Ireland,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,65KG,100KG,133KG,,,78
+79,Owen,Davies,Owen Davies,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,43KG,110KG,130KG,,,79
+80,Vincent,Audiffren,Vincent Audiffren,Male,France,,https://ui-avatars.com/api/?name=V+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,55KG,98KG,123KG,,,80
+81,Luke,Dennison,Luke Dennison,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,45KG,100KG,130KG,,,81
+82,Andy,Hancox,Andy Hancox,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,50KG,95KG,120KG,,,82
+82,Paul,Hassan,Paul Hassan,Male,,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,50KG,95KG,120KG,,,82
+84,Toby,Bell,Toby Bell,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,50KG,90KG,120KG,,,84
+85,David,Sheahan,David Sheahan,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,53KG,93KG,105KG,,,85
+86,Vissarion,Petrikis,Vissarion Petrikis,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Strength,,,,45KG,75KG,95KG,,,86
+1,Grace,Mannion,Grace Mannion,Female,,,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,43KG,110KG,150KG,,,1
+1,Esther,Murphy Akanji,Esther Murphy Akanji,Female,,,https://ui-avatars.com/api/?name=E+M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,53KG,120KG,130KG,,,1
+3,Catherine,McBride,Catherine McBride,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,53KG,108KG,130KG,,,3
+4,Gemma,Dixon,Gemma Dixon,Female,,,https://ui-avatars.com/api/?name=G+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,45KG,115KG,125KG,,,4
+5,Jenny,Wylie,Jenny Wylie,Female,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,45KG,93KG,128KG,,,5
+6,Lana,Perić-McDermott,Lana Perić-McDermott,Female,Canada,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,45KG,100KG,118KG,,,6
+7,Niamh,Mcphillips,Niamh Mcphillips,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,45KG,105KG,110KG,,,7
+7,Katherine,Perry,Katherine Perry,Female,,Hybrid Human,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,45KG,105KG,110KG,,,7
+9,Francesca,Walshe,Francesca Walshe,Female,,,https://ui-avatars.com/api/?name=F+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,40KG,100KG,118KG,,,9
+10,Kristýna,Hellerová,Kristýna Hellerová,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,43KG,93KG,120KG,,,10
+11,Nikki,Lowndes,Nikki Lowndes,Female,Ireland,,https://ui-avatars.com/api/?name=N+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,45KG,95KG,115KG,,,11
+12,Lucie,Nechalova,Lucie Nechalova,Female,Czech Republic,Perpetua,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,48KG,95KG,110KG,,,12
+13,Alison,Wilson,Alison Wilson,Female,United Kingdom,Base Training Club,https://athxgames.com/storage/profile-photos/4T8iM9qVsyQOd2N0WdTH3Ykvk1vAdlyJ69561KDO.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,38KG,100KG,110KG,,,13
+14,Emma,O Brien,Emma O Brien,Female,Ireland,,https://ui-avatars.com/api/?name=E+O+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,40KG,90KG,115KG,,,14
+15,Roisin,Markey,Roisin Markey,Female,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,48KG,85KG,100KG,,,15
+16,Liza,Kearney,Liza Kearney,Female,,HD Strength and conditioning,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,40KG,90KG,100KG,,,16
+17,Marjane,Asmahri,Marjane Asmahri,Female,,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,88KG,105KG,,,17
+18,Sorcha,Haverty,Sorcha Haverty,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,38KG,85KG,103KG,,,18
+19,Natalie,Blumenthal,Natalie Blumenthal,Female,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,80KG,110KG,,,19
+20,Orla,Kerbey,Orla Kerbey,Female,Ireland,A & S Fitness,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,83KG,103KG,,,20
+20,Jennifer,Johnston,Jennifer Johnston,Female,Ireland,FitHouse Belfast,https://ui-avatars.com/api/?name=J+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,43KG,75KG,103KG,,,20
+20,Julia,Gruszczynska,Julia Gruszczynska,Female,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,38KG,85KG,98KG,,,20
+23,Kellyann,Halstead,Kellyann Halstead,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,85KG,100KG,,,23
+23,Sue,Howley,Sue Howley,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,80KG,105KG,,,23
+23,Amy,Byrne,Amy Byrne,Female,Ireland,Hybrid,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,40KG,90KG,90KG,,,23
+26,Megan,Daly,Megan Daly,Female,Ireland,Fianna,https://athxgames.com/storage/profile-photos/PSICfDLU3RRWSOgHd94ZN1zZ2qYzWmJgh5neZbmv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,38KG,85KG,88KG,,,26
+27,Amie,Dawber-Smith,Amie Dawber-Smith,Female,,,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,30KG,90KG,90KG,,,27
+27,Nil,Celebi,Nil Celebi,Female,,,https://ui-avatars.com/api/?name=N+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,75KG,100KG,,,27
+29,Alyssa,Haven,Alyssa Haven,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,30KG,88KG,90KG,,,29
+30,Laure,Dupont,Laure Dupont,Female,France,Crossfit rengo,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,90KG,80KG,,,30
+31,Ella,Giglione,Ella Giglione,Female,,,https://athxgames.com/storage/profile-photos/z4jJ74R2TQ6yCFyUxRw0lkhIoufY80xNDJdEdvcB.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,38KG,75KG,90KG,,,31
+31,Aoife,Murphy,Aoife Murphy,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,73KG,95KG,,,31
+33,Karen,Heggarty,Karen Heggarty,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,68KG,95KG,,,33
+34,Kate,Ring,Kate Ring,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,38KG,63KG,93KG,,,34
+35,Sarah,McKenna,Sarah McKenna,Female,Ireland,Granite,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,30KG,70KG,90KG,,,35
+36,Dani,Hegarty,Dani Hegarty,Female,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,33KG,70KG,85KG,,,36
+37,Michele,Davies,Michele Davies,Female,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,60KG,85KG,,,37
+38,eryne,barbieux,eryne barbieux,Female,,,https://ui-avatars.com/api/?name=e+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,36KG,68KG,75KG,,,38
+39,Cara,McConnell,Cara McConnell,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,35KG,60KG,82KG,,,39
+40,Ellie,Parker,Ellie Parker,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,30KG,65KG,80KG,,,40
+41,Emma,Buick,Emma Buick,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,28KG,63KG,75KG,,,41
+42,Helen,Whearity,Helen Whearity,Female,,Wellfit Skerries,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,30KG,60KG,70KG,,,42
+1,David,Kelly,David Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,09:42,,,,,,1
+2,William,Lendeborg,William Lendeborg,Male,Dominican Republic,,https://ui-avatars.com/api/?name=W+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,10:00,,,,,,2
+3,Finn,McNulty,Finn McNulty,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,10:12,,,,,,3
+4,Christopher,Lavelle,Christopher Lavelle,Male,Ireland,BE Coaching,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,10:19,,,,,,4
+4,Ryan,Burnison,Ryan Burnison,Male,,,https://ui-avatars.com/api/?name=R+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,10:19,,,,,,4
+6,ryan,burton,ryan burton,Male,,,https://ui-avatars.com/api/?name=r+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,10:46,,,,,,6
+7,Jamie,McGonigal,Jamie McGonigal,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,11:27,,,,,,7
+8,Cian,Cosgrave,Cian Cosgrave,Male,Ireland,Perpetua,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,11:34,,,,,,8
+9,Mark,McCann,Mark McCann,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,11:49,,,,,,9
+10,Dan,Knight,Dan Knight,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,11:57,,,,,,10
+11,Jack,Mathews,Jack Mathews,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:02,,,,,,11
+12,Lewis,Harland,Lewis Harland,Male,United Kingdom,Funk Training Club,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:05,,,,,,12
+13,Trevor,Greer,Trevor Greer,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:07,,,,,,13
+14,Brian,McGarvey,Brian McGarvey,Male,,,https://ui-avatars.com/api/?name=B+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:17,,,,,,14
+15,Patrick,Mc garry,Patrick Mc garry,Male,Ireland,GLADIATOR BALLYMENA,https://athxgames.com/storage/profile-photos/eToi2qRzZ87uGItObz7L82dv8HT19eOHPnnWGgCV.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:23,,,,,,15
+16,Anthony,McDonnell,Anthony McDonnell,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:30,,,,,,16
+17,Ryan,McGearty,Ryan McGearty,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:36,,,,,,17
+18,David,Gibbons,David Gibbons,Male,United Kingdom,Kore gym,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:37,,,,,,18
+19,adam,dehaty,adam dehaty,Male,United Kingdom,,https://ui-avatars.com/api/?name=a+d&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:46,,,,,,19
+20,Valdas,Gruselionis,Valdas Gruselionis,Male,,,https://ui-avatars.com/api/?name=V+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:52,,,,,,20
+21,Theon,Doran,Theon Doran,Male,Ireland,Urban Gym,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:56,,,,,,21
+21,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:56,,,,,,21
+23,Jamie,Sheldon,Jamie Sheldon,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,12:58,,,,,,23
+24,Ryan,Lynn,Ryan Lynn,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:07,,,,,,24
+25,Gavin,Eakin,Gavin Eakin,Male,,,https://ui-avatars.com/api/?name=G+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:25,,,,,,25
+26,Thomas,Payne,Thomas Payne,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:26,,,,,,26
+27,Liam,Bassett,Liam Bassett,Male,,Fit House Belfast,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:27,,,,,,27
+28,Ian,Flood,Ian Flood,Male,,,https://ui-avatars.com/api/?name=I+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:32,,,,,,28
+28,Alex,Bingham,Alex Bingham,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:32,,,,,,28
+30,Giorgio,Cecchini,Giorgio Cecchini,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:42,,,,,,30
+31,Cameron,Knell,Cameron Knell,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:45,,,,,,31
+31,Ciarán,Breathnach,Ciarán Breathnach,Male,Ireland,,https://athxgames.com/storage/profile-photos/G0mOh1KnpRxFfQqFj5vPcnRHo70qjLtIeSknRNDz.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:45,,,,,,31
+33,John,Dever,John Dever,Male,Ireland,GFT,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:49,,,,,,33
+34,James,Egan,James Egan,Male,,,https://ui-avatars.com/api/?name=J+E&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:56,,,,,,34
+35,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:57,,,,,,35
+35,Michael,Walker,Michael Walker,Male,Ireland,Unit 4B,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,13:57,,,,,,35
+37,Sam,Treharne,Sam Treharne,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/0SkFqyvfCWRO5gz9ZWsLHXBy89Hl0XaGyGc6EDUH.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:01,,,,,,37
+38,Scott,Prendergast,Scott Prendergast,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:04,,,,,,38
+39,Hans Kristian Andreassen,Sandø,Hans Kristian Andreassen Sandø,Male,Norway,,https://ui-avatars.com/api/?name=H+K+A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:06,,,,,,39
+40,Sam,Coffey,Sam Coffey,Male,,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:13,,,,,,40
+41,Cormac,Gallagher,Cormac Gallagher,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:15,,,,,,41
+42,Thomas,O’Dowd,Thomas O’Dowd,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:22,,,,,,42
+43,Mark,Murphy,Mark Murphy,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:23,,,,,,43
+44,Stephen,Dixon,Stephen Dixon,Male,Ireland,,https://athxgames.com/storage/profile-photos/36BpqUQp0BqCM6EQGZlT4NdhULdisWvlLBvNMqER.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:24,,,,,,44
+45,Phillip,Shortt,Phillip Shortt,Male,,,https://athxgames.com/storage/profile-photos/SGjBTYOunN8PXf9dFVDpoG0cqQXmjLfz7bGLNzBp.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:37,,,,,,45
+46,Shay,Kearney,Shay Kearney,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:45,,,,,,46
+47,Jason,Kane,Jason Kane,Male,Ireland,Elite Gym,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:54,,,,,,47
+48,Sandro,Di giminiani,Sandro Di giminiani,Male,Venezuela,,https://ui-avatars.com/api/?name=S+D+g&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,14:56,,,,,,48
+49,Luke,Kennedy,Luke Kennedy,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:02,,,,,,49
+50,John,Totten,John Totten,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:04,,,,,,50
+51,Colm,Mcsharry,Colm Mcsharry,Male,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:12,,,,,,51
+52,Ross,Leslie,Ross Leslie,Male,,,https://ui-avatars.com/api/?name=R+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:39,,,,,,52
+53,Matt,Williamson,Matt Williamson,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:43,,,,,,53
+53,Richard,Coffey,Richard Coffey,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:43,,,,,,53
+55,James,Belding,James Belding,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:46,,,,,,55
+56,Ricky,Dennison,Ricky Dennison,Male,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:58,,,,,,56
+57,David,Sheahan,David Sheahan,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:00,,,,,,57
+58,Kevin,Kirwan,Kevin Kirwan,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:02,,,,,,58
+59,Vissarion,Petrikis,Vissarion Petrikis,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:06,,,,,,59
+60,Jeffrey,Mason,Jeffrey Mason,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:09,,,,,,60
+61,Dylan,Hoey,Dylan Hoey,Male,Ireland,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:18,,,,,,61
+62,Martin,Gouldsbury,Martin Gouldsbury,Male,Ireland,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:37,,,,,,62
+63,Conor,conorryan1993@gmail.com,Conor conorryan1993@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:40,,,,,,63
+64,Luke,Dennison,Luke Dennison,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:46,,,,,,64
+65,Obi,Johnson,Obi Johnson,Male,South Africa,,https://ui-avatars.com/api/?name=O+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,16:50,,,,,,65
+66,Mark,Teague,Mark Teague,Male,Ireland,Mecca,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:10,,,,,,66
+67,Andy,Hancox,Andy Hancox,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:12,,,,,,67
+68,Richie,Mahony,Richie Mahony,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:16,,,,,,68
+69,Kamil,Koc,Kamil Koc,Male,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:31,,,,,,69
+70,Joe,Finnegan,Joe Finnegan,Male,Ireland,SKF Dundalk,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:35,,,,,,70
+71,Rory,Wilson,Rory Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:51,,,,,,71
+72,Owen,Davies,Owen Davies,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,17:58,,,,,,72
+73,Eoin,Vines,Eoin Vines,Male,,,https://ui-avatars.com/api/?name=E+V&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,18:15,,,,,,73
+74,Paul,Hassan,Paul Hassan,Male,,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,18:17,,,,,,74
+75,Vincent,Audiffren,Vincent Audiffren,Male,France,,https://ui-avatars.com/api/?name=V+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,18:20,,,,,,75
+76,Matthew,Horner,Matthew Horner,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,19:07,,,,,,76
+77,Brian,Curry,Brian Curry,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,19:10,,,,,,77
+78,Federico,Marceca,Federico Marceca,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,19:47,,,,,,78
+79,Michael,Newbold,Michael Newbold,Male,,,https://athxgames.com/storage/profile-photos/mu35c3qUHqzrF6fN8KJia0WSp0GQBYb64KiRkzYv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,19:48,,,,,,79
+80,Peter,O'Flynn,Peter O'Flynn,Male,,,https://ui-avatars.com/api/?name=P+O&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,20:14,,,,,,80
+81,Benji,Kovacevic,Benji Kovacevic,Male,Ireland,,https://athxgames.com/storage/profile-photos/yXgfuZ1HGmn0MHyERPoqSzBgTWcWQYreQLBKOsDC.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,20:27,,,,,,81
+82,Toby,Bell,Toby Bell,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,21:03,,,,,,82
+83,James,Mahon,James Mahon,Male,Ireland,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,23:42,,,,,,83
+83,Darryn,Brownfield,Darryn Brownfield,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,23:42,,,,,,83
+85,Patrick,Beckford,Patrick Beckford,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,23:50,,,,,,85
+86,Gerard,Walsh,Gerard Walsh,Male,,,https://ui-avatars.com/api/?name=G+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,26:58,,,,,,86
+1,Kate,Cullen,Kate Cullen,Female,Ireland,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,55KG,105KG,155KG,,,1
+2,Niamh,Geraghty,Niamh Geraghty,Female,,,https://ui-avatars.com/api/?name=N+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,50KG,115KG,123KG,,,2
+3,Yasmin Orla,Wahli,Yasmin Orla Wahli,Female,,,https://ui-avatars.com/api/?name=Y+O+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,50KG,105KG,130KG,,,3
+4,Aoife,O Rourke,Aoife O Rourke,Female,Ireland,,https://ui-avatars.com/api/?name=A+O+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,53KG,100KG,125KG,,,4
+5,Katie,Buckmaster,Katie Buckmaster,Female,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,43KG,100KG,108KG,,,5
+6,Cerian,Harries,Cerian Harries,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,40KG,90KG,120KG,,,6
+6,Laura,Power,Laura Power,Female,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,45KG,90KG,115KG,,,6
+8,Lucy,Hodgins,Lucy Hodgins,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Strength,,,,40KG,85KG,108KG,,,8
+1,Aoife,O Rourke,Aoife O Rourke,Female,Ireland,,https://ui-avatars.com/api/?name=A+O+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,09:40,,,,,,1
+2,Kate,Cullen,Kate Cullen,Female,Ireland,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,11:38,,,,,,2
+3,Yasmin Orla,Wahli,Yasmin Orla Wahli,Female,,,https://ui-avatars.com/api/?name=Y+O+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,12:22,,,,,,3
+4,Cerian,Harries,Cerian Harries,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,12:29,,,,,,4
+5,Niamh,Geraghty,Niamh Geraghty,Female,,,https://ui-avatars.com/api/?name=N+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,13:47,,,,,,5
+6,Katie,Buckmaster,Katie Buckmaster,Female,,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,15:04,,,,,,6
+7,Laura,Power,Laura Power,Female,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,16:08,,,,,,7
+8,Lucy,Hodgins,Lucy Hodgins,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,MetCon X,,,17:54,,,,,,8
+1,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,98KG,203KG,225KG,,,1
+2,Aaron,Travers,Aaron Travers,Male,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,85KG,190KG,240KG,,,2
+3,Conner,Scarfe,Conner Scarfe,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,80KG,185KG,215KG,,,3
+4,James,McLaughlin,James McLaughlin,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,73KG,185KG,210KG,,,4
+4,Johny,Daniel,Johny Daniel,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,83KG,170KG,215KG,,,4
+6,Roman,Koprucki,Roman Koprucki,Male,Poland,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,85KG,185KG,195KG,,,6
+6,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,75KG,170KG,220KG,,,6
+8,Andy,Hickey,Andy Hickey,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,90KG,170KG,200KG,,,8
+9,Maurice,Walshe,Maurice Walshe,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,100KG,155KG,200KG,,,9
+10,Jeff,Flood,Jeff Flood,Male,Ireland,CrossFit Santry,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,90KG,160KG,200KG,,,10
+10,Victor,Esparza Monreal,Victor Esparza Monreal,Male,Spain,,https://ui-avatars.com/api/?name=V+E+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,85KG,165KG,200KG,,,10
+12,Tom,Roadnight,Tom Roadnight,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,90KG,165KG,190KG,,,12
+13,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,78KG,150KG,193KG,,,13
+14,Jake,Smyth,Jake Smyth,Male,Ireland,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,80KG,155KG,180KG,,,14
+14,Oisin,Downey,Oisin Downey,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,85KG,135KG,195KG,,,14
+16,Aaron,Claxton,Aaron Claxton,Male,Ireland,Rf,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,85KG,140KG,183KG,,,16
+17,Decky,Thompson,Decky Thompson,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,88KG,145KG,170KG,,,17
+17,Tadhg,Kearney,Tadhg Kearney,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,73KG,160KG,170KG,,,17
+19,Alexandre,Soler,Alexandre Soler,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,70KG,140KG,180KG,,,19
+20,Daniel,Kelly,Daniel Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,73KG,140KG,170KG,,,20
+21,Brian,Clarke,Brian Clarke,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,70KG,140KG,160KG,,,21
+22,Charles,Zellenwarger,Charles Zellenwarger,Male,,,https://ui-avatars.com/api/?name=C+Z&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,65KG,120KG,165KG,,,22
+22,Daniel,De Lange,Daniel De Lange,Male,,,https://ui-avatars.com/api/?name=D+D+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,60KG,130KG,160KG,,,22
+24,Kevin,Mclaughlin,Kevin Mclaughlin,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,Strength,,,,58KG,85KG,150KG,,,24
+1,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,10:35,,,,,,1
+2,Aaron,Travers,Aaron Travers,Male,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,10:44,,,,,,2
+3,Aaron,Claxton,Aaron Claxton,Male,Ireland,Rf,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,11:40,,,,,,3
+4,Decky,Thompson,Decky Thompson,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,11:48,,,,,,4
+5,Victor,Esparza Monreal,Victor Esparza Monreal,Male,Spain,,https://ui-avatars.com/api/?name=V+E+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,12:42,,,,,,5
+6,Jeff,Flood,Jeff Flood,Male,Ireland,CrossFit Santry,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,12:58,,,,,,6
+7,Roman,Koprucki,Roman Koprucki,Male,Poland,,https://ui-avatars.com/api/?name=R+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,13:52,,,,,,7
+8,Andy,Hickey,Andy Hickey,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,14:08,,,,,,8
+9,Tom,Roadnight,Tom Roadnight,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,14:11,,,,,,9
+10,Conner,Scarfe,Conner Scarfe,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,14:28,,,,,,10
+11,Jake,Smyth,Jake Smyth,Male,Ireland,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,14:47,,,,,,11
+12,Ross,Montgomery,Ross Montgomery,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,14:58,,,,,,12
+13,Alexandre,Soler,Alexandre Soler,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,15:49,,,,,,13
+14,Oisin,Downey,Oisin Downey,Male,,,https://ui-avatars.com/api/?name=O+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,15:58,,,,,,14
+15,Scott,McGarry,Scott McGarry,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,16:49,,,,,,15
+16,Johny,Daniel,Johny Daniel,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,17:54,,,,,,16
+17,Daniel,De Lange,Daniel De Lange,Male,,,https://ui-avatars.com/api/?name=D+D+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,18:04,,,,,,17
+18,Daniel,Kelly,Daniel Kelly,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,18:08,,,,,,18
+19,Charles,Zellenwarger,Charles Zellenwarger,Male,,,https://ui-avatars.com/api/?name=C+Z&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,18:11,,,,,,19
+20,James,McLaughlin,James McLaughlin,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,19:25,,,,,,20
+20,Tadhg,Kearney,Tadhg Kearney,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,19:25,,,,,,20
+22,Maurice,Walshe,Maurice Walshe,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,21:18,,,,,,22
+23,Brian,Clarke,Brian Clarke,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,21:34,,,,,,23
+24,Kevin,Mclaughlin,Kevin Mclaughlin,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX Pro,MetCon X,,,25:03,,,,,,24
+1,Katherine,Perry,Katherine Perry,Female,,Hybrid Human,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.351KM,2.266KM,1
+2,Grace,Mannion,Grace Mannion,Female,,,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.295KM,2.262KM,2
+3,Francesca,Walshe,Francesca Walshe,Female,,,https://ui-avatars.com/api/?name=F+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.292KM,2.26KM,3
+4,Marjane,Asmahri,Marjane Asmahri,Female,,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.283KM,2.26KM,4
+5,Lucie,Nechalova,Lucie Nechalova,Female,Czech Republic,Perpetua,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.269KM,5
+6,Gemma,Dixon,Gemma Dixon,Female,,,https://ui-avatars.com/api/?name=G+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.268KM,6
+7,Kristýna,Hellerová,Kristýna Hellerová,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.25KM,7
+8,Niamh,Mcphillips,Niamh Mcphillips,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.5KM,1.999KM,8
+9,Kellyann,Halstead,Kellyann Halstead,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.247KM,9
+10,Sue,Howley,Sue Howley,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.105KM,10
+11,Nil,Celebi,Nil Celebi,Female,,,https://ui-avatars.com/api/?name=N+C&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.098KM,11
+12,Kate,Ring,Kate Ring,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.085KM,12
+13,Lana,Perić-McDermott,Lana Perić-McDermott,Female,Canada,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.051KM,13
+14,Alison,Wilson,Alison Wilson,Female,United Kingdom,Base Training Club,https://athxgames.com/storage/profile-photos/4T8iM9qVsyQOd2N0WdTH3Ykvk1vAdlyJ69561KDO.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.028KM,14
+15,Jenny,Wylie,Jenny Wylie,Female,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.011KM,15
+16,Emma,O Brien,Emma O Brien,Female,Ireland,,https://ui-avatars.com/api/?name=E+O+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.002KM,16
+17,Jennifer,Johnston,Jennifer Johnston,Female,Ireland,FitHouse Belfast,https://ui-avatars.com/api/?name=J+J&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.991KM,17
+18,Catherine,McBride,Catherine McBride,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.988KM,18
+19,Ellie,Parker,Ellie Parker,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.931KM,19
+20,Roisin,Markey,Roisin Markey,Female,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.918KM,20
+21,Sarah,McKenna,Sarah McKenna,Female,Ireland,Granite,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.904KM,21
+22,Helen,Whearity,Helen Whearity,Female,,Wellfit Skerries,https://ui-avatars.com/api/?name=H+W&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.898KM,22
+23,Michele,Davies,Michele Davies,Female,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.866KM,23
+24,Esther,Murphy Akanji,Esther Murphy Akanji,Female,,,https://ui-avatars.com/api/?name=E+M+A&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.5KM,1.611KM,24
+25,Julia,Gruszczynska,Julia Gruszczynska,Female,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.734KM,25
+26,Orla,Kerbey,Orla Kerbey,Female,Ireland,A & S Fitness,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.732KM,26
+27,Amy,Byrne,Amy Byrne,Female,Ireland,Hybrid,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.706KM,27
+28,Ella,Giglione,Ella Giglione,Female,,,https://athxgames.com/storage/profile-photos/z4jJ74R2TQ6yCFyUxRw0lkhIoufY80xNDJdEdvcB.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.679KM,28
+29,Emma,Buick,Emma Buick,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.571KM,29
+30,Natalie,Blumenthal,Natalie Blumenthal,Female,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.541KM,30
+31,Megan,Daly,Megan Daly,Female,Ireland,Fianna,https://athxgames.com/storage/profile-photos/PSICfDLU3RRWSOgHd94ZN1zZ2qYzWmJgh5neZbmv.jpg,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.513KM,31
+32,Dani,Hegarty,Dani Hegarty,Female,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.512KM,32
+33,Nikki,Lowndes,Nikki Lowndes,Female,Ireland,,https://ui-avatars.com/api/?name=N+L&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.508KM,33
+34,Aoife,Murphy,Aoife Murphy,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.507KM,34
+35,Amie,Dawber-Smith,Amie Dawber-Smith,Female,,,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.502KM,35
+36,eryne,barbieux,eryne barbieux,Female,,,https://ui-avatars.com/api/?name=e+b&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.132KM,1.514KM,36
+37,Laure,Dupont,Laure Dupont,Female,France,Crossfit rengo,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2.112KM,1.515KM,37
+38,Liza,Kearney,Liza Kearney,Female,,HD Strength and conditioning,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,2KM,1.521KM,38
+39,Sorcha,Haverty,Sorcha Haverty,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,1.95KM,1.511KM,39
+40,Karen,Heggarty,Karen Heggarty,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,1.879KM,1.521KM,40
+41,Cara,McConnell,Cara McConnell,Female,,,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,1.781KM,1.516KM,41
+42,Alyssa,Haven,Alyssa Haven,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,1.728KM,1.502KM,42

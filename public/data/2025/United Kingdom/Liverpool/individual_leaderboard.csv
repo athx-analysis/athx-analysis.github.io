@@ -1,0 +1,660 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Daniel,Lamb,Daniel Lamb,Male,,,https://ui-avatars.com/api/?name=D+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,1
+2,Mikey,Garry,Mikey Garry,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,2
+3,Billy,Brown,Billy Brown,Male,United Kingdom,Dual Strength & Fitness,https://athxgames.com/storage/profile-photos/t8EkikOXXxoqjCFcJaWJ2z6vMycFDNPz5A4iUKUU.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,3
+4,Michael,Mitchell,Michael Mitchell,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,4
+5,sam,davey,sam davey,Male,,,https://ui-avatars.com/api/?name=s+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+6,Robert,Worrincy,Robert Worrincy,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,6
+6,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,6
+8,Daniel,Turner,Daniel Turner,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,8
+9,Ash,Armstrong,Ash Armstrong,Male,,,https://athxgames.com/storage/profile-photos/rl7EqR7f48P3MNDC6wuo9QjXR0wM4zX0xVsC3yk7.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,9
+9,Ross,Coulson,Ross Coulson,Male,,Cumbria Strength & Conditioning,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,9
+11,Adam,Elward,Adam Elward,Male,United Kingdom,JD gym llansamlet,https://athxgames.com/storage/profile-photos/ZeRw3gZ8AgPbmZYoruuKjRWs5DDqt5lkfeiK073o.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,11
+12,Sam,Pask,Sam Pask,Male,United Kingdom,Unit 8 Training,https://athxgames.com/storage/profile-photos/FcMyaTrD8pIRRDtiJYA9oTJBoH0XsG9fCJsCH90c.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+12,James,Case,James Case,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+12,Callum,Hawthorne,Callum Hawthorne,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+15,Warren,Purcell,Warren Purcell,Male,,,https://ui-avatars.com/api/?name=W+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,15
+16,Joe,Haley,Joe Haley,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,16
+16,Gareth,Quinn,Gareth Quinn,Male,,,https://ui-avatars.com/api/?name=G+Q&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,16
+18,Jason,Lamonby parker,Jason Lamonby parker,Male,United Kingdom,JLP Coaching,https://athxgames.com/storage/profile-photos/z7WM4eptJPNPWRGQMiNL8M4K7qB0SM6vgcXew7k4.png,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,18
+19,Ashton,Cooper,Ashton Cooper,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Caleb,Kenneford,Caleb Kenneford,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+23,Dan,Worley,Dan Worley,Male,Jersey,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,23
+24,Sam,Griffiths,Sam Griffiths,Male,,CrossFit Verulamium,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,24
+25,Martin,Evans,Martin Evans,Male,United Kingdom,Independent,https://athxgames.com/storage/profile-photos/wry9JGlGpGc1NYJ8gjHDnnTqc3BgFa2jZoOK8926.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+25,Michael,Hill,Michael Hill,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+25,Chris,Rowley,Chris Rowley,Male,,,https://athxgames.com/storage/profile-photos/I6oNpLrlXIhCDWclwTGP9q8lnlSqK1YIziLaTSAH.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+28,Simon,Arnold,Simon Arnold,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,28
+29,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+30,Jordan,Leader,Jordan Leader,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,30
+30,Robert,Humphreys,Robert Humphreys,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/1fBLviCshwcOEBJ8iU02uh9RlM87McziEeQyOqTA.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,30
+30,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,30
+33,Mark,Ingram,Mark Ingram,Male,,,https://ui-avatars.com/api/?name=M+I&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,33
+34,Ethan,Langhorn,Ethan Langhorn,Male,,,https://ui-avatars.com/api/?name=E+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+34,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+34,Jack,Kish,Jack Kish,Male,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+37,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,37
+38,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,38
+39,Sam,Thorpe,Sam Thorpe,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,39
+40,Aiden,McAteer,Aiden McAteer,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Anthony,Morison,Anthony Morison,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Jake,Parr,Jake Parr,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Kevin,Morrissey,Kevin Morrissey,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Sam,Winter,Sam Winter,Male,,,https://athxgames.com/storage/profile-photos/CQgXY2sXP95lJY6GUlHB0S4geIDIQ7ghpkHPxHGZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Jacopo,Gadani,Jacopo Gadani,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Luke,Robertson,Luke Robertson,Male,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+40,Gavin,Plews,Gavin Plews,Male,,CrossFit Jacana,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+48,Ben,Cottrell,Ben Cottrell,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,48
+49,Jay,Bardsley,Jay Bardsley,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,49
+49,ANTHONY,Hann,ANTHONY Hann,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,49
+51,David,Matthias,David Matthias,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,51
+52,Scott,Senior,Scott Senior,Male,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+52,Stephen,Broadley,Stephen Broadley,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+52,Ciaran,Nelson,Ciaran Nelson,Male,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+52,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+52,Seamus,Weatherhead,Seamus Weatherhead,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+52,David,Rushton,David Rushton,Male,United Kingdom,David,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+58,Elfadil,Elmahdi,Elfadil Elmahdi,Male,,,https://athxgames.com/storage/profile-photos/xXDefJyTeXHjUxaBUG4livvD5xJO8QnwzOXDJ6th.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,58
+59,Daniel,Schäfer,Daniel Schäfer,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,59
+59,Tom,Elkington,Tom Elkington,Male,,,https://ui-avatars.com/api/?name=T+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,59
+59,AARON,BECK,AARON BECK,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,59
+59,Lewis,Linaker,Lewis Linaker,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,59
+59,Terry,Gornell,Terry Gornell,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,59
+64,Page,Barrington,Page Barrington,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,64
+65,Niall,Spence,Niall Spence,Male,United Kingdom,Lake District Barbell,https://athxgames.com/storage/profile-photos/7S3KHgSbkEOOnhIktd6tXWhDpIxy02rXIJUtoIFZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,65
+66,James,Paddock,James Paddock,Male,United Kingdom,Move & Burn Llandudno,https://athxgames.com/storage/profile-photos/Qvz2rtl5lIG7lu98xc9uMRhuXW0lSZeztcDDDFdh.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,66
+66,Marc,Puertas,Marc Puertas,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,66
+66,Yusuf,Lambat,Yusuf Lambat,Male,,,https://ui-avatars.com/api/?name=Y+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,66
+69,Stan,Verity,Stan Verity,Male,,,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,69
+70,Neil,Hodgson,Neil Hodgson,Male,United Kingdom,,https://ui-avatars.com/api/?name=N+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,70
+71,Ben,Patterson,Ben Patterson,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,71
+71,john,Carragher,john Carragher,Male,,,https://ui-avatars.com/api/?name=j+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,71
+71,Kieran,Scott,Kieran Scott,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,71
+71,Tawanda,Goto,Tawanda Goto,Male,United Kingdom,Coach Tai,https://athxgames.com/storage/profile-photos/sDb4Os3vN1aRqziQCTsXhynwEY3hxV2PvwFrkg1Z.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,71
+71,Kevin,Shepherd,Kevin Shepherd,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,71
+76,Christopher,Brooks,Christopher Brooks,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,76
+77,Kyle,Wafer,Kyle Wafer,Male,,,https://ui-avatars.com/api/?name=K+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,77
+78,Domenico,Colavito,Domenico Colavito,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,78
+79,John,Regan,John Regan,Male,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,79
+80,James,Hardwick,James Hardwick,Male,United Kingdom,JD gym,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,80
+81,Kieran,Oliver,Kieran Oliver,Male,United Kingdom,,https://ui-avatars.com/api/?name=K+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,81
+81,Jack,Leather,Jack Leather,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,81
+81,Franklin,Hargreaves,Franklin Hargreaves,Male,,,https://ui-avatars.com/api/?name=F+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,81
+84,Michael,Harte,Michael Harte,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,84
+85,Ian,Rice,Ian Rice,Male,,,https://ui-avatars.com/api/?name=I+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,85
+86,Brian,Exelbert,Brian Exelbert,Male,,,https://ui-avatars.com/api/?name=B+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,86
+87,Kyle,Paull,Kyle Paull,Male,,,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,87
+88,Joe,Tomaney,Joe Tomaney,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,88
+89,Oliver,Stretton,Oliver Stretton,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,89
+90,Clement,Petrocchi,Clement Petrocchi,Male,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,90
+1,Natalie,Morrison,Natalie Morrison,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:08,,,,,,1
+2,Jodie,Collis,Jodie Collis,Female,,Ground Zero Fitness,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:12,,,,,,2
+3,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:12,,,,,,3
+4,Dana-Jane,Maybin,Dana-Jane Maybin,Female,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:28,,,,,,4
+5,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:54,,,,,,5
+6,Abbi,Stevens,Abbi Stevens,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:25,,,,,,6
+7,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:43,,,,,,7
+8,Lucie,Woods,Lucie Woods,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:46,,,,,,8
+9,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:56,,,,,,9
+10,Amy,Gutsell,Amy Gutsell,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,11:22,,,,,,10
+11,Kate,Dick,Kate Dick,Female,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,14:16,,,,,,11
+12,sophie,smith,sophie smith,Female,,,https://ui-avatars.com/api/?name=s+s&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,14:31,,,,,,12
+1,Sam,Pask,Sam Pask,Male,United Kingdom,Unit 8 Training,https://athxgames.com/storage/profile-photos/FcMyaTrD8pIRRDtiJYA9oTJBoH0XsG9fCJsCH90c.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:15,,,,,,1
+2,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:33,,,,,,2
+3,Jason,Lamonby parker,Jason Lamonby parker,Male,United Kingdom,JLP Coaching,https://athxgames.com/storage/profile-photos/z7WM4eptJPNPWRGQMiNL8M4K7qB0SM6vgcXew7k4.png,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:40,,,,,,3
+4,Sam,Griffiths,Sam Griffiths,Male,,CrossFit Verulamium,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:42,,,,,,4
+5,Ethan,Langhorn,Ethan Langhorn,Male,,,https://ui-avatars.com/api/?name=E+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:09,,,,,,5
+6,sam,davey,sam davey,Male,,,https://ui-avatars.com/api/?name=s+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:18,,,,,,6
+7,Daniel,Lamb,Daniel Lamb,Male,,,https://ui-avatars.com/api/?name=D+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:23,,,,,,7
+8,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:41,,,,,,8
+9,Jake,Parr,Jake Parr,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:42,,,,,,9
+10,Tom,Elkington,Tom Elkington,Male,,,https://ui-avatars.com/api/?name=T+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:43,,,,,,10
+11,Ross,Coulson,Ross Coulson,Male,,Cumbria Strength & Conditioning,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:00,,,,,,11
+12,Michael,Mitchell,Michael Mitchell,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:04,,,,,,12
+13,Terry,Gornell,Terry Gornell,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:13,,,,,,13
+14,Anthony,Morison,Anthony Morison,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:14,,,,,,14
+15,Robert,Humphreys,Robert Humphreys,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/1fBLviCshwcOEBJ8iU02uh9RlM87McziEeQyOqTA.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:16,,,,,,15
+16,Simon,Arnold,Simon Arnold,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:17,,,,,,16
+17,Ashton,Cooper,Ashton Cooper,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:22,,,,,,17
+17,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:22,,,,,,17
+19,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:34,,,,,,19
+20,Gareth,Quinn,Gareth Quinn,Male,,,https://ui-avatars.com/api/?name=G+Q&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:43,,,,,,20
+21,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:44,,,,,,21
+22,Mikey,Garry,Mikey Garry,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:56,,,,,,22
+23,Gavin,Plews,Gavin Plews,Male,,CrossFit Jacana,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:10,,,,,,23
+24,Sam,Thorpe,Sam Thorpe,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:13,,,,,,24
+25,David,Matthias,David Matthias,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:25,,,,,,25
+26,Ash,Armstrong,Ash Armstrong,Male,,,https://athxgames.com/storage/profile-photos/rl7EqR7f48P3MNDC6wuo9QjXR0wM4zX0xVsC3yk7.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:33,,,,,,26
+27,Jacopo,Gadani,Jacopo Gadani,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:39,,,,,,27
+28,Robert,Worrincy,Robert Worrincy,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:42,,,,,,28
+28,Jack,Kish,Jack Kish,Male,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:42,,,,,,28
+30,James,Case,James Case,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:01,,,,,,30
+30,Luke,Robertson,Luke Robertson,Male,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:01,,,,,,30
+32,Stephen,Broadley,Stephen Broadley,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:08,,,,,,32
+33,John,Regan,John Regan,Male,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:10,,,,,,33
+34,Ben,Cottrell,Ben Cottrell,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:15,,,,,,34
+35,Billy,Brown,Billy Brown,Male,United Kingdom,Dual Strength & Fitness,https://athxgames.com/storage/profile-photos/t8EkikOXXxoqjCFcJaWJ2z6vMycFDNPz5A4iUKUU.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:18,,,,,,35
+35,David,Rushton,David Rushton,Male,United Kingdom,David,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:18,,,,,,35
+37,Jay,Bardsley,Jay Bardsley,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:19,,,,,,37
+38,Daniel,Turner,Daniel Turner,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:20,,,,,,38
+39,Adam,Elward,Adam Elward,Male,United Kingdom,JD gym llansamlet,https://athxgames.com/storage/profile-photos/ZeRw3gZ8AgPbmZYoruuKjRWs5DDqt5lkfeiK073o.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:21,,,,,,39
+40,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:24,,,,,,40
+41,Scott,Senior,Scott Senior,Male,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:26,,,,,,41
+42,Franklin,Hargreaves,Franklin Hargreaves,Male,,,https://ui-avatars.com/api/?name=F+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:34,,,,,,42
+43,Warren,Purcell,Warren Purcell,Male,,,https://ui-avatars.com/api/?name=W+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:35,,,,,,43
+44,Chris,Rowley,Chris Rowley,Male,,,https://athxgames.com/storage/profile-photos/I6oNpLrlXIhCDWclwTGP9q8lnlSqK1YIziLaTSAH.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:37,,,,,,44
+45,Caleb,Kenneford,Caleb Kenneford,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:38,,,,,,45
+46,Marc,Puertas,Marc Puertas,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:40,,,,,,46
+47,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:42,,,,,,47
+48,Dan,Worley,Dan Worley,Male,Jersey,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:45,,,,,,48
+49,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:47,,,,,,49
+50,Niall,Spence,Niall Spence,Male,United Kingdom,Lake District Barbell,https://athxgames.com/storage/profile-photos/7S3KHgSbkEOOnhIktd6tXWhDpIxy02rXIJUtoIFZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:52,,,,,,50
+51,Aiden,McAteer,Aiden McAteer,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:54,,,,,,51
+52,Sam,Winter,Sam Winter,Male,,,https://athxgames.com/storage/profile-photos/CQgXY2sXP95lJY6GUlHB0S4geIDIQ7ghpkHPxHGZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:55,,,,,,52
+53,Page,Barrington,Page Barrington,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:08,,,,,,53
+54,Kieran,Oliver,Kieran Oliver,Male,United Kingdom,,https://ui-avatars.com/api/?name=K+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:14,,,,,,54
+55,Jordan,Leader,Jordan Leader,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:26,,,,,,55
+56,ANTHONY,Hann,ANTHONY Hann,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:28,,,,,,56
+57,Callum,Hawthorne,Callum Hawthorne,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:30,,,,,,57
+58,Craig,Pereira,Craig Pereira,Male,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:32,,,,,,58
+59,Brian,Exelbert,Brian Exelbert,Male,,,https://ui-avatars.com/api/?name=B+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:36,,,,,,59
+60,Ciaran,Nelson,Ciaran Nelson,Male,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:47,,,,,,60
+61,Kyle,Wafer,Kyle Wafer,Male,,,https://ui-avatars.com/api/?name=K+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:56,,,,,,61
+62,Joe,Tomaney,Joe Tomaney,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:05,,,,,,62
+63,Elfadil,Elmahdi,Elfadil Elmahdi,Male,,,https://athxgames.com/storage/profile-photos/xXDefJyTeXHjUxaBUG4livvD5xJO8QnwzOXDJ6th.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:09,,,,,,63
+64,Mark,Ingram,Mark Ingram,Male,,,https://ui-avatars.com/api/?name=M+I&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:16,,,,,,64
+65,Michael,Hill,Michael Hill,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:34,,,,,,65
+66,Kevin,Shepherd,Kevin Shepherd,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:35,,,,,,66
+67,AARON,BECK,AARON BECK,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:40,,,,,,67
+68,James,Paddock,James Paddock,Male,United Kingdom,Move & Burn Llandudno,https://athxgames.com/storage/profile-photos/Qvz2rtl5lIG7lu98xc9uMRhuXW0lSZeztcDDDFdh.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:53,,,,,,68
+68,Tawanda,Goto,Tawanda Goto,Male,United Kingdom,Coach Tai,https://athxgames.com/storage/profile-photos/sDb4Os3vN1aRqziQCTsXhynwEY3hxV2PvwFrkg1Z.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:53,,,,,,68
+70,Jack,Leather,Jack Leather,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:06,,,,,,70
+71,Kyle,Paull,Kyle Paull,Male,,,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:12,,,,,,71
+72,Martin,Evans,Martin Evans,Male,United Kingdom,Independent,https://athxgames.com/storage/profile-photos/wry9JGlGpGc1NYJ8gjHDnnTqc3BgFa2jZoOK8926.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:26,,,,,,72
+73,Neil,Hodgson,Neil Hodgson,Male,United Kingdom,,https://ui-avatars.com/api/?name=N+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:48,,,,,,73
+74,Michael,Harte,Michael Harte,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:15,,,,,,74
+75,Domenico,Colavito,Domenico Colavito,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:24,,,,,,75
+76,Stan,Verity,Stan Verity,Male,,,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:28,,,,,,76
+77,Joe,Haley,Joe Haley,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:35,,,,,,77
+78,Lewis,Linaker,Lewis Linaker,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:41,,,,,,78
+79,john,Carragher,john Carragher,Male,,,https://ui-avatars.com/api/?name=j+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:52,,,,,,79
+80,Ben,Patterson,Ben Patterson,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:38,,,,,,80
+81,Ian,Rice,Ian Rice,Male,,,https://ui-avatars.com/api/?name=I+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,17:24,,,,,,81
+82,Daniel,Schäfer,Daniel Schäfer,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,17:28,,,,,,82
+83,Kevin,Morrissey,Kevin Morrissey,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,17:43,,,,,,83
+84,Yusuf,Lambat,Yusuf Lambat,Male,,,https://ui-avatars.com/api/?name=Y+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,18:03,,,,,,84
+85,Kieran,Scott,Kieran Scott,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,19:37,,,,,,85
+86,James,Hardwick,James Hardwick,Male,United Kingdom,JD gym,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,19:47,,,,,,86
+87,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,20:10,,,,,,87
+88,Oliver,Stretton,Oliver Stretton,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:32,,,,,,88
+89,Seamus,Weatherhead,Seamus Weatherhead,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:34,,,,,,89
+90,Clement,Petrocchi,Clement Petrocchi,Male,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,28:10,,,,,,90
+91,Christopher,Brooks,Christopher Brooks,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,29:07,,,,,,91
+1,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+2,Phil,Hesketh,Phil Hesketh,Male,United Kingdom,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,2
+3,Anthony,Cheetham,Anthony Cheetham,Male,United Kingdom,Biffa Fitness,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,Ish,O'connor,Ish O'connor,Male,United Kingdom,Ish fitness,https://ui-avatars.com/api/?name=I+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,Josh,Bland,Josh Bland,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+5,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+7,Danny,Ashton,Danny Ashton,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,7
+8,Ash,Jones,Ash Jones,Male,,,https://ui-avatars.com/api/?name=A+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+9,Dominic,Geoghegan,Dominic Geoghegan,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,9
+10,Tristan,McCorry,Tristan McCorry,Male,Ireland,Front Row Fitness,https://ui-avatars.com/api/?name=T+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,10
+11,Jason,Donaldson,Jason Donaldson,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,11
+12,Jamie,Wilson,Jamie Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,12
+13,Ian,Murray,Ian Murray,Male,Ireland,,https://ui-avatars.com/api/?name=I+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,13
+14,John,Woollard,John Woollard,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,14
+14,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,14
+16,Daniel,Allen,Daniel Allen,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,16
+17,John,Denovan,John Denovan,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,17
+18,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,18
+19,junaid,dar,junaid dar,Male,,,https://ui-avatars.com/api/?name=j+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,19
+20,Luke,Jordan,Luke Jordan,Male,,,https://ui-avatars.com/api/?name=L+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,20
+21,Shane,Angus,Shane Angus,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,21
+22,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,22
+1,Phil,Hesketh,Phil Hesketh,Male,United Kingdom,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,07:09,,,,,,1
+2,Ish,O'connor,Ish O'connor,Male,United Kingdom,Ish fitness,https://ui-avatars.com/api/?name=I+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,07:25,,,,,,2
+3,Josh,Bland,Josh Bland,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,08:17,,,,,,3
+4,Jamie,Wilson,Jamie Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,08:20,,,,,,4
+5,Danny,Ashton,Danny Ashton,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,08:29,,,,,,5
+5,Tristan,McCorry,Tristan McCorry,Male,Ireland,Front Row Fitness,https://ui-avatars.com/api/?name=T+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,08:29,,,,,,5
+7,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,08:40,,,,,,7
+8,John,Woollard,John Woollard,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,09:02,,,,,,8
+9,Anthony,Cheetham,Anthony Cheetham,Male,United Kingdom,Biffa Fitness,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,09:07,,,,,,9
+10,Ash,Jones,Ash Jones,Male,,,https://ui-avatars.com/api/?name=A+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,09:55,,,,,,10
+11,Dominic,Geoghegan,Dominic Geoghegan,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:42,,,,,,11
+11,Daniel,Allen,Daniel Allen,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:42,,,,,,11
+13,Ian,Murray,Ian Murray,Male,Ireland,,https://ui-avatars.com/api/?name=I+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:45,,,,,,13
+14,Jason,Donaldson,Jason Donaldson,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:10,,,,,,14
+15,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:18,,,,,,15
+16,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,13:10,,,,,,16
+17,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,13:59,,,,,,17
+18,Nathan,Owen,Nathan Owen,Male,,,https://ui-avatars.com/api/?name=N+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:11,,,,,,18
+19,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:51,,,,,,19
+20,Shane,Angus,Shane Angus,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,17:09,,,,,,20
+21,junaid,dar,junaid dar,Male,,,https://ui-avatars.com/api/?name=j+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,17:49,,,,,,21
+22,Luke,Jordan,Luke Jordan,Male,,,https://ui-avatars.com/api/?name=L+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,18:38,,,,,,22
+23,John,Denovan,John Denovan,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,27:53,,,,,,23
+1,Folawe,Abraham,Folawe Abraham,Female,,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,3 (147KG),2 (9.022KM),2 (07:27),,,,,,7
+2,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,6 (137KG),3 (8.968KM),1 (07:15),,,,,,10
+3,Kirsty,Mcconnell,Kirsty Mcconnell,Female,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,2 (150KG),10 (8.363KM),6 (08:46),,,,,,18
+4,Maebh,Moriarty,Maebh Moriarty,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,9 (130KG),5 (8.685KM),5 (08:11),,,,,,19
+5,Chelsea,Brown,Chelsea Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,10 (125KG),6 (8.632KM),4 (08:07),,,,,,20
+6,Takiah,Brownlow,Takiah Brownlow,Female,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,5 (140KG),11 (8.311KM),6 (08:46),,,,,,22
+7,Leah,Bromley,Leah Bromley,Female,United Kingdom,Simply gym,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,1 (153KG),14 (8.161KM),8 (09:00),,,,,,23
+8,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,3 (147KG),12 (8.288KM),11 (09:24),,,,,,26
+9,Sophia,Malik,Sophia Malik,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,7 (135KG),17 (8.011KM),11 (09:24),,,,,,35
+9,Kirsty,Stott,Kirsty Stott,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,18 (113KG),9 (8.563KM),8 (09:00),,,,,,35
+11,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,29 (95KG),4 (8.761KM),3 (07:50),,,,,,36
+12,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,23 (100KG),1 (9.032KM),13 (09:27),,,,,,37
+13,samah,alkayed,samah alkayed,Female,,,https://ui-avatars.com/api/?name=s+a&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (115KG),13 (8.275KM),15 (09:46),,,,,,43
+14,Kelsie,Johnson,Kelsie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (115KG),7 (8.62KM),25 (11:56),,,,,,47
+15,Caroline,Goulding,Caroline Goulding,Female,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,14 (118KG),19 (8KM),17 (10:27),,,,,,50
+15,Katy,Jones,Katy Jones,Female,,,https://athxgames.com/storage/profile-photos/VnbC17jhsrNfJQr36RDk2TAw740Zug8i65s092Jn.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,23 (100KG),8 (8.571KM),19 (10:49),,,,,,50
+17,Agata,Worotynska,Agata Worotynska,Female,,,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,19 (110KG),23 (7.968KM),10 (09:15),,,,,,52
+18,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,11 (123KG),16 (8.076KM),33 (14:35),,,,,,60
+19,Beth,jones,Beth jones,Female,United Kingdom,Thtyv fitness,https://athxgames.com/storage/profile-photos/I5cWpikdxkzT8VGnFW1FDbj8ZiuUbuvGlR9jS6V8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,8 (132KG),37 (7.289KM),18 (10:41),,,,,,63
+19,Becky,Lovatt,Becky Lovatt,Female,,,https://ui-avatars.com/api/?name=B+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,27 (97KG),22 (7.969KM),14 (09:40),,,,,,63
+21,Claire,Carmichael,Claire Carmichael,Female,,,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,12 (121KG),30 (7.669KM),26 (12:32),,,,,,68
+22,Emily,Prince,Emily Prince,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,29 (95KG),24 (7.931KM),16 (10:05),,,,,,69
+22,Natalie,McQuire,Natalie McQuire,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,22 (103KG),25 (7.926KM),22 (11:21),,,,,,69
+24,Hannah,Rowbottom,Hannah Rowbottom,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (106KG),26 (7.907KM),23 (11:28),,,,,,70
+25,Rebecca,Newland,Rebecca Newland,Female,,,https://ui-avatars.com/api/?name=R+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,34 (84KG),18 (8.007KM),20 (11:06),,,,,,72
+25,Monica,Boland,Monica Boland,Female,,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,23 (100KG),28 (7.811KM),21 (11:18),,,,,,72
+27,Kathryn,Kerr,Kathryn Kerr,Female,,MVMT,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,19 (110KG),31 (7.642KM),24 (11:46),,,,,,74
+28,Ifigeneia,Boulioti,Ifigeneia Boulioti,Female,,,https://ui-avatars.com/api/?name=I+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,13 (120KG),36 (7.291KM),34 (14:57),,,,,,83
+29,Martha,Eason,Martha Eason,Female,,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,40 (56KG),15 (8.133KM),29 (12:52),,,,,,84
+29,Paige,Moran,Paige Moran,Female,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (115KG),33 (7.562KM),36 (15:16),,,,,,84
+31,Chrysanthi,Fergani,Chrysanthi Fergani,Female,,,https://ui-avatars.com/api/?name=C+F&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,23 (100KG),32 (7.569KM),30 (13:18),,,,,,85
+32,Sarah,Simpson,Sarah Simpson,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,32 (92KG),27 (7.879KM),31 (13:40),,,,,,90
+32,stephanie,newland,stephanie newland,Female,,,https://ui-avatars.com/api/?name=s+n&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,37 (73KG),21 (7.99KM),32 (14:22),,,,,,90
+34,Eve,Mckay,Eve Mckay,Female,,girlcode box,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,35 (78KG),29 (7.772KM),27 (12:33),,,,,,91
+35,Rachel,Dean,Rachel Dean,Female,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,36 (74KG),20 (7.991KM),39 (23:03),,,,,,95
+35,Gabriella,Salmon,Gabriella Salmon,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,32 (92KG),35 (7.382KM),28 (12:39),,,,,,95
+37,Samantha,Bowden,Samantha Bowden,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/11kiSaxyzspBfxxdB8neu6Fv3dWeeWSCjTdGsZAR.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,28 (96KG),34 (7.534KM),35 (14:59),,,,,,97
+38,Marta,Jankowska,Marta Jankowska,Female,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,31 (94KG),38 (7.098KM),38 (17:59),,,,,,107
+39,Janet,King,Janet King,Female,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,39 (57KG),40 (5.889KM),37 (16:23),,,,,,116
+40,Liz,Skelton,Liz Skelton,Female,United Kingdom,David Lloyd Farnham,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,38 (62KG),39 (6.101KM),40 (27:28),,,,,,117
+1,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,Folawe,Abraham,Folawe Abraham,Female,,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Maebh,Moriarty,Maebh Moriarty,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,Chelsea,Brown,Chelsea Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,Kelsie,Johnson,Kelsie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Katy,Jones,Katy Jones,Female,,,https://athxgames.com/storage/profile-photos/VnbC17jhsrNfJQr36RDk2TAw740Zug8i65s092Jn.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,8
+9,Kirsty,Stott,Kirsty Stott,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,9
+10,Kirsty,Mcconnell,Kirsty Mcconnell,Female,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,10
+11,Takiah,Brownlow,Takiah Brownlow,Female,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,11
+12,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,samah,alkayed,samah alkayed,Female,,,https://ui-avatars.com/api/?name=s+a&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,Leah,Bromley,Leah Bromley,Female,United Kingdom,Simply gym,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Martha,Eason,Martha Eason,Female,,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,Sophia,Malik,Sophia Malik,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,17
+18,Rebecca,Newland,Rebecca Newland,Female,,,https://ui-avatars.com/api/?name=R+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,18
+19,Caroline,Goulding,Caroline Goulding,Female,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Rachel,Dean,Rachel Dean,Female,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,stephanie,newland,stephanie newland,Female,,,https://ui-avatars.com/api/?name=s+n&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Becky,Lovatt,Becky Lovatt,Female,,,https://ui-avatars.com/api/?name=B+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,22
+23,Agata,Worotynska,Agata Worotynska,Female,,,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,23
+24,Emily,Prince,Emily Prince,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,24
+25,Natalie,McQuire,Natalie McQuire,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,25
+26,Hannah,Rowbottom,Hannah Rowbottom,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,26
+27,Sarah,Simpson,Sarah Simpson,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,27
+28,Monica,Boland,Monica Boland,Female,,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,28
+29,Eve,Mckay,Eve Mckay,Female,,girlcode box,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,29
+30,Claire,Carmichael,Claire Carmichael,Female,,,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,30
+31,Kathryn,Kerr,Kathryn Kerr,Female,,MVMT,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,31
+32,Chrysanthi,Fergani,Chrysanthi Fergani,Female,,,https://ui-avatars.com/api/?name=C+F&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,32
+33,Paige,Moran,Paige Moran,Female,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,33
+34,Samantha,Bowden,Samantha Bowden,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/11kiSaxyzspBfxxdB8neu6Fv3dWeeWSCjTdGsZAR.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,34
+35,Gabriella,Salmon,Gabriella Salmon,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,35
+36,Ifigeneia,Boulioti,Ifigeneia Boulioti,Female,,,https://ui-avatars.com/api/?name=I+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,36
+37,Beth,jones,Beth jones,Female,United Kingdom,Thtyv fitness,https://athxgames.com/storage/profile-photos/I5cWpikdxkzT8VGnFW1FDbj8ZiuUbuvGlR9jS6V8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,37
+38,Marta,Jankowska,Marta Jankowska,Female,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,38
+39,Liz,Skelton,Liz Skelton,Female,United Kingdom,David Lloyd Farnham,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,39
+40,Janet,King,Janet King,Female,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,40
+1,Sam,Pask,Sam Pask,Male,United Kingdom,Unit 8 Training,https://athxgames.com/storage/profile-photos/FcMyaTrD8pIRRDtiJYA9oTJBoH0XsG9fCJsCH90c.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),15 (9.353KM),1 (07:15),,,,,,28
+2,Sam,Griffiths,Sam Griffiths,Male,,CrossFit Verulamium,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,24 (192KG),9 (9.467KM),4 (07:42),,,,,,37
+3,Michael,Mitchell,Michael Mitchell,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,4 (250KG),22 (9.205KM),12 (09:04),,,,,,38
+4,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,6 (235KG),25 (9.112KM),8 (08:41),,,,,,39
+5,Ross,Coulson,Ross Coulson,Male,,Cumbria Strength & Conditioning,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,9 (225KG),20 (9.252KM),11 (09:00),,,,,,40
+6,Daniel,Lamb,Daniel Lamb,Male,,,https://ui-avatars.com/api/?name=D+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,1 (261KG),37 (8.948KM),7 (08:23),,,,,,45
+7,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,37 (178KG),6 (9.693KM),2 (07:33),,,,,,45
+8,sam,davey,sam davey,Male,,,https://ui-avatars.com/api/?name=s+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (244KG),36 (8.961KM),6 (08:18),,,,,,47
+8,Ethan,Langhorn,Ethan Langhorn,Male,,,https://ui-avatars.com/api/?name=E+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (180KG),8 (9.561KM),5 (08:09),,,,,,47
+10,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (186KG),2 (10.01KM),19 (09:34),,,,,,50
+11,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (200KG),14 (9.373KM),17 (09:22),,,,,,50
+12,Ash,Armstrong,Ash Armstrong,Male,,,https://athxgames.com/storage/profile-photos/rl7EqR7f48P3MNDC6wuo9QjXR0wM4zX0xVsC3yk7.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,9 (225KG),21 (9.236KM),26 (10:33),,,,,,56
+13,Anthony,Morison,Anthony Morison,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),12 (9.4KM),14 (09:14),,,,,,66
+13,Gareth,Quinn,Gareth Quinn,Male,,,https://ui-avatars.com/api/?name=G+Q&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,16 (206KG),30 (9.042KM),20 (09:43),,,,,,66
+15,Adam,Elward,Adam Elward,Male,United Kingdom,JD gym llansamlet,https://athxgames.com/storage/profile-photos/ZeRw3gZ8AgPbmZYoruuKjRWs5DDqt5lkfeiK073o.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,11 (216KG),18 (9.27KM),39 (11:21),,,,,,68
+16,Ashton,Cooper,Ashton Cooper,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (200KG),33 (8.998KM),17 (09:22),,,,,,69
+17,Jacopo,Gadani,Jacopo Gadani,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),3 (9.926KM),27 (10:39),,,,,,70
+18,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,38 (175KG),13 (9.398KM),21 (09:44),,,,,,72
+19,Chris,Rowley,Chris Rowley,Male,,,https://athxgames.com/storage/profile-photos/I6oNpLrlXIhCDWclwTGP9q8lnlSqK1YIziLaTSAH.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (190KG),5 (9.741KM),44 (11:37),,,,,,74
+20,Jason,Lamonby parker,Jason Lamonby parker,Male,United Kingdom,JLP Coaching,https://athxgames.com/storage/profile-photos/z7WM4eptJPNPWRGQMiNL8M4K7qB0SM6vgcXew7k4.png,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,18 (203KG),55 (8.682KM),3 (07:40),,,,,,76
+20,Callum,Hawthorne,Callum Hawthorne,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),7 (9.583KM),57 (12:30),,,,,,76
+22,Warren,Purcell,Warren Purcell,Male,,,https://ui-avatars.com/api/?name=W+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,15 (210KG),19 (9.268KM),43 (11:35),,,,,,77
+22,Robert,Humphreys,Robert Humphreys,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/1fBLviCshwcOEBJ8iU02uh9RlM87McziEeQyOqTA.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,30 (185KG),32 (9.017KM),15 (09:16),,,,,,77
+24,Daniel,Turner,Daniel Turner,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,8 (230KG),34 (8.996KM),38 (11:20),,,,,,80
+24,Tom,Elkington,Tom Elkington,Male,,,https://ui-avatars.com/api/?name=T+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,59 (155KG),11 (9.424KM),10 (08:43),,,,,,80
+26,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,30 (185KG),4 (9.924KM),47 (11:42),,,,,,81
+27,Terry,Gornell,Terry Gornell,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,59 (155KG),10 (9.446KM),13 (09:13),,,,,,82
+28,Gavin,Plews,Gavin Plews,Male,,CrossFit Jacana,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),23 (9.182KM),23 (10:10),,,,,,86
+29,Robert,Worrincy,Robert Worrincy,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,6 (235KG),54 (8.684KM),28 (10:42),,,,,,88
+29,Jack,Kish,Jack Kish,Male,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (180KG),26 (9.108KM),28 (10:42),,,,,,88
+31,Simon,Arnold,Simon Arnold,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,28 (187KG),45 (8.779KM),16 (09:17),,,,,,89
+32,Billy,Brown,Billy Brown,Male,United Kingdom,Dual Strength & Fitness,https://athxgames.com/storage/profile-photos/t8EkikOXXxoqjCFcJaWJ2z6vMycFDNPz5A4iUKUU.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,3 (251KG),53 (8.69KM),35 (11:18),,,,,,91
+32,James,Case,James Case,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),49 (8.77KM),30 (11:01),,,,,,91
+34,Mikey,Garry,Mikey Garry,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,2 (257KG),74 (8.277KM),22 (09:56),,,,,,98
+35,Sam,Thorpe,Sam Thorpe,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,39 (172KG),38 (8.94KM),24 (10:13),,,,,,101
+36,Jake,Parr,Jake Parr,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),59 (8.607KM),9 (08:42),,,,,,108
+37,Ben,Cottrell,Ben Cottrell,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,48 (169KG),28 (9.078KM),34 (11:15),,,,,,110
+38,Stephen,Broadley,Stephen Broadley,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (160KG),27 (9.101KM),32 (11:08),,,,,,111
+39,Dan,Worley,Dan Worley,Male,Jersey,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,23 (195KG),43 (8.802KM),48 (11:45),,,,,,114
+40,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (200KG),50 (8.764KM),49 (11:47),,,,,,118
+41,David,Matthias,David Matthias,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,51 (163KG),46 (8.778KM),25 (10:25),,,,,,122
+42,John,Regan,John Regan,Male,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,79 (130KG),16 (9.352KM),33 (11:10),,,,,,128
+43,Jordan,Leader,Jordan Leader,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,30 (185KG),47 (8.777KM),55 (12:26),,,,,,132
+44,Sam,Winter,Sam Winter,Male,,,https://athxgames.com/storage/profile-photos/CQgXY2sXP95lJY6GUlHB0S4geIDIQ7ghpkHPxHGZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),41 (8.862KM),52 (11:55),,,,,,133
+45,Caleb,Kenneford,Caleb Kenneford,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (200KG),71 (8.332KM),45 (11:38),,,,,,135
+46,Luke,Robertson,Luke Robertson,Male,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),66 (8.506KM),30 (11:01),,,,,,136
+47,Jay,Bardsley,Jay Bardsley,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,49 (165KG),58 (8.612KM),37 (11:19),,,,,,144
+48,Joe,Tomaney,Joe Tomaney,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,88 (88KG),1 (10.247KM),62 (13:05),,,,,,151
+49,Aiden,McAteer,Aiden McAteer,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),61 (8.557KM),51 (11:54),,,,,,152
+50,Franklin,Hargreaves,Franklin Hargreaves,Male,,,https://ui-avatars.com/api/?name=F+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,81 (121KG),31 (9.02KM),42 (11:34),,,,,,154
+51,Kieran,Oliver,Kieran Oliver,Male,United Kingdom,,https://ui-avatars.com/api/?name=K+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,81 (121KG),24 (9.129KM),54 (12:14),,,,,,159
+52,David,Rushton,David Rushton,Male,United Kingdom,David,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (160KG),76 (8.217KM),35 (11:18),,,,,,163
+53,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (160KG),72 (8.32KM),40 (11:24),,,,,,164
+54,Mark,Ingram,Mark Ingram,Male,,,https://ui-avatars.com/api/?name=M+I&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,33 (181KG),68 (8.438KM),64 (13:16),,,,,,165
+54,Kevin,Morrissey,Kevin Morrissey,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (170KG),42 (8.851KM),83 (17:43),,,,,,165
+54,Page,Barrington,Page Barrington,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,64 (153KG),48 (8.776KM),53 (12:08),,,,,,165
+57,Scott,Senior,Scott Senior,Male,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (160KG),73 (8.296KM),41 (11:26),,,,,,166
+57,Kevin,Shepherd,Kevin Shepherd,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,71 (140KG),29 (9.069KM),66 (13:35),,,,,,166
+59,john,Carragher,john Carragher,Male,,,https://ui-avatars.com/api/?name=j+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,71 (140KG),17 (9.302KM),79 (15:52),,,,,,167
+60,Marc,Puertas,Marc Puertas,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,66 (150KG),56 (8.63KM),46 (11:40),,,,,,168
+61,ANTHONY,Hann,ANTHONY Hann,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,49 (165KG),64 (8.532KM),56 (12:28),,,,,,169
+61,Michael,Hill,Michael Hill,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (190KG),79 (8.17KM),65 (13:34),,,,,,169
+63,Ciaran,Nelson,Ciaran Nelson,Male,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (160KG),60 (8.566KM),60 (12:47),,,,,,172
+64,Lewis,Linaker,Lewis Linaker,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,59 (155KG),39 (8.887KM),78 (15:41),,,,,,176
+65,Niall,Spence,Niall Spence,Male,United Kingdom,Lake District Barbell,https://athxgames.com/storage/profile-photos/7S3KHgSbkEOOnhIktd6tXWhDpIxy02rXIJUtoIFZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,65 (152KG),62 (8.554KM),50 (11:52),,,,,,177
+66,AARON,BECK,AARON BECK,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,59 (155KG),52 (8.696KM),67 (13:40),,,,,,178
+67,Martin,Evans,Martin Evans,Male,United Kingdom,Independent,https://athxgames.com/storage/profile-photos/wry9JGlGpGc1NYJ8gjHDnnTqc3BgFa2jZoOK8926.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (190KG),86 (7.541KM),72 (14:26),,,,,,183
+67,Joe,Haley,Joe Haley,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,16 (206KG),90 (7.263KM),77 (15:35),,,,,,183
+69,Elfadil,Elmahdi,Elfadil Elmahdi,Male,,,https://athxgames.com/storage/profile-photos/xXDefJyTeXHjUxaBUG4livvD5xJO8QnwzOXDJ6th.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,58 (157KG),67 (8.479KM),63 (13:09),,,,,,188
+70,Domenico,Colavito,Domenico Colavito,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,78 (131KG),40 (8.863KM),75 (15:24),,,,,,193
+71,Ben,Patterson,Ben Patterson,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,71 (140KG),44 (8.796KM),80 (16:38),,,,,,195
+72,James,Paddock,James Paddock,Male,United Kingdom,Move & Burn Llandudno,https://athxgames.com/storage/profile-photos/Qvz2rtl5lIG7lu98xc9uMRhuXW0lSZeztcDDDFdh.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,66 (150KG),65 (8.529KM),68 (13:53),,,,,,199
+73,Daniel,Schäfer,Daniel Schäfer,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,59 (155KG),63 (8.55KM),82 (17:28),,,,,,204
+74,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (180KG),85 (7.767KM),87 (20:10),,,,,,206
+75,Kyle,Wafer,Kyle Wafer,Male,,,https://ui-avatars.com/api/?name=K+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,77 (134KG),69 (8.411KM),61 (12:56),,,,,,207
+76,Jack,Leather,Jack Leather,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,81 (121KG),57 (8.627KM),70 (14:06),,,,,,208
+77,Michael,Harte,Michael Harte,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,84 (120KG),51 (8.738KM),74 (15:15),,,,,,209
+78,Oliver,Stretton,Oliver Stretton,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,89 (86KG),35 (8.986KM),88 (22:32),,,,,,212
+79,Neil,Hodgson,Neil Hodgson,Male,United Kingdom,,https://ui-avatars.com/api/?name=N+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,70 (141KG),70 (8.358KM),73 (14:48),,,,,,213
+80,Tawanda,Goto,Tawanda Goto,Male,United Kingdom,Coach Tai,https://athxgames.com/storage/profile-photos/sDb4Os3vN1aRqziQCTsXhynwEY3hxV2PvwFrkg1Z.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,71 (140KG),80 (8.166KM),68 (13:53),,,,,,219
+81,Stan,Verity,Stan Verity,Male,,,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,69 (143KG),78 (8.175KM),76 (15:28),,,,,,223
+82,Brian,Exelbert,Brian Exelbert,Male,,,https://ui-avatars.com/api/?name=B+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,86 (100KG),81 (7.964KM),59 (12:36),,,,,,226
+83,Seamus,Weatherhead,Seamus Weatherhead,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (160KG),89 (7.307KM),89 (22:34),,,,,,230
+84,Yusuf,Lambat,Yusuf Lambat,Male,,,https://ui-avatars.com/api/?name=Y+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,66 (150KG),87 (7.497KM),84 (18:03),,,,,,237
+85,Kieran,Scott,Kieran Scott,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,71 (140KG),82 (7.873KM),85 (19:37),,,,,,238
+86,Kyle,Paull,Kyle Paull,Male,,,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,87 (97KG),83 (7.841KM),71 (14:12),,,,,,241
+87,James,Hardwick,James Hardwick,Male,United Kingdom,JD gym,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,80 (129KG),77 (8.208KM),86 (19:47),,,,,,243
+88,Christopher,Brooks,Christopher Brooks,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,76 (137KG),83 (7.841KM),91 (29:07),,,,,,250
+89,Ian,Rice,Ian Rice,Male,,,https://ui-avatars.com/api/?name=I+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,85 (116KG),88 (7.43KM),81 (17:24),,,,,,254
+90,Clement,Petrocchi,Clement Petrocchi,Male,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,90 (71KG),75 (8.253KM),90 (28:10),,,,,,255
+1,Natalie,Morrison,Natalie Morrison,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+2,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,2
+3,Abbi,Stevens,Abbi Stevens,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,3
+4,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,4
+5,Jodie,Collis,Jodie Collis,Female,,Ground Zero Fitness,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,5
+6,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,6
+7,Amy,Gutsell,Amy Gutsell,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,7
+8,Lucie,Woods,Lucie Woods,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,8
+9,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,9
+10,Kate,Dick,Kate Dick,Female,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,10
+11,sophie,smith,sophie smith,Female,,,https://ui-avatars.com/api/?name=s+s&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,11
+12,Dana-Jane,Maybin,Dana-Jane Maybin,Female,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,12
+1,Joe,Tomaney,Joe Tomaney,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Jacopo,Gadani,Jacopo Gadani,Male,,,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Chris,Rowley,Chris Rowley,Male,,,https://athxgames.com/storage/profile-photos/I6oNpLrlXIhCDWclwTGP9q8lnlSqK1YIziLaTSAH.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Callum,Hawthorne,Callum Hawthorne,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Ethan,Langhorn,Ethan Langhorn,Male,,,https://ui-avatars.com/api/?name=E+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,Sam,Griffiths,Sam Griffiths,Male,,CrossFit Verulamium,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Terry,Gornell,Terry Gornell,Male,United Kingdom,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Tom,Elkington,Tom Elkington,Male,,,https://ui-avatars.com/api/?name=T+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,Anthony,Morison,Anthony Morison,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Sam,Pask,Sam Pask,Male,United Kingdom,Unit 8 Training,https://athxgames.com/storage/profile-photos/FcMyaTrD8pIRRDtiJYA9oTJBoH0XsG9fCJsCH90c.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,John,Regan,John Regan,Male,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,john,Carragher,john Carragher,Male,,,https://ui-avatars.com/api/?name=j+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Adam,Elward,Adam Elward,Male,United Kingdom,JD gym llansamlet,https://athxgames.com/storage/profile-photos/ZeRw3gZ8AgPbmZYoruuKjRWs5DDqt5lkfeiK073o.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Warren,Purcell,Warren Purcell,Male,,,https://ui-avatars.com/api/?name=W+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Ross,Coulson,Ross Coulson,Male,,Cumbria Strength & Conditioning,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,20
+21,Ash,Armstrong,Ash Armstrong,Male,,,https://athxgames.com/storage/profile-photos/rl7EqR7f48P3MNDC6wuo9QjXR0wM4zX0xVsC3yk7.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,21
+22,Michael,Mitchell,Michael Mitchell,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,22
+23,Gavin,Plews,Gavin Plews,Male,,CrossFit Jacana,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,23
+24,Kieran,Oliver,Kieran Oliver,Male,United Kingdom,,https://ui-avatars.com/api/?name=K+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,24
+25,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,25
+26,Jack,Kish,Jack Kish,Male,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,26
+27,Stephen,Broadley,Stephen Broadley,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,27
+28,Ben,Cottrell,Ben Cottrell,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,28
+29,Kevin,Shepherd,Kevin Shepherd,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,29
+30,Gareth,Quinn,Gareth Quinn,Male,,,https://ui-avatars.com/api/?name=G+Q&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,30
+31,Franklin,Hargreaves,Franklin Hargreaves,Male,,,https://ui-avatars.com/api/?name=F+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,31
+32,Robert,Humphreys,Robert Humphreys,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/1fBLviCshwcOEBJ8iU02uh9RlM87McziEeQyOqTA.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,32
+33,Ashton,Cooper,Ashton Cooper,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,33
+34,Daniel,Turner,Daniel Turner,Male,,,https://ui-avatars.com/api/?name=D+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,34
+35,Oliver,Stretton,Oliver Stretton,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,35
+36,sam,davey,sam davey,Male,,,https://ui-avatars.com/api/?name=s+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,36
+37,Daniel,Lamb,Daniel Lamb,Male,,,https://ui-avatars.com/api/?name=D+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,37
+38,Sam,Thorpe,Sam Thorpe,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,38
+39,Lewis,Linaker,Lewis Linaker,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,39
+40,Domenico,Colavito,Domenico Colavito,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,40
+41,Sam,Winter,Sam Winter,Male,,,https://athxgames.com/storage/profile-photos/CQgXY2sXP95lJY6GUlHB0S4geIDIQ7ghpkHPxHGZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,41
+42,Kevin,Morrissey,Kevin Morrissey,Male,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,42
+43,Dan,Worley,Dan Worley,Male,Jersey,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,43
+44,Ben,Patterson,Ben Patterson,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,44
+45,Simon,Arnold,Simon Arnold,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,45
+46,David,Matthias,David Matthias,Male,United Kingdom,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,46
+47,Jordan,Leader,Jordan Leader,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,47
+48,Page,Barrington,Page Barrington,Male,,,https://ui-avatars.com/api/?name=P+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,48
+49,James,Case,James Case,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,49
+50,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,50
+51,Michael,Harte,Michael Harte,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,51
+52,AARON,BECK,AARON BECK,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,52
+53,Billy,Brown,Billy Brown,Male,United Kingdom,Dual Strength & Fitness,https://athxgames.com/storage/profile-photos/t8EkikOXXxoqjCFcJaWJ2z6vMycFDNPz5A4iUKUU.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,53
+54,Robert,Worrincy,Robert Worrincy,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,54
+55,Jason,Lamonby parker,Jason Lamonby parker,Male,United Kingdom,JLP Coaching,https://athxgames.com/storage/profile-photos/z7WM4eptJPNPWRGQMiNL8M4K7qB0SM6vgcXew7k4.png,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,55
+56,Marc,Puertas,Marc Puertas,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,56
+57,Jack,Leather,Jack Leather,Male,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,57
+58,Jay,Bardsley,Jay Bardsley,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,58
+59,Jake,Parr,Jake Parr,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,59
+60,Ciaran,Nelson,Ciaran Nelson,Male,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,60
+61,Aiden,McAteer,Aiden McAteer,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,61
+62,Niall,Spence,Niall Spence,Male,United Kingdom,Lake District Barbell,https://athxgames.com/storage/profile-photos/7S3KHgSbkEOOnhIktd6tXWhDpIxy02rXIJUtoIFZ.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,62
+63,Daniel,Schäfer,Daniel Schäfer,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,63
+64,ANTHONY,Hann,ANTHONY Hann,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,64
+65,James,Paddock,James Paddock,Male,United Kingdom,Move & Burn Llandudno,https://athxgames.com/storage/profile-photos/Qvz2rtl5lIG7lu98xc9uMRhuXW0lSZeztcDDDFdh.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,65
+66,Luke,Robertson,Luke Robertson,Male,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,66
+67,Elfadil,Elmahdi,Elfadil Elmahdi,Male,,,https://athxgames.com/storage/profile-photos/xXDefJyTeXHjUxaBUG4livvD5xJO8QnwzOXDJ6th.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,67
+68,Mark,Ingram,Mark Ingram,Male,,,https://ui-avatars.com/api/?name=M+I&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,68
+69,Kyle,Wafer,Kyle Wafer,Male,,,https://ui-avatars.com/api/?name=K+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,69
+70,Neil,Hodgson,Neil Hodgson,Male,United Kingdom,,https://ui-avatars.com/api/?name=N+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,70
+71,Caleb,Kenneford,Caleb Kenneford,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,71
+72,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,72
+73,Scott,Senior,Scott Senior,Male,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,73
+74,Mikey,Garry,Mikey Garry,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,74
+75,Clement,Petrocchi,Clement Petrocchi,Male,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,75
+76,David,Rushton,David Rushton,Male,United Kingdom,David,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,76
+77,James,Hardwick,James Hardwick,Male,United Kingdom,JD gym,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,77
+78,Stan,Verity,Stan Verity,Male,,,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,78
+79,Michael,Hill,Michael Hill,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,79
+80,Tawanda,Goto,Tawanda Goto,Male,United Kingdom,Coach Tai,https://athxgames.com/storage/profile-photos/sDb4Os3vN1aRqziQCTsXhynwEY3hxV2PvwFrkg1Z.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,80
+81,Brian,Exelbert,Brian Exelbert,Male,,,https://ui-avatars.com/api/?name=B+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,81
+82,Kieran,Scott,Kieran Scott,Male,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,82
+83,Christopher,Brooks,Christopher Brooks,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,83
+83,Kyle,Paull,Kyle Paull,Male,,,https://ui-avatars.com/api/?name=K+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,83
+85,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,85
+86,Martin,Evans,Martin Evans,Male,United Kingdom,Independent,https://athxgames.com/storage/profile-photos/wry9JGlGpGc1NYJ8gjHDnnTqc3BgFa2jZoOK8926.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,86
+87,Yusuf,Lambat,Yusuf Lambat,Male,,,https://ui-avatars.com/api/?name=Y+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,87
+88,Ian,Rice,Ian Rice,Male,,,https://ui-avatars.com/api/?name=I+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,88
+89,Seamus,Weatherhead,Seamus Weatherhead,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,89
+90,Joe,Haley,Joe Haley,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,90
+1,Phil,Hesketh,Phil Hesketh,Male,United Kingdom,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,2 (315KG),3 (9.57KM),1 (07:09),,,,,,6
+2,Ish,O'connor,Ish O'connor,Male,United Kingdom,Ish fitness,https://ui-avatars.com/api/?name=I+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,4 (276KG),4 (9.548KM),2 (07:25),,,,,,10
+3,Danny,Ashton,Danny Ashton,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,7 (262KG),1 (9.712KM),5 (08:29),,,,,,13
+4,Josh,Bland,Josh Bland,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,5 (270KG),5 (9.528KM),3 (08:17),,,,,,13
+5,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,5 (270KG),7 (9.444KM),7 (08:40),,,,,,19
+6,Anthony,Cheetham,Anthony Cheetham,Male,United Kingdom,Biffa Fitness,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,3 (308KG),8 (9.423KM),9 (09:07),,,,,,20
+7,John,Woollard,John Woollard,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,14 (240KG),2 (9.602KM),8 (09:02),,,,,,24
+8,Jamie,Wilson,Jamie Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,12 (243KG),9 (9.389KM),4 (08:20),,,,,,25
+9,Tristan,McCorry,Tristan McCorry,Male,Ireland,Front Row Fitness,https://ui-avatars.com/api/?name=T+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,10 (255KG),13 (9.223KM),5 (08:29),,,,,,28
+10,Ash,Jones,Ash Jones,Male,,,https://ui-avatars.com/api/?name=A+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,8 (260KG),11 (9.266KM),10 (09:55),,,,,,29
+11,Dominic,Geoghegan,Dominic Geoghegan,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,9 (259KG),10 (9.32KM),11 (10:42),,,,,,30
+12,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,14 (240KG),12 (9.262KM),15 (12:18),,,,,,41
+13,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,1 (330KG),22 (8.225KM),19 (15:51),,,,,,42
+14,Daniel,Allen,Daniel Allen,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,16 (235KG),15 (9.027KM),11 (10:42),,,,,,42
+15,Ian,Murray,Ian Murray,Male,Ireland,,https://ui-avatars.com/api/?name=I+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,13 (241KG),18 (8.722KM),13 (11:45),,,,,,44
+16,Jason,Donaldson,Jason Donaldson,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,11 (246KG),20 (8.49KM),14 (12:10),,,,,,45
+17,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,22 (188KG),16 (8.848KM),16 (13:10),,,,,,54
+17,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,18 (220KG),19 (8.625KM),17 (13:59),,,,,,54
+19,Luke,Jordan,Luke Jordan,Male,,,https://ui-avatars.com/api/?name=L+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,20 (205KG),14 (9.176KM),22 (18:38),,,,,,56
+20,John,Denovan,John Denovan,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,17 (223KG),17 (8.793KM),23 (27:53),,,,,,57
+21,Shane,Angus,Shane Angus,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,21 (200KG),21 (8.29KM),20 (17:09),,,,,,62
+22,junaid,dar,junaid dar,Male,,,https://ui-avatars.com/api/?name=j+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,19 (213KG),23 (7.209KM),21 (17:49),,,,,,63
+1,Natalie,Morrison,Natalie Morrison,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,1 (205KG),1 (9.14KM),1 (08:08),,,,,,3
+2,Jodie,Collis,Jodie Collis,Female,,Ground Zero Fitness,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,2 (189KG),5 (8.463KM),2 (08:12),,,,,,9
+3,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,3 (184KG),4 (8.466KM),3 (09:12),,,,,,10
+4,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,5 (135KG),2 (8.788KM),5 (09:54),,,,,,12
+5,Abbi,Stevens,Abbi Stevens,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,9 (116KG),3 (8.499KM),6 (10:25),,,,,,18
+6,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,4 (176KG),9 (8.155KM),9 (10:56),,,,,,22
+7,Amy,Gutsell,Amy Gutsell,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,6 (133KG),7 (8.338KM),10 (11:22),,,,,,23
+7,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,10 (115KG),6 (8.38KM),7 (10:43),,,,,,23
+9,Dana-Jane,Maybin,Dana-Jane Maybin,Female,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,11 (114KG),12 (7.375KM),4 (09:28),,,,,,27
+10,Lucie,Woods,Lucie Woods,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,12 (102KG),8 (8.18KM),8 (10:46),,,,,,28
+11,Kate,Dick,Kate Dick,Female,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,8 (119KG),10 (8.128KM),11 (14:16),,,,,,29
+12,sophie,smith,sophie smith,Female,,,https://ui-avatars.com/api/?name=s+s&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,7 (123KG),11 (7.709KM),12 (14:31),,,,,,30
+1,Danny,Ashton,Danny Ashton,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,John,Woollard,John Woollard,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Phil,Hesketh,Phil Hesketh,Male,United Kingdom,,https://ui-avatars.com/api/?name=P+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Ish,O'connor,Ish O'connor,Male,United Kingdom,Ish fitness,https://ui-avatars.com/api/?name=I+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Josh,Bland,Josh Bland,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,Nathan,Owen,Nathan Owen,Male,,,https://ui-avatars.com/api/?name=N+O&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,Anthony,Cheetham,Anthony Cheetham,Male,United Kingdom,Biffa Fitness,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+9,Jamie,Wilson,Jamie Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,9
+10,Dominic,Geoghegan,Dominic Geoghegan,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,10
+11,Ash,Jones,Ash Jones,Male,,,https://ui-avatars.com/api/?name=A+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,11
+12,Daniel,McNeil,Daniel McNeil,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,12
+13,Tristan,McCorry,Tristan McCorry,Male,Ireland,Front Row Fitness,https://ui-avatars.com/api/?name=T+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,13
+14,Luke,Jordan,Luke Jordan,Male,,,https://ui-avatars.com/api/?name=L+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,14
+15,Daniel,Allen,Daniel Allen,Male,,,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,15
+16,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,16
+17,John,Denovan,John Denovan,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,17
+18,Ian,Murray,Ian Murray,Male,Ireland,,https://ui-avatars.com/api/?name=I+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,18
+19,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,19
+20,Jason,Donaldson,Jason Donaldson,Male,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,20
+21,Shane,Angus,Shane Angus,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,21
+22,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,22
+23,junaid,dar,junaid dar,Male,,,https://ui-avatars.com/api/?name=j+d&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,23
+1,Natalie,Morrison,Natalie Morrison,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+2,Jodie,Collis,Jodie Collis,Female,,Ground Zero Fitness,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,2
+3,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+4,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,4
+5,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,5
+6,Amy,Gutsell,Amy Gutsell,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,6
+7,sophie,smith,sophie smith,Female,,,https://ui-avatars.com/api/?name=s+s&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,7
+8,Kate,Dick,Kate Dick,Female,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,8
+9,Abbi,Stevens,Abbi Stevens,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,9
+10,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,10
+11,Dana-Jane,Maybin,Dana-Jane Maybin,Female,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,11
+12,Lucie,Woods,Lucie Woods,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,12
+1,Leah,Bromley,Leah Bromley,Female,United Kingdom,Simply gym,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,1
+2,Kirsty,Mcconnell,Kirsty Mcconnell,Female,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,2
+3,Folawe,Abraham,Folawe Abraham,Female,,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,3
+3,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,3
+5,Takiah,Brownlow,Takiah Brownlow,Female,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,5
+6,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,6
+7,Sophia,Malik,Sophia Malik,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,7
+8,Beth,jones,Beth jones,Female,United Kingdom,Thtyv fitness,https://athxgames.com/storage/profile-photos/I5cWpikdxkzT8VGnFW1FDbj8ZiuUbuvGlR9jS6V8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,8
+9,Maebh,Moriarty,Maebh Moriarty,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,9
+10,Chelsea,Brown,Chelsea Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,10
+11,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,11
+12,Claire,Carmichael,Claire Carmichael,Female,,,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,12
+13,Ifigeneia,Boulioti,Ifigeneia Boulioti,Female,,,https://ui-avatars.com/api/?name=I+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,13
+14,Caroline,Goulding,Caroline Goulding,Female,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,14
+15,Kelsie,Johnson,Kelsie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+15,Paige,Moran,Paige Moran,Female,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+15,samah,alkayed,samah alkayed,Female,,,https://ui-avatars.com/api/?name=s+a&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+18,Kirsty,Stott,Kirsty Stott,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,18
+19,Agata,Worotynska,Agata Worotynska,Female,,,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,19
+19,Kathryn,Kerr,Kathryn Kerr,Female,,MVMT,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,19
+21,Hannah,Rowbottom,Hannah Rowbottom,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+22,Natalie,McQuire,Natalie McQuire,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,22
+23,Katy,Jones,Katy Jones,Female,,,https://athxgames.com/storage/profile-photos/VnbC17jhsrNfJQr36RDk2TAw740Zug8i65s092Jn.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,23
+23,Monica,Boland,Monica Boland,Female,,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,23
+23,Chrysanthi,Fergani,Chrysanthi Fergani,Female,,,https://ui-avatars.com/api/?name=C+F&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,23
+23,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,23
+27,Becky,Lovatt,Becky Lovatt,Female,,,https://ui-avatars.com/api/?name=B+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,27
+28,Samantha,Bowden,Samantha Bowden,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/11kiSaxyzspBfxxdB8neu6Fv3dWeeWSCjTdGsZAR.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,28
+29,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,29
+29,Emily,Prince,Emily Prince,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,29
+31,Marta,Jankowska,Marta Jankowska,Female,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,31
+32,Gabriella,Salmon,Gabriella Salmon,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,32
+32,Sarah,Simpson,Sarah Simpson,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,32
+34,Rebecca,Newland,Rebecca Newland,Female,,,https://ui-avatars.com/api/?name=R+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,34
+35,Eve,Mckay,Eve Mckay,Female,,girlcode box,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,35
+36,Rachel,Dean,Rachel Dean,Female,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,36
+37,stephanie,newland,stephanie newland,Female,,,https://ui-avatars.com/api/?name=s+n&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,37
+38,Liz,Skelton,Liz Skelton,Female,United Kingdom,David Lloyd Farnham,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,38
+39,Janet,King,Janet King,Female,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,39
+40,Martha,Eason,Martha Eason,Female,,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,40
+1,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:15,,,,,,1
+2,Folawe,Abraham,Folawe Abraham,Female,,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:27,,,,,,2
+3,Ruth,Casey,Ruth Casey,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:50,,,,,,3
+4,Chelsea,Brown,Chelsea Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:07,,,,,,4
+5,Maebh,Moriarty,Maebh Moriarty,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:11,,,,,,5
+6,Takiah,Brownlow,Takiah Brownlow,Female,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:46,,,,,,6
+6,Kirsty,Mcconnell,Kirsty Mcconnell,Female,,,https://ui-avatars.com/api/?name=K+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:46,,,,,,6
+8,Leah,Bromley,Leah Bromley,Female,United Kingdom,Simply gym,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:00,,,,,,8
+8,Kirsty,Stott,Kirsty Stott,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:00,,,,,,8
+10,Agata,Worotynska,Agata Worotynska,Female,,,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:15,,,,,,10
+11,Sophia,Malik,Sophia Malik,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:24,,,,,,11
+11,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:24,,,,,,11
+13,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:27,,,,,,13
+14,Becky,Lovatt,Becky Lovatt,Female,,,https://ui-avatars.com/api/?name=B+L&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:40,,,,,,14
+15,samah,alkayed,samah alkayed,Female,,,https://ui-avatars.com/api/?name=s+a&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:46,,,,,,15
+16,Emily,Prince,Emily Prince,Female,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:05,,,,,,16
+17,Caroline,Goulding,Caroline Goulding,Female,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:27,,,,,,17
+18,Beth,jones,Beth jones,Female,United Kingdom,Thtyv fitness,https://athxgames.com/storage/profile-photos/I5cWpikdxkzT8VGnFW1FDbj8ZiuUbuvGlR9jS6V8.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:41,,,,,,18
+19,Katy,Jones,Katy Jones,Female,,,https://athxgames.com/storage/profile-photos/VnbC17jhsrNfJQr36RDk2TAw740Zug8i65s092Jn.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:49,,,,,,19
+20,Rebecca,Newland,Rebecca Newland,Female,,,https://ui-avatars.com/api/?name=R+N&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:06,,,,,,20
+21,Monica,Boland,Monica Boland,Female,,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:18,,,,,,21
+22,Natalie,McQuire,Natalie McQuire,Female,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:21,,,,,,22
+23,Hannah,Rowbottom,Hannah Rowbottom,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:28,,,,,,23
+24,Kathryn,Kerr,Kathryn Kerr,Female,,MVMT,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:46,,,,,,24
+25,Kelsie,Johnson,Kelsie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:56,,,,,,25
+26,Claire,Carmichael,Claire Carmichael,Female,,,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:32,,,,,,26
+27,Eve,Mckay,Eve Mckay,Female,,girlcode box,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:33,,,,,,27
+28,Gabriella,Salmon,Gabriella Salmon,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:39,,,,,,28
+29,Martha,Eason,Martha Eason,Female,,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:52,,,,,,29
+30,Chrysanthi,Fergani,Chrysanthi Fergani,Female,,,https://ui-avatars.com/api/?name=C+F&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:18,,,,,,30
+31,Sarah,Simpson,Sarah Simpson,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:40,,,,,,31
+32,stephanie,newland,stephanie newland,Female,,,https://ui-avatars.com/api/?name=s+n&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:22,,,,,,32
+33,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:35,,,,,,33
+34,Ifigeneia,Boulioti,Ifigeneia Boulioti,Female,,,https://ui-avatars.com/api/?name=I+B&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:57,,,,,,34
+35,Samantha,Bowden,Samantha Bowden,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/11kiSaxyzspBfxxdB8neu6Fv3dWeeWSCjTdGsZAR.jpg,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:59,,,,,,35
+36,Paige,Moran,Paige Moran,Female,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,15:16,,,,,,36
+37,Janet,King,Janet King,Female,,,https://ui-avatars.com/api/?name=J+K&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:23,,,,,,37
+38,Marta,Jankowska,Marta Jankowska,Female,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:59,,,,,,38
+39,Rachel,Dean,Rachel Dean,Female,,,https://ui-avatars.com/api/?name=R+D&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,23:03,,,,,,39
+40,Liz,Skelton,Liz Skelton,Female,United Kingdom,David Lloyd Farnham,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,27:28,,,,,,40

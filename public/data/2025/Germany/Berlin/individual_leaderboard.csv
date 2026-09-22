@@ -1,0 +1,517 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Chloe,Streets,Chloe Streets,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,3 (135KG),3 (8.725KM),1 (07:26),,,,,,7
+2,Maike,Höhne,Maike Höhne,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,1 (143KG),14 (8.159KM),4 (08:18),,,,,,19
+3,Ildiko,Szakali,Ildiko Szakali,Female,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,9 (117KG),7 (8.279KM),7 (09:29),,,,,,23
+4,Sarah,Stöck,Sarah Stöck,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,7 (120KG),10 (8.235KM),10 (09:45),,,,,,27
+5,Julia,Sauerborn,Julia Sauerborn,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,11 (115KG),13 (8.207KM),5 (09:15),,,,,,29
+5,Marijke,Jacobs,Marijke Jacobs,Female,Germany,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,14 (110KG),4 (8.594KM),11 (10:02),,,,,,29
+7,Anika,Hasse,Anika Hasse,Female,Germany,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,14 (110KG),10 (8.235KM),6 (09:26),,,,,,30
+8,Jana,Lebenstadt,Jana Lebenstadt,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,29 (80KG),1 (9.546KM),2 (07:53),,,,,,32
+9,Verena,Eder,Verena Eder,Female,Austria,Warrior Gym,https://ui-avatars.com/api/?name=V+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,16 (107KG),6 (8.383KM),14 (10:19),,,,,,36
+10,Veronika,Hammerbacher,Veronika Hammerbacher,Female,Germany,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=V+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,5 (130KG),24 (7.694KM),8 (09:41),,,,,,37
+10,Katrin,Letmathe,Katrin Letmathe,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,20 (100KG),8 (8.262KM),9 (09:44),,,,,,37
+12,Emwa,Pham,Emwa Pham,Female,Germany,,https://athxgames.com/storage/profile-photos/JIWJxREHKmcVpi19oUFDeamfqaqVCHwE5vox11B5.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,10 (116KG),16 (8.076KM),12 (10:07),,,,,,38
+13,Kathrin,Schertl,Kathrin Schertl,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,4 (132KG),18 (7.948KM),17 (10:57),,,,,,39
+14,Aleksandra,Krsmanovic,Aleksandra Krsmanovic,Female,,,https://ui-avatars.com/api/?name=A+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,2 (142KG),23 (7.697KM),16 (10:32),,,,,,41
+15,Chayline,Simon,Chayline Simon,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,18 (105KG),5 (8.39KM),20 (11:06),,,,,,43
+16,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,6 (124KG),22 (7.754KM),18 (10:59),,,,,,46
+17,Okka,Fürstenberg,Okka Fürstenberg,Female,,,https://ui-avatars.com/api/?name=O+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,7 (120KG),19 (7.939KM),24 (11:54),,,,,,50
+18,Kate,Gerhard,Kate Gerhard,Female,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,24 (88KG),12 (8.223KM),15 (10:28),,,,,,51
+19,Juliane,Lippert,Juliane Lippert,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,22 (93KG),15 (8.077KM),19 (11:03),,,,,,56
+20,Nathali,Kopytko,Nathali Kopytko,Female,,,https://ui-avatars.com/api/?name=N+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,16 (107KG),17 (8.054KM),25 (12:25),,,,,,58
+21,Anne,Roeloffs,Anne Roeloffs,Female,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,27 (85KG),9 (8.241KM),23 (11:24),,,,,,59
+22,Marisol,Baltazar nava,Marisol Baltazar nava,Female,United Kingdom,Jetts Uk,https://athxgames.com/storage/profile-photos/muMUcbegXKMUsF8Gl2sOq2lyK47rw39YhaXADVFC.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,19 (103KG),29 (7.282KM),13 (10:10),,,,,,61
+23,Alexandra,Tausend,Alexandra Tausend,Female,Germany,Crossfit Aorta,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,13 (112KG),32 (7.177KM),22 (11:09),,,,,,67
+24,Marilena,Micha,Marilena Micha,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,21 (98KG),27 (7.529KM),20 (11:06),,,,,,68
+25,Meghan,Thomson,Meghan Thomson,Female,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,11 (115KG),28 (7.487KM),30 (13:55),,,,,,69
+26,Michelle,Czaja,Michelle Czaja,Female,,,https://athxgames.com/storage/profile-photos/I8cMLIB5aL3HBHO2C2ZSrPLbTB8rPXujSh897cya.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,25 (87KG),20 (7.786KM),29 (13:52),,,,,,74
+27,Ronja,Mocker,Ronja Mocker,Female,Germany,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,26 (86KG),25 (7.645KM),26 (12:40),,,,,,77
+28,Blanca,Nava,Blanca Nava,Female,,,https://ui-avatars.com/api/?name=B+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,23 (92KG),31 (7.202KM),27 (13:15),,,,,,81
+29,Aleksandra,Godun,Aleksandra Godun,Female,,BLN.Athletics,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,31 (70KG),21 (7.778KM),32 (16:11),,,,,,84
+30,Ramona,Fleischmann,Ramona Fleischmann,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,27 (85KG),30 (7.267KM),31 (15:34),,,,,,88
+31,Giuseppina,Giusyceliento1985@gmail.com,Giuseppina Giusyceliento1985@gmail.com,Female,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,30 (77KG),33 (7.02KM),28 (13:27),,,,,,91
+32,Julia,Scheiwe,Julia Scheiwe,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,33 (55KG),26 (7.535KM),33 (18:53),,,,,,92
+33,Elisa,Klatt,Elisa Klatt,Female,,,https://ui-avatars.com/api/?name=E+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,32 (60KG),34 (6.771KM),34 (20:05),,,,,,100
+1,John-Paul,Burns,John-Paul Burns,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Alberto,Mesas,Alberto Mesas,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Daniel,Meyer,Daniel Meyer,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Guillermo,Sabaté Castells,Guillermo Sabaté Castells,Male,,,https://ui-avatars.com/api/?name=G+S+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,Omar,Baritello,Omar Baritello,Male,Italy,3 ZONE TRAINING - FUNCTIONAL GYM POTSDAM,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Aljoscha,Füting,Aljoscha Füting,Male,Germany,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Dariusz,Bober,Dariusz Bober,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,Max,Hausfeld,Max Hausfeld,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Moritz,Matzen,Moritz Matzen,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Bastian,Zech,Bastian Zech,Male,,,https://ui-avatars.com/api/?name=B+Z&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,Sergio,Kaiser,Sergio Kaiser,Male,Germany,AC Bavaria Forchheim 1908 e.V.,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Marvin,Gedlich,Marvin Gedlich,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Stefan,Terres,Stefan Terres,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Alex,Bailey,Alex Bailey,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/xD37nVbA59cd1edwOTyuRgha4bZqqLyUsaCqEUUU.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,Sascha,Heinsohn,Sascha Heinsohn,Male,Germany,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,Martin,Lipton,Martin Lipton,Male,United Kingdom,Crossfir Grenzgänger,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Daniel,Brandis,Daniel Brandis,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Armin,Tahiraj,Armin Tahiraj,Male,Germany,Lifepark Max,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Marco,Egelkraut,Marco Egelkraut,Male,Germany,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,20
+21,Patrick,Fernandez,Patrick Fernandez,Male,,,https://ui-avatars.com/api/?name=P+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,21
+22,Marius,Colling,Marius Colling,Male,,Athletenfabrik,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,22
+23,Sebastian,Mundt,Sebastian Mundt,Male,Germany,CrossFit Potsdam,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,23
+24,Malte,Janning,Malte Janning,Male,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,24
+25,Jörn,Horstmann,Jörn Horstmann,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,25
+26,Alexander,Michaelsen,Alexander Michaelsen,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,26
+27,Daniel,Etter,Daniel Etter,Male,Germany,Coach Matzen Gym,https://athxgames.com/storage/profile-photos/tRDDIGZa9ugrqE2JEIdNvvzwu7Vj90y2S1LpO6tx.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,27
+27,Maurice,Weris,Maurice Weris,Male,,Noex Berlin,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,27
+29,Frederic,Gerlach,Frederic Gerlach,Male,,,https://ui-avatars.com/api/?name=F+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,29
+30,Daniel,Fuentealba,Daniel Fuentealba,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,30
+31,Patrick,Sprague,Patrick Sprague,Male,,,https://ui-avatars.com/api/?name=P+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,31
+32,Dave,Kiese,Dave Kiese,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,32
+33,Daniel,Hasselmann,Daniel Hasselmann,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,33
+34,Mehdi,Noureddine,Mehdi Noureddine,Male,,AORTA,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,34
+35,Benjamin,Knoth,Benjamin Knoth,Male,,,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,35
+36,Benjamin,van der Velde,Benjamin van der Velde,Male,,,https://ui-avatars.com/api/?name=B+v+d+V&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,36
+37,Davide,Maltese,Davide Maltese,Male,,,https://athxgames.com/storage/profile-photos/ffrslwcW3XbQAqrCXfdkcVwEj4KysKojbgfouGVI.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,37
+38,Juliusz,Felczak,Juliusz Felczak,Male,Poland,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,38
+39,Kevin,Bender,Kevin Bender,Male,Germany,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,39
+40,Alban,Imeri,Alban Imeri,Male,,,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,40
+41,Tim,Schiffers,Tim Schiffers,Male,Germany,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,41
+42,Christian,Haase,Christian Haase,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,42
+43,Robert,Og,Robert Og,Male,Germany,3zonentraining,https://ui-avatars.com/api/?name=R+O&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,43
+44,Jose,Carlos Alavez Gonzalez,Jose Carlos Alavez Gonzalez,Male,,,https://ui-avatars.com/api/?name=J+C+A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,44
+45,Thomas,Kruczyk,Thomas Kruczyk,Male,Germany,myLeo Crossfit,https://athxgames.com/storage/profile-photos/kI9ePJvse6wdGRtBSAIIQI4qRvbLinNkMJdesOrz.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,45
+46,Sascha,Riebeling,Sascha Riebeling,Male,Germany,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,46
+47,Christian,Kano,Christian Kano,Male,Germany,CrossFit Tübingen,https://athxgames.com/storage/profile-photos/uj0oz8vSlUJ4Iua8PauqPaq4r51y5ecanNFxeQsX.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,47
+48,Michael,Reinhold,Michael Reinhold,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,48
+49,Scott,Trevarthen,Scott Trevarthen,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,49
+50,Rafael,Gaviria Meza,Rafael Gaviria Meza,Male,,,https://ui-avatars.com/api/?name=R+G+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,50
+51,Hamid,Khezli,Hamid Khezli,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,51
+52,Jens,Rebmann,Jens Rebmann,Male,Germany,IFAA Fitnessakademie,https://athxgames.com/storage/profile-photos/rIF9YCOyM1ALdNt8gzMWGWIo2zm6hiymbFJFLqpD.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,52
+53,Niklas,Jacobi,Niklas Jacobi,Male,Germany,,https://ui-avatars.com/api/?name=N+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,53
+54,Alfred,Leutl,Alfred Leutl,Male,Austria,Das Gym,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,54
+55,René,Granz,René Granz,Male,Germany,Bsport,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,55
+1,Jana,Lebenstadt,Jana Lebenstadt,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,Selina,Mertsch,Selina Mertsch,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Chloe,Streets,Chloe Streets,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Marijke,Jacobs,Marijke Jacobs,Female,Germany,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Chayline,Simon,Chayline Simon,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,Verena,Eder,Verena Eder,Female,Austria,Warrior Gym,https://ui-avatars.com/api/?name=V+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,Ildiko,Szakali,Ildiko Szakali,Female,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Katrin,Letmathe,Katrin Letmathe,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,8
+9,Anne,Roeloffs,Anne Roeloffs,Female,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,9
+10,Anika,Hasse,Anika Hasse,Female,Germany,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,10
+10,Sarah,Stöck,Sarah Stöck,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,10
+12,Kate,Gerhard,Kate Gerhard,Female,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,Julia,Sauerborn,Julia Sauerborn,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,Maike,Höhne,Maike Höhne,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Juliane,Lippert,Juliane Lippert,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Emwa,Pham,Emwa Pham,Female,Germany,,https://athxgames.com/storage/profile-photos/JIWJxREHKmcVpi19oUFDeamfqaqVCHwE5vox11B5.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,Nathali,Kopytko,Nathali Kopytko,Female,,,https://ui-avatars.com/api/?name=N+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,17
+18,Kathrin,Schertl,Kathrin Schertl,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,18
+19,Okka,Fürstenberg,Okka Fürstenberg,Female,,,https://ui-avatars.com/api/?name=O+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Michelle,Czaja,Michelle Czaja,Female,,,https://athxgames.com/storage/profile-photos/I8cMLIB5aL3HBHO2C2ZSrPLbTB8rPXujSh897cya.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,Aleksandra,Godun,Aleksandra Godun,Female,,BLN.Athletics,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,22
+23,Aleksandra,Krsmanovic,Aleksandra Krsmanovic,Female,,,https://ui-avatars.com/api/?name=A+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,23
+24,Veronika,Hammerbacher,Veronika Hammerbacher,Female,Germany,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=V+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,24
+25,Ronja,Mocker,Ronja Mocker,Female,Germany,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,25
+26,Julia,Scheiwe,Julia Scheiwe,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,26
+27,Marilena,Micha,Marilena Micha,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,27
+28,Meghan,Thomson,Meghan Thomson,Female,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,28
+29,Marisol,Baltazar nava,Marisol Baltazar nava,Female,United Kingdom,Jetts Uk,https://athxgames.com/storage/profile-photos/muMUcbegXKMUsF8Gl2sOq2lyK47rw39YhaXADVFC.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,29
+30,Ramona,Fleischmann,Ramona Fleischmann,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,30
+31,Blanca,Nava,Blanca Nava,Female,,,https://ui-avatars.com/api/?name=B+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,31
+32,Alexandra,Tausend,Alexandra Tausend,Female,Germany,Crossfit Aorta,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,32
+33,Giuseppina,Giusyceliento1985@gmail.com,Giuseppina Giusyceliento1985@gmail.com,Female,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,33
+34,Elisa,Klatt,Elisa Klatt,Female,,,https://ui-avatars.com/api/?name=E+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,34
+1,Charis,Zach,Charis Zach,Female,Germany,Crossfit Rosenheim,https://athxgames.com/storage/profile-photos/ViNYe78NwLAZ1YLzKriOYtLzvgaN8gjloakJdzaY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,3 (174KG),1 (9.581KM),1 (06:55),,,,,,5
+2,Magdalena,Schubert,Magdalena Schubert,Female,Germany,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,1 (183KG),2 (9.304KM),7 (08:58),,,,,,10
+3,Nicole,Landré,Nicole Landré,Female,,,https://athxgames.com/storage/profile-photos/xt6LJrODs6xg6c1X4De3zGiYFJqIVLo96QwLUxrY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,4 (161KG),4 (9.127KM),5 (08:20),,,,,,13
+4,Susan,Treppner,Susan Treppner,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,2 (180KG),10 (8.234KM),2 (07:47),,,,,,14
+5,Selina,Mertsch,Selina Mertsch,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,5 (156KG),5 (8.983KM),4 (08:09),,,,,,14
+6,Vivien,Hertz,Vivien Hertz,Female,,,https://athxgames.com/storage/profile-photos/TzoZJbj2NPME0Sc5q7iNEdBjxB7NyC8USzZlthus.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,9 (136KG),3 (9.268KM),3 (08:05),,,,,,15
+7,Anna,Gebel,Anna Gebel,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,5 (156KG),6 (8.811KM),6 (08:44),,,,,,17
+8,Jette,Benedicte Jess,Jette Benedicte Jess,Female,Germany,,https://ui-avatars.com/api/?name=J+B+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,7 (155KG),8 (8.559KM),8 (09:44),,,,,,23
+9,Maria,Resende,Maria Resende,Female,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,8 (145KG),9 (8.316KM),12 (11:43),,,,,,29
+10,Elisabeth,Nickel,Elisabeth Nickel,Female,,,https://ui-avatars.com/api/?name=E+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,13 (122KG),7 (8.656KM),11 (11:21),,,,,,31
+11,Karin,Steininger,Karin Steininger,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,12 (124KG),11 (7.853KM),9 (10:41),,,,,,32
+11,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,10 (128KG),12 (7.68KM),10 (10:47),,,,,,32
+13,Salome,Kovancisoy,Salome Kovancisoy,Female,,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,11 (125KG),13 (7.425KM),13 (12:44),,,,,,37
+1,Charis,Zach,Charis Zach,Female,Germany,Crossfit Rosenheim,https://athxgames.com/storage/profile-photos/ViNYe78NwLAZ1YLzKriOYtLzvgaN8gjloakJdzaY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+2,Magdalena,Schubert,Magdalena Schubert,Female,Germany,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,2
+3,Vivien,Hertz,Vivien Hertz,Female,,,https://athxgames.com/storage/profile-photos/TzoZJbj2NPME0Sc5q7iNEdBjxB7NyC8USzZlthus.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,3
+4,Nicole,Landré,Nicole Landré,Female,,,https://athxgames.com/storage/profile-photos/xt6LJrODs6xg6c1X4De3zGiYFJqIVLo96QwLUxrY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,4
+5,Selina,Mertsch,Selina Mertsch,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,5
+6,Anna,Gebel,Anna Gebel,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,6
+7,Elisabeth,Nickel,Elisabeth Nickel,Female,,,https://ui-avatars.com/api/?name=E+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,7
+8,Jette,Benedicte Jess,Jette Benedicte Jess,Female,Germany,,https://ui-avatars.com/api/?name=J+B+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,8
+9,Maria,Resende,Maria Resende,Female,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,9
+10,Susan,Treppner,Susan Treppner,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,10
+11,Karin,Steininger,Karin Steininger,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,11
+12,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,12
+13,Salome,Kovancisoy,Salome Kovancisoy,Female,,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,13
+1,Aaron,Curto,Aaron Curto,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,1 (286KG),3 (9.791KM),5 (08:50),,,,,,9
+2,Denis,Clotten,Denis Clotten,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,3 (285KG),4 (9.608KM),2 (08:21),,,,,,9
+3,Mathias,Moosmann,Mathias Moosmann,Male,Germany,Athletenfabrik,https://athxgames.com/storage/profile-photos/0fqVQD4QqbVz36dttMhuwToRNKZmyTa9smWGSd7o.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,7 (253KG),2 (9.916KM),1 (07:50),,,,,,10
+4,Safa,Akso,Safa Akso,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,4 (278KG),8 (9.309KM),3 (08:29),,,,,,15
+5,Graham,Halliday,Graham Halliday,Male,,,https://ui-avatars.com/api/?name=G+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,14 (231KG),1 (10.589KM),4 (08:41),,,,,,19
+6,Moe,Kahn,Moe Kahn,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,6 (255KG),7 (9.429KM),6 (08:51),,,,,,19
+7,Heiko,Kandler,Heiko Kandler,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,11 (240KG),6 (9.493KM),8 (09:47),,,,,,25
+8,Thomas,Hübener,Thomas Hübener,Male,,,https://athxgames.com/storage/profile-photos/TRBWYq2iqiSL6fDx5v9DmL5QzCqDXZ0noZffPn4q.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,1 (286KG),15 (8.853KM),14 (11:51),,,,,,30
+9,Sahin,Kovancisoy,Sahin Kovancisoy,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,12 (235KG),11 (9.182KM),7 (09:25),,,,,,30
+10,Roman,Pelz,Roman Pelz,Male,,,https://ui-avatars.com/api/?name=R+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,8 (250KG),17 (8.736KM),9 (10:11),,,,,,34
+11,Denis,Seebode,Denis Seebode,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,10 (241KG),16 (8.831KM),13 (11:39),,,,,,39
+12,Vangelis,Papanikolaou,Vangelis Papanikolaou,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,9 (243KG),26 (8.372KM),11 (11:23),,,,,,46
+12,Christie,Jay,Christie Jay,Male,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,17 (210KG),9 (9.297KM),20 (13:34),,,,,,46
+14,Christoph,Jachs,Christoph Jachs,Male,Austria,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,5 (265KG),24 (8.493KM),18 (13:12),,,,,,47
+14,Deon,Chikodzi,Deon Chikodzi,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,12 (235KG),14 (9.001KM),21 (13:55),,,,,,47
+16,Julian,Paap,Julian Paap,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,15 (230KG),21 (8.59KM),12 (11:27),,,,,,48
+17,Matthias,Meinking,Matthias Meinking,Male,Germany,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,23 (176KG),5 (9.496KM),21 (13:55),,,,,,49
+17,Andreas,Burcea Marcu,Andreas Burcea Marcu,Male,,,https://ui-avatars.com/api/?name=A+B+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,16 (225KG),18 (8.718KM),15 (12:20),,,,,,49
+19,Robert,Stoye,Robert Stoye,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,18 (202KG),22 (8.561KM),10 (11:22),,,,,,50
+20,Christian,Ophoven,Christian Ophoven,Male,Germany,FMT KOBLENZ,https://athxgames.com/storage/profile-photos/74P23ZFzOoAUjxqJIO68ZtzCPZDevv0uZQn5GpVD.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,22 (180KG),10 (9.221KM),19 (13:22),,,,,,51
+21,Alex,Smithwick,Alex Smithwick,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,20 (187KG),13 (9.005KM),24 (14:08),,,,,,57
+22,Michael,Sobottka,Michael Sobottka,Male,Germany,North Athletics,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,21 (185KG),12 (9.019KM),25 (14:58),,,,,,58
+23,Jacob,Suarez,Jacob Suarez,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,24 (161KG),19 (8.665KM),16 (12:50),,,,,,59
+24,Erik Falk,Schurich,Erik Falk Schurich,Male,,,https://ui-avatars.com/api/?name=E+F+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,19 (195KG),20 (8.618KM),23 (14:06),,,,,,62
+25,Saverio,Ricciuti,Saverio Ricciuti,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,25 (155KG),23 (8.55KM),28 (28:40),,,,,,76
+26,Osman,Kücük,Osman Kücük,Male,Turkey,Classic Crossfit 31,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,26 (147KG),25 (8.375KM),27 (20:47),,,,,,78
+27,Mathias,M.J. Mißler,Mathias M.J. Mißler,Male,,,https://ui-avatars.com/api/?name=M+M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,27 (134KG),27 (8.237KM),26 (17:50),,,,,,80
+1,Graham,Halliday,Graham Halliday,Male,,,https://ui-avatars.com/api/?name=G+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,Mathias,Moosmann,Mathias Moosmann,Male,Germany,Athletenfabrik,https://athxgames.com/storage/profile-photos/0fqVQD4QqbVz36dttMhuwToRNKZmyTa9smWGSd7o.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Aaron,Curto,Aaron Curto,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Denis,Clotten,Denis Clotten,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Matthias,Meinking,Matthias Meinking,Male,Germany,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,Heiko,Kandler,Heiko Kandler,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,Moe,Kahn,Moe Kahn,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,Safa,Akso,Safa Akso,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+9,Christie,Jay,Christie Jay,Male,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,9
+10,Christian,Ophoven,Christian Ophoven,Male,Germany,FMT KOBLENZ,https://athxgames.com/storage/profile-photos/74P23ZFzOoAUjxqJIO68ZtzCPZDevv0uZQn5GpVD.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,10
+11,Sahin,Kovancisoy,Sahin Kovancisoy,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,11
+12,Michael,Sobottka,Michael Sobottka,Male,Germany,North Athletics,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,12
+13,Alex,Smithwick,Alex Smithwick,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,13
+14,Deon,Chikodzi,Deon Chikodzi,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,14
+15,Thomas,Hübener,Thomas Hübener,Male,,,https://athxgames.com/storage/profile-photos/TRBWYq2iqiSL6fDx5v9DmL5QzCqDXZ0noZffPn4q.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,15
+16,Denis,Seebode,Denis Seebode,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,16
+17,Roman,Pelz,Roman Pelz,Male,,,https://ui-avatars.com/api/?name=R+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,17
+18,Andreas,Burcea Marcu,Andreas Burcea Marcu,Male,,,https://ui-avatars.com/api/?name=A+B+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,18
+19,Jacob,Suarez,Jacob Suarez,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,19
+20,Erik Falk,Schurich,Erik Falk Schurich,Male,,,https://ui-avatars.com/api/?name=E+F+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,20
+21,Julian,Paap,Julian Paap,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,21
+22,Robert,Stoye,Robert Stoye,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,22
+23,Saverio,Ricciuti,Saverio Ricciuti,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,23
+24,Christoph,Jachs,Christoph Jachs,Male,Austria,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,24
+25,Osman,Kücük,Osman Kücük,Male,Turkey,Classic Crossfit 31,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,25
+26,Vangelis,Papanikolaou,Vangelis Papanikolaou,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,26
+27,Mathias,M.J. Mißler,Mathias M.J. Mißler,Male,,,https://ui-avatars.com/api/?name=M+M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,27
+1,John-Paul,Burns,John-Paul Burns,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,3 (225KG),1 (10.126KM),1 (06:37),,,,,,5
+2,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,4 (215KG),5 (9.616KM),2 (06:51),,,,,,11
+3,Alex,Bailey,Alex Bailey,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/xD37nVbA59cd1edwOTyuRgha4bZqqLyUsaCqEUUU.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,2 (229KG),15 (9.245KM),3 (07:13),,,,,,20
+4,Max,Hausfeld,Max Hausfeld,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,8 (195KG),9 (9.402KM),12 (09:37),,,,,,29
+5,Aljoscha,Füting,Aljoscha Füting,Male,Germany,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,19 (175KG),7 (9.547KM),5 (08:49),,,,,,31
+6,Sebastian,Mundt,Sebastian Mundt,Male,Germany,CrossFit Potsdam,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,7 (200KG),23 (8.979KM),14 (09:42),,,,,,44
+7,Moritz,Matzen,Moritz Matzen,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,16 (180KG),10 (9.386KM),19 (10:16),,,,,,45
+8,Marvin,Gedlich,Marvin Gedlich,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,9 (190KG),13 (9.31KM),24 (11:04),,,,,,46
+9,Sascha,Heinsohn,Sascha Heinsohn,Male,Germany,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,24 (161KG),16 (9.243KM),7 (09:01),,,,,,47
+10,Patrick,Sprague,Patrick Sprague,Male,,,https://ui-avatars.com/api/?name=P+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,1 (237KG),31 (8.825KM),16 (10:00),,,,,,48
+11,Jörn,Horstmann,Jörn Horstmann,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,15 (181KG),25 (8.929KM),8 (09:26),,,,,,48
+12,Stefan,Terres,Stefan Terres,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,19 (175KG),14 (9.294KM),18 (10:13),,,,,,51
+12,Omar,Baritello,Omar Baritello,Male,Italy,3 ZONE TRAINING - FUNCTIONAL GYM POTSDAM,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,16 (180KG),6 (9.602KM),29 (11:40),,,,,,51
+14,Dave,Kiese,Dave Kiese,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,12 (186KG),32 (8.777KM),8 (09:26),,,,,,52
+14,Alexander,Michaelsen,Alexander Michaelsen,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,9 (190KG),26 (8.927KM),17 (10:06),,,,,,52
+16,Daniel,Hasselmann,Daniel Hasselmann,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,5 (210KG),33 (8.766KM),15 (09:52),,,,,,53
+17,Bastian,Zech,Bastian Zech,Male,,,https://ui-avatars.com/api/?name=B+Z&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,31 (150KG),11 (9.366KM),13 (09:40),,,,,,55
+18,Daniel,Brandis,Daniel Brandis,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,11 (188KG),18 (9.174KM),34 (12:29),,,,,,63
+18,Maurice,Weris,Maurice Weris,Male,,Noex Berlin,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,28 (154KG),27 (8.896KM),8 (09:26),,,,,,63
+20,Alberto,Mesas,Alberto Mesas,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,35 (140KG),2 (9.945KM),28 (11:30),,,,,,65
+21,Tim,Schiffers,Tim Schiffers,Male,Germany,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,18 (177KG),41 (8.557KM),6 (08:59),,,,,,65
+22,Kevin,Bender,Kevin Bender,Male,Germany,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,14 (184KG),39 (8.647KM),20 (10:28),,,,,,73
+23,Daniel,Fuentealba,Daniel Fuentealba,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,25 (160KG),30 (8.838KM),21 (10:29),,,,,,76
+24,Marco,Egelkraut,Marco Egelkraut,Male,Germany,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,21 (169KG),20 (9.061KM),39 (13:07),,,,,,80
+25,Sascha,Riebeling,Sascha Riebeling,Male,Germany,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,13 (185KG),46 (8.42KM),22 (10:51),,,,,,81
+26,Patrick,Fernandez,Patrick Fernandez,Male,,,https://ui-avatars.com/api/?name=P+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,39 (135KG),21 (9.04KM),23 (11:01),,,,,,83
+27,Martin,Lipton,Martin Lipton,Male,United Kingdom,Crossfir Grenzgänger,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,31 (150KG),17 (9.184KM),36 (12:50),,,,,,84
+28,Mehdi,Noureddine,Mehdi Noureddine,Male,,AORTA,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,25 (160KG),34 (8.712KM),26 (11:16),,,,,,85
+29,Benjamin,van der Velde,Benjamin van der Velde,Male,,,https://ui-avatars.com/api/?name=B+v+d+V&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,25 (160KG),36 (8.697KM),25 (11:10),,,,,,86
+30,Dariusz,Bober,Dariusz Bober,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,48 (115KG),8 (9.424KM),31 (11:56),,,,,,87
+31,Davide,Maltese,Davide Maltese,Male,,,https://athxgames.com/storage/profile-photos/ffrslwcW3XbQAqrCXfdkcVwEj4KysKojbgfouGVI.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,23 (165KG),37 (8.69KM),32 (11:57),,,,,,92
+32,Daniel,Meyer,Daniel Meyer,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,43 (130KG),3 (9.899KM),48 (14:39),,,,,,94
+33,Christian,Kano,Christian Kano,Male,Germany,CrossFit Tübingen,https://athxgames.com/storage/profile-photos/uj0oz8vSlUJ4Iua8PauqPaq4r51y5ecanNFxeQsX.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,6 (204KG),47 (8.284KM),43 (13:31),,,,,,96
+33,Juliusz,Felczak,Juliusz Felczak,Male,Poland,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,54 (61KG),38 (8.669KM),4 (08:07),,,,,,96
+35,Sergio,Kaiser,Sergio Kaiser,Male,Germany,AC Bavaria Forchheim 1908 e.V.,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,47 (121KG),12 (9.316KM),38 (13:06),,,,,,97
+36,Malte,Janning,Malte Janning,Male,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,29 (153KG),24 (8.973KM),45 (14:03),,,,,,98
+37,Armin,Tahiraj,Armin Tahiraj,Male,Germany,Lifepark Max,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,35 (140KG),19 (9.143KM),49 (14:40),,,,,,103
+38,Thomas,Kruczyk,Thomas Kruczyk,Male,Germany,myLeo Crossfit,https://athxgames.com/storage/profile-photos/kI9ePJvse6wdGRtBSAIIQI4qRvbLinNkMJdesOrz.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,22 (166KG),45 (8.427KM),37 (12:52),,,,,,104
+39,Christian,Haase,Christian Haase,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,30 (151KG),42 (8.554KM),33 (12:26),,,,,,105
+40,Benjamin,Knoth,Benjamin Knoth,Male,,,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,42 (133KG),35 (8.699KM),30 (11:49),,,,,,107
+41,Daniel,Etter,Daniel Etter,Male,Germany,Coach Matzen Gym,https://athxgames.com/storage/profile-photos/tRDDIGZa9ugrqE2JEIdNvvzwu7Vj90y2S1LpO6tx.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,35 (140KG),27 (8.896KM),46 (14:29),,,,,,108
+41,Guillermo,Sabaté Castells,Guillermo Sabaté Castells,Male,,,https://ui-avatars.com/api/?name=G+S+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,52 (101KG),4 (9.621KM),52 (15:23),,,,,,108
+43,Marius,Colling,Marius Colling,Male,,Athletenfabrik,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,43 (130KG),22 (9.008KM),44 (13:46),,,,,,109
+44,Alfred,Leutl,Alfred Leutl,Male,Austria,Das Gym,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,39 (135KG),54 (7.721KM),27 (11:18),,,,,,120
+45,Jose,Carlos Alavez Gonzalez,Jose Carlos Alavez Gonzalez,Male,,,https://ui-avatars.com/api/?name=J+C+A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,43 (130KG),44 (8.449KM),35 (12:35),,,,,,122
+46,Alban,Imeri,Alban Imeri,Male,,,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,34 (145KG),40 (8.594KM),50 (14:51),,,,,,124
+46,Niklas,Jacobi,Niklas Jacobi,Male,Germany,,https://ui-avatars.com/api/?name=N+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,31 (150KG),53 (7.986KM),40 (13:16),,,,,,124
+48,Michael,Reinhold,Michael Reinhold,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,35 (140KG),48 (8.271KM),42 (13:30),,,,,,125
+49,Rafael,Gaviria Meza,Rafael Gaviria Meza,Male,,,https://ui-avatars.com/api/?name=R+G+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,46 (124KG),50 (8.132KM),41 (13:18),,,,,,137
+50,Frederic,Gerlach,Frederic Gerlach,Male,,,https://ui-avatars.com/api/?name=F+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,54 (61KG),29 (8.843KM),56 (29:25),,,,,,139
+51,Robert,Og,Robert Og,Male,Germany,3zonentraining,https://ui-avatars.com/api/?name=R+O&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,49 (110KG),43 (8.494KM),51 (15:01),,,,,,143
+52,René,Granz,René Granz,Male,Germany,Bsport,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,41 (134KG),55 (7.422KM),53 (16:42),,,,,,149
+53,Hamid,Khezli,Hamid Khezli,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,52 (101KG),51 (8.079KM),47 (14:35),,,,,,150
+54,Scott,Trevarthen,Scott Trevarthen,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,51 (105KG),49 (8.265KM),54 (22:35),,,,,,154
+55,Jens,Rebmann,Jens Rebmann,Male,Germany,IFAA Fitnessakademie,https://athxgames.com/storage/profile-photos/rIF9YCOyM1ALdNt8gzMWGWIo2zm6hiymbFJFLqpD.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,49 (110KG),52 (8.033KM),55 (28:40),,,,,,156
+1,Patrick,Sprague,Patrick Sprague,Male,,,https://ui-avatars.com/api/?name=P+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,1
+2,Alex,Bailey,Alex Bailey,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/xD37nVbA59cd1edwOTyuRgha4bZqqLyUsaCqEUUU.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,2
+3,John-Paul,Burns,John-Paul Burns,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,3
+4,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,4
+5,Daniel,Hasselmann,Daniel Hasselmann,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,5
+6,Christian,Kano,Christian Kano,Male,Germany,CrossFit Tübingen,https://athxgames.com/storage/profile-photos/uj0oz8vSlUJ4Iua8PauqPaq4r51y5ecanNFxeQsX.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,6
+7,Sebastian,Mundt,Sebastian Mundt,Male,Germany,CrossFit Potsdam,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+8,Max,Hausfeld,Max Hausfeld,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,8
+9,Marvin,Gedlich,Marvin Gedlich,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,9
+9,Alexander,Michaelsen,Alexander Michaelsen,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,9
+11,Daniel,Brandis,Daniel Brandis,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,11
+12,Dave,Kiese,Dave Kiese,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,12
+13,Sascha,Riebeling,Sascha Riebeling,Male,Germany,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,13
+14,Kevin,Bender,Kevin Bender,Male,Germany,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,14
+15,Jörn,Horstmann,Jörn Horstmann,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,15
+16,Moritz,Matzen,Moritz Matzen,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,16
+16,Omar,Baritello,Omar Baritello,Male,Italy,3 ZONE TRAINING - FUNCTIONAL GYM POTSDAM,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,16
+18,Tim,Schiffers,Tim Schiffers,Male,Germany,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,18
+19,Stefan,Terres,Stefan Terres,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Aljoscha,Füting,Aljoscha Füting,Male,Germany,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,19
+21,Marco,Egelkraut,Marco Egelkraut,Male,Germany,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,21
+22,Thomas,Kruczyk,Thomas Kruczyk,Male,Germany,myLeo Crossfit,https://athxgames.com/storage/profile-photos/kI9ePJvse6wdGRtBSAIIQI4qRvbLinNkMJdesOrz.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,22
+23,Davide,Maltese,Davide Maltese,Male,,,https://athxgames.com/storage/profile-photos/ffrslwcW3XbQAqrCXfdkcVwEj4KysKojbgfouGVI.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,23
+24,Sascha,Heinsohn,Sascha Heinsohn,Male,Germany,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,24
+25,Mehdi,Noureddine,Mehdi Noureddine,Male,,AORTA,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,25
+25,Benjamin,van der Velde,Benjamin van der Velde,Male,,,https://ui-avatars.com/api/?name=B+v+d+V&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,25
+25,Daniel,Fuentealba,Daniel Fuentealba,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,25
+28,Maurice,Weris,Maurice Weris,Male,,Noex Berlin,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,28
+29,Malte,Janning,Malte Janning,Male,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,29
+30,Christian,Haase,Christian Haase,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,30
+31,Martin,Lipton,Martin Lipton,Male,United Kingdom,Crossfir Grenzgänger,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,31
+31,Bastian,Zech,Bastian Zech,Male,,,https://ui-avatars.com/api/?name=B+Z&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,31
+31,Niklas,Jacobi,Niklas Jacobi,Male,Germany,,https://ui-avatars.com/api/?name=N+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,31
+34,Alban,Imeri,Alban Imeri,Male,,,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,34
+35,Armin,Tahiraj,Armin Tahiraj,Male,Germany,Lifepark Max,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,35
+35,Alberto,Mesas,Alberto Mesas,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,35
+35,Daniel,Etter,Daniel Etter,Male,Germany,Coach Matzen Gym,https://athxgames.com/storage/profile-photos/tRDDIGZa9ugrqE2JEIdNvvzwu7Vj90y2S1LpO6tx.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,35
+35,Michael,Reinhold,Michael Reinhold,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,35
+39,Alfred,Leutl,Alfred Leutl,Male,Austria,Das Gym,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,39
+39,Patrick,Fernandez,Patrick Fernandez,Male,,,https://ui-avatars.com/api/?name=P+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,39
+41,René,Granz,René Granz,Male,Germany,Bsport,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,41
+42,Benjamin,Knoth,Benjamin Knoth,Male,,,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,42
+43,Daniel,Meyer,Daniel Meyer,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,43
+43,Marius,Colling,Marius Colling,Male,,Athletenfabrik,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,43
+43,Jose,Carlos Alavez Gonzalez,Jose Carlos Alavez Gonzalez,Male,,,https://ui-avatars.com/api/?name=J+C+A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,43
+46,Rafael,Gaviria Meza,Rafael Gaviria Meza,Male,,,https://ui-avatars.com/api/?name=R+G+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,46
+47,Sergio,Kaiser,Sergio Kaiser,Male,Germany,AC Bavaria Forchheim 1908 e.V.,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,47
+48,Dariusz,Bober,Dariusz Bober,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,48
+49,Robert,Og,Robert Og,Male,Germany,3zonentraining,https://ui-avatars.com/api/?name=R+O&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,49
+49,Jens,Rebmann,Jens Rebmann,Male,Germany,IFAA Fitnessakademie,https://athxgames.com/storage/profile-photos/rIF9YCOyM1ALdNt8gzMWGWIo2zm6hiymbFJFLqpD.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,49
+51,Scott,Trevarthen,Scott Trevarthen,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,51
+52,Guillermo,Sabaté Castells,Guillermo Sabaté Castells,Male,,,https://ui-avatars.com/api/?name=G+S+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,52
+52,Hamid,Khezli,Hamid Khezli,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,52
+54,Frederic,Gerlach,Frederic Gerlach,Male,,,https://ui-avatars.com/api/?name=F+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,54
+54,Juliusz,Felczak,Juliusz Felczak,Male,Poland,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,54
+1,Maike,Höhne,Maike Höhne,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,1
+2,Aleksandra,Krsmanovic,Aleksandra Krsmanovic,Female,,,https://ui-avatars.com/api/?name=A+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,2
+3,Chloe,Streets,Chloe Streets,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,3
+4,Kathrin,Schertl,Kathrin Schertl,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,4
+5,Veronika,Hammerbacher,Veronika Hammerbacher,Female,Germany,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=V+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,5
+6,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,6
+7,Sarah,Stöck,Sarah Stöck,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,7
+7,Okka,Fürstenberg,Okka Fürstenberg,Female,,,https://ui-avatars.com/api/?name=O+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,7
+9,Ildiko,Szakali,Ildiko Szakali,Female,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,9
+10,Emwa,Pham,Emwa Pham,Female,Germany,,https://athxgames.com/storage/profile-photos/JIWJxREHKmcVpi19oUFDeamfqaqVCHwE5vox11B5.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,10
+11,Julia,Sauerborn,Julia Sauerborn,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,11
+11,Meghan,Thomson,Meghan Thomson,Female,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,11
+13,Alexandra,Tausend,Alexandra Tausend,Female,Germany,Crossfit Aorta,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,13
+14,Anika,Hasse,Anika Hasse,Female,Germany,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,14
+14,Marijke,Jacobs,Marijke Jacobs,Female,Germany,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,14
+16,Nathali,Kopytko,Nathali Kopytko,Female,,,https://ui-avatars.com/api/?name=N+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,16
+16,Verena,Eder,Verena Eder,Female,Austria,Warrior Gym,https://ui-avatars.com/api/?name=V+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,16
+18,Chayline,Simon,Chayline Simon,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,18
+19,Marisol,Baltazar nava,Marisol Baltazar nava,Female,United Kingdom,Jetts Uk,https://athxgames.com/storage/profile-photos/muMUcbegXKMUsF8Gl2sOq2lyK47rw39YhaXADVFC.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,19
+20,Katrin,Letmathe,Katrin Letmathe,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,20
+21,Marilena,Micha,Marilena Micha,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,21
+22,Juliane,Lippert,Juliane Lippert,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,22
+23,Blanca,Nava,Blanca Nava,Female,,,https://ui-avatars.com/api/?name=B+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,23
+24,Kate,Gerhard,Kate Gerhard,Female,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,24
+25,Michelle,Czaja,Michelle Czaja,Female,,,https://athxgames.com/storage/profile-photos/I8cMLIB5aL3HBHO2C2ZSrPLbTB8rPXujSh897cya.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,25
+26,Ronja,Mocker,Ronja Mocker,Female,Germany,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,26
+27,Anne,Roeloffs,Anne Roeloffs,Female,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,27
+27,Ramona,Fleischmann,Ramona Fleischmann,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,27
+29,Jana,Lebenstadt,Jana Lebenstadt,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,29
+30,Giuseppina,Giusyceliento1985@gmail.com,Giuseppina Giusyceliento1985@gmail.com,Female,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,30
+31,Aleksandra,Godun,Aleksandra Godun,Female,,BLN.Athletics,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,31
+32,Elisa,Klatt,Elisa Klatt,Female,,,https://ui-avatars.com/api/?name=E+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,32
+33,Julia,Scheiwe,Julia Scheiwe,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,33
+1,John-Paul,Burns,John-Paul Burns,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,06:37,,,,,,1
+2,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,06:51,,,,,,2
+3,Alex,Bailey,Alex Bailey,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/xD37nVbA59cd1edwOTyuRgha4bZqqLyUsaCqEUUU.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,07:13,,,,,,3
+4,Juliusz,Felczak,Juliusz Felczak,Male,Poland,,https://ui-avatars.com/api/?name=J+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,08:07,,,,,,4
+5,Aljoscha,Füting,Aljoscha Füting,Male,Germany,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,08:49,,,,,,5
+6,Tim,Schiffers,Tim Schiffers,Male,Germany,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,08:59,,,,,,6
+7,Sascha,Heinsohn,Sascha Heinsohn,Male,Germany,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:01,,,,,,7
+8,Jörn,Horstmann,Jörn Horstmann,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:26,,,,,,8
+8,Dave,Kiese,Dave Kiese,Male,,,https://ui-avatars.com/api/?name=D+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:26,,,,,,8
+8,Marcel,Mewis,Marcel Mewis,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:26,,,,,,8
+8,Maurice,Weris,Maurice Weris,Male,,Noex Berlin,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:26,,,,,,8
+12,Max,Hausfeld,Max Hausfeld,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:37,,,,,,12
+13,Bastian,Zech,Bastian Zech,Male,,,https://ui-avatars.com/api/?name=B+Z&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:40,,,,,,13
+14,Sebastian,Mundt,Sebastian Mundt,Male,Germany,CrossFit Potsdam,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:42,,,,,,14
+15,Daniel,Hasselmann,Daniel Hasselmann,Male,,,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,09:52,,,,,,15
+16,Patrick,Sprague,Patrick Sprague,Male,,,https://ui-avatars.com/api/?name=P+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:00,,,,,,16
+17,Alexander,Michaelsen,Alexander Michaelsen,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:06,,,,,,17
+18,Stefan,Terres,Stefan Terres,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:13,,,,,,18
+19,Moritz,Matzen,Moritz Matzen,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:16,,,,,,19
+20,Kevin,Bender,Kevin Bender,Male,Germany,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:28,,,,,,20
+21,Daniel,Fuentealba,Daniel Fuentealba,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:29,,,,,,21
+22,Sascha,Riebeling,Sascha Riebeling,Male,Germany,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,10:51,,,,,,22
+23,Patrick,Fernandez,Patrick Fernandez,Male,,,https://ui-avatars.com/api/?name=P+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:01,,,,,,23
+24,Marvin,Gedlich,Marvin Gedlich,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:04,,,,,,24
+25,Benjamin,van der Velde,Benjamin van der Velde,Male,,,https://ui-avatars.com/api/?name=B+v+d+V&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:10,,,,,,25
+26,Mehdi,Noureddine,Mehdi Noureddine,Male,,AORTA,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:16,,,,,,26
+27,Alfred,Leutl,Alfred Leutl,Male,Austria,Das Gym,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:18,,,,,,27
+28,Alberto,Mesas,Alberto Mesas,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:30,,,,,,28
+29,Omar,Baritello,Omar Baritello,Male,Italy,3 ZONE TRAINING - FUNCTIONAL GYM POTSDAM,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:40,,,,,,29
+30,Benjamin,Knoth,Benjamin Knoth,Male,,,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:49,,,,,,30
+31,Dariusz,Bober,Dariusz Bober,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:56,,,,,,31
+32,Davide,Maltese,Davide Maltese,Male,,,https://athxgames.com/storage/profile-photos/ffrslwcW3XbQAqrCXfdkcVwEj4KysKojbgfouGVI.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,11:57,,,,,,32
+33,Christian,Haase,Christian Haase,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,12:26,,,,,,33
+34,Daniel,Brandis,Daniel Brandis,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,12:29,,,,,,34
+35,Jose,Carlos Alavez Gonzalez,Jose Carlos Alavez Gonzalez,Male,,,https://ui-avatars.com/api/?name=J+C+A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,12:35,,,,,,35
+36,Martin,Lipton,Martin Lipton,Male,United Kingdom,Crossfir Grenzgänger,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,12:50,,,,,,36
+37,Thomas,Kruczyk,Thomas Kruczyk,Male,Germany,myLeo Crossfit,https://athxgames.com/storage/profile-photos/kI9ePJvse6wdGRtBSAIIQI4qRvbLinNkMJdesOrz.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,12:52,,,,,,37
+38,Sergio,Kaiser,Sergio Kaiser,Male,Germany,AC Bavaria Forchheim 1908 e.V.,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:06,,,,,,38
+39,Marco,Egelkraut,Marco Egelkraut,Male,Germany,,https://ui-avatars.com/api/?name=M+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:07,,,,,,39
+40,Niklas,Jacobi,Niklas Jacobi,Male,Germany,,https://ui-avatars.com/api/?name=N+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:16,,,,,,40
+41,Rafael,Gaviria Meza,Rafael Gaviria Meza,Male,,,https://ui-avatars.com/api/?name=R+G+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:18,,,,,,41
+42,Michael,Reinhold,Michael Reinhold,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:30,,,,,,42
+43,Christian,Kano,Christian Kano,Male,Germany,CrossFit Tübingen,https://athxgames.com/storage/profile-photos/uj0oz8vSlUJ4Iua8PauqPaq4r51y5ecanNFxeQsX.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:31,,,,,,43
+44,Marius,Colling,Marius Colling,Male,,Athletenfabrik,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:46,,,,,,44
+45,Malte,Janning,Malte Janning,Male,,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,14:03,,,,,,45
+46,Daniel,Etter,Daniel Etter,Male,Germany,Coach Matzen Gym,https://athxgames.com/storage/profile-photos/tRDDIGZa9ugrqE2JEIdNvvzwu7Vj90y2S1LpO6tx.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,14:29,,,,,,46
+47,Hamid,Khezli,Hamid Khezli,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,14:35,,,,,,47
+48,Daniel,Meyer,Daniel Meyer,Male,,,https://ui-avatars.com/api/?name=D+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,14:39,,,,,,48
+49,Armin,Tahiraj,Armin Tahiraj,Male,Germany,Lifepark Max,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,14:40,,,,,,49
+50,Alban,Imeri,Alban Imeri,Male,,,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,14:51,,,,,,50
+51,Robert,Og,Robert Og,Male,Germany,3zonentraining,https://ui-avatars.com/api/?name=R+O&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,15:01,,,,,,51
+52,Guillermo,Sabaté Castells,Guillermo Sabaté Castells,Male,,,https://ui-avatars.com/api/?name=G+S+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,15:23,,,,,,52
+53,René,Granz,René Granz,Male,Germany,Bsport,https://ui-avatars.com/api/?name=R+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,16:42,,,,,,53
+54,Scott,Trevarthen,Scott Trevarthen,Male,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,22:35,,,,,,54
+55,Jens,Rebmann,Jens Rebmann,Male,Germany,IFAA Fitnessakademie,https://athxgames.com/storage/profile-photos/rIF9YCOyM1ALdNt8gzMWGWIo2zm6hiymbFJFLqpD.png,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,28:40,,,,,,55
+56,Frederic,Gerlach,Frederic Gerlach,Male,,,https://ui-avatars.com/api/?name=F+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,29:25,,,,,,56
+1,Chloe,Streets,Chloe Streets,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,07:26,,,,,,1
+2,Jana,Lebenstadt,Jana Lebenstadt,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,07:53,,,,,,2
+3,Selina,Mertsch,Selina Mertsch,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,08:09,,,,,,3
+4,Maike,Höhne,Maike Höhne,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,08:18,,,,,,4
+5,Julia,Sauerborn,Julia Sauerborn,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,09:15,,,,,,5
+6,Anika,Hasse,Anika Hasse,Female,Germany,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,09:26,,,,,,6
+7,Ildiko,Szakali,Ildiko Szakali,Female,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,09:29,,,,,,7
+8,Veronika,Hammerbacher,Veronika Hammerbacher,Female,Germany,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=V+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,09:41,,,,,,8
+9,Katrin,Letmathe,Katrin Letmathe,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,09:44,,,,,,9
+10,Sarah,Stöck,Sarah Stöck,Female,,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,09:45,,,,,,10
+11,Marijke,Jacobs,Marijke Jacobs,Female,Germany,,https://ui-avatars.com/api/?name=M+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:02,,,,,,11
+12,Emwa,Pham,Emwa Pham,Female,Germany,,https://athxgames.com/storage/profile-photos/JIWJxREHKmcVpi19oUFDeamfqaqVCHwE5vox11B5.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:07,,,,,,12
+13,Marisol,Baltazar nava,Marisol Baltazar nava,Female,United Kingdom,Jetts Uk,https://athxgames.com/storage/profile-photos/muMUcbegXKMUsF8Gl2sOq2lyK47rw39YhaXADVFC.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:10,,,,,,13
+14,Verena,Eder,Verena Eder,Female,Austria,Warrior Gym,https://ui-avatars.com/api/?name=V+E&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:19,,,,,,14
+15,Kate,Gerhard,Kate Gerhard,Female,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:28,,,,,,15
+16,Aleksandra,Krsmanovic,Aleksandra Krsmanovic,Female,,,https://ui-avatars.com/api/?name=A+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:32,,,,,,16
+17,Kathrin,Schertl,Kathrin Schertl,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:57,,,,,,17
+18,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,10:59,,,,,,18
+19,Juliane,Lippert,Juliane Lippert,Female,,,https://ui-avatars.com/api/?name=J+L&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,11:03,,,,,,19
+20,Chayline,Simon,Chayline Simon,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,11:06,,,,,,20
+20,Marilena,Micha,Marilena Micha,Female,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,11:06,,,,,,20
+22,Alexandra,Tausend,Alexandra Tausend,Female,Germany,Crossfit Aorta,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,11:09,,,,,,22
+23,Anne,Roeloffs,Anne Roeloffs,Female,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,11:24,,,,,,23
+24,Okka,Fürstenberg,Okka Fürstenberg,Female,,,https://ui-avatars.com/api/?name=O+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,11:54,,,,,,24
+25,Nathali,Kopytko,Nathali Kopytko,Female,,,https://ui-avatars.com/api/?name=N+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,12:25,,,,,,25
+26,Ronja,Mocker,Ronja Mocker,Female,Germany,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,12:40,,,,,,26
+27,Blanca,Nava,Blanca Nava,Female,,,https://ui-avatars.com/api/?name=B+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:15,,,,,,27
+28,Giuseppina,Giusyceliento1985@gmail.com,Giuseppina Giusyceliento1985@gmail.com,Female,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:27,,,,,,28
+29,Michelle,Czaja,Michelle Czaja,Female,,,https://athxgames.com/storage/profile-photos/I8cMLIB5aL3HBHO2C2ZSrPLbTB8rPXujSh897cya.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:52,,,,,,29
+30,Meghan,Thomson,Meghan Thomson,Female,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:55,,,,,,30
+31,Ramona,Fleischmann,Ramona Fleischmann,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,15:34,,,,,,31
+32,Aleksandra,Godun,Aleksandra Godun,Female,,BLN.Athletics,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:11,,,,,,32
+33,Julia,Scheiwe,Julia Scheiwe,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,18:53,,,,,,33
+34,Elisa,Klatt,Elisa Klatt,Female,,,https://ui-avatars.com/api/?name=E+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,20:05,,,,,,34
+1,Magdalena,Schubert,Magdalena Schubert,Female,Germany,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+2,Susan,Treppner,Susan Treppner,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,2
+3,Charis,Zach,Charis Zach,Female,Germany,Crossfit Rosenheim,https://athxgames.com/storage/profile-photos/ViNYe78NwLAZ1YLzKriOYtLzvgaN8gjloakJdzaY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+4,Nicole,Landré,Nicole Landré,Female,,,https://athxgames.com/storage/profile-photos/xt6LJrODs6xg6c1X4De3zGiYFJqIVLo96QwLUxrY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,4
+5,Selina,Mertsch,Selina Mertsch,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,5
+5,Anna,Gebel,Anna Gebel,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,5
+7,Jette,Benedicte Jess,Jette Benedicte Jess,Female,Germany,,https://ui-avatars.com/api/?name=J+B+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,7
+8,Maria,Resende,Maria Resende,Female,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,8
+9,Vivien,Hertz,Vivien Hertz,Female,,,https://athxgames.com/storage/profile-photos/TzoZJbj2NPME0Sc5q7iNEdBjxB7NyC8USzZlthus.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,9
+10,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,10
+11,Salome,Kovancisoy,Salome Kovancisoy,Female,,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,11
+12,Karin,Steininger,Karin Steininger,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,12
+13,Elisabeth,Nickel,Elisabeth Nickel,Female,,,https://ui-avatars.com/api/?name=E+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,13
+1,Charis,Zach,Charis Zach,Female,Germany,Crossfit Rosenheim,https://athxgames.com/storage/profile-photos/ViNYe78NwLAZ1YLzKriOYtLzvgaN8gjloakJdzaY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,06:55,,,,,,1
+2,Susan,Treppner,Susan Treppner,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,07:47,,,,,,2
+3,Vivien,Hertz,Vivien Hertz,Female,,,https://athxgames.com/storage/profile-photos/TzoZJbj2NPME0Sc5q7iNEdBjxB7NyC8USzZlthus.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,08:05,,,,,,3
+4,Selina,Mertsch,Selina Mertsch,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,08:09,,,,,,4
+5,Nicole,Landré,Nicole Landré,Female,,,https://athxgames.com/storage/profile-photos/xt6LJrODs6xg6c1X4De3zGiYFJqIVLo96QwLUxrY.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,08:20,,,,,,5
+6,Anna,Gebel,Anna Gebel,Female,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,08:44,,,,,,6
+7,Magdalena,Schubert,Magdalena Schubert,Female,Germany,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,08:58,,,,,,7
+8,Jette,Benedicte Jess,Jette Benedicte Jess,Female,Germany,,https://ui-avatars.com/api/?name=J+B+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,09:44,,,,,,8
+9,Karin,Steininger,Karin Steininger,Female,,,https://ui-avatars.com/api/?name=K+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,10:41,,,,,,9
+10,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,10:47,,,,,,10
+11,Elisabeth,Nickel,Elisabeth Nickel,Female,,,https://ui-avatars.com/api/?name=E+N&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,11:21,,,,,,11
+12,Maria,Resende,Maria Resende,Female,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,11:43,,,,,,12
+13,Salome,Kovancisoy,Salome Kovancisoy,Female,,Riginal CrossFit Nürnberg,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,12:44,,,,,,13
+1,Aaron,Curto,Aaron Curto,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+1,Thomas,Hübener,Thomas Hübener,Male,,,https://athxgames.com/storage/profile-photos/TRBWYq2iqiSL6fDx5v9DmL5QzCqDXZ0noZffPn4q.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+3,Denis,Clotten,Denis Clotten,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,Safa,Akso,Safa Akso,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,Christoph,Jachs,Christoph Jachs,Male,Austria,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+6,Moe,Kahn,Moe Kahn,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+7,Mathias,Moosmann,Mathias Moosmann,Male,Germany,Athletenfabrik,https://athxgames.com/storage/profile-photos/0fqVQD4QqbVz36dttMhuwToRNKZmyTa9smWGSd7o.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,7
+8,Roman,Pelz,Roman Pelz,Male,,,https://ui-avatars.com/api/?name=R+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+9,Vangelis,Papanikolaou,Vangelis Papanikolaou,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,9
+10,Denis,Seebode,Denis Seebode,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,10
+11,Heiko,Kandler,Heiko Kandler,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,11
+12,Deon,Chikodzi,Deon Chikodzi,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,12
+12,Sahin,Kovancisoy,Sahin Kovancisoy,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,12
+14,Graham,Halliday,Graham Halliday,Male,,,https://ui-avatars.com/api/?name=G+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,14
+15,Julian,Paap,Julian Paap,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,15
+16,Andreas,Burcea Marcu,Andreas Burcea Marcu,Male,,,https://ui-avatars.com/api/?name=A+B+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,16
+17,Christie,Jay,Christie Jay,Male,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,17
+18,Robert,Stoye,Robert Stoye,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,18
+19,Erik Falk,Schurich,Erik Falk Schurich,Male,,,https://ui-avatars.com/api/?name=E+F+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,19
+20,Alex,Smithwick,Alex Smithwick,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,20
+21,Michael,Sobottka,Michael Sobottka,Male,Germany,North Athletics,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,21
+22,Christian,Ophoven,Christian Ophoven,Male,Germany,FMT KOBLENZ,https://athxgames.com/storage/profile-photos/74P23ZFzOoAUjxqJIO68ZtzCPZDevv0uZQn5GpVD.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,22
+23,Matthias,Meinking,Matthias Meinking,Male,Germany,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,23
+24,Jacob,Suarez,Jacob Suarez,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,24
+25,Saverio,Ricciuti,Saverio Ricciuti,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,25
+26,Osman,Kücük,Osman Kücük,Male,Turkey,Classic Crossfit 31,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,26
+27,Mathias,M.J. Mißler,Mathias M.J. Mißler,Male,,,https://ui-avatars.com/api/?name=M+M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,27
+1,Mathias,Moosmann,Mathias Moosmann,Male,Germany,Athletenfabrik,https://athxgames.com/storage/profile-photos/0fqVQD4QqbVz36dttMhuwToRNKZmyTa9smWGSd7o.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,07:50,,,,,,1
+2,Denis,Clotten,Denis Clotten,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,08:21,,,,,,2
+3,Safa,Akso,Safa Akso,Male,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,08:29,,,,,,3
+4,Graham,Halliday,Graham Halliday,Male,,,https://ui-avatars.com/api/?name=G+H&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,08:41,,,,,,4
+5,Aaron,Curto,Aaron Curto,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,08:50,,,,,,5
+6,Moe,Kahn,Moe Kahn,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,08:51,,,,,,6
+7,Sahin,Kovancisoy,Sahin Kovancisoy,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,09:25,,,,,,7
+8,Heiko,Kandler,Heiko Kandler,Male,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,09:47,,,,,,8
+9,Roman,Pelz,Roman Pelz,Male,,,https://ui-avatars.com/api/?name=R+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,10:11,,,,,,9
+10,Robert,Stoye,Robert Stoye,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,11:22,,,,,,10
+11,Vangelis,Papanikolaou,Vangelis Papanikolaou,Male,,,https://ui-avatars.com/api/?name=V+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,11:23,,,,,,11
+12,Julian,Paap,Julian Paap,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,11:27,,,,,,12
+13,Denis,Seebode,Denis Seebode,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,11:39,,,,,,13
+14,Thomas,Hübener,Thomas Hübener,Male,,,https://athxgames.com/storage/profile-photos/TRBWYq2iqiSL6fDx5v9DmL5QzCqDXZ0noZffPn4q.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,11:51,,,,,,14
+15,Andreas,Burcea Marcu,Andreas Burcea Marcu,Male,,,https://ui-avatars.com/api/?name=A+B+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,12:20,,,,,,15
+16,Jacob,Suarez,Jacob Suarez,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,12:50,,,,,,16
+17,Scott,Bayvel,Scott Bayvel,Male,,,https://athxgames.com/storage/profile-photos/EXQTsjhms1UVtEZdcS9MXzHr3H942GTTKxSRuYbX.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,12:55,,,,,,17
+18,Christoph,Jachs,Christoph Jachs,Male,Austria,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,13:12,,,,,,18
+19,Christian,Ophoven,Christian Ophoven,Male,Germany,FMT KOBLENZ,https://athxgames.com/storage/profile-photos/74P23ZFzOoAUjxqJIO68ZtzCPZDevv0uZQn5GpVD.jpg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,13:22,,,,,,19
+20,Christie,Jay,Christie Jay,Male,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,13:34,,,,,,20
+21,Deon,Chikodzi,Deon Chikodzi,Male,,,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,13:55,,,,,,21
+21,Matthias,Meinking,Matthias Meinking,Male,Germany,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,13:55,,,,,,21
+23,Erik Falk,Schurich,Erik Falk Schurich,Male,,,https://ui-avatars.com/api/?name=E+F+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,14:06,,,,,,23
+24,Alex,Smithwick,Alex Smithwick,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,14:08,,,,,,24
+25,Michael,Sobottka,Michael Sobottka,Male,Germany,North Athletics,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,14:58,,,,,,25
+26,Mathias,M.J. Mißler,Mathias M.J. Mißler,Male,,,https://ui-avatars.com/api/?name=M+M+M&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,17:50,,,,,,26
+27,Osman,Kücük,Osman Kücük,Male,Turkey,Classic Crossfit 31,https://ui-avatars.com/api/?name=O+K&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,20:47,,,,,,27
+28,Saverio,Ricciuti,Saverio Ricciuti,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,28:40,,,,,,28

@@ -1,0 +1,857 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Tom,Kingdon,Tom Kingdon,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,06:15,,,,,,1
+2,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,07:30,,,,,,2
+3,Joseph,Harper,Joseph Harper,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,07:39,,,,,,3
+4,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,09:45,,,,,,4
+5,Tobias,Rogers,Tobias Rogers,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:00,,,,,,5
+6,Ryan,Holsgrove,Ryan Holsgrove,Male,,,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:28,,,,,,6
+7,Chris,Harman,Chris Harman,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:45,,,,,,7
+8,Michael,Rowland,Michael Rowland,Male,United Kingdom,CrossFit Beorn,https://athxgames.com/storage/profile-photos/rVxMRwEHgLqmPbNYMl8wN0ikLBCU0cTvZTrJ8NH2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:46,,,,,,8
+9,Robin,Wilkins,Robin Wilkins,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:10,,,,,,9
+10,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:15,,,,,,10
+11,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:20,,,,,,11
+12,Ross,Endersby,Ross Endersby,Male,United Kingdom,Sleven,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:37,,,,,,12
+13,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:43,,,,,,13
+14,Thomas,Rolfe,Thomas Rolfe,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:26,,,,,,14
+15,Matt,Grimshaw,Matt Grimshaw,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:37,,,,,,15
+16,Jobert,Fermilan,Jobert Fermilan,Male,United Kingdom,BC Fitness HQ,https://athxgames.com/storage/profile-photos/fubAdqItjgXktkQ5hoF0HQZ4SLCYo2I04nWZyQ6i.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,12:38,,,,,,16
+17,Don,Amartey,Don Amartey,Male,United Kingdom,Gym Location Crawley,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,13:16,,,,,,17
+18,Keaton,Losa-Riley,Keaton Losa-Riley,Male,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,13:36,,,,,,18
+19,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,14:22,,,,,,19
+20,Aaron,Newland,Aaron Newland,Male,,,https://ui-avatars.com/api/?name=A+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,14:24,,,,,,20
+21,Cameron,Rhind,Cameron Rhind,Male,,,https://ui-avatars.com/api/?name=C+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:13,,,,,,21
+22,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,16:08,,,,,,22
+23,Kieran,Hollins,Kieran Hollins,Male,United Kingdom,Sweatbox Dundee,https://athxgames.com/storage/profile-photos/mjoOHHKm3Q8t85wF2GxNWRCl0rxymcBQjPlWg7Wr.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,16:19,,,,,,23
+24,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,16:25,,,,,,24
+25,Chukwuemeka,Nsonwu,Chukwuemeka Nsonwu,Male,Nigeria,TeddyB Fitness,https://athxgames.com/storage/profile-photos/HkpzhHzPz6AP0xyDhzmSQ8IGZ33hxL8EuJV3RWfS.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,19:31,,,,,,25
+26,Philip,Burke,Philip Burke,Male,,,https://athxgames.com/storage/profile-photos/AkcpVM44uW1piF3SgpmRCdh2i7tJPUrffRgyeASO.png,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,20:04,,,,,,26
+27,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,20:26,,,,,,27
+28,Lucas,Novi,Lucas Novi,Male,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,22:01,,,,,,28
+29,Thomas,Godec,Thomas Godec,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,28:38,,,,,,29
+30,Leo,Murphy,Leo Murphy,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,28:40,,,,,,30
+30,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,28:40,,,,,,30
+30,Muhammad Farhan,Aslam,Muhammad Farhan Aslam,Male,,,https://ui-avatars.com/api/?name=M+F+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,28:40,,,,,,30
+1,Aileen,McCann,Aileen McCann,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+2,Ellie,Riley,Ellie Riley,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,2
+3,Amelia,Layng,Amelia Layng,Female,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,3
+4,MEG,PARKES,MEG PARKES,Female,,Crossfit Wycombe,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,4
+5,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,5
+6,Rhian,Foxhall,Rhian Foxhall,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,6
+7,Emily,Gooderham,Emily Gooderham,Female,,,https://ui-avatars.com/api/?name=E+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,7
+8,Jessica,Braun,Jessica Braun,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,8
+9,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,9
+10,Halima,Sewehli,Halima Sewehli,Female,,,https://ui-avatars.com/api/?name=H+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,10
+11,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,11
+12,Anna,Edwards,Anna Edwards,Female,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,12
+13,Victoria,Collins,Victoria Collins,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,13
+14,Ecem,Hasan,Ecem Hasan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,14
+15,Jessica,Fisher,Jessica Fisher,Female,United Kingdom,Maximum Results KL,https://athxgames.com/storage/profile-photos/eC0bxQ18dcSPoiP1OO890pAGCIgZ2L14PFnPGZrL.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,15
+16,Linsey,Swinburne,Linsey Swinburne,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,16
+1,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,Sophie,Wawrzyniak,Sophie Wawrzyniak,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Rachel,Eagles,Rachel Eagles,Female,,,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Heather,Redmond,Heather Redmond,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,India,Paine,India Paine,Female,,,https://ui-avatars.com/api/?name=I+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,Molly,Carmichael,Molly Carmichael,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,8
+9,Holly,Mills,Holly Mills,Female,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,9
+10,Hannah,Brown,Hannah Brown,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,10
+11,Holly,Walmsley,Holly Walmsley,Female,,Modified fitness,https://athxgames.com/storage/profile-photos/SzqHjagakwRyEO30S1B1M7PZiSRAeVutOOwv0ZAt.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,11
+12,Chloe,Hinnigan,Chloe Hinnigan,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,Elaine,Clarke,Elaine Clarke,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,allie,park-crowne,allie park-crowne,Female,United Kingdom,CrossFit Verulamium,https://ui-avatars.com/api/?name=a+p&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Clare,Hesselwood,Clare Hesselwood,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Laura,Stanway,Laura Stanway,Female,,,https://athxgames.com/storage/profile-photos/CYarFyhZWJ9vuH5vejzmvJI99QtLQo7cXVY2hOob.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,Hayley,Biggs,Hayley Biggs,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,17
+18,Georgia,Bennett,Georgia Bennett,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/aouoHIVkxTtgpx0GptWqWYSmJzT9QtoZ1I3S37AH.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,18
+19,Emma,O Flynn,Emma O Flynn,Female,,,https://athxgames.com/storage/profile-photos/E7IkAxynaFajwch2Ul4Pirs7BeniqI2eKqOyBRcI.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Karolin,Kroese,Karolin Kroese,Female,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,Rebecca,Horne-Smith,Rebecca Horne-Smith,Female,United Kingdom,BEC,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Karen,Robb,Karen Robb,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,22
+23,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,23
+24,Halima,Sewehli,Halima Sewehli,Female,,,https://ui-avatars.com/api/?name=H+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,24
+25,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,25
+26,Aislinn,Smith,Aislinn Smith,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,26
+27,Rachael,Robertson,Rachael Robertson,Female,,,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,27
+28,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,28
+29,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,29
+30,Jade,Brier,Jade Brier,Female,,,https://athxgames.com/storage/profile-photos/Lws1CDZ3o3sRPMuD74rODo8Y77UYvKDsZ4ZPgByB.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,30
+31,Ella,Hagan,Ella Hagan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,31
+32,Emma,Brown,Emma Brown,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,32
+33,Silja,Fisk,Silja Fisk,Female,,,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,33
+34,Samantha,Rouhier,Samantha Rouhier,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,34
+35,Victoria,Zielonko,Victoria Zielonko,Female,,,https://ui-avatars.com/api/?name=V+Z&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,35
+36,Jenna,Hill-Wood,Jenna Hill-Wood,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/UegHafSeJLID6Yr0q7EmcNS9ZHT7KxNZD0G3H33v.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,36
+37,Leona,Wright,Leona Wright,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,37
+38,Sarah,Hibbitts,Sarah Hibbitts,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,38
+39,Lydia,Holland,Lydia Holland,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,39
+40,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,40
+41,Charlotte,Neill,Charlotte Neill,Female,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,41
+42,Ellie-May,Okirie,Ellie-May Okirie,Female,,,https://ui-avatars.com/api/?name=E+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,42
+43,humerah,sajjad,humerah sajjad,Female,,,https://ui-avatars.com/api/?name=h+s&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,43
+44,Sophie,Baldwin,Sophie Baldwin,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,44
+45,Sally,Wenham,Sally Wenham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/c6CC30hThSa0eWTMr0UCs3iyEhioHRzYleo7Bn82.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,45
+46,Jennie,Sparrow,Jennie Sparrow,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,46
+47,San,Jeyarajah,San Jeyarajah,Female,,,https://ui-avatars.com/api/?name=S+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,47
+48,Jane,Holmes,Jane Holmes,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,48
+48,Louise,Thompson,Louise Thompson,Female,,,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,48
+50,Alice,Butler,Alice Butler,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,50
+51,Liz,Norris,Liz Norris,Female,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,51
+52,Chloe,Smith,Chloe Smith,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,52
+53,Ann,Harris,Ann Harris,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,53
+54,Maria,Cullimore,Maria Cullimore,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,54
+55,Victoria,Lawson,Victoria Lawson,Female,,,https://ui-avatars.com/api/?name=V+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,55
+56,Melissa,Hobden,Melissa Hobden,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,56
+57,Lola,Olanipekun,Lola Olanipekun,Female,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,57
+57,Sarah,Moyler,Sarah Moyler,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,57
+59,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,59
+60,Jessica,Davey,Jessica Davey,Female,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,60
+61,Josie,Hadfield,Josie Hadfield,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,61
+62,Hope,Read,Hope Read,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,62
+63,Rebecca,Ajewole,Rebecca Ajewole,Female,,,https://ui-avatars.com/api/?name=R+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,63
+64,Nic,Seeney,Nic Seeney,Female,,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,64
+65,Freya,Sheldon,Freya Sheldon,Female,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,65
+66,Lisa,Hill,Lisa Hill,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,66
+67,Amardeep,Pensar,Amardeep Pensar,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,67
+68,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,68
+1,MEG,PARKES,MEG PARKES,Female,,Crossfit Wycombe,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,1 (158KG),4 (8.31KM),1 (08:32),,,,,,6
+2,Aileen,McCann,Aileen McCann,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,3 (133KG),1 (8.841KM),2 (08:39),,,,,,6
+3,Rhian,Foxhall,Rhian Foxhall,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,2 (140KG),6 (8.232KM),3 (08:56),,,,,,11
+4,Amelia,Layng,Amelia Layng,Female,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,7 (130KG),3 (8.353KM),4 (09:55),,,,,,14
+5,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,3 (133KG),5 (8.262KM),8 (10:29),,,,,,16
+6,Ellie,Riley,Ellie Riley,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,11 (114KG),2 (8.456KM),5 (09:58),,,,,,18
+7,Emily,Gooderham,Emily Gooderham,Female,,,https://ui-avatars.com/api/?name=E+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,8 (129KG),7 (8.165KM),7 (10:19),,,,,,22
+8,Anna,Edwards,Anna Edwards,Female,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,3 (133KG),12 (7.697KM),11 (13:27),,,,,,26
+9,Halima,Sewehli,Halima Sewehli,Female,,,https://ui-avatars.com/api/?name=H+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,12 (106KG),24 (8.027KM),20 (10:11),,,,,,28
+10,Jessica,Braun,Jessica Braun,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,12 (106KG),8 (8.035KM),9 (12:43),,,,,,29
+11,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,6 (132KG),9 (8.031KM),15 (14:54),,,,,,30
+12,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,14 (102KG),11 (8.022KM),10 (12:45),,,,,,35
+13,Ecem,Hasan,Ecem Hasan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,9 (126KG),14 (7.34KM),13 (14:31),,,,,,36
+14,Victoria,Collins,Victoria Collins,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,15 (99KG),13 (7.693KM),12 (13:55),,,,,,40
+15,Jessica,Fisher,Jessica Fisher,Female,United Kingdom,Maximum Results KL,https://athxgames.com/storage/profile-photos/eC0bxQ18dcSPoiP1OO890pAGCIgZ2L14PFnPGZrL.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,10 (116KG),15 (7.266KM),16 (15:59),,,,,,41
+16,Linsey,Swinburne,Linsey Swinburne,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,16 (92KG),16 (7.263KM),14 (14:44),,,,,,46
+1,Joseph,Hanlon,Joseph Hanlon,Male,,,https://athxgames.com/storage/profile-photos/sdhpdHJg7lPnyUAxGpSRrlneIqrL7rPeKWhSyfHu.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,20 (206KG),2 (9.859KM),1 (07:07),,,,,,23
+2,Michael,Andrews,Michael Andrews,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,2 (250KG),22 (9.292KM),2 (07:26),,,,,,26
+3,Conor,Mcgrath,Conor Mcgrath,Male,Ireland,,https://athxgames.com/storage/profile-photos/v9GOnHPGadvK8QGBRUprXVMgmA6RqpsdCacUKCQe.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (230KG),25 (9.134KM),3 (07:37),,,,,,33
+4,Dawid,Łuc,Dawid Łuc,Male,Poland,Barbellheart,https://athxgames.com/storage/profile-photos/JumxAMx6WHXytTYOZVdPNTJPoA0UZTSZPcBxJ6gP.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,22 (205KG),14 (9.39KM),5 (07:54),,,,,,41
+5,Shaun,Evans,Shaun Evans,Male,,,https://ui-avatars.com/api/?name=S+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,10 (220KG),15 (9.379KM),18 (09:08),,,,,,43
+6,Ben,Cardwell,Ben Cardwell,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (190KG),10 (9.472KM),7 (07:57),,,,,,46
+7,Si,Pill,Si Pill,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,1 (254KG),23 (9.228KM),27 (09:48),,,,,,51
+8,Patrick,Matthews,Patrick Matthews,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,17 (213KG),16 (9.361KM),19 (09:13),,,,,,52
+9,James,Cooper,James Cooper,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,36 (180KG),9 (9.483KM),8 (08:14),,,,,,53
+10,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,8 (227KG),38 (8.847KM),9 (08:26),,,,,,55
+10,Richard,Wilson,Richard Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (201KG),18 (9.327KM),12 (08:36),,,,,,55
+12,Steve,King,Steve King,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,22 (205KG),24 (9.218KM),13 (08:42),,,,,,59
+13,Will,Graham,Will Graham,Male,,,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,10 (220KG),33 (8.939KM),19 (09:13),,,,,,62
+14,Dean,Wood,Dean Wood,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,36 (180KG),20 (9.316KM),11 (08:28),,,,,,67
+15,Richard,Seymour,Richard Seymour,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,52 (167KG),1 (9.903KM),16 (08:55),,,,,,69
+16,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,45 (170KG),3 (9.644KM),26 (09:47),,,,,,74
+17,Joe,Murphy,Joe Murphy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,18 (210KG),34 (8.933KM),23 (09:33),,,,,,75
+18,Joseph,Wilson,Joseph Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,56 (160KG),6 (9.511KM),15 (08:51),,,,,,77
+19,Josh,West,Josh West,Male,United Kingdom,CrossFit Cirencester,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,41 (175KG),12 (9.411KM),37 (10:38),,,,,,90
+20,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,62 (155KG),19 (9.326KM),10 (08:27),,,,,,91
+21,Dan,Sykes,Dan Sykes,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,45 (170KG),26 (9.119KM),21 (09:31),,,,,,92
+22,Chris,Harlow,Chris Harlow,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,45 (170KG),4 (9.631KM),44 (11:19),,,,,,93
+23,Callum,Monk,Callum Monk,Male,United Kingdom,Hx1,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (190KG),36 (8.909KM),29 (10:02),,,,,,94
+24,Paul,Whittaker,Paul Whittaker,Male,United Kingdom,Jake Wood PT Nottingham,https://ui-avatars.com/api/?name=P+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,50 (168KG),32 (8.94KM),17 (09:07),,,,,,99
+25,Ben,Key,Ben Key,Male,United Kingdom,Caveman Training,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,78 (140KG),8 (9.5KM),14 (08:44),,,,,,100
+26,Jakub,Tokarz,Jakub Tokarz,Male,Poland,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (190KG),13 (9.4KM),59 (12:27),,,,,,101
+27,Stuart,Wright,Stuart Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,28 (191KG),37 (8.856KM),41 (11:04),,,,,,106
+27,Dario,Ruma,Dario Ruma,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,20 (206KG),80 (8.114KM),6 (07:56),,,,,,106
+27,Adam,Wessely,Adam Wessely,Male,,Third Space,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,9 (225KG),72 (8.269KM),25 (09:41),,,,,,106
+30,Thomas,Canfield,Thomas Canfield,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,36 (180KG),41 (8.817KM),31 (10:14),,,,,,108
+31,Mason,Lee,Mason Lee,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,36 (180KG),52 (8.615KM),22 (09:32),,,,,,110
+32,Seb,Clark,Seb Clark,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (190KG),43 (8.787KM),39 (10:56),,,,,,111
+32,Rory,McQueen,Rory McQueen,Male,,Caveman training,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,90 (121KG),17 (9.36KM),4 (07:50),,,,,,111
+34,Tommy,Penney,Tommy Penney,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,61 (157KG),5 (9.588KM),48 (11:51),,,,,,114
+35,Lewis,Williams,Lewis Williams,Male,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,41 (175KG),40 (8.826KM),36 (10:35),,,,,,117
+35,David,Dickie,David Dickie,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (197KG),35 (8.932KM),55 (12:16),,,,,,117
+37,Oliver,Blake,Oliver Blake,Male,,,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,50 (168KG),44 (8.775KM),24 (09:39),,,,,,118
+38,Callum,Hoy,Callum Hoy,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,2 (250KG),55 (8.531KM),63 (13:03),,,,,,120
+39,Paul,Murray,Paul Murray,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,44 (174KG),28 (9.062KM),48 (11:51),,,,,,120
+40,Bryan,Charge,Bryan Charge,Male,France,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,26 (198KG),67 (8.352KM),34 (10:20),,,,,,127
+40,Chris,Hildyard,Chris Hildyard,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,4 (240KG),47 (8.702KM),76 (14:11),,,,,,127
+42,Mitch,Woodbine,Mitch Woodbine,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,56 (160KG),42 (8.794KM),33 (10:18),,,,,,131
+42,Joe,Beddoe,Joe Beddoe,Male,Jersey,,https://athxgames.com/storage/profile-photos/y2jXGhlPVnvwT6CdsGE02PW3odAw8oENHH8Vmk73.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),48 (8.685KM),71 (13:53),,,,,,131
+44,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,55 (161KG),31 (8.945KM),48 (11:51),,,,,,134
+45,Ryan,Shiel,Ryan Shiel,Male,,Fosse way crossfit,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),78 (8.182KM),46 (11:39),,,,,,136
+46,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (188KG),59 (8.447KM),45 (11:37),,,,,,138
+47,Mike,Drover,Mike Drover,Male,United Kingdom,Wellesbourne Sports & Community Centre,https://athxgames.com/storage/profile-photos/pKpEixSYqLrQzCiMmO5bHUSNFFU9FJpFql0fRzVM.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,18 (210KG),53 (8.599KM),71 (13:53),,,,,,142
+48,Joe,Mawby,Joe Mawby,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,68 (150KG),11 (9.433KM),65 (13:08),,,,,,144
+49,Ian,Husband,Ian Husband,Male,United Kingdom,CrossFit Walthamstow,https://athxgames.com/storage/profile-photos/pR0Si06jy3QoB9emTzUwk7CNyaPHfBMblG3f5enR.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (190KG),49 (8.676KM),67 (13:18),,,,,,145
+49,Kiall,Gormley,Kiall Gormley,Male,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (179KG),65 (8.382KM),40 (10:57),,,,,,145
+51,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,53 (163KG),51 (8.629KM),47 (11:48),,,,,,151
+52,Ben,Blackhurst,Ben Blackhurst,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),61 (8.433KM),81 (14:51),,,,,,154
+52,Giordano,Antonucci,Giordano Antonucci,Male,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,74 (145KG),45 (8.741KM),35 (10:29),,,,,,154
+54,Joe,Wood,Joe Wood,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,41 (175KG),66 (8.377KM),54 (12:14),,,,,,161
+55,Alex,Moorefield,Alex Moorefield,Male,United Kingdom,PureGym Yate,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (230KG),84 (7.994KM),75 (14:10),,,,,,164
+55,Alex,Young,Alex Young,Male,,,https://ui-avatars.com/api/?name=A+Y&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,56 (160KG),50 (8.672KM),58 (12:24),,,,,,164
+55,Tom,Crofts,Tom Crofts,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,76 (142KG),56 (8.517KM),32 (10:15),,,,,,164
+58,Thomas,Hamlyn Williams,Thomas Hamlyn Williams,Male,,,https://ui-avatars.com/api/?name=T+H+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (230KG),91 (7.717KM),70 (13:51),,,,,,166
+59,Jacob,Champion,Jacob Champion,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,96 (100KG),7 (9.507KM),68 (13:29),,,,,,171
+60,Daniel,Sabato,Daniel Sabato,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,77 (141KG),57 (8.516KM),38 (10:53),,,,,,172
+61,Dean,Holst,Dean Holst,Male,South Africa,,https://athxgames.com/storage/profile-photos/90tpiM3zLaxdUCVlB7PZh4T2eGW1jUAaSije92jv.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,56 (160KG),64 (8.389KM),53 (12:11),,,,,,173
+61,Seon,Nurse,Seon Nurse,Male,,,https://ui-avatars.com/api/?name=S+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,62 (155KG),83 (8.001KM),28 (10:01),,,,,,173
+63,Daniel,Offley,Daniel Offley,Male,,,https://ui-avatars.com/api/?name=D+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,66 (152KG),29 (8.974KM),80 (14:48),,,,,,175
+64,Theo,Dunnett,Theo Dunnett,Male,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,62 (155KG),46 (8.73KM),69 (13:45),,,,,,177
+65,Aarron,Benn,Aarron Benn,Male,United Kingdom,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,73 (147KG),54 (8.546KM),51 (11:54),,,,,,178
+66,Lewi,Brown,Lewi Brown,Male,,,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (188KG),85 (7.962KM),62 (13:02),,,,,,181
+66,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),87 (7.8KM),82 (14:55),,,,,,181
+68,Alex,Rawson,Alex Rawson,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,98 (2KG),27 (9.067KM),61 (12:35),,,,,,186
+68,Ashley,Atwal,Ashley Atwal,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,45 (170KG),81 (8.105KM),60 (12:33),,,,,,186
+68,Jack,Twist,Jack Twist,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,68 (150KG),30 (8.953KM),88 (16:21),,,,,,186
+71,Adam,Blakemore,Adam Blakemore,Male,,Vibes,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,82 (139KG),75 (8.23KM),30 (10:04),,,,,,187
+72,Michael,Spurrier,Michael Spurrier,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (215KG),93 (7.615KM),84 (15:35),,,,,,189
+73,Fraser,Cresswell,Fraser Cresswell,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,83 (135KG),69 (8.334KM),42 (11:10),,,,,,194
+74,Luke,Gannaway,Luke Gannaway,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,53 (163KG),77 (8.212KM),66 (13:16),,,,,,196
+75,Terence,Stanley,Terence Stanley,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,74 (145KG),60 (8.439KM),64 (13:04),,,,,,198
+76,Martin,Kintzel,Martin Kintzel,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,78 (140KG),70 (8.307KM),52 (12:04),,,,,,200
+77,Marek,Nowik,Marek Nowik,Male,Poland,,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,24 (203KG),88 (7.743KM),89 (16:54),,,,,,201
+78,Ollie,Roberts,Ollie Roberts,Male,,,https://ui-avatars.com/api/?name=O+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,56 (160KG),68 (8.335KM),83 (15:11),,,,,,207
+79,Andrew,Findley,Andrew Findley,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,45 (170KG),92 (7.668KM),73 (13:57),,,,,,210
+79,Dominic,Hoole,Dominic Hoole,Male,United Kingdom,Collective MCR,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,97 (90KG),21 (9.309KM),92 (17:52),,,,,,210
+81,gordon,mills,gordon mills,Male,,,https://ui-avatars.com/api/?name=g+m&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,95 (106KG),74 (8.255KM),43 (11:12),,,,,,212
+81,Harjeet,Cheema,Harjeet Cheema,Male,,,https://ui-avatars.com/api/?name=H+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,85 (130KG),71 (8.292KM),56 (12:20),,,,,,212
+83,Mark,Hamblin,Mark Hamblin,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,78 (140KG),39 (8.84KM),96 (22:27),,,,,,213
+84,Joe,Missin,Joe Missin,Male,,AJ’s Gym,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,85 (130KG),58 (8.485KM),77 (14:22),,,,,,220
+85,Alexander,Facci,Alexander Facci,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,68 (150KG),79 (8.154KM),74 (14:03),,,,,,221
+86,lawrence,augustin,lawrence augustin,Male,France,Thegym,https://athxgames.com/storage/profile-photos/KOdYxPSLGXqYbojxtIElBWqJHPl6nUnQ50wFv7ZA.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,65 (154KG),62 (8.411KM),95 (19:39),,,,,,222
+87,Paul,Eaton,Paul Eaton,Male,,,https://ui-avatars.com/api/?name=P+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,78 (140KG),63 (8.397KM),91 (17:44),,,,,,232
+88,Rhoneil,Tiburcio,Rhoneil Tiburcio,Male,United Kingdom,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,68 (150KG),86 (7.891KM),79 (14:38),,,,,,233
+89,Erkan,Ruso,Erkan Ruso,Male,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,83 (135KG),76 (8.221KM),78 (14:26),,,,,,237
+90,Alam,Islam,Alam Islam,Male,United Kingdom,Glasgow Fittness,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,68 (150KG),96 (7.501KM),85 (15:37),,,,,,249
+91,Carl,Hayward,Carl Hayward,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,85 (130KG),82 (8.051KM),86 (15:49),,,,,,253
+92,James,Barclay,James Barclay,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,91 (120KG),73 (8.264KM),90 (17:09),,,,,,254
+93,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,66 (152KG),97 (7.382KM),93 (18:28),,,,,,256
+94,Mohammad,Malkera,Mohammad Malkera,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,85 (130KG),94 (7.565KM),94 (19:31),,,,,,273
+95,Juan,Garcia Nila,Juan Garcia Nila,Male,,,https://ui-avatars.com/api/?name=J+G+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,92 (110KG),95 (7.562KM),87 (15:55),,,,,,274
+96,Sean,O'Brien,Sean O'Brien,Male,Ireland,Just Gym Saffron Walden,https://athxgames.com/storage/profile-photos/CYT1Wctzfp2JQXKSfLKtiUoJV9PFaGgzNp72Rc1C.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,89 (125KG),90 (7.718KM),99 (29:00),,,,,,278
+97,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,94 (107KG),89 (7.735KM),98 (27:36),,,,,,281
+98,Damion,Quinsee,Damion Quinsee,Male,South Africa,Storme CrossFit Ashby,https://athxgames.com/storage/profile-photos/ybDgB8SDXlJCDI3hlT6YnNMp3TPcOZ6OVQxfxGaf.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,92 (110KG),98 (6.589KM),97 (23:32),,,,,,287
+1,Richard,Seymour,Richard Seymour,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Joseph,Hanlon,Joseph Hanlon,Male,,,https://athxgames.com/storage/profile-photos/sdhpdHJg7lPnyUAxGpSRrlneIqrL7rPeKWhSyfHu.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Chris,Harlow,Chris Harlow,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Tommy,Penney,Tommy Penney,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,Joseph,Wilson,Joseph Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Jacob,Champion,Jacob Champion,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Ben,Key,Ben Key,Male,United Kingdom,Caveman Training,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,James,Cooper,James Cooper,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Ben,Cardwell,Ben Cardwell,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Joe,Mawby,Joe Mawby,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,Josh,West,Josh West,Male,United Kingdom,CrossFit Cirencester,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Jakub,Tokarz,Jakub Tokarz,Male,Poland,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Dawid,Łuc,Dawid Łuc,Male,Poland,Barbellheart,https://athxgames.com/storage/profile-photos/JumxAMx6WHXytTYOZVdPNTJPoA0UZTSZPcBxJ6gP.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Shaun,Evans,Shaun Evans,Male,,,https://ui-avatars.com/api/?name=S+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,Patrick,Matthews,Patrick Matthews,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,Rory,McQueen,Rory McQueen,Male,,Caveman training,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Richard,Wilson,Richard Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Dean,Wood,Dean Wood,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,20
+21,Dominic,Hoole,Dominic Hoole,Male,United Kingdom,Collective MCR,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,21
+22,Michael,Andrews,Michael Andrews,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,22
+23,Si,Pill,Si Pill,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,23
+24,Steve,King,Steve King,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,24
+25,Conor,Mcgrath,Conor Mcgrath,Male,Ireland,,https://athxgames.com/storage/profile-photos/v9GOnHPGadvK8QGBRUprXVMgmA6RqpsdCacUKCQe.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,25
+26,Dan,Sykes,Dan Sykes,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,26
+27,Alex,Rawson,Alex Rawson,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,27
+28,Paul,Murray,Paul Murray,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,28
+29,Daniel,Offley,Daniel Offley,Male,,,https://ui-avatars.com/api/?name=D+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,29
+30,Jack,Twist,Jack Twist,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,30
+31,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,31
+32,Paul,Whittaker,Paul Whittaker,Male,United Kingdom,Jake Wood PT Nottingham,https://ui-avatars.com/api/?name=P+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,32
+33,Will,Graham,Will Graham,Male,,,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,33
+34,Joe,Murphy,Joe Murphy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,34
+35,David,Dickie,David Dickie,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,35
+36,Callum,Monk,Callum Monk,Male,United Kingdom,Hx1,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,36
+37,Stuart,Wright,Stuart Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,37
+38,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,38
+39,Mark,Hamblin,Mark Hamblin,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,39
+40,Lewis,Williams,Lewis Williams,Male,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,40
+41,Thomas,Canfield,Thomas Canfield,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,41
+42,Mitch,Woodbine,Mitch Woodbine,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,42
+43,Seb,Clark,Seb Clark,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,43
+44,Oliver,Blake,Oliver Blake,Male,,,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,44
+45,Giordano,Antonucci,Giordano Antonucci,Male,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,45
+46,Theo,Dunnett,Theo Dunnett,Male,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,46
+47,Chris,Hildyard,Chris Hildyard,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,47
+48,Joe,Beddoe,Joe Beddoe,Male,Jersey,,https://athxgames.com/storage/profile-photos/y2jXGhlPVnvwT6CdsGE02PW3odAw8oENHH8Vmk73.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,48
+49,Ian,Husband,Ian Husband,Male,United Kingdom,CrossFit Walthamstow,https://athxgames.com/storage/profile-photos/pR0Si06jy3QoB9emTzUwk7CNyaPHfBMblG3f5enR.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,49
+50,Alex,Young,Alex Young,Male,,,https://ui-avatars.com/api/?name=A+Y&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,50
+51,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,51
+52,Mason,Lee,Mason Lee,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,52
+53,Mike,Drover,Mike Drover,Male,United Kingdom,Wellesbourne Sports & Community Centre,https://athxgames.com/storage/profile-photos/pKpEixSYqLrQzCiMmO5bHUSNFFU9FJpFql0fRzVM.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,53
+54,Aarron,Benn,Aarron Benn,Male,United Kingdom,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,54
+55,Callum,Hoy,Callum Hoy,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,55
+56,Tom,Crofts,Tom Crofts,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,56
+57,Daniel,Sabato,Daniel Sabato,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,57
+58,Joe,Missin,Joe Missin,Male,,AJ’s Gym,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,58
+59,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,59
+60,Terence,Stanley,Terence Stanley,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,60
+61,Ben,Blackhurst,Ben Blackhurst,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,61
+62,lawrence,augustin,lawrence augustin,Male,France,Thegym,https://athxgames.com/storage/profile-photos/KOdYxPSLGXqYbojxtIElBWqJHPl6nUnQ50wFv7ZA.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,62
+63,Paul,Eaton,Paul Eaton,Male,,,https://ui-avatars.com/api/?name=P+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,63
+64,Dean,Holst,Dean Holst,Male,South Africa,,https://athxgames.com/storage/profile-photos/90tpiM3zLaxdUCVlB7PZh4T2eGW1jUAaSije92jv.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,64
+65,Kiall,Gormley,Kiall Gormley,Male,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,65
+66,Joe,Wood,Joe Wood,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,66
+67,Bryan,Charge,Bryan Charge,Male,France,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,67
+68,Ollie,Roberts,Ollie Roberts,Male,,,https://ui-avatars.com/api/?name=O+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,68
+69,Fraser,Cresswell,Fraser Cresswell,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,69
+70,Martin,Kintzel,Martin Kintzel,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,70
+71,Harjeet,Cheema,Harjeet Cheema,Male,,,https://ui-avatars.com/api/?name=H+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,71
+72,Adam,Wessely,Adam Wessely,Male,,Third Space,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,72
+73,James,Barclay,James Barclay,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,73
+74,gordon,mills,gordon mills,Male,,,https://ui-avatars.com/api/?name=g+m&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,74
+75,Adam,Blakemore,Adam Blakemore,Male,,Vibes,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,75
+76,Erkan,Ruso,Erkan Ruso,Male,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,76
+77,Luke,Gannaway,Luke Gannaway,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,77
+78,Ryan,Shiel,Ryan Shiel,Male,,Fosse way crossfit,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,78
+79,Alexander,Facci,Alexander Facci,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,79
+80,Dario,Ruma,Dario Ruma,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,80
+81,Ashley,Atwal,Ashley Atwal,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,81
+82,Carl,Hayward,Carl Hayward,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,82
+83,Seon,Nurse,Seon Nurse,Male,,,https://ui-avatars.com/api/?name=S+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,83
+84,Alex,Moorefield,Alex Moorefield,Male,United Kingdom,PureGym Yate,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,84
+85,Lewi,Brown,Lewi Brown,Male,,,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,85
+86,Rhoneil,Tiburcio,Rhoneil Tiburcio,Male,United Kingdom,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,86
+87,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,87
+88,Marek,Nowik,Marek Nowik,Male,Poland,,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,88
+89,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,89
+90,Sean,O'Brien,Sean O'Brien,Male,Ireland,Just Gym Saffron Walden,https://athxgames.com/storage/profile-photos/CYT1Wctzfp2JQXKSfLKtiUoJV9PFaGgzNp72Rc1C.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,90
+91,Thomas,Hamlyn Williams,Thomas Hamlyn Williams,Male,,,https://ui-avatars.com/api/?name=T+H+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,91
+92,Andrew,Findley,Andrew Findley,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,92
+93,Michael,Spurrier,Michael Spurrier,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,93
+94,Mohammad,Malkera,Mohammad Malkera,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,94
+95,Juan,Garcia Nila,Juan Garcia Nila,Male,,,https://ui-avatars.com/api/?name=J+G+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,95
+96,Alam,Islam,Alam Islam,Male,United Kingdom,Glasgow Fittness,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,96
+97,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,97
+98,Damion,Quinsee,Damion Quinsee,Male,South Africa,Storme CrossFit Ashby,https://athxgames.com/storage/profile-photos/ybDgB8SDXlJCDI3hlT6YnNMp3TPcOZ6OVQxfxGaf.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,98
+1,Sophie,Wawrzyniak,Sophie Wawrzyniak,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,2 (150KG),2 (8.804KM),2 (07:25),,,,,,6
+2,Heather,Redmond,Heather Redmond,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,4 (149KG),4 (8.726KM),9 (08:36),,,,,,17
+3,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,9 (133KG),8 (8.603KM),1 (07:21),,,,,,18
+4,Hannah,Brown,Hannah Brown,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,7 (143KG),10 (8.502KM),4 (07:48),,,,,,21
+5,India,Paine,India Paine,Female,,,https://ui-avatars.com/api/?name=I+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,11 (130KG),6 (8.693KM),6 (08:17),,,,,,23
+5,Molly,Carmichael,Molly Carmichael,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,9 (133KG),7 (8.65KM),7 (08:21),,,,,,23
+7,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,11 (130KG),5 (8.701KM),8 (08:23),,,,,,24
+8,Chloe,Hinnigan,Chloe Hinnigan,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (115KG),12 (8.418KM),3 (07:42),,,,,,36
+9,Rachel,Eagles,Rachel Eagles,Female,,,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,27 (113KG),3 (8.756KM),12 (09:06),,,,,,42
+9,Georgia,Bennett,Georgia Bennett,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/aouoHIVkxTtgpx0GptWqWYSmJzT9QtoZ1I3S37AH.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,5 (148KG),18 (8.114KM),19 (10:07),,,,,,42
+11,Jade,Brier,Jade Brier,Female,,,https://athxgames.com/storage/profile-photos/Lws1CDZ3o3sRPMuD74rODo8Y77UYvKDsZ4ZPgByB.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,11 (130KG),30 (7.795KM),5 (08:04),,,,,,46
+12,Emma,O Flynn,Emma O Flynn,Female,,,https://athxgames.com/storage/profile-photos/E7IkAxynaFajwch2Ul4Pirs7BeniqI2eKqOyBRcI.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (115KG),19 (8.109KM),10 (08:59),,,,,,50
+13,Holly,Mills,Holly Mills,Female,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (115KG),9 (8.539KM),21 (10:21),,,,,,51
+14,Rachael,Robertson,Rachael Robertson,Female,,,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,6 (145KG),27 (7.955KM),27 (11:12),,,,,,60
+15,Rebecca,Horne-Smith,Rebecca Horne-Smith,Female,United Kingdom,BEC,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,20 (118KG),21 (8.087KM),22 (10:26),,,,,,63
+16,Karen,Robb,Karen Robb,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (125KG),22 (8.059KM),27 (11:12),,,,,,64
+17,Silja,Fisk,Silja Fisk,Female,,,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,17 (123KG),33 (7.774KM),15 (09:54),,,,,,65
+18,Holly,Walmsley,Holly Walmsley,Female,,Modified fitness,https://athxgames.com/storage/profile-photos/SzqHjagakwRyEO30S1B1M7PZiSRAeVutOOwv0ZAt.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,43 (101KG),11 (8.487KM),18 (10:06),,,,,,72
+18,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,30 (111KG),28 (7.917KM),14 (09:47),,,,,,72
+20,Hayley,Biggs,Hayley Biggs,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,41 (102KG),17 (8.128KM),16 (09:58),,,,,,74
+21,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,26 (114KG),25 (8.024KM),25 (11:04),,,,,,76
+22,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,63 (71KG),1 (8.908KM),13 (09:18),,,,,,77
+23,Aislinn,Smith,Aislinn Smith,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,18 (120KG),26 (8.021KM),33 (11:32),,,,,,77
+23,Laura,Stanway,Laura Stanway,Female,,,https://athxgames.com/storage/profile-photos/CYarFyhZWJ9vuH5vejzmvJI99QtLQo7cXVY2hOob.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,37 (107KG),16 (8.259KM),24 (11:00),,,,,,77
+23,Karolin,Kroese,Karolin Kroese,Female,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,40 (103KG),20 (8.089KM),17 (09:59),,,,,,77
+26,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,18 (120KG),40 (7.583KM),30 (11:15),,,,,,88
+27,Samantha,Rouhier,Samantha Rouhier,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,29 (112KG),34 (7.763KM),26 (11:05),,,,,,89
+28,Liz,Norris,Liz Norris,Female,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,2 (150KG),51 (7.312KM),37 (12:07),,,,,,90
+29,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,32 (110KG),29 (7.891KM),29 (11:13),,,,,,90
+29,allie,park-crowne,allie park-crowne,Female,United Kingdom,CrossFit Verulamium,https://ui-avatars.com/api/?name=a+p&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,44 (100KG),14 (8.291KM),32 (11:16),,,,,,90
+31,Sally,Wenham,Sally Wenham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/c6CC30hThSa0eWTMr0UCs3iyEhioHRzYleo7Bn82.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,1 (165KG),45 (7.425KM),46 (13:34),,,,,,92
+32,Clare,Hesselwood,Clare Hesselwood,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,54 (88KG),15 (8.276KM),23 (10:38),,,,,,92
+33,Jenna,Hill-Wood,Jenna Hill-Wood,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/UegHafSeJLID6Yr0q7EmcNS9ZHT7KxNZD0G3H33v.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,27 (113KG),36 (7.73KM),34 (11:39),,,,,,97
+34,Ellie-May,Okirie,Ellie-May Okirie,Female,,,https://ui-avatars.com/api/?name=E+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (115KG),42 (7.477KM),36 (11:52),,,,,,99
+34,Louise,Thompson,Louise Thompson,Female,,,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (115KG),48 (7.351KM),30 (11:15),,,,,,99
+36,Ella,Hagan,Ella Hagan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,60 (76KG),31 (7.783KM),11 (09:02),,,,,,102
+36,Lydia,Holland,Lydia Holland,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,14 (126KG),39 (7.631KM),49 (13:57),,,,,,102
+38,Emma,Brown,Emma Brown,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,32 (110KG),32 (7.78KM),40 (12:57),,,,,,104
+39,Rebecca,Ajewole,Rebecca Ajewole,Female,,,https://ui-avatars.com/api/?name=R+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,7 (143KG),63 (6.687KM),45 (13:33),,,,,,115
+39,Lola,Olanipekun,Lola Olanipekun,Female,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (125KG),57 (7.029KM),43 (13:13),,,,,,115
+41,Jennie,Sparrow,Jennie Sparrow,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,32 (110KG),46 (7.38KM),48 (13:49),,,,,,126
+42,Jane,Holmes,Jane Holmes,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,46 (99KG),48 (7.351KM),35 (11:41),,,,,,129
+43,Sophie,Baldwin,Sophie Baldwin,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,48 (93KG),44 (7.426KM),39 (12:46),,,,,,131
+43,Victoria,Zielonko,Victoria Zielonko,Female,,,https://ui-avatars.com/api/?name=V+Z&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,44 (100KG),35 (7.741KM),52 (14:18),,,,,,131
+45,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,56 (81KG),23 (8.037KM),54 (14:35),,,,,,133
+46,Sarah,Hibbitts,Sarah Hibbitts,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,57 (80KG),38 (7.633KM),41 (13:07),,,,,,136
+47,humerah,sajjad,humerah sajjad,Female,,,https://ui-avatars.com/api/?name=h+s&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,51 (90KG),43 (7.43KM),44 (13:14),,,,,,138
+48,Elaine,Clarke,Elaine Clarke,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,62 (74KG),13 (8.32KM),64 (17:15),,,,,,139
+48,Maria,Cullimore,Maria Cullimore,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,36 (109KG),54 (7.136KM),49 (13:57),,,,,,139
+50,Hope,Read,Hope Read,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,41 (102KG),62 (6.889KM),38 (12:18),,,,,,141
+51,Leona,Wright,Leona Wright,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,63 (71KG),37 (7.655KM),42 (13:09),,,,,,142
+51,San,Jeyarajah,San Jeyarajah,Female,,,https://ui-avatars.com/api/?name=S+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,48 (93KG),47 (7.364KM),47 (13:41),,,,,,142
+53,Charlotte,Neill,Charlotte Neill,Female,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,48 (93KG),41 (7.481KM),58 (15:48),,,,,,147
+54,Josie,Hadfield,Josie Hadfield,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,38 (105KG),61 (6.944KM),53 (14:33),,,,,,152
+55,Nic,Seeney,Nic Seeney,Female,,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,32 (110KG),64 (6.619KM),57 (15:05),,,,,,153
+56,Jessica,Davey,Jessica Davey,Female,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,38 (105KG),60 (6.96KM),56 (14:54),,,,,,154
+57,Lisa,Hill,Lisa Hill,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,30 (111KG),66 (6.304KM),60 (16:19),,,,,,156
+58,Melissa,Hobden,Melissa Hobden,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,51 (90KG),56 (7.049KM),51 (14:08),,,,,,158
+59,Amardeep,Pensar,Amardeep Pensar,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,47 (98KG),67 (6.213KM),55 (14:50),,,,,,169
+60,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,53 (89KG),59 (6.964KM),61 (16:29),,,,,,173
+61,Sarah,Moyler,Sarah Moyler,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,55 (85KG),57 (7.029KM),63 (16:40),,,,,,175
+62,Victoria,Lawson,Victoria Lawson,Female,,,https://ui-avatars.com/api/?name=V+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,57 (80KG),55 (7.104KM),65 (17:26),,,,,,177
+63,Ann,Harris,Ann Harris,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,65 (70KG),53 (7.161KM),62 (16:39),,,,,,180
+63,Chloe,Smith,Chloe Smith,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,61 (75KG),52 (7.201KM),67 (20:26),,,,,,180
+65,Alice,Butler,Alice Butler,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,66 (67KG),50 (7.349KM),66 (17:38),,,,,,182
+66,Freya,Sheldon,Freya Sheldon,Female,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,57 (80KG),65 (6.546KM),68 (20:42),,,,,,190
+67,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,67 (31KG),68 (6.212KM),59 (16:03),,,,,,194
+1,Tom,Kingdon,Tom Kingdon,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,3 (301KG),1 (9.738KM),1 (06:15),,,,,,5
+2,Joseph,Harper,Joseph Harper,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,5 (275KG),2 (9.692KM),3 (07:39),,,,,,10
+2,Tobias,Rogers,Tobias Rogers,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,2 (326KG),3 (9.618KM),5 (10:00),,,,,,10
+4,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,4 (300KG),9 (9.337KM),2 (07:30),,,,,,15
+5,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,6 (265KG),13 (9.171KM),4 (09:45),,,,,,23
+6,Robin,Wilkins,Robin Wilkins,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,11 (245KG),6 (9.489KM),9 (11:10),,,,,,26
+7,Ryan,Holsgrove,Ryan Holsgrove,Male,,,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,10 (250KG),11 (9.209KM),6 (10:28),,,,,,27
+8,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,9 (255KG),8 (9.388KM),11 (11:20),,,,,,28
+9,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,18 (219KG),4 (9.541KM),10 (11:15),,,,,,32
+9,Ross,Endersby,Ross Endersby,Male,United Kingdom,Sleven,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,15 (229KG),5 (9.491KM),12 (11:37),,,,,,32
+11,Chris,Harman,Chris Harman,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,20 (213KG),14 (9.148KM),7 (10:45),,,,,,41
+12,Michael,Rowland,Michael Rowland,Male,United Kingdom,CrossFit Beorn,https://athxgames.com/storage/profile-photos/rVxMRwEHgLqmPbNYMl8wN0ikLBCU0cTvZTrJ8NH2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,12 (241KG),24 (8.42KM),8 (10:46),,,,,,44
+13,Cameron,Rhind,Cameron Rhind,Male,,,https://ui-avatars.com/api/?name=C+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,6 (265KG),18 (8.777KM),21 (15:13),,,,,,45
+14,Matt,Grimshaw,Matt Grimshaw,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,13 (238KG),19 (8.76KM),15 (12:37),,,,,,47
+15,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,8 (258KG),29 (8.295KM),13 (11:43),,,,,,50
+16,Thomas,Rolfe,Thomas Rolfe,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,16 (225KG),22 (8.593KM),14 (12:26),,,,,,52
+17,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,1 (338KG),28 (8.3KM),24 (16:25),,,,,,53
+18,Keaton,Losa-Riley,Keaton Losa-Riley,Male,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,20 (213KG),15 (9.118KM),18 (13:36),,,,,,53
+19,Jobert,Fermilan,Jobert Fermilan,Male,United Kingdom,BC Fitness HQ,https://athxgames.com/storage/profile-photos/fubAdqItjgXktkQ5hoF0HQZ4SLCYo2I04nWZyQ6i.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,31 (165KG),10 (9.223KM),16 (12:38),,,,,,57
+20,Don,Amartey,Don Amartey,Male,United Kingdom,Gym Location Crawley,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,16 (225KG),25 (8.357KM),17 (13:16),,,,,,58
+21,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,14 (235KG),26 (8.353KM),19 (14:22),,,,,,59
+22,Aaron,Newland,Aaron Newland,Male,,,https://ui-avatars.com/api/?name=A+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,24 (190KG),20 (8.715KM),20 (14:24),,,,,,64
+23,Thomas,Godec,Thomas Godec,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,30 (171KG),7 (9.419KM),29 (28:38),,,,,,66
+24,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,22 (200KG),23 (8.453KM),22 (16:08),,,,,,67
+24,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,23 (191KG),17 (8.808KM),27 (20:26),,,,,,67
+24,Leo,Murphy,Leo Murphy,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,25 (183KG),12 (9.178KM),30 (28:40),,,,,,67
+27,Kieran,Hollins,Kieran Hollins,Male,United Kingdom,Sweatbox Dundee,https://athxgames.com/storage/profile-photos/mjoOHHKm3Q8t85wF2GxNWRCl0rxymcBQjPlWg7Wr.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,32 (154KG),16 (9.038KM),23 (16:19),,,,,,71
+28,Chukwuemeka,Nsonwu,Chukwuemeka Nsonwu,Male,Nigeria,TeddyB Fitness,https://athxgames.com/storage/profile-photos/HkpzhHzPz6AP0xyDhzmSQ8IGZ33hxL8EuJV3RWfS.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,19 (215KG),32 (7.617KM),25 (19:31),,,,,,76
+29,Lucas,Novi,Lucas Novi,Male,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,29 (174KG),21 (8.602KM),28 (22:01),,,,,,78
+30,Philip,Burke,Philip Burke,Male,,,https://athxgames.com/storage/profile-photos/AkcpVM44uW1piF3SgpmRCdh2i7tJPUrffRgyeASO.png,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,27 (180KG),30 (8.271KM),26 (20:04),,,,,,83
+30,Muhammad Farhan,Aslam,Muhammad Farhan Aslam,Male,,,https://ui-avatars.com/api/?name=M+F+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,26 (181KG),27 (8.304KM),30 (28:40),,,,,,83
+32,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,27 (180KG),31 (7.963KM),30 (28:40),,,,,,88
+1,Tom,Kingdon,Tom Kingdon,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,Joseph,Harper,Joseph Harper,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Tobias,Rogers,Tobias Rogers,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Ross,Endersby,Ross Endersby,Male,United Kingdom,Sleven,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,Robin,Wilkins,Robin Wilkins,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,Thomas,Godec,Thomas Godec,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+9,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,9
+10,Jobert,Fermilan,Jobert Fermilan,Male,United Kingdom,BC Fitness HQ,https://athxgames.com/storage/profile-photos/fubAdqItjgXktkQ5hoF0HQZ4SLCYo2I04nWZyQ6i.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,10
+11,Ryan,Holsgrove,Ryan Holsgrove,Male,,,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,11
+12,Leo,Murphy,Leo Murphy,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,12
+13,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,13
+14,Chris,Harman,Chris Harman,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,14
+15,Keaton,Losa-Riley,Keaton Losa-Riley,Male,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,15
+16,Kieran,Hollins,Kieran Hollins,Male,United Kingdom,Sweatbox Dundee,https://athxgames.com/storage/profile-photos/mjoOHHKm3Q8t85wF2GxNWRCl0rxymcBQjPlWg7Wr.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,16
+17,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,17
+18,Cameron,Rhind,Cameron Rhind,Male,,,https://ui-avatars.com/api/?name=C+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,18
+19,Matt,Grimshaw,Matt Grimshaw,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,19
+20,Aaron,Newland,Aaron Newland,Male,,,https://ui-avatars.com/api/?name=A+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,20
+21,Lucas,Novi,Lucas Novi,Male,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,21
+22,Thomas,Rolfe,Thomas Rolfe,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,22
+23,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,23
+24,Michael,Rowland,Michael Rowland,Male,United Kingdom,CrossFit Beorn,https://athxgames.com/storage/profile-photos/rVxMRwEHgLqmPbNYMl8wN0ikLBCU0cTvZTrJ8NH2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,24
+25,Don,Amartey,Don Amartey,Male,United Kingdom,Gym Location Crawley,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,25
+26,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,26
+27,Muhammad Farhan,Aslam,Muhammad Farhan Aslam,Male,,,https://ui-avatars.com/api/?name=M+F+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,27
+28,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,28
+29,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,29
+30,Philip,Burke,Philip Burke,Male,,,https://athxgames.com/storage/profile-photos/AkcpVM44uW1piF3SgpmRCdh2i7tJPUrffRgyeASO.png,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,30
+31,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,31
+32,Chukwuemeka,Nsonwu,Chukwuemeka Nsonwu,Male,Nigeria,TeddyB Fitness,https://athxgames.com/storage/profile-photos/HkpzhHzPz6AP0xyDhzmSQ8IGZ33hxL8EuJV3RWfS.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,32
+1,Sally,Wenham,Sally Wenham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/c6CC30hThSa0eWTMr0UCs3iyEhioHRzYleo7Bn82.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,1
+2,Liz,Norris,Liz Norris,Female,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,2
+2,Sophie,Wawrzyniak,Sophie Wawrzyniak,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,2
+4,Heather,Redmond,Heather Redmond,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,4
+5,Georgia,Bennett,Georgia Bennett,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/aouoHIVkxTtgpx0GptWqWYSmJzT9QtoZ1I3S37AH.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,5
+6,Rachael,Robertson,Rachael Robertson,Female,,,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,6
+7,Rebecca,Ajewole,Rebecca Ajewole,Female,,,https://ui-avatars.com/api/?name=R+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,7
+7,Hannah,Brown,Hannah Brown,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,7
+9,Molly,Carmichael,Molly Carmichael,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,9
+9,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,9
+11,India,Paine,India Paine,Female,,,https://ui-avatars.com/api/?name=I+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,11
+11,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,11
+11,Jade,Brier,Jade Brier,Female,,,https://athxgames.com/storage/profile-photos/Lws1CDZ3o3sRPMuD74rODo8Y77UYvKDsZ4ZPgByB.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,11
+14,Lydia,Holland,Lydia Holland,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,14
+15,Karen,Robb,Karen Robb,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+15,Lola,Olanipekun,Lola Olanipekun,Female,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+17,Silja,Fisk,Silja Fisk,Female,,,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,17
+18,Aislinn,Smith,Aislinn Smith,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,18
+18,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,18
+20,Rebecca,Horne-Smith,Rebecca Horne-Smith,Female,United Kingdom,BEC,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,20
+21,Emma,O Flynn,Emma O Flynn,Female,,,https://athxgames.com/storage/profile-photos/E7IkAxynaFajwch2Ul4Pirs7BeniqI2eKqOyBRcI.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+21,Chloe,Hinnigan,Chloe Hinnigan,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+21,Ellie-May,Okirie,Ellie-May Okirie,Female,,,https://ui-avatars.com/api/?name=E+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+21,Louise,Thompson,Louise Thompson,Female,,,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+21,Holly,Mills,Holly Mills,Female,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+26,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,26
+27,Jenna,Hill-Wood,Jenna Hill-Wood,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/UegHafSeJLID6Yr0q7EmcNS9ZHT7KxNZD0G3H33v.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,27
+27,Rachel,Eagles,Rachel Eagles,Female,,,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,27
+29,Samantha,Rouhier,Samantha Rouhier,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,29
+30,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,30
+30,Lisa,Hill,Lisa Hill,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,30
+32,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,32
+32,Nic,Seeney,Nic Seeney,Female,,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,32
+32,Emma,Brown,Emma Brown,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,32
+32,Jennie,Sparrow,Jennie Sparrow,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,32
+36,Maria,Cullimore,Maria Cullimore,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,36
+37,Laura,Stanway,Laura Stanway,Female,,,https://athxgames.com/storage/profile-photos/CYarFyhZWJ9vuH5vejzmvJI99QtLQo7cXVY2hOob.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,37
+38,Jessica,Davey,Jessica Davey,Female,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,38
+38,Josie,Hadfield,Josie Hadfield,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,38
+40,Karolin,Kroese,Karolin Kroese,Female,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,40
+41,Hope,Read,Hope Read,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,41
+41,Hayley,Biggs,Hayley Biggs,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,41
+43,Holly,Walmsley,Holly Walmsley,Female,,Modified fitness,https://athxgames.com/storage/profile-photos/SzqHjagakwRyEO30S1B1M7PZiSRAeVutOOwv0ZAt.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,43
+44,Victoria,Zielonko,Victoria Zielonko,Female,,,https://ui-avatars.com/api/?name=V+Z&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,44
+44,allie,park-crowne,allie park-crowne,Female,United Kingdom,CrossFit Verulamium,https://ui-avatars.com/api/?name=a+p&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,44
+46,Jane,Holmes,Jane Holmes,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,46
+47,Amardeep,Pensar,Amardeep Pensar,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,47
+48,Sophie,Baldwin,Sophie Baldwin,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,48
+48,Charlotte,Neill,Charlotte Neill,Female,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,48
+48,San,Jeyarajah,San Jeyarajah,Female,,,https://ui-avatars.com/api/?name=S+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,48
+51,Melissa,Hobden,Melissa Hobden,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,51
+51,humerah,sajjad,humerah sajjad,Female,,,https://ui-avatars.com/api/?name=h+s&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,51
+53,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,53
+54,Clare,Hesselwood,Clare Hesselwood,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,54
+55,Sarah,Moyler,Sarah Moyler,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,55
+56,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,56
+57,Victoria,Lawson,Victoria Lawson,Female,,,https://ui-avatars.com/api/?name=V+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,57
+57,Freya,Sheldon,Freya Sheldon,Female,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,57
+57,Sarah,Hibbitts,Sarah Hibbitts,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,57
+60,Ella,Hagan,Ella Hagan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,60
+61,Chloe,Smith,Chloe Smith,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,61
+62,Elaine,Clarke,Elaine Clarke,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,62
+63,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,63
+63,Leona,Wright,Leona Wright,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,63
+65,Ann,Harris,Ann Harris,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,65
+66,Alice,Butler,Alice Butler,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,66
+67,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,67
+1,Joseph,Hanlon,Joseph Hanlon,Male,,,https://athxgames.com/storage/profile-photos/sdhpdHJg7lPnyUAxGpSRrlneIqrL7rPeKWhSyfHu.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:07,,,,,,1
+2,Michael,Andrews,Michael Andrews,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:26,,,,,,2
+3,Conor,Mcgrath,Conor Mcgrath,Male,Ireland,,https://athxgames.com/storage/profile-photos/v9GOnHPGadvK8QGBRUprXVMgmA6RqpsdCacUKCQe.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:37,,,,,,3
+4,Rory,McQueen,Rory McQueen,Male,,Caveman training,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:50,,,,,,4
+5,Dawid,Łuc,Dawid Łuc,Male,Poland,Barbellheart,https://athxgames.com/storage/profile-photos/JumxAMx6WHXytTYOZVdPNTJPoA0UZTSZPcBxJ6gP.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:54,,,,,,5
+6,Dario,Ruma,Dario Ruma,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:56,,,,,,6
+7,Ben,Cardwell,Ben Cardwell,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:57,,,,,,7
+8,James,Cooper,James Cooper,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:14,,,,,,8
+9,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:26,,,,,,9
+10,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:27,,,,,,10
+11,Dean,Wood,Dean Wood,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:28,,,,,,11
+12,Richard,Wilson,Richard Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:36,,,,,,12
+13,Steve,King,Steve King,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:42,,,,,,13
+14,Ben,Key,Ben Key,Male,United Kingdom,Caveman Training,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:44,,,,,,14
+15,Joseph,Wilson,Joseph Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:51,,,,,,15
+16,Richard,Seymour,Richard Seymour,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:55,,,,,,16
+17,Paul,Whittaker,Paul Whittaker,Male,United Kingdom,Jake Wood PT Nottingham,https://ui-avatars.com/api/?name=P+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:07,,,,,,17
+18,Shaun,Evans,Shaun Evans,Male,,,https://ui-avatars.com/api/?name=S+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:08,,,,,,18
+19,Will,Graham,Will Graham,Male,,,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:13,,,,,,19
+19,Patrick,Matthews,Patrick Matthews,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:13,,,,,,19
+21,Dan,Sykes,Dan Sykes,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:31,,,,,,21
+22,Mason,Lee,Mason Lee,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:32,,,,,,22
+23,Joe,Murphy,Joe Murphy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:33,,,,,,23
+24,Oliver,Blake,Oliver Blake,Male,,,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:39,,,,,,24
+25,Adam,Wessely,Adam Wessely,Male,,Third Space,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:41,,,,,,25
+26,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:47,,,,,,26
+27,Si,Pill,Si Pill,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:48,,,,,,27
+28,Seon,Nurse,Seon Nurse,Male,,,https://ui-avatars.com/api/?name=S+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:01,,,,,,28
+29,Callum,Monk,Callum Monk,Male,United Kingdom,Hx1,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:02,,,,,,29
+30,Adam,Blakemore,Adam Blakemore,Male,,Vibes,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:04,,,,,,30
+31,Thomas,Canfield,Thomas Canfield,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:14,,,,,,31
+32,Tom,Crofts,Tom Crofts,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:15,,,,,,32
+33,Mitch,Woodbine,Mitch Woodbine,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:18,,,,,,33
+34,Bryan,Charge,Bryan Charge,Male,France,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:20,,,,,,34
+35,Giordano,Antonucci,Giordano Antonucci,Male,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:29,,,,,,35
+36,Lewis,Williams,Lewis Williams,Male,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:35,,,,,,36
+37,Josh,West,Josh West,Male,United Kingdom,CrossFit Cirencester,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:38,,,,,,37
+38,Daniel,Sabato,Daniel Sabato,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:53,,,,,,38
+39,Seb,Clark,Seb Clark,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:56,,,,,,39
+40,Kiall,Gormley,Kiall Gormley,Male,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:57,,,,,,40
+41,Stuart,Wright,Stuart Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:04,,,,,,41
+42,Fraser,Cresswell,Fraser Cresswell,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:10,,,,,,42
+43,gordon,mills,gordon mills,Male,,,https://ui-avatars.com/api/?name=g+m&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:12,,,,,,43
+44,Chris,Harlow,Chris Harlow,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:19,,,,,,44
+45,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:37,,,,,,45
+46,Ryan,Shiel,Ryan Shiel,Male,,Fosse way crossfit,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:39,,,,,,46
+47,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:48,,,,,,47
+48,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:51,,,,,,48
+48,Paul,Murray,Paul Murray,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:51,,,,,,48
+48,Tommy,Penney,Tommy Penney,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:51,,,,,,48
+51,Aarron,Benn,Aarron Benn,Male,United Kingdom,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:54,,,,,,51
+52,Martin,Kintzel,Martin Kintzel,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:04,,,,,,52
+53,Dean,Holst,Dean Holst,Male,South Africa,,https://athxgames.com/storage/profile-photos/90tpiM3zLaxdUCVlB7PZh4T2eGW1jUAaSije92jv.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:11,,,,,,53
+54,Joe,Wood,Joe Wood,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:14,,,,,,54
+55,David,Dickie,David Dickie,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:16,,,,,,55
+56,Harjeet,Cheema,Harjeet Cheema,Male,,,https://ui-avatars.com/api/?name=H+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:20,,,,,,56
+57,ashley,downing,ashley downing,Male,,,https://ui-avatars.com/api/?name=a+d&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:22,,,,,,57
+58,Alex,Young,Alex Young,Male,,,https://ui-avatars.com/api/?name=A+Y&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:24,,,,,,58
+59,Jakub,Tokarz,Jakub Tokarz,Male,Poland,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:27,,,,,,59
+60,Ashley,Atwal,Ashley Atwal,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:33,,,,,,60
+61,Alex,Rawson,Alex Rawson,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:35,,,,,,61
+62,Lewi,Brown,Lewi Brown,Male,,,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:02,,,,,,62
+63,Callum,Hoy,Callum Hoy,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:03,,,,,,63
+64,Terence,Stanley,Terence Stanley,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:04,,,,,,64
+65,Joe,Mawby,Joe Mawby,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:08,,,,,,65
+66,Luke,Gannaway,Luke Gannaway,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:16,,,,,,66
+67,Ian,Husband,Ian Husband,Male,United Kingdom,CrossFit Walthamstow,https://athxgames.com/storage/profile-photos/pR0Si06jy3QoB9emTzUwk7CNyaPHfBMblG3f5enR.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:18,,,,,,67
+68,Jacob,Champion,Jacob Champion,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:29,,,,,,68
+69,Theo,Dunnett,Theo Dunnett,Male,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:45,,,,,,69
+70,Thomas,Hamlyn Williams,Thomas Hamlyn Williams,Male,,,https://ui-avatars.com/api/?name=T+H+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:51,,,,,,70
+71,Mike,Drover,Mike Drover,Male,United Kingdom,Wellesbourne Sports & Community Centre,https://athxgames.com/storage/profile-photos/pKpEixSYqLrQzCiMmO5bHUSNFFU9FJpFql0fRzVM.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:53,,,,,,71
+71,Joe,Beddoe,Joe Beddoe,Male,Jersey,,https://athxgames.com/storage/profile-photos/y2jXGhlPVnvwT6CdsGE02PW3odAw8oENHH8Vmk73.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:53,,,,,,71
+73,Andrew,Findley,Andrew Findley,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:57,,,,,,73
+74,Alexander,Facci,Alexander Facci,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:03,,,,,,74
+75,Alex,Moorefield,Alex Moorefield,Male,United Kingdom,PureGym Yate,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:10,,,,,,75
+76,Chris,Hildyard,Chris Hildyard,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:11,,,,,,76
+77,Joe,Missin,Joe Missin,Male,,AJ’s Gym,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:22,,,,,,77
+78,Erkan,Ruso,Erkan Ruso,Male,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:26,,,,,,78
+79,Rhoneil,Tiburcio,Rhoneil Tiburcio,Male,United Kingdom,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:38,,,,,,79
+80,Daniel,Offley,Daniel Offley,Male,,,https://ui-avatars.com/api/?name=D+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:48,,,,,,80
+81,Ben,Blackhurst,Ben Blackhurst,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:51,,,,,,81
+82,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:55,,,,,,82
+83,Ollie,Roberts,Ollie Roberts,Male,,,https://ui-avatars.com/api/?name=O+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:11,,,,,,83
+84,Michael,Spurrier,Michael Spurrier,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:35,,,,,,84
+85,Alam,Islam,Alam Islam,Male,United Kingdom,Glasgow Fittness,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:37,,,,,,85
+86,Carl,Hayward,Carl Hayward,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:49,,,,,,86
+87,Juan,Garcia Nila,Juan Garcia Nila,Male,,,https://ui-avatars.com/api/?name=J+G+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:55,,,,,,87
+88,Jack,Twist,Jack Twist,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:21,,,,,,88
+89,Marek,Nowik,Marek Nowik,Male,Poland,,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:54,,,,,,89
+90,James,Barclay,James Barclay,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,17:09,,,,,,90
+91,Paul,Eaton,Paul Eaton,Male,,,https://ui-avatars.com/api/?name=P+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,17:44,,,,,,91
+92,Dominic,Hoole,Dominic Hoole,Male,United Kingdom,Collective MCR,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,17:52,,,,,,92
+93,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,18:28,,,,,,93
+94,Mohammad,Malkera,Mohammad Malkera,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,19:31,,,,,,94
+95,lawrence,augustin,lawrence augustin,Male,France,Thegym,https://athxgames.com/storage/profile-photos/KOdYxPSLGXqYbojxtIElBWqJHPl6nUnQ50wFv7ZA.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,19:39,,,,,,95
+96,Mark,Hamblin,Mark Hamblin,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:27,,,,,,96
+97,Damion,Quinsee,Damion Quinsee,Male,South Africa,Storme CrossFit Ashby,https://athxgames.com/storage/profile-photos/ybDgB8SDXlJCDI3hlT6YnNMp3TPcOZ6OVQxfxGaf.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,23:32,,,,,,97
+98,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,27:36,,,,,,98
+99,Sean,O'Brien,Sean O'Brien,Male,Ireland,Just Gym Saffron Walden,https://athxgames.com/storage/profile-photos/CYT1Wctzfp2JQXKSfLKtiUoJV9PFaGgzNp72Rc1C.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,29:00,,,,,,99
+1,Stephanie,Boggan,Stephanie Boggan,Female,United Kingdom,Phoenix fitness,https://athxgames.com/storage/profile-photos/xtVhKZfubqkPrG9mrDlwV5o4CeGGEb5QbF0hN2k4.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:21,,,,,,1
+2,Sophie,Wawrzyniak,Sophie Wawrzyniak,Female,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:25,,,,,,2
+3,Chloe,Hinnigan,Chloe Hinnigan,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:42,,,,,,3
+4,Hannah,Brown,Hannah Brown,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,07:48,,,,,,4
+5,Jade,Brier,Jade Brier,Female,,,https://athxgames.com/storage/profile-photos/Lws1CDZ3o3sRPMuD74rODo8Y77UYvKDsZ4ZPgByB.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:04,,,,,,5
+6,India,Paine,India Paine,Female,,,https://ui-avatars.com/api/?name=I+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:17,,,,,,6
+7,Molly,Carmichael,Molly Carmichael,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:21,,,,,,7
+8,Kat,Birtles,Kat Birtles,Female,,Strength Station Peterborough,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:23,,,,,,8
+9,Heather,Redmond,Heather Redmond,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:36,,,,,,9
+10,Emma,O Flynn,Emma O Flynn,Female,,,https://athxgames.com/storage/profile-photos/E7IkAxynaFajwch2Ul4Pirs7BeniqI2eKqOyBRcI.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:59,,,,,,10
+11,Ella,Hagan,Ella Hagan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:02,,,,,,11
+12,Rachel,Eagles,Rachel Eagles,Female,,,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:06,,,,,,12
+13,Jo,Humphries,Jo Humphries,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:18,,,,,,13
+14,Amy,Thomas,Amy Thomas,Female,,,https://ui-avatars.com/api/?name=A+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:47,,,,,,14
+15,Silja,Fisk,Silja Fisk,Female,,,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:54,,,,,,15
+16,Hayley,Biggs,Hayley Biggs,Female,,,https://ui-avatars.com/api/?name=H+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:58,,,,,,16
+17,Karolin,Kroese,Karolin Kroese,Female,,,https://ui-avatars.com/api/?name=K+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:59,,,,,,17
+18,Holly,Walmsley,Holly Walmsley,Female,,Modified fitness,https://athxgames.com/storage/profile-photos/SzqHjagakwRyEO30S1B1M7PZiSRAeVutOOwv0ZAt.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:06,,,,,,18
+19,Georgia,Bennett,Georgia Bennett,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/aouoHIVkxTtgpx0GptWqWYSmJzT9QtoZ1I3S37AH.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:07,,,,,,19
+20,Halima,Sewehli,Halima Sewehli,Female,,,https://ui-avatars.com/api/?name=H+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:11,,,,,,20
+21,Holly,Mills,Holly Mills,Female,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:21,,,,,,21
+22,Rebecca,Horne-Smith,Rebecca Horne-Smith,Female,United Kingdom,BEC,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:26,,,,,,22
+23,Clare,Hesselwood,Clare Hesselwood,Female,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:38,,,,,,23
+24,Laura,Stanway,Laura Stanway,Female,,,https://athxgames.com/storage/profile-photos/CYarFyhZWJ9vuH5vejzmvJI99QtLQo7cXVY2hOob.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:00,,,,,,24
+25,Giulia,Raus,Giulia Raus,Female,,,https://ui-avatars.com/api/?name=G+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:04,,,,,,25
+26,Samantha,Rouhier,Samantha Rouhier,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:05,,,,,,26
+27,Karen,Robb,Karen Robb,Female,,,https://ui-avatars.com/api/?name=K+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:12,,,,,,27
+27,Rachael,Robertson,Rachael Robertson,Female,,,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:12,,,,,,27
+29,Michelle,Kenny,Michelle Kenny,Female,United Kingdom,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:13,,,,,,29
+30,Ava,Chahul,Ava Chahul,Female,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:15,,,,,,30
+30,Louise,Thompson,Louise Thompson,Female,,,https://ui-avatars.com/api/?name=L+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:15,,,,,,30
+32,allie,park-crowne,allie park-crowne,Female,United Kingdom,CrossFit Verulamium,https://ui-avatars.com/api/?name=a+p&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:16,,,,,,32
+33,Aislinn,Smith,Aislinn Smith,Female,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:32,,,,,,33
+34,Jenna,Hill-Wood,Jenna Hill-Wood,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/UegHafSeJLID6Yr0q7EmcNS9ZHT7KxNZD0G3H33v.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:39,,,,,,34
+35,Jane,Holmes,Jane Holmes,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:41,,,,,,35
+36,Ellie-May,Okirie,Ellie-May Okirie,Female,,,https://ui-avatars.com/api/?name=E+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:52,,,,,,36
+37,Liz,Norris,Liz Norris,Female,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:07,,,,,,37
+38,Hope,Read,Hope Read,Female,,,https://ui-avatars.com/api/?name=H+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:18,,,,,,38
+39,Sophie,Baldwin,Sophie Baldwin,Female,United Kingdom,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:46,,,,,,39
+40,Emma,Brown,Emma Brown,Female,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:57,,,,,,40
+41,Sarah,Hibbitts,Sarah Hibbitts,Female,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:07,,,,,,41
+42,Leona,Wright,Leona Wright,Female,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:09,,,,,,42
+43,Lola,Olanipekun,Lola Olanipekun,Female,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:13,,,,,,43
+44,humerah,sajjad,humerah sajjad,Female,,,https://ui-avatars.com/api/?name=h+s&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:14,,,,,,44
+45,Rebecca,Ajewole,Rebecca Ajewole,Female,,,https://ui-avatars.com/api/?name=R+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:33,,,,,,45
+46,Sally,Wenham,Sally Wenham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/c6CC30hThSa0eWTMr0UCs3iyEhioHRzYleo7Bn82.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:34,,,,,,46
+47,San,Jeyarajah,San Jeyarajah,Female,,,https://ui-avatars.com/api/?name=S+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:41,,,,,,47
+48,Jennie,Sparrow,Jennie Sparrow,Female,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:49,,,,,,48
+49,Maria,Cullimore,Maria Cullimore,Female,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:57,,,,,,49
+49,Lydia,Holland,Lydia Holland,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:57,,,,,,49
+51,Melissa,Hobden,Melissa Hobden,Female,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:08,,,,,,51
+52,Victoria,Zielonko,Victoria Zielonko,Female,,,https://ui-avatars.com/api/?name=V+Z&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:18,,,,,,52
+53,Josie,Hadfield,Josie Hadfield,Female,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:33,,,,,,53
+54,Katie,Johnson,Katie Johnson,Female,,,https://ui-avatars.com/api/?name=K+J&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:35,,,,,,54
+55,Amardeep,Pensar,Amardeep Pensar,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:50,,,,,,55
+56,Jessica,Davey,Jessica Davey,Female,,,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:54,,,,,,56
+57,Nic,Seeney,Nic Seeney,Female,,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,15:05,,,,,,57
+58,Charlotte,Neill,Charlotte Neill,Female,,,https://ui-avatars.com/api/?name=C+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,15:48,,,,,,58
+59,Nicola,Steele,Nicola Steele,Female,United Kingdom,,https://ui-avatars.com/api/?name=N+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:03,,,,,,59
+60,Lisa,Hill,Lisa Hill,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:19,,,,,,60
+61,Francesca,Berry,Francesca Berry,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:29,,,,,,61
+62,Ann,Harris,Ann Harris,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:39,,,,,,62
+63,Sarah,Moyler,Sarah Moyler,Female,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,16:40,,,,,,63
+64,Elaine,Clarke,Elaine Clarke,Female,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:15,,,,,,64
+65,Victoria,Lawson,Victoria Lawson,Female,,,https://ui-avatars.com/api/?name=V+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:26,,,,,,65
+66,Alice,Butler,Alice Butler,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:38,,,,,,66
+67,Chloe,Smith,Chloe Smith,Female,,,https://ui-avatars.com/api/?name=C+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,20:26,,,,,,67
+68,Freya,Sheldon,Freya Sheldon,Female,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,20:42,,,,,,68
+1,Si,Pill,Si Pill,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,1
+2,Michael,Andrews,Michael Andrews,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,2
+2,Callum,Hoy,Callum Hoy,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,2
+4,Chris,Hildyard,Chris Hildyard,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,4
+5,Alex,Moorefield,Alex Moorefield,Male,United Kingdom,PureGym Yate,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+5,Conor,Mcgrath,Conor Mcgrath,Male,Ireland,,https://athxgames.com/storage/profile-photos/v9GOnHPGadvK8QGBRUprXVMgmA6RqpsdCacUKCQe.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+5,Thomas,Hamlyn Williams,Thomas Hamlyn Williams,Male,,,https://ui-avatars.com/api/?name=T+H+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+8,Jordan,Gumbs,Jordan Gumbs,Male,,JJK Fitness,https://ui-avatars.com/api/?name=J+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,8
+9,Adam,Wessely,Adam Wessely,Male,,Third Space,https://ui-avatars.com/api/?name=A+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,9
+10,Will,Graham,Will Graham,Male,,,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,10
+10,Shaun,Evans,Shaun Evans,Male,,,https://ui-avatars.com/api/?name=S+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,10
+12,Ben,Blackhurst,Ben Blackhurst,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+12,Jonathan,Mundy,Jonathan Mundy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+12,Michael,Spurrier,Michael Spurrier,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+12,Joe,Beddoe,Joe Beddoe,Male,Jersey,,https://athxgames.com/storage/profile-photos/y2jXGhlPVnvwT6CdsGE02PW3odAw8oENHH8Vmk73.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+12,Ryan,Shiel,Ryan Shiel,Male,,Fosse way crossfit,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+17,Patrick,Matthews,Patrick Matthews,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,17
+18,Joe,Murphy,Joe Murphy,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,18
+18,Mike,Drover,Mike Drover,Male,United Kingdom,Wellesbourne Sports & Community Centre,https://athxgames.com/storage/profile-photos/pKpEixSYqLrQzCiMmO5bHUSNFFU9FJpFql0fRzVM.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,18
+20,Dario,Ruma,Dario Ruma,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,20
+20,Joseph,Hanlon,Joseph Hanlon,Male,,,https://athxgames.com/storage/profile-photos/sdhpdHJg7lPnyUAxGpSRrlneIqrL7rPeKWhSyfHu.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,20
+22,Dawid,Łuc,Dawid Łuc,Male,Poland,Barbellheart,https://athxgames.com/storage/profile-photos/JumxAMx6WHXytTYOZVdPNTJPoA0UZTSZPcBxJ6gP.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,22
+22,Steve,King,Steve King,Male,,,https://ui-avatars.com/api/?name=S+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,22
+24,Marek,Nowik,Marek Nowik,Male,Poland,,https://ui-avatars.com/api/?name=M+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,24
+25,Richard,Wilson,Richard Wilson,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+26,Bryan,Charge,Bryan Charge,Male,France,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,26
+27,David,Dickie,David Dickie,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+28,Stuart,Wright,Stuart Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,28
+29,Ian,Husband,Ian Husband,Male,United Kingdom,CrossFit Walthamstow,https://athxgames.com/storage/profile-photos/pR0Si06jy3QoB9emTzUwk7CNyaPHfBMblG3f5enR.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+29,Jakub,Tokarz,Jakub Tokarz,Male,Poland,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+29,Ben,Cardwell,Ben Cardwell,Male,,,https://ui-avatars.com/api/?name=B+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+29,Callum,Monk,Callum Monk,Male,United Kingdom,Hx1,https://ui-avatars.com/api/?name=C+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+29,Seb,Clark,Seb Clark,Male,United Kingdom,,https://ui-avatars.com/api/?name=S+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+34,Lewi,Brown,Lewi Brown,Male,,,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+34,Kavit,Thakrar,Kavit Thakrar,Male,United Kingdom,Ignite Fitness,https://ui-avatars.com/api/?name=K+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+36,Mason,Lee,Mason Lee,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,36
+36,Thomas,Canfield,Thomas Canfield,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,36
+36,Dean,Wood,Dean Wood,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,36
+36,James,Cooper,James Cooper,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,36
+40,Kiall,Gormley,Kiall Gormley,Male,,,https://ui-avatars.com/api/?name=K+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+41,Joe,Wood,Joe Wood,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,41
+41,Josh,West,Josh West,Male,United Kingdom,CrossFit Cirencester,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,41
+41,Lewis,Williams,Lewis Williams,Male,,,https://ui-avatars.com/api/?name=L+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,41
+44,Paul,Murray,Paul Murray,Male,,,https://ui-avatars.com/api/?name=P+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,44
+45,Dan,Sykes,Dan Sykes,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,45
+45,Ashley,Atwal,Ashley Atwal,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,45
+45,Andrew,Findley,Andrew Findley,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,45
+45,Chris,Harlow,Chris Harlow,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,45
+45,Simon,Bloch,Simon Bloch,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,45
+50,Paul,Whittaker,Paul Whittaker,Male,United Kingdom,Jake Wood PT Nottingham,https://ui-avatars.com/api/?name=P+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,50
+50,Oliver,Blake,Oliver Blake,Male,,,https://ui-avatars.com/api/?name=O+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,50
+52,Richard,Seymour,Richard Seymour,Male,,,https://ui-avatars.com/api/?name=R+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,52
+53,Luke,Gannaway,Luke Gannaway,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,53
+53,Jacob,Cody,Jacob Cody,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,53
+55,Mark,Hearn,Mark Hearn,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,55
+56,Dean,Holst,Dean Holst,Male,South Africa,,https://athxgames.com/storage/profile-photos/90tpiM3zLaxdUCVlB7PZh4T2eGW1jUAaSije92jv.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,56
+56,Joseph,Wilson,Joseph Wilson,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,56
+56,Ollie,Roberts,Ollie Roberts,Male,,,https://ui-avatars.com/api/?name=O+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,56
+56,Alex,Young,Alex Young,Male,,,https://ui-avatars.com/api/?name=A+Y&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,56
+56,Mitch,Woodbine,Mitch Woodbine,Male,,,https://ui-avatars.com/api/?name=M+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,56
+61,Tommy,Penney,Tommy Penney,Male,,,https://ui-avatars.com/api/?name=T+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,61
+62,Zaid,Al-Chalabi,Zaid Al-Chalabi,Male,United Kingdom,Team Myzone,https://ui-avatars.com/api/?name=Z+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,62
+62,Theo,Dunnett,Theo Dunnett,Male,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,62
+62,Seon,Nurse,Seon Nurse,Male,,,https://ui-avatars.com/api/?name=S+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,62
+65,lawrence,augustin,lawrence augustin,Male,France,Thegym,https://athxgames.com/storage/profile-photos/KOdYxPSLGXqYbojxtIElBWqJHPl6nUnQ50wFv7ZA.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,65
+66,Daniel,Offley,Daniel Offley,Male,,,https://ui-avatars.com/api/?name=D+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,66
+66,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,66
+68,Alam,Islam,Alam Islam,Male,United Kingdom,Glasgow Fittness,https://ui-avatars.com/api/?name=A+I&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,68
+68,Alexander,Facci,Alexander Facci,Male,,,https://ui-avatars.com/api/?name=A+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,68
+68,Rhoneil,Tiburcio,Rhoneil Tiburcio,Male,United Kingdom,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,68
+68,Jack,Twist,Jack Twist,Male,,,https://ui-avatars.com/api/?name=J+T&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,68
+68,Joe,Mawby,Joe Mawby,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,68
+73,Aarron,Benn,Aarron Benn,Male,United Kingdom,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,73
+74,Giordano,Antonucci,Giordano Antonucci,Male,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,74
+74,Terence,Stanley,Terence Stanley,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,74
+76,Tom,Crofts,Tom Crofts,Male,,,https://ui-avatars.com/api/?name=T+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,76
+77,Daniel,Sabato,Daniel Sabato,Male,,,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,77
+78,Martin,Kintzel,Martin Kintzel,Male,,,https://ui-avatars.com/api/?name=M+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,78
+78,Ben,Key,Ben Key,Male,United Kingdom,Caveman Training,https://ui-avatars.com/api/?name=B+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,78
+78,Mark,Hamblin,Mark Hamblin,Male,,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,78
+78,Paul,Eaton,Paul Eaton,Male,,,https://ui-avatars.com/api/?name=P+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,78
+82,Adam,Blakemore,Adam Blakemore,Male,,Vibes,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,82
+83,Erkan,Ruso,Erkan Ruso,Male,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,83
+83,Fraser,Cresswell,Fraser Cresswell,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,83
+85,Mohammad,Malkera,Mohammad Malkera,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,85
+85,Harjeet,Cheema,Harjeet Cheema,Male,,,https://ui-avatars.com/api/?name=H+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,85
+85,Joe,Missin,Joe Missin,Male,,AJ’s Gym,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,85
+85,Carl,Hayward,Carl Hayward,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,85
+89,Sean,O'Brien,Sean O'Brien,Male,Ireland,Just Gym Saffron Walden,https://athxgames.com/storage/profile-photos/CYT1Wctzfp2JQXKSfLKtiUoJV9PFaGgzNp72Rc1C.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,89
+90,Rory,McQueen,Rory McQueen,Male,,Caveman training,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,90
+91,James,Barclay,James Barclay,Male,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,91
+92,Damion,Quinsee,Damion Quinsee,Male,South Africa,Storme CrossFit Ashby,https://athxgames.com/storage/profile-photos/ybDgB8SDXlJCDI3hlT6YnNMp3TPcOZ6OVQxfxGaf.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,92
+92,Juan,Garcia Nila,Juan Garcia Nila,Male,,,https://ui-avatars.com/api/?name=J+G+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,92
+94,Abdur Rahmaan,Azeez,Abdur Rahmaan Azeez,Male,Sri Lanka,,https://athxgames.com/storage/profile-photos/fzAbC87qSg3i5EdZl6BT5PCoMqAzjMHt0zXGwQf2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,94
+95,gordon,mills,gordon mills,Male,,,https://ui-avatars.com/api/?name=g+m&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,95
+96,Jacob,Champion,Jacob Champion,Male,,,https://ui-avatars.com/api/?name=J+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,96
+97,Dominic,Hoole,Dominic Hoole,Male,United Kingdom,Collective MCR,https://ui-avatars.com/api/?name=D+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,97
+98,Alex,Rawson,Alex Rawson,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,98
+99,ashley,downing,ashley downing,Male,,,https://ui-avatars.com/api/?name=a+d&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,99
+1,MEG,PARKES,MEG PARKES,Female,,Crossfit Wycombe,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+2,Rhian,Foxhall,Rhian Foxhall,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,2
+3,Aileen,McCann,Aileen McCann,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+3,Anna,Edwards,Anna Edwards,Female,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+3,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+6,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,6
+7,Amelia,Layng,Amelia Layng,Female,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,7
+8,Emily,Gooderham,Emily Gooderham,Female,,,https://ui-avatars.com/api/?name=E+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,8
+9,Ecem,Hasan,Ecem Hasan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,9
+10,Jessica,Fisher,Jessica Fisher,Female,United Kingdom,Maximum Results KL,https://athxgames.com/storage/profile-photos/eC0bxQ18dcSPoiP1OO890pAGCIgZ2L14PFnPGZrL.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,10
+11,Ellie,Riley,Ellie Riley,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,11
+12,Jessica,Braun,Jessica Braun,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,12
+12,Halima,Sewehli,Halima Sewehli,Female,,,https://ui-avatars.com/api/?name=H+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,12
+14,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,14
+15,Victoria,Collins,Victoria Collins,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,15
+16,Linsey,Swinburne,Linsey Swinburne,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,16
+1,MEG,PARKES,MEG PARKES,Female,,Crossfit Wycombe,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:32,,,,,,1
+2,Aileen,McCann,Aileen McCann,Female,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:39,,,,,,2
+3,Rhian,Foxhall,Rhian Foxhall,Female,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:56,,,,,,3
+4,Amelia,Layng,Amelia Layng,Female,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:55,,,,,,4
+5,Ellie,Riley,Ellie Riley,Female,,,https://ui-avatars.com/api/?name=E+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:58,,,,,,5
+6,Halima,Sewehli,Halima Sewehli,Female,,,https://ui-avatars.com/api/?name=H+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:11,,,,,,6
+7,Emily,Gooderham,Emily Gooderham,Female,,,https://ui-avatars.com/api/?name=E+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:19,,,,,,7
+8,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:29,,,,,,8
+9,Jessica,Braun,Jessica Braun,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,12:43,,,,,,9
+10,Sam,Allcott,Sam Allcott,Female,,,https://ui-avatars.com/api/?name=S+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,12:45,,,,,,10
+11,Anna,Edwards,Anna Edwards,Female,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,13:27,,,,,,11
+12,Victoria,Collins,Victoria Collins,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,13:55,,,,,,12
+13,Ecem,Hasan,Ecem Hasan,Female,,,https://ui-avatars.com/api/?name=E+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,14:31,,,,,,13
+14,Linsey,Swinburne,Linsey Swinburne,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,14:44,,,,,,14
+15,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,14:54,,,,,,15
+16,Jessica,Fisher,Jessica Fisher,Female,United Kingdom,Maximum Results KL,https://athxgames.com/storage/profile-photos/eC0bxQ18dcSPoiP1OO890pAGCIgZ2L14PFnPGZrL.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,15:59,,,,,,16
+1,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+2,Tobias,Rogers,Tobias Rogers,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,2
+3,Tom,Kingdon,Tom Kingdon,Male,,,https://ui-avatars.com/api/?name=T+K&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,Mulley,Branch,Mulley Branch,Male,United Kingdom,,https://ui-avatars.com/api/?name=M+B&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,Joseph,Harper,Joseph Harper,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+6,Fabian,Johnson,Fabian Johnson,Male,United Kingdom,Marchon,https://athxgames.com/storage/profile-photos/ERY0izAiNIA7iqSt2lkS1s5qICA0roeGCNn8PfD1.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+6,Cameron,Rhind,Cameron Rhind,Male,,,https://ui-avatars.com/api/?name=C+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+8,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+9,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,9
+10,Ryan,Holsgrove,Ryan Holsgrove,Male,,,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,10
+11,Robin,Wilkins,Robin Wilkins,Male,,,https://ui-avatars.com/api/?name=R+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,11
+12,Michael,Rowland,Michael Rowland,Male,United Kingdom,CrossFit Beorn,https://athxgames.com/storage/profile-photos/rVxMRwEHgLqmPbNYMl8wN0ikLBCU0cTvZTrJ8NH2.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,12
+13,Matt,Grimshaw,Matt Grimshaw,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,13
+14,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,14
+15,Ross,Endersby,Ross Endersby,Male,United Kingdom,Sleven,https://ui-avatars.com/api/?name=R+E&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,15
+16,Thomas,Rolfe,Thomas Rolfe,Male,,,https://ui-avatars.com/api/?name=T+R&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,16
+16,Don,Amartey,Don Amartey,Male,United Kingdom,Gym Location Crawley,https://ui-avatars.com/api/?name=D+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,16
+18,Junior,Oby Obi,Junior Oby Obi,Male,Belgium,MensHaWB,https://ui-avatars.com/api/?name=J+O+O&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,18
+19,Chukwuemeka,Nsonwu,Chukwuemeka Nsonwu,Male,Nigeria,TeddyB Fitness,https://athxgames.com/storage/profile-photos/HkpzhHzPz6AP0xyDhzmSQ8IGZ33hxL8EuJV3RWfS.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,19
+20,Keaton,Losa-Riley,Keaton Losa-Riley,Male,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,20
+20,Chris,Harman,Chris Harman,Male,,,https://ui-avatars.com/api/?name=C+H&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,20
+22,Scott,Wright,Scott Wright,Male,,,https://ui-avatars.com/api/?name=S+W&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,22
+23,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,23
+24,Aaron,Newland,Aaron Newland,Male,,,https://ui-avatars.com/api/?name=A+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,24
+25,Leo,Murphy,Leo Murphy,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,25
+26,Muhammad Farhan,Aslam,Muhammad Farhan Aslam,Male,,,https://ui-avatars.com/api/?name=M+F+A&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,26
+27,Philip,Burke,Philip Burke,Male,,,https://athxgames.com/storage/profile-photos/AkcpVM44uW1piF3SgpmRCdh2i7tJPUrffRgyeASO.png,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,27
+27,Mams,Sowe,Mams Sowe,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,27
+29,Lucas,Novi,Lucas Novi,Male,,,https://ui-avatars.com/api/?name=L+N&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,29
+30,Thomas,Godec,Thomas Godec,Male,,,https://ui-avatars.com/api/?name=T+G&color=FFFFFF&background=000000,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,30
+31,Jobert,Fermilan,Jobert Fermilan,Male,United Kingdom,BC Fitness HQ,https://athxgames.com/storage/profile-photos/fubAdqItjgXktkQ5hoF0HQZ4SLCYo2I04nWZyQ6i.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,31
+32,Kieran,Hollins,Kieran Hollins,Male,United Kingdom,Sweatbox Dundee,https://athxgames.com/storage/profile-photos/mjoOHHKm3Q8t85wF2GxNWRCl0rxymcBQjPlWg7Wr.jpg,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,32

@@ -1,0 +1,351 @@
+{
+  "generated_from": "data_general/team_leaderboard.csv + individual_leaderboard.csv",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "events_per_year": [
+    {
+      "year": 2023,
+      "events": 5
+    },
+    {
+      "year": 2024,
+      "events": 5
+    },
+    {
+      "year": 2025,
+      "events": 8
+    },
+    {
+      "year": 2026,
+      "events": 13
+    }
+  ],
+  "countries_per_year": [
+    {
+      "year": 2023,
+      "countries": 1,
+      "list": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "year": 2024,
+      "countries": 1,
+      "list": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "year": 2025,
+      "countries": 3,
+      "list": [
+        "Germany",
+        "Ireland",
+        "United Kingdom"
+      ]
+    },
+    {
+      "year": 2026,
+      "countries": 8,
+      "list": [
+        "Denmark",
+        "France",
+        "Germany",
+        "Ireland",
+        "Italy",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ]
+    }
+  ],
+  "participants_per_year": [
+    {
+      "year": 2023,
+      "solo": 0,
+      "team": 1806,
+      "both": 0,
+      "total": 1806
+    },
+    {
+      "year": 2024,
+      "solo": 0,
+      "team": 2710,
+      "both": 0,
+      "total": 2710
+    },
+    {
+      "year": 2025,
+      "solo": 764,
+      "team": 5086,
+      "both": 119,
+      "total": 5731
+    },
+    {
+      "year": 2026,
+      "solo": 2903,
+      "team": 11048,
+      "both": 275,
+      "total": 13676
+    }
+  ],
+  "current_footprint": {
+    "year": 2026,
+    "countries": [
+      {
+        "country": "United Kingdom",
+        "map_name": "United Kingdom",
+        "events": 3,
+        "cities": [
+          {
+            "name": "Birmingham",
+            "status": "completed"
+          },
+          {
+            "name": "Glasgow",
+            "status": "completed"
+          },
+          {
+            "name": "London",
+            "status": "completed"
+          },
+          {
+            "name": "Liverpool",
+            "status": "upcoming"
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "map_name": "France",
+        "events": 2,
+        "cities": [
+          {
+            "name": "Marseille",
+            "status": "completed"
+          },
+          {
+            "name": "Paris",
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "country": "Germany",
+        "map_name": "Germany",
+        "events": 2,
+        "cities": [
+          {
+            "name": "Berlin",
+            "status": "completed"
+          },
+          {
+            "name": "Munich",
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "country": "Spain",
+        "map_name": "Spain",
+        "events": 2,
+        "cities": [
+          {
+            "name": "Barcelona",
+            "status": "completed"
+          },
+          {
+            "name": "Madrid",
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "country": "Denmark",
+        "map_name": "Denmark",
+        "events": 1,
+        "cities": [
+          {
+            "name": "Copenhagen",
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "country": "Ireland",
+        "map_name": "Ireland",
+        "events": 1,
+        "cities": [
+          {
+            "name": "Dublin",
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "country": "Italy",
+        "map_name": "Italy",
+        "events": 1,
+        "cities": [
+          {
+            "name": "Milan",
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "country": "United States",
+        "map_name": "United States of America",
+        "events": 1,
+        "cities": [
+          {
+            "name": "Invitational Miami Beach",
+            "status": "completed"
+          },
+          {
+            "name": "Miami",
+            "status": "upcoming"
+          },
+          {
+            "name": "Houston",
+            "status": "upcoming"
+          },
+          {
+            "name": "Long Beach",
+            "status": "upcoming"
+          }
+        ]
+      },
+      {
+        "country": "Netherlands",
+        "map_name": "Netherlands",
+        "events": 0,
+        "cities": [
+          {
+            "name": "Amsterdam",
+            "status": "upcoming"
+          }
+        ]
+      },
+      {
+        "country": "Portugal",
+        "map_name": "Portugal",
+        "events": 0,
+        "cities": [
+          {
+            "name": "Lisboa",
+            "status": "upcoming"
+          }
+        ]
+      }
+    ]
+  },
+  "events_2026_planned_total": 19,
+  "events_2027_planned": 34,
+  "events_2027_europe": 23,
+  "events_2027_north_america_cities": [
+    "San Diego",
+    "Las Vegas",
+    "Denver",
+    "Houston",
+    "Mexico City",
+    "Miami",
+    "Nashville",
+    "New York",
+    "Chicago",
+    "Vancouver",
+    "Los Angeles"
+  ],
+  "comparison": {
+    "athx": {
+      "year": 2026,
+      "events": 13,
+      "countries": 8,
+      "participants": 13676,
+      "avg_participants_per_event": 1215.8
+    },
+    "hyrox": {
+      "season_label": "2025-2026",
+      "participants": 1500000,
+      "events": 105,
+      "countries": 30,
+      "avg_participants_per_event": 15000,
+      "sources": [
+        {
+          "label": "SportsPro — Hyrox business model (déclarations dirigeants HYROX)",
+          "url": "https://www.sportspro.com/features/finance-investment/hyrox-business-model-mass-participation-private-equity-investment/"
+        },
+        {
+          "label": "BarBend — HYROX Has 100+ Events on the 2025/26 Calendar",
+          "url": "https://barbend.com/news/hyrox-exceeds-100-calendar-events/"
+        },
+        {
+          "label": "BoxLife Magazine — Hyrox Draws 15,000 People Per Event",
+          "url": "https://boxlifemagazine.com/hyrox-worldwide-fitness-phenomenon/"
+        }
+      ]
+    },
+    "avg_participants_per_event_detail": {
+      "year": 2026,
+      "excluded_events": [
+        "ATHX INVITATIONAL MIAMI BEACH"
+      ],
+      "per_event": [
+        {
+          "event": "ATHX BIRMINGHAM 2026",
+          "participants": 2410
+        },
+        {
+          "event": "ATHX LONDON 2026",
+          "participants": 2048
+        },
+        {
+          "event": "ATHX GLASGOW 2026",
+          "participants": 1227
+        },
+        {
+          "event": "ATHX MARSEILLE 2026",
+          "participants": 1131
+        },
+        {
+          "event": "ATHX MUNICH 2026",
+          "participants": 1119
+        },
+        {
+          "event": "ATHX MILAN 2026",
+          "participants": 1052
+        },
+        {
+          "event": "ATHX DUBLIN 2026",
+          "participants": 1049
+        },
+        {
+          "event": "ATHX BARCELONA 2026",
+          "participants": 1044
+        },
+        {
+          "event": "ATHX PARIS 2026",
+          "participants": 1021
+        },
+        {
+          "event": "ATHX BERLIN 2026",
+          "participants": 929
+        },
+        {
+          "event": "ATHX MADRID 2026",
+          "participants": 808
+        },
+        {
+          "event": "ATHX COPENHAGEN 2026",
+          "participants": 751
+        }
+      ],
+      "average": 1215.8,
+      "n_events": 12
+    }
+  }
+}

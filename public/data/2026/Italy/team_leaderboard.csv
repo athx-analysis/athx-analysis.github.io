@@ -1,0 +1,1635 @@
+rank,team_name,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Riccardo Tribuzio & Sandro Zurlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,4.647KM,5.624KM,1
+2,Niccolò Nistri & Marco Schmid,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.672KM,5.333KM,2
+3,Vito Tesoriere & Alex Burani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.5KM,5.35KM,3
+4,Alessio Bertani & Nicolò Villareale,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.28KM,5.116KM,4
+5,Nico Carrara & Maicol Oreficini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.153KM,5.005KM,5
+6,ROBERTO VANEFFI & Andrea Palagi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.5KM,4.657KM,6
+7,Marco Bragato & Stefano Canovai,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.575KM,4.395KM,7
+8,MATTEO CANTABENE & Matteo Piuri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.078KM,4.826KM,8
+9,Roberto de vito & Edoardo Lucat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.047KM,4.729KM,9
+10,Dario Romano & Enrico Bassino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,3.042KM,4.498KM,10
+11,MASSIMO PANARITI & UMBERTO PARMIGIANI,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,2.739KM,4.406KM,11
+12,vincenzo izzo & Francesco Pasetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Endurance,,,,,,,2.582KM,4.464KM,12
+1,Kim Johnson & Priyal Shah,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,4.514KM,4.965KM,1
+2,Kayleigh Bakker & Gemma Picton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,5.271KM,2
+3,Kerstin Lochmatter & Kirstin Aebischer,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,5.135KM,3
+4,Vanessa Zambelli & Giorgia sassaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,5.115KM,4
+5,Giulia Re Calegari & viola somoza,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.958KM,4.789KM,5
+6,Daria Cappelli & Silvana Bossini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.772KM,4.941KM,6
+7,Tiziana Cotroneo & Lucille Fiengo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,4.043KM,4.651KM,7
+8,Olga reabteva & Olha Marchuk,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,4.008KM,4.657KM,8
+9,Elena Rosati & Giada Cavosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.806KM,9
+10,Isabella Mitrotti & Elisa Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.813KM,4.689KM,10
+11,Rosi Gigliotti & Barbara Lofoco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.643KM,4.815KM,11
+12,Barbara Sebastiani & Monica Scarponi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.579KM,4.859KM,12
+13,Cinzia Galleri & Rossella Marrone,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.855KM,4.574KM,13
+14,Francesca Ylenia Bussini & Marina Brugnoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.4KM,4.967KM,14
+15,Zoe Osborn & Ellie Mott-Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.593KM,4.762KM,15
+16,Nora Bartel & Priscilla Smets,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.649KM,4.699KM,16
+17,Miriam Galati & Silvia Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.789KM,4.523KM,17
+18,Silvia Zanardo & Sabrina Nassoro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.514KM,18
+19,Noci Elena & Ginevra lizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.675KM,4.575KM,19
+20,Samanta Ceciliani & Alessia Carla Piearcey,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.515KM,4.726KM,20
+21,Alexandra Rabà & Marta Bolognini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.464KM,21
+22,Nicoletta Labianca & Ilaria Gatta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.831KM,4.364KM,22
+23,Veronica Maretto & Maddalena Biasiotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.465KM,4.709KM,23
+24,Laura Bortollon & Anisa Gryka,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.405KM,24
+25,Veronica Falliva & Linda Callegari,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.652KM,4.501KM,25
+26,giorgia foroni & Francesca Casalaina,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.692KM,4.429KM,26
+27,Katia Fiorentino & Ylenia Fiori,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.267KM,4.823KM,27
+28,Bianca Boschi & Michela Mondaini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.754KM,4.301KM,28
+29,Martina Sforna & Valentina Sforna,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.4KM,4.633KM,29
+30,Claudia Maraldi & Valentina Costantini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.313KM,4.656KM,30
+31,Nadia nadiabreu_94@icloud.com & Dominique Eggmann,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3KM,4.966KM,31
+32,Jenny Andrew & Laura Wright,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.598KM,4.349KM,32
+33,Laura Gruppi & Elisabeth Chiappetta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.427KM,4.514KM,33
+34,CHIARA SOLDATI & Eleonora Zoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.305KM,4.596KM,34
+35,Liz Norris & Aislinn Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.142KM,4.726KM,35
+36,Monica Coghi & SARA GJINI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.084KM,4.779KM,36
+37,Julie-Anne Niblock & Cathy Devlin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.375KM,4.478KM,37
+38,Dawn Brotherton & Michelle Baker,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.097KM,4.754KM,38
+39,Sofia Ferreira & Armandina Torres,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.679KM,4.137KM,39
+40,Elena Mazzuoli & Melania Starinieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.457KM,4.311KM,40
+41,Alexandra Zavodna & Héloïse Fournier,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.249KM,41
+42,alessia batacchi & Benedetta Marcheselli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.47KM,4.248KM,42
+43,Renata Canevali & Chiara Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.137KM,4.536KM,43
+44,Sara Vichi & Trevisani Natascha,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.118KM,4.494KM,44
+45,Valentina Ungarelli & Alessandra De Stefani,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.213KM,4.359KM,45
+46,Camilla Pasteris & Deborah Pompa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.262KM,4.2KM,46
+47,Giulia Pascazio & Silvia Bocciarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.23KM,4.158KM,47
+48,Linda Huynh-Russo & Laura Perera,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.882KM,4.503KM,48
+49,Aisling Reardon & Natalie Blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.959KM,4.419KM,49
+50,Alessia Pittala & Francesca Vigneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3KM,4.359KM,50
+51,Tamara Jankovic & Sofia Flocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3KM,4.353KM,51
+52,Keran Morgan & Rebecca Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.905KM,4.303KM,52
+53,Blaithin Conroy & Marie Conneely,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.959KM,4.157KM,53
+54,Visheena Gupta & Seema Dadhania,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.073KM,4.031KM,54
+1,Niccolò Nistri & Marco Schmid,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,147KG,285KG,335KG,,,1
+2,Roberto de vito & Edoardo Lucat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,155KG,270KG,310KG,,,2
+3,Nico Carrara & Maicol Oreficini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,120KG,285KG,320KG,,,3
+4,Riccardo Tribuzio & Sandro Zurlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,144KG,235KG,340KG,,,4
+5,MATTEO CANTABENE & Matteo Piuri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,132KG,250KG,300KG,,,5
+6,ROBERTO VANEFFI & Andrea Palagi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,115KG,250KG,290KG,,,6
+7,vincenzo izzo & Francesco Pasetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,136KG,230KG,270KG,,,7
+8,Alessio Bertani & Nicolò Villareale,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,124KG,210KG,280KG,,,8
+9,Vito Tesoriere & Alex Burani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,118KG,205KG,270KG,,,9
+10,Dario Romano & Enrico Bassino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,130KG,200KG,240KG,,,10
+11,Marco Bragato & Stefano Canovai,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,125KG,45KG,340KG,,,11
+12,MASSIMO PANARITI & UMBERTO PARMIGIANI,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Strength,,,,99KG,130KG,280KG,,,12
+1,Liz Norris & Aislinn Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,90KG,237KG,255KG,,,1
+2,Martina Sforna & Valentina Sforna,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,91KG,196KG,235KG,,,2
+3,Kerstin Lochmatter & Kirstin Aebischer,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,96KG,191KG,227KG,,,3
+4,Kayleigh Bakker & Gemma Picton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,89KG,190KG,228KG,,,4
+5,Julie-Anne Niblock & Cathy Devlin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,87KG,175KG,237KG,,,5
+6,Elena Rosati & Giada Cavosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,80KG,184KG,230KG,,,6
+7,Vanessa Zambelli & Giorgia sassaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,89KG,175KG,227KG,,,7
+8,Daria Cappelli & Silvana Bossini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,83KG,173KG,223KG,,,8
+9,Elena Mazzuoli & Melania Starinieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,180KG,220KG,,,9
+10,Monica Coghi & SARA GJINI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,80KG,178KG,213KG,,,10
+11,Dawn Brotherton & Michelle Baker,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,175KG,220KG,,,11
+12,Giulia Re Calegari & viola somoza,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,84KG,172KG,210KG,,,12
+13,Keran Morgan & Rebecca Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,75KG,160KG,220KG,,,13
+13,Zoe Osborn & Ellie Mott-Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,80KG,185KG,190KG,,,13
+15,Rosi Gigliotti & Barbara Lofoco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,90KG,175KG,187KG,,,15
+15,Samanta Ceciliani & Alessia Carla Piearcey,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,79KG,163KG,210KG,,,15
+17,Katia Fiorentino & Ylenia Fiori,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,83KG,155KG,210KG,,,17
+18,Nadia nadiabreu_94@icloud.com & Dominique Eggmann,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,83KG,160KG,200KG,,,18
+19,Linda Huynh-Russo & Laura Perera,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,77KG,155KG,205KG,,,19
+20,Francesca Ylenia Bussini & Marina Brugnoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,82KG,160KG,190KG,,,20
+20,Kim Johnson & Priyal Shah,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,160KG,200KG,,,20
+20,Veronica Falliva & Linda Callegari,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,74KG,145KG,213KG,,,20
+23,Barbara Sebastiani & Monica Scarponi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,76KG,150KG,205KG,,,23
+24,Miriam Galati & Silvia Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,78KG,152KG,200KG,,,24
+25,Alexandra Rabà & Marta Bolognini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,68KG,165KG,195KG,,,25
+26,Aisling Reardon & Natalie Blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,76KG,140KG,210KG,,,26
+27,Giulia Pascazio & Silvia Bocciarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,77KG,152KG,195KG,,,27
+28,Noci Elena & Ginevra lizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,71KG,150KG,200KG,,,28
+29,Veronica Maretto & Maddalena Biasiotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,69KG,150KG,195KG,,,29
+29,Alexandra Zavodna & Héloïse Fournier,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,79KG,160KG,175KG,,,29
+31,Olga reabteva & Olha Marchuk,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,77KG,145KG,190KG,,,31
+32,Renata Canevali & Chiara Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,83KG,147KG,180KG,,,32
+33,Valentina Ungarelli & Alessandra De Stefani,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,81KG,140KG,185KG,,,33
+34,Tiziana Cotroneo & Lucille Fiengo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,73KG,143KG,180KG,,,34
+34,Bianca Boschi & Michela Mondaini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,69KG,147KG,180KG,,,34
+36,Camilla Pasteris & Deborah Pompa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,140KG,180KG,,,36
+36,giorgia foroni & Francesca Casalaina,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,67KG,155KG,170KG,,,36
+38,Nicoletta Labianca & Ilaria Gatta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,69KG,153KG,165KG,,,38
+39,CHIARA SOLDATI & Eleonora Zoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,128KG,185KG,,,39
+40,alessia batacchi & Benedetta Marcheselli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,66KG,155KG,163KG,,,40
+41,Silvia Zanardo & Sabrina Nassoro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,68KG,145KG,170KG,,,41
+42,Nora Bartel & Priscilla Smets,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,51KG,155KG,176KG,,,42
+43,Sara Vichi & Trevisani Natascha,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,68KG,140KG,170KG,,,43
+44,Tamara Jankovic & Sofia Flocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,67KG,135KG,165KG,,,44
+45,Blaithin Conroy & Marie Conneely,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,120KG,170KG,,,45
+46,Cinzia Galleri & Rossella Marrone,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,67KG,153KG,134KG,,,46
+47,Claudia Maraldi & Valentina Costantini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,59KG,125KG,166KG,,,47
+47,Laura Gruppi & Elisabeth Chiappetta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,60KG,120KG,170KG,,,47
+49,Sofia Ferreira & Armandina Torres,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,67KG,135KG,145KG,,,49
+50,Jenny Andrew & Laura Wright,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,63KG,114KG,168KG,,,50
+51,Laura Bortollon & Anisa Gryka,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,63KG,125KG,155KG,,,51
+52,Visheena Gupta & Seema Dadhania,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,66KG,112KG,160KG,,,52
+53,Isabella Mitrotti & Elisa Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,62KG,104KG,160KG,,,53
+54,Alessia Pittala & Francesca Vigneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,72KG,104KG,148KG,,,54
+1,Niccolò Nistri & Marco Schmid,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,1 (767KG),2 (9.005KM),2 (10:10),,,,,,5
+2,Riccardo Tribuzio & Sandro Zurlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,4 (719KG),1 (10.271KM),1 (08:46),,,,,,6
+3,Nico Carrara & Maicol Oreficini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,3 (725KG),5 (8.158KM),7 (13:57),,,,,,15
+3,Alessio Bertani & Nicolò Villareale,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,8 (614KG),4 (8.396KM),3 (12:38),,,,,,15
+5,ROBERTO VANEFFI & Andrea Palagi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,6 (655KG),6 (8.157KM),4 (12:57),,,,,,16
+6,Vito Tesoriere & Alex Burani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,9 (593KG),3 (8.85KM),5 (13:11),,,,,,17
+7,Roberto de vito & Edoardo Lucat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,2 (735KG),9 (7.776KM),7 (13:57),,,,,,18
+8,MATTEO CANTABENE & Matteo Piuri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,5 (682KG),8 (7.904KM),6 (13:35),,,,,,19
+9,Marco Bragato & Stefano Canovai,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,11 (510KG),7 (7.97KM),9 (15:29),,,,,,27
+10,vincenzo izzo & Francesco Pasetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,7 (636KG),12 (7.046KM),11 (16:35),,,,,,30
+11,Dario Romano & Enrico Bassino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,10 (570KG),10 (7.54KM),12 (16:55),,,,,,32
+12,MASSIMO PANARITI & UMBERTO PARMIGIANI,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,Overall,12 (509KG),11 (7.145KM),10 (16:29),,,,,,33
+1,Leo Lundgren & Daniele Cosco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,207KG,382KG,425KG,,,1
+2,Rory Wilson & Nathan Owusu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,160KG,380KG,452KG,,,2
+3,Ciompi Lorenzo & Andrei Roscan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,171KG,340KG,420KG,,,3
+4,Matteo Simone & Gianluca Occhino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,155KG,360KG,410KG,,,4
+5,Phil Jones & Joe Paris,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,152KG,340KG,405KG,,,5
+6,Mattia Tagliapietra & Mattia Belluco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,155KG,330KG,410KG,,,6
+7,Jamie Newington & Peter Gillett,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,187KG,325KG,370KG,,,7
+8,Lorenzo Boccalari & Alessandro Gallina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,155KG,352KG,373KG,,,8
+9,Alessio Stacchio & Leonardo Moglianetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,170KG,320KG,370KG,,,9
+9,Loïc Pillon & pradas benjamin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,170KG,320KG,370KG,,,9
+11,Francesco Fioravanti & Alex Gasser,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,142KG,348KG,360KG,,,11
+12,Christian casu & Francesco Bertelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,158KG,305KG,385KG,,,12
+13,David Fiorese & JEAN-FRANCOIS MAILLAND,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,158KG,285KG,400KG,,,13
+14,Luca Vallicella & Tommaso Caceffo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,160KG,310KG,370KG,,,14
+15,Adrian Pazos & alix bahlouli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,149KG,305KG,380KG,,,15
+16,Bruno Tobler & Vladimir Spasovski,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,149KG,281KG,380KG,,,16
+17,Nicolò Cracco & federico molino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,153KG,296KG,346KG,,,17
+18,Alessandro Castioni & Davide Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,151KG,290KG,340KG,,,18
+19,Roberto Chemi & Enrico Faeta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,149KG,294KG,335KG,,,19
+20,Giulio Fioravanti Cinci & Giacomo Fioravanti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,153KG,270KG,345KG,,,20
+21,Jacopo Edoardo Asni & Lorenzo Saiu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,141KG,275KG,340KG,,,21
+22,simone archi & Enrico Sammarco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,145KG,262KG,335KG,,,22
+23,Luca Rossetti & Erik Chiriaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,142KG,270KG,320KG,,,23
+24,Emiliano Talacci & Dario De Giorgi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,135KG,241KG,310KG,,,24
+1,Kayleigh Bakker & Gemma Picton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,4 (507KG),2 (9.021KM),1 (13:37),,,,,,7
+2,Kerstin Lochmatter & Kirstin Aebischer,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,3 (514KG),3 (8.885KM),3 (16:07),,,,,,9
+3,Daria Cappelli & Silvana Bossini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,8 (479KG),6 (8.713KM),2 (15:17),,,,,,16
+4,Vanessa Zambelli & Giorgia sassaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,7 (491KG),4 (8.865KM),5 (16:20),,,,,,16
+5,Giulia Re Calegari & viola somoza,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,12 (466KG),5 (8.747KM),7 (16:49),,,,,,24
+6,Elena Rosati & Giada Cavosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,6 (494KG),9 (8.556KM),10 (17:35),,,,,,25
+7,Kim Johnson & Priyal Shah,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,20 (432KG),1 (9.479KM),13 (17:42),,,,,,34
+8,Martina Sforna & Valentina Sforna,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,2 (522KG),29 (8.033KM),6 (16:41),,,,,,37
+9,Francesca Ylenia Bussini & Marina Brugnoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,20 (432KG),14 (8.367KM),3 (16:07),,,,,,37
+9,Zoe Osborn & Ellie Mott-Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,13 (455KG),15 (8.355KM),9 (17:15),,,,,,37
+11,Liz Norris & Aislinn Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,1 (582KG),35 (7.868KM),11 (17:38),,,,,,47
+12,Rosi Gigliotti & Barbara Lofoco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,15 (452KG),11 (8.458KM),22 (18:35),,,,,,48
+13,Barbara Sebastiani & Monica Scarponi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,23 (431KG),12 (8.438KM),14 (17:50),,,,,,49
+13,Samanta Ceciliani & Alessia Carla Piearcey,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,15 (452KG),20 (8.241KM),14 (17:50),,,,,,49
+15,Miriam Galati & Silvia Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,24 (430KG),17 (8.312KM),17 (18:10),,,,,,58
+16,Tiziana Cotroneo & Lucille Fiengo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,34 (396KG),7 (8.694KM),18 (18:15),,,,,,59
+17,Olga reabteva & Olha Marchuk,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,31 (412KG),8 (8.665KM),26 (19:07),,,,,,65
+17,Monica Coghi & SARA GJINI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,10 (471KG),36 (7.863KM),19 (18:16),,,,,,65
+19,Nora Bartel & Priscilla Smets,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,42 (382KG),16 (8.348KM),8 (16:57),,,,,,66
+20,Noci Elena & Ginevra lizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,28 (421KG),19 (8.25KM),20 (18:19),,,,,,67
+21,Nadia nadiabreu_94@icloud.com & Dominique Eggmann,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,18 (443KG),31 (7.966KM),23 (18:56),,,,,,72
+22,Julie-Anne Niblock & Cathy Devlin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,5 (499KG),37 (7.853KM),31 (19:42),,,,,,73
+23,Elena Mazzuoli & Melania Starinieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,9 (472KG),40 (7.768KM),27 (19:12),,,,,,76
+24,Bianca Boschi & Michela Mondaini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,34 (396KG),28 (8.055KM),16 (18:09),,,,,,78
+25,Cinzia Galleri & Rossella Marrone,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,46 (354KG),13 (8.429KM),21 (18:21),,,,,,80
+26,Veronica Maretto & Maddalena Biasiotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,29 (414KG),23 (8.174KM),29 (19:19),,,,,,81
+26,Veronica Falliva & Linda Callegari,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,20 (432KG),25 (8.153KM),36 (20:34),,,,,,81
+28,Nicoletta Labianca & Ilaria Gatta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,38 (387KG),22 (8.195KM),24 (18:59),,,,,,84
+29,Alexandra Rabà & Marta Bolognini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,25 (428KG),21 (8.214KM),41 (20:56),,,,,,87
+29,giorgia foroni & Francesca Casalaina,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,36 (392KG),26 (8.121KM),25 (19:00),,,,,,87
+29,Renata Canevali & Chiara Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,32 (410KG),43 (7.673KM),12 (17:39),,,,,,87
+32,Katia Fiorentino & Ylenia Fiori,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,17 (448KG),27 (8.09KM),44 (21:25),,,,,,88
+33,Silvia Zanardo & Sabrina Nassoro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,41 (383KG),18 (8.264KM),30 (19:37),,,,,,89
+34,Dawn Brotherton & Michelle Baker,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,11 (467KG),38 (7.851KM),42 (21:14),,,,,,91
+34,Isabella Mitrotti & Elisa Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,53 (326KG),10 (8.502KM),28 (19:15),,,,,,91
+36,Keran Morgan & Rebecca Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,13 (455KG),52 (7.208KM),35 (20:06),,,,,,100
+37,Laura Bortollon & Anisa Gryka,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,51 (343KG),24 (8.155KM),33 (19:59),,,,,,108
+38,CHIARA SOLDATI & Eleonora Zoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,39 (385KG),34 (7.901KM),38 (20:45),,,,,,111
+39,Laura Gruppi & Elisabeth Chiappetta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,47 (350KG),33 (7.941KM),32 (19:46),,,,,,112
+40,alessia batacchi & Benedetta Marcheselli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,40 (384KG),42 (7.718KM),33 (19:59),,,,,,115
+40,Linda Huynh-Russo & Laura Perera,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,19 (437KG),48 (7.385KM),48 (22:38),,,,,,115
+42,Alexandra Zavodna & Héloïse Fournier,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,29 (414KG),41 (7.749KM),47 (22:36),,,,,,117
+43,Camilla Pasteris & Deborah Pompa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,36 (392KG),46 (7.462KM),37 (20:35),,,,,,119
+44,Valentina Ungarelli & Alessandra De Stefani,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,33 (406KG),45 (7.572KM),45 (22:10),,,,,,123
+45,Jenny Andrew & Laura Wright,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,50 (345KG),32 (7.947KM),43 (21:20),,,,,,125
+46,Sofia Ferreira & Armandina Torres,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,49 (347KG),39 (7.816KM),38 (20:45),,,,,,126
+46,Giulia Pascazio & Silvia Bocciarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,27 (424KG),47 (7.388KM),52 (23:16),,,,,,126
+46,Aisling Reardon & Natalie Blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,26 (426KG),49 (7.378KM),51 (23:13),,,,,,126
+49,Sara Vichi & Trevisani Natascha,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,43 (378KG),44 (7.612KM),40 (20:51),,,,,,127
+50,Claudia Maraldi & Valentina Costantini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,47 (350KG),30 (7.969KM),53 (23:40),,,,,,130
+51,Tamara Jankovic & Sofia Flocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,44 (367KG),51 (7.353KM),46 (22:30),,,,,,141
+52,Blaithin Conroy & Marie Conneely,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,45 (362KG),53 (7.116KM),54 (24:59),,,,,,152
+53,Alessia Pittala & Francesca Vigneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,54 (324KG),50 (7.359KM),50 (23:08),,,,,,154
+53,Visheena Gupta & Seema Dadhania,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,52 (338KG),54 (7.104KM),48 (22:38),,,,,,154
+1,Annina Kandutsch & Sandra Unterüberbacher,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,14:11,,,,,,1
+2,Martina Giannachi & Francesca Malinverno,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,15:10,,,,,,2
+3,Samantha Griffiths & Alexis Newton-french,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,16:03,,,,,,3
+4,Maria Elena m.elena.abate@gmail.com & Marilù Cammarata,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,16:34,,,,,,4
+5,Bianca Pirra & Cristina Di Fabio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,17:49,,,,,,5
+6,Camilla Pescatori & Valentina Manli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,17:50,,,,,,6
+7,ilaria ruiu & Alice Petronio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:02,,,,,,7
+8,Carla Gentile & Vera Traversa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:12,,,,,,8
+9,Silvia Ermini & Deborah Cellai,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:21,,,,,,9
+10,Eleonora Rebecchi & CHIARA BENIGNI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:29,,,,,,10
+11,Zoe Churchill & Amy Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:39,,,,,,11
+12,laura maria adelaide volpini & Maria Teresa Rosignoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:46,,,,,,12
+13,luciana Porcelli & linda marre,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:48,,,,,,13
+14,Isabella Marrocco & Gaia Consalvo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,18:53,,,,,,14
+15,Shalu Kara & Hayley Scanlon,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,19:45,,,,,,15
+16,Stefania Belluschi & Ludovica Picolli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,19:56,,,,,,16
+17,Serena Lupo & Martina Barbatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,20:20,,,,,,17
+18,beatrice zaccardi & Annick Anoman,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,20:53,,,,,,18
+19,louise tuffy & nat blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,21:04,,,,,,19
+20,Lisa Cooper & Sara Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,21:07,,,,,,20
+21,Chiara Parmiani & Barbara L Antonacci,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,21:35,,,,,,21
+22,maria owens & Sharon Oconnor,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,MetCon X,,,25:24,,,,,,22
+1,Leo Lundgren & Daniele Cosco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,1 (1014KG),5 (10.115KM),3 (14:39),,,,,,9
+2,Mattia Tagliapietra & Mattia Belluco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,6 (895KG),4 (10.279KM),2 (14:30),,,,,,12
+3,Francesco Fioravanti & Alex Gasser,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,11 (850KG),1 (11.126KM),1 (12:23),,,,,,13
+4,Phil Jones & Joe Paris,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,5 (897KG),2 (10.524KM),6 (15:05),,,,,,13
+5,Ciompi Lorenzo & Andrei Roscan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,3 (931KG),7 (9.885KM),5 (14:48),,,,,,15
+6,David Fiorese & JEAN-FRANCOIS MAILLAND,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,13 (843KG),3 (10.309KM),4 (14:44),,,,,,20
+7,Alessio Stacchio & Leonardo Moglianetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,9 (860KG),10 (9.712KM),8 (15:24),,,,,,27
+8,Rory Wilson & Nathan Owusu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,2 (992KG),20 (9.26KM),7 (15:18),,,,,,29
+9,Matteo Simone & Gianluca Occhino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,4 (925KG),15 (9.534KM),12 (17:08),,,,,,31
+10,Jamie Newington & Peter Gillett,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,7 (882KG),12 (9.683KM),13 (17:11),,,,,,32
+11,Roberto Chemi & Enrico Faeta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,19 (778KG),6 (9.967KM),10 (16:39),,,,,,35
+12,Christian casu & Francesco Bertelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,12 (848KG),9 (9.772KM),16 (18:11),,,,,,37
+12,Luca Vallicella & Tommaso Caceffo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,14 (840KG),14 (9.555KM),9 (16:02),,,,,,37
+14,Lorenzo Boccalari & Alessandro Gallina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,8 (880KG),18 (9.36KM),14 (17:42),,,,,,40
+15,simone archi & Enrico Sammarco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,22 (742KG),8 (9.803KM),11 (16:41),,,,,,41
+16,Adrian Pazos & alix bahlouli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,15 (834KG),11 (9.689KM),18 (18:53),,,,,,44
+17,Loïc Pillon & pradas benjamin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,9 (860KG),21 (9.22KM),15 (18:04),,,,,,45
+18,Bruno Tobler & Vladimir Spasovski,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,16 (810KG),13 (9.676KM),17 (18:39),,,,,,46
+19,Giulio Fioravanti Cinci & Giacomo Fioravanti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,20 (768KG),16 (9.464KM),21 (21:25),,,,,,57
+20,Jacopo Edoardo Asni & Lorenzo Saiu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,21 (756KG),19 (9.308KM),19 (19:06),,,,,,59
+21,Luca Rossetti & Erik Chiriaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,23 (732KG),17 (9.443KM),20 (19:15),,,,,,60
+22,Alessandro Castioni & Davide Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,18 (781KG),22 (8.963KM),23 (22:06),,,,,,63
+22,Nicolò Cracco & federico molino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,17 (795KG),24 (8.659KM),22 (21:42),,,,,,63
+24,Emiliano Talacci & Dario De Giorgi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,24 (686KG),23 (8.772KM),24 (25:07),,,,,,71
+1,Chiara Margaritelli & Sigismondi Alessandro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,11:27,,,,,,1
+2,Scott Davies & Lisa Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,11:49,,,,,,2
+3,Frances Howard & Lee Idzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,12:26,,,,,,3
+4,Miriam Gualdi & Alessandro Cioni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,12:28,,,,,,4
+5,Alice Migliavacca & Angelo Ghidini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,12:34,,,,,,5
+6,Andrea Bruzzone & Elisa Curotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,12:49,,,,,,6
+7,Paola De bernardi & Dario Raimondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,13:11,,,,,,7
+8,Carlo Cavaletto & Chiara Camerlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:06,,,,,,8
+9,Christopher Sullivan & Kirsty Miles,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:08,,,,,,9
+10,Marco Scricco & Markela Bello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:11,,,,,,10
+11,Luca Natale & Elena De Maria,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:18,,,,,,11
+12,Cristiano Aspesi & Giulia Marocchino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:31,,,,,,12
+13,Francesco Tozzi & Marzia Costanzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:49,,,,,,13
+13,Veronica Quaglia & Francesco Fiorese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:49,,,,,,13
+15,Cristian Lauria & Gilia Maria Grassano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,15:06,,,,,,15
+16,Andrea Ciolina & Ilaria pia Massaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,15:43,,,,,,16
+17,Claire Lock & Ian Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,15:51,,,,,,17
+18,Veronica Resinovich & Edoardo Trobec,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,16:00,,,,,,18
+19,Raphaela Markwirth & Esteban Toledo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,16:11,,,,,,19
+20,Hristijan Stajkovski & Martina Sussegan,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,17:05,,,,,,20
+21,Ramona Koksa & Burak Tokel,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,17:51,,,,,,21
+22,Federico Ferrero ferrua & Veronica Ioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,18:06,,,,,,22
+23,Martina Guidotti & Raffaele Carusone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,18:41,,,,,,23
+24,Andrea Saporiti & Amanda Ciraci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,19:57,,,,,,24
+25,David Rindone & Francescaromana Giannetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,20:43,,,,,,25
+1,Maria Elena m.elena.abate@gmail.com & Marilù Cammarata,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,4KM,4.336KM,1
+2,Martina Giannachi & Francesca Malinverno,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,4.569KM,2
+3,Bianca Pirra & Cristina Di Fabio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,4.285KM,3
+4,Carla Gentile & Vera Traversa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.368KM,4.331KM,4
+5,laura maria adelaide volpini & Maria Teresa Rosignoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.4KM,4.266KM,5
+6,Camilla Pescatori & Valentina Manli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.468KM,4.087KM,6
+7,beatrice zaccardi & Annick Anoman,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.557KM,3.996KM,7
+8,Annina Kandutsch & Sandra Unterüberbacher,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.945KM,4.579KM,8
+9,Shalu Kara & Hayley Scanlon,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.12KM,4.298KM,9
+10,ilaria ruiu & Alice Petronio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,4.412KM,10
+11,Samantha Griffiths & Alexis Newton-french,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,4.367KM,11
+12,Silvia Ermini & Deborah Cellai,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.796KM,4.54KM,12
+13,luciana Porcelli & linda marre,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,4.321KM,13
+14,Eleonora Rebecchi & CHIARA BENIGNI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.924KM,4.161KM,14
+15,Serena Lupo & Martina Barbatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.903KM,4.093KM,15
+16,Stefania Belluschi & Ludovica Picolli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.698KM,4.285KM,16
+17,Chiara Parmiani & Barbara L Antonacci,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,3.146KM,3.744KM,17
+18,Zoe Churchill & Amy Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.911KM,3.77KM,18
+19,Isabella Marrocco & Gaia Consalvo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.871KM,3.736KM,19
+20,louise tuffy & nat blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.553KM,4.004KM,20
+21,Lisa Cooper & Sara Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.691KM,3.826KM,21
+22,maria owens & Sharon Oconnor,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Endurance,,,,,,,2.455KM,3.685KM,22
+1,Francesca Silva & Valentina Di Paolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,15:01,,,,,,1
+2,Eimear Boem & Kimberley Dutton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,15:31,,,,,,2
+3,Emily Quinn & Mj Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,17:57,,,,,,3
+4,Genny Verze' & Simona Tassoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,18:45,,,,,,4
+5,Giulia Bernardi & Kiela Troy,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,19:46,,,,,,5
+6,Jessica Cantore & Anais Lanteri Martin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,20:50,,,,,,6
+7,Rachel Browne & Lauren Mc Hugh,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,21:36,,,,,,7
+1,Miriam Gualdi & Alessandro Cioni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,4KM,4.853KM,1
+2,Scott Davies & Lisa Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.658KM,5.135KM,2
+3,Alice Migliavacca & Angelo Ghidini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.5KM,5.233KM,3
+4,Paola De bernardi & Dario Raimondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.965KM,4.727KM,4
+5,Chiara Margaritelli & Sigismondi Alessandro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.525KM,5.161KM,5
+6,Raphaela Markwirth & Esteban Toledo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,4.034KM,4.624KM,6
+7,Frances Howard & Lee Idzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.65KM,4.65KM,7
+8,Carlo Cavaletto & Chiara Camerlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.517KM,4.751KM,8
+9,Marco Scricco & Markela Bello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.538KM,4.613KM,9
+10,Christopher Sullivan & Kirsty Miles,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.414KM,4.726KM,10
+11,Andrea Bruzzone & Elisa Curotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.218KM,4.843KM,11
+12,Luca Natale & Elena De Maria,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.353KM,4.526KM,12
+13,Veronica Quaglia & Francesco Fiorese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.399KM,4.416KM,13
+14,Martina Guidotti & Raffaele Carusone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.587KM,4.223KM,14
+15,David Rindone & Francescaromana Giannetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.808KM,15
+16,Cristian Lauria & Gilia Maria Grassano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.315KM,4.481KM,16
+17,Cristiano Aspesi & Giulia Marocchino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.099KM,4.598KM,17
+18,Veronica Resinovich & Edoardo Trobec,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.043KM,4.441KM,18
+19,Francesco Tozzi & Marzia Costanzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.355KM,19
+20,Claire Lock & Ian Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.264KM,4.088KM,20
+21,Ramona Koksa & Burak Tokel,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.8KM,4.549KM,21
+22,Andrea Ciolina & Ilaria pia Massaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.195KM,4.002KM,22
+23,Federico Ferrero ferrua & Veronica Ioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.193KM,23
+24,Andrea Saporiti & Amanda Ciraci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.869KM,4.306KM,24
+25,Hristijan Stajkovski & Martina Sussegan,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.917KM,4.234KM,25
+1,Samantha Griffiths & Alexis Newton-french,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,84KG,180KG,224KG,,,1
+2,ilaria ruiu & Alice Petronio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,72KG,190KG,181KG,,,2
+3,Martina Giannachi & Francesca Malinverno,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,80KG,150KG,179KG,,,3
+4,Serena Lupo & Martina Barbatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,68KG,155KG,170KG,,,4
+5,Eleonora Rebecchi & CHIARA BENIGNI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,73KG,155KG,157KG,,,5
+6,Stefania Belluschi & Ludovica Picolli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,61KG,125KG,180KG,,,6
+7,Silvia Ermini & Deborah Cellai,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,70KG,130KG,165KG,,,7
+8,louise tuffy & nat blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,63KG,120KG,165KG,,,8
+9,Camilla Pescatori & Valentina Manli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,67KG,107KG,170KG,,,9
+10,laura maria adelaide volpini & Maria Teresa Rosignoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,59KG,116KG,168KG,,,10
+10,Annina Kandutsch & Sandra Unterüberbacher,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,62KG,115KG,166KG,,,10
+12,Bianca Pirra & Cristina Di Fabio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,64KG,120KG,154KG,,,12
+13,Isabella Marrocco & Gaia Consalvo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,62KG,128KG,125KG,,,13
+14,Zoe Churchill & Amy Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,62KG,110KG,140KG,,,14
+15,Shalu Kara & Hayley Scanlon,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,61KG,104KG,145KG,,,15
+16,luciana Porcelli & linda marre,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,58KG,110KG,138KG,,,16
+17,Chiara Parmiani & Barbara L Antonacci,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,58KG,100KG,138KG,,,17
+18,Lisa Cooper & Sara Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,56KG,93KG,143KG,,,18
+19,Maria Elena m.elena.abate@gmail.com & Marilù Cammarata,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,62KG,105KG,124KG,,,19
+20,Carla Gentile & Vera Traversa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,60KG,90KG,140KG,,,20
+21,maria owens & Sharon Oconnor,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,60KG,55KG,155KG,,,21
+22,beatrice zaccardi & Annick Anoman,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Strength,,,,53KG,60KG,120KG,,,22
+1,Francesca Silva & Valentina Di Paolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,4.521KM,5.031KM,1
+2,Eimear Boem & Kimberley Dutton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,4KM,5.223KM,2
+3,Emily Quinn & Mj Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,4KM,5.142KM,3
+4,Genny Verze' & Simona Tassoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,4.043KM,4.865KM,4
+5,Giulia Bernardi & Kiela Troy,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,3.675KM,5.05KM,5
+6,Rachel Browne & Lauren Mc Hugh,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,3.421KM,5.083KM,6
+7,Jessica Cantore & Anais Lanteri Martin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,3.76KM,4.649KM,7
+1,Chiara Margaritelli & Sigismondi Alessandro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,112KG,250KG,287KG,,,1
+2,Miriam Gualdi & Alessandro Cioni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,110KG,210KG,280KG,,,2
+3,Alice Migliavacca & Angelo Ghidini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,100KG,230KG,245KG,,,3
+4,Frances Howard & Lee Idzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,95KG,183KG,255KG,,,4
+5,Scott Davies & Lisa Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,105KG,200KG,225KG,,,5
+6,Cristian Lauria & Gilia Maria Grassano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,102KG,210KG,214KG,,,6
+6,Raphaela Markwirth & Esteban Toledo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,93KG,193KG,240KG,,,6
+8,Francesco Tozzi & Marzia Costanzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,106KG,195KG,210KG,,,8
+9,Marco Scricco & Markela Bello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,95KG,190KG,225KG,,,9
+10,Paola De bernardi & Dario Raimondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,99KG,180KG,230KG,,,10
+11,Cristiano Aspesi & Giulia Marocchino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,85KG,185KG,215KG,,,11
+11,Andrea Bruzzone & Elisa Curotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,90KG,175KG,220KG,,,11
+13,David Rindone & Francescaromana Giannetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,113KG,170KG,200KG,,,13
+14,Luca Natale & Elena De Maria,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,97KG,170KG,205KG,,,14
+15,Andrea Ciolina & Ilaria pia Massaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,88KG,180KG,200KG,,,15
+16,Claire Lock & Ian Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,91KG,160KG,215KG,,,16
+17,Hristijan Stajkovski & Martina Sussegan,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,80KG,180KG,205KG,,,17
+18,Christopher Sullivan & Kirsty Miles,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,89KG,150KG,205KG,,,18
+19,Veronica Resinovich & Edoardo Trobec,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,75KG,160KG,207KG,,,19
+20,Ramona Koksa & Burak Tokel,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,83KG,150KG,205KG,,,20
+21,Carlo Cavaletto & Chiara Camerlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,93KG,127KG,210KG,,,21
+22,Andrea Saporiti & Amanda Ciraci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,88KG,130KG,190KG,,,22
+23,Veronica Quaglia & Francesco Fiorese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,76KG,113KG,140KG,,,23
+24,Martina Guidotti & Raffaele Carusone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,75KG,85KG,150KG,,,24
+25,Federico Ferrero ferrua & Veronica Ioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,65KG,100KG,134KG,,,25
+1,Martina Giannachi & Francesca Malinverno,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,3 (409KG),2 (8.069KM),2 (15:10),,,,,,7
+2,Samantha Griffiths & Alexis Newton-french,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,1 (488KG),11 (7.367KM),3 (16:03),,,,,,15
+3,Annina Kandutsch & Sandra Unterüberbacher,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,10 (343KG),8 (7.524KM),1 (14:11),,,,,,19
+4,ilaria ruiu & Alice Petronio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,2 (443KG),10 (7.412KM),7 (18:02),,,,,,19
+5,Bianca Pirra & Cristina Di Fabio,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,12 (338KG),3 (7.785KM),5 (17:49),,,,,,20
+6,Camilla Pescatori & Valentina Manli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,9 (344KG),6 (7.555KM),6 (17:50),,,,,,21
+7,Maria Elena m.elena.abate@gmail.com & Marilù Cammarata,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,19 (291KG),1 (8.336KM),4 (16:34),,,,,,24
+8,laura maria adelaide volpini & Maria Teresa Rosignoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,10 (343KG),5 (7.666KM),12 (18:46),,,,,,27
+9,Silvia Ermini & Deborah Cellai,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,7 (365KG),12 (7.336KM),9 (18:21),,,,,,28
+10,Eleonora Rebecchi & CHIARA BENIGNI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,5 (385KG),14 (7.085KM),10 (18:29),,,,,,29
+11,Carla Gentile & Vera Traversa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,20 (290KG),4 (7.699KM),8 (18:12),,,,,,32
+12,Serena Lupo & Martina Barbatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,4 (393KG),15 (6.996KM),17 (20:20),,,,,,36
+13,Stefania Belluschi & Ludovica Picolli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,6 (366KG),16 (6.983KM),16 (19:56),,,,,,38
+14,Shalu Kara & Hayley Scanlon,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,15 (310KG),9 (7.418KM),15 (19:45),,,,,,39
+15,luciana Porcelli & linda marre,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,16 (306KG),13 (7.321KM),13 (18:48),,,,,,42
+16,Zoe Churchill & Amy Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,14 (312KG),18 (6.681KM),11 (18:39),,,,,,43
+17,Isabella Marrocco & Gaia Consalvo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,13 (315KG),19 (6.607KM),14 (18:53),,,,,,46
+18,beatrice zaccardi & Annick Anoman,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,22 (233KG),7 (7.553KM),18 (20:53),,,,,,47
+18,louise tuffy & nat blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,8 (348KG),20 (6.557KM),19 (21:04),,,,,,47
+20,Chiara Parmiani & Barbara L Antonacci,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,17 (296KG),17 (6.89KM),21 (21:35),,,,,,55
+21,Lisa Cooper & Sara Jones,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,18 (292KG),21 (6.517KM),20 (21:07),,,,,,59
+22,maria owens & Sharon Oconnor,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Lite,Overall,21 (270KG),22 (6.14KM),22 (25:24),,,,,,65
+1,Francesca Silva & Valentina Di Paolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,95KG,220KG,250KG,,,1
+2,Giulia Bernardi & Kiela Troy,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,80KG,210KG,265KG,,,2
+3,Eimear Boem & Kimberley Dutton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,85KG,212KG,245KG,,,3
+4,Emily Quinn & Mj Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,95KG,170KG,230KG,,,4
+5,Genny Verze' & Simona Tassoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,83KG,165KG,235KG,,,5
+6,Jessica Cantore & Anais Lanteri Martin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,88KG,160KG,220KG,,,6
+7,Rachel Browne & Lauren Mc Hugh,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,87KG,154KG,216KG,,,7
+1,Chiara Margaritelli & Sigismondi Alessandro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,1 (649KG),5 (8.686KM),1 (11:27),,,,,,7
+2,Miriam Gualdi & Alessandro Cioni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,2 (600KG),1 (8.853KM),4 (12:28),,,,,,7
+3,Scott Davies & Lisa Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,5 (530KG),2 (8.793KM),2 (11:49),,,,,,9
+4,Alice Migliavacca & Angelo Ghidini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,3 (575KG),3 (8.733KM),5 (12:34),,,,,,11
+5,Frances Howard & Lee Idzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,4 (533KG),7 (8.3KM),3 (12:26),,,,,,14
+6,Paola De bernardi & Dario Raimondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,10 (509KG),4 (8.692KM),7 (13:11),,,,,,21
+7,Marco Scricco & Markela Bello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,9 (510KG),9 (8.151KM),10 (14:11),,,,,,28
+7,Andrea Bruzzone & Elisa Curotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,11 (485KG),11 (8.061KM),6 (12:49),,,,,,28
+9,Raphaela Markwirth & Esteban Toledo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,6 (526KG),6 (8.658KM),19 (16:11),,,,,,31
+10,Christopher Sullivan & Kirsty Miles,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,18 (444KG),10 (8.14KM),9 (14:08),,,,,,37
+10,Carlo Cavaletto & Chiara Camerlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,21 (430KG),8 (8.268KM),8 (14:06),,,,,,37
+10,Cristian Lauria & Gilia Maria Grassano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,6 (526KG),16 (7.796KM),15 (15:06),,,,,,37
+10,Luca Natale & Elena De Maria,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,14 (472KG),12 (7.879KM),11 (14:18),,,,,,37
+14,Francesco Tozzi & Marzia Costanzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,8 (511KG),19 (7.355KM),13 (14:49),,,,,,40
+14,Cristiano Aspesi & Giulia Marocchino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,11 (485KG),17 (7.697KM),12 (14:31),,,,,,40
+16,Veronica Quaglia & Francesco Fiorese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,23 (329KG),13 (7.815KM),13 (14:49),,,,,,49
+17,David Rindone & Francescaromana Giannetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,13 (483KG),15 (7.808KM),25 (20:43),,,,,,53
+17,Claire Lock & Ian Davies,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,16 (466KG),20 (7.352KM),17 (15:51),,,,,,53
+17,Andrea Ciolina & Ilaria pia Massaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,15 (468KG),22 (7.197KM),16 (15:43),,,,,,53
+20,Veronica Resinovich & Edoardo Trobec,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,19 (442KG),18 (7.484KM),18 (16:00),,,,,,55
+21,Martina Guidotti & Raffaele Carusone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,24 (310KG),14 (7.81KM),23 (18:41),,,,,,61
+22,Ramona Koksa & Burak Tokel,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,20 (438KG),21 (7.349KM),21 (17:51),,,,,,62
+22,Hristijan Stajkovski & Martina Sussegan,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,17 (465KG),25 (7.151KM),20 (17:05),,,,,,62
+24,Federico Ferrero ferrua & Veronica Ioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,25 (299KG),23 (7.193KM),22 (18:06),,,,,,70
+24,Andrea Saporiti & Amanda Ciraci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Overall,22 (408KG),24 (7.175KM),24 (19:57),,,,,,70
+1,Francesca Silva & Valentina Di Paolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,1 (565KG),1 (9.552KM),1 (15:01),,,,,,3
+2,Eimear Boem & Kimberley Dutton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,3 (542KG),2 (9.223KM),2 (15:31),,,,,,7
+3,Emily Quinn & Mj Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,4 (495KG),3 (9.142KM),3 (17:57),,,,,,10
+4,Giulia Bernardi & Kiela Troy,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,2 (555KG),5 (8.725KM),5 (19:46),,,,,,12
+5,Genny Verze' & Simona Tassoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,5 (483KG),4 (8.908KM),4 (18:45),,,,,,13
+6,Jessica Cantore & Anais Lanteri Martin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,6 (468KG),7 (8.409KM),6 (20:50),,,,,,19
+7,Rachel Browne & Lauren Mc Hugh,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,7 (457KG),6 (8.504KM),7 (21:36),,,,,,20
+1,Riccardo Tribuzio & Sandro Zurlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,08:46,,,,,,1
+2,Niccolò Nistri & Marco Schmid,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,10:10,,,,,,2
+3,Alessio Bertani & Nicolò Villareale,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,12:38,,,,,,3
+4,ROBERTO VANEFFI & Andrea Palagi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,12:57,,,,,,4
+5,Vito Tesoriere & Alex Burani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,13:11,,,,,,5
+6,MATTEO CANTABENE & Matteo Piuri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,13:35,,,,,,6
+7,Nico Carrara & Maicol Oreficini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,13:57,,,,,,7
+7,Roberto de vito & Edoardo Lucat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,13:57,,,,,,7
+9,Marco Bragato & Stefano Canovai,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,15:29,,,,,,9
+10,MASSIMO PANARITI & UMBERTO PARMIGIANI,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,16:29,,,,,,10
+11,vincenzo izzo & Francesco Pasetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,16:35,,,,,,11
+12,Dario Romano & Enrico Bassino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Lite,MetCon X,,,16:55,,,,,,12
+1,Maurus Hiller & Mirjam Keller,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,3 (646KG),4 (9.202KM),2 (16:46),,,,,,9
+2,rachele ravani & Daniel Sebastiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,8 (587KG),1 (10.059KM),3 (17:10),,,,,,12
+3,Alice Bonfanti & Mattia Massaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,7 (610KG),2 (9.821KM),6 (18:18),,,,,,15
+4,Caterina Valentini & Luca Re,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,12 (475KG),3 (9.428KM),1 (15:49),,,,,,16
+5,Andrea Bavari & Jessica Canese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,1 (766KG),7 (9.092KM),10 (19:34),,,,,,18
+6,Gregorio Franceschi & Elisa Ghelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,4 (643KG),9 (8.669KM),7 (18:30),,,,,,20
+7,Giulia Zaminato & Nicola Zonta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,11 (493KG),6 (9.093KM),4 (17:36),,,,,,21
+8,Arianna Bastianelli & Fabrizio Cristofari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,5 (633KG),8 (8.796KM),9 (19:00),,,,,,22
+9,Lino Di Lenarda & Barbara Baschini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,10 (515KG),5 (9.112KM),8 (18:58),,,,,,23
+10,Christian Lucarelli & Alessia Chiatti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,2 (668KG),12 (8.254KM),11 (22:08),,,,,,25
+11,Daniela Nicole Guevara Vasquez & Jacopo Sarpi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,6 (623KG),10 (8.56KM),12 (22:34),,,,,,28
+12,Lea Draxl-Weiskopf & Aleksandar mikerevic,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Overall,9 (523KG),11 (8.376KM),13 (23:35),,,,,,33
+1,Kayleigh Bakker & Gemma Picton,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:37,,,,,,1
+2,Daria Cappelli & Silvana Bossini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,15:17,,,,,,2
+3,Francesca Ylenia Bussini & Marina Brugnoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:07,,,,,,3
+3,Kerstin Lochmatter & Kirstin Aebischer,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:07,,,,,,3
+5,Vanessa Zambelli & Giorgia sassaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:20,,,,,,5
+6,Martina Sforna & Valentina Sforna,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:41,,,,,,6
+7,Giulia Re Calegari & viola somoza,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:49,,,,,,7
+8,Nora Bartel & Priscilla Smets,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:57,,,,,,8
+9,Zoe Osborn & Ellie Mott-Brown,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:15,,,,,,9
+10,Elena Rosati & Giada Cavosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:35,,,,,,10
+11,Liz Norris & Aislinn Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:38,,,,,,11
+12,Renata Canevali & Chiara Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:39,,,,,,12
+13,Kim Johnson & Priyal Shah,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:42,,,,,,13
+14,Barbara Sebastiani & Monica Scarponi,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:50,,,,,,14
+14,Samanta Ceciliani & Alessia Carla Piearcey,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:50,,,,,,14
+16,Bianca Boschi & Michela Mondaini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:09,,,,,,16
+17,Miriam Galati & Silvia Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:10,,,,,,17
+18,Tiziana Cotroneo & Lucille Fiengo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:15,,,,,,18
+19,Monica Coghi & SARA GJINI,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:16,,,,,,19
+20,Noci Elena & Ginevra lizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:19,,,,,,20
+21,Cinzia Galleri & Rossella Marrone,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:21,,,,,,21
+22,Rosi Gigliotti & Barbara Lofoco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:35,,,,,,22
+23,Nadia nadiabreu_94@icloud.com & Dominique Eggmann,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:56,,,,,,23
+24,Nicoletta Labianca & Ilaria Gatta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:59,,,,,,24
+25,giorgia foroni & Francesca Casalaina,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:00,,,,,,25
+26,Olga reabteva & Olha Marchuk,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:07,,,,,,26
+27,Elena Mazzuoli & Melania Starinieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:12,,,,,,27
+28,Isabella Mitrotti & Elisa Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:15,,,,,,28
+29,Veronica Maretto & Maddalena Biasiotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:19,,,,,,29
+30,Silvia Zanardo & Sabrina Nassoro,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:37,,,,,,30
+31,Julie-Anne Niblock & Cathy Devlin,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:42,,,,,,31
+32,Laura Gruppi & Elisabeth Chiappetta,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:46,,,,,,32
+33,Laura Bortollon & Anisa Gryka,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:59,,,,,,33
+33,alessia batacchi & Benedetta Marcheselli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:59,,,,,,33
+35,Keran Morgan & Rebecca Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:06,,,,,,35
+36,Veronica Falliva & Linda Callegari,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:34,,,,,,36
+37,Camilla Pasteris & Deborah Pompa,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:35,,,,,,37
+38,Sofia Ferreira & Armandina Torres,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:45,,,,,,38
+38,CHIARA SOLDATI & Eleonora Zoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:45,,,,,,38
+40,Sara Vichi & Trevisani Natascha,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:51,,,,,,40
+41,Alexandra Rabà & Marta Bolognini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:56,,,,,,41
+42,Dawn Brotherton & Michelle Baker,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,21:14,,,,,,42
+43,Jenny Andrew & Laura Wright,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,21:20,,,,,,43
+44,Katia Fiorentino & Ylenia Fiori,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,21:25,,,,,,44
+45,Valentina Ungarelli & Alessandra De Stefani,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,22:10,,,,,,45
+46,Tamara Jankovic & Sofia Flocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,22:30,,,,,,46
+47,Alexandra Zavodna & Héloïse Fournier,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,22:36,,,,,,47
+48,Visheena Gupta & Seema Dadhania,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,22:38,,,,,,48
+48,Linda Huynh-Russo & Laura Perera,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,22:38,,,,,,48
+50,Alessia Pittala & Francesca Vigneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,23:08,,,,,,50
+51,Aisling Reardon & Natalie Blumenthal,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,23:13,,,,,,51
+52,Giulia Pascazio & Silvia Bocciarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,23:16,,,,,,52
+53,Claudia Maraldi & Valentina Costantini,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,23:40,,,,,,53
+54,Blaithin Conroy & Marie Conneely,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,24:59,,,,,,54
+55,Silvia Agrati & Elisa De Paoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,32:00,,,,,,55
+1,Andrea Bavari & Jessica Canese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,131KG,240KG,395KG,,,1
+2,Christian Lucarelli & Alessia Chiatti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,131KG,237KG,300KG,,,2
+3,Maurus Hiller & Mirjam Keller,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,116KG,230KG,300KG,,,3
+4,Gregorio Franceschi & Elisa Ghelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,128KG,230KG,285KG,,,4
+5,Arianna Bastianelli & Fabrizio Cristofari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,103KG,245KG,285KG,,,5
+6,Daniela Nicole Guevara Vasquez & Jacopo Sarpi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,105KG,250KG,268KG,,,6
+7,Alice Bonfanti & Mattia Massaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,120KG,210KG,280KG,,,7
+8,rachele ravani & Daniel Sebastiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,99KG,210KG,278KG,,,8
+9,Lea Draxl-Weiskopf & Aleksandar mikerevic,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,98KG,195KG,230KG,,,9
+10,Lino Di Lenarda & Barbara Baschini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,105KG,195KG,215KG,,,10
+11,Giulia Zaminato & Nicola Zonta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,98KG,180KG,215KG,,,11
+12,Caterina Valentini & Luca Re,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Strength,,,,120KG,80KG,275KG,,,12
+1,Francesco Fioravanti & Alex Gasser,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,5.141KM,5.985KM,1
+2,Phil Jones & Joe Paris,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.345KM,6.179KM,2
+3,David Fiorese & JEAN-FRANCOIS MAILLAND,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.609KM,5.7KM,3
+4,Mattia Tagliapietra & Mattia Belluco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.452KM,5.827KM,4
+5,Leo Lundgren & Daniele Cosco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.059KM,6.056KM,5
+6,Roberto Chemi & Enrico Faeta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.384KM,5.583KM,6
+7,Ciompi Lorenzo & Andrei Roscan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.885KM,7
+8,simone archi & Enrico Sammarco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.04KM,5.763KM,8
+9,Christian casu & Francesco Bertelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.171KM,5.601KM,9
+10,Alessio Stacchio & Leonardo Moglianetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.712KM,10
+11,Adrian Pazos & alix bahlouli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.357KM,5.332KM,11
+12,Jamie Newington & Peter Gillett,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.017KM,5.666KM,12
+13,Bruno Tobler & Vladimir Spasovski,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.153KM,5.523KM,13
+14,Luca Vallicella & Tommaso Caceffo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.555KM,14
+15,Matteo Simone & Gianluca Occhino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.094KM,5.44KM,15
+16,Giulio Fioravanti Cinci & Giacomo Fioravanti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.464KM,16
+17,Luca Rossetti & Erik Chiriaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4.119KM,5.324KM,17
+18,Lorenzo Boccalari & Alessandro Gallina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3.844KM,5.516KM,18
+19,Jacopo Edoardo Asni & Lorenzo Saiu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.308KM,19
+20,Rory Wilson & Nathan Owusu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3.85KM,5.41KM,20
+21,Loïc Pillon & pradas benjamin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3.743KM,5.477KM,21
+22,Alessandro Castioni & Davide Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3.616KM,5.347KM,22
+23,Emiliano Talacci & Dario De Giorgi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3.9KM,4.872KM,23
+24,Nicolò Cracco & federico molino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3.68KM,4.979KM,24
+1,rachele ravani & Daniel Sebastiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.619KM,5.44KM,1
+2,Alice Bonfanti & Mattia Massaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.466KM,5.355KM,2
+3,Caterina Valentini & Luca Re,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.064KM,5.364KM,3
+4,Maurus Hiller & Mirjam Keller,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.673KM,5.529KM,4
+5,Lino Di Lenarda & Barbara Baschini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.082KM,5.03KM,5
+6,Giulia Zaminato & Nicola Zonta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.006KM,5.087KM,6
+7,Andrea Bavari & Jessica Canese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.893KM,5.199KM,7
+8,Arianna Bastianelli & Fabrizio Cristofari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.822KM,4.974KM,8
+9,Gregorio Franceschi & Elisa Ghelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.659KM,5.01KM,9
+10,Daniela Nicole Guevara Vasquez & Jacopo Sarpi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.694KM,4.866KM,10
+11,Lea Draxl-Weiskopf & Aleksandar mikerevic,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.602KM,4.774KM,11
+12,Christian Lucarelli & Alessia Chiatti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.485KM,4.769KM,12
+1,Caterina Valentini & Luca Re,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,15:49,,,,,,1
+2,Maurus Hiller & Mirjam Keller,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,16:46,,,,,,2
+3,rachele ravani & Daniel Sebastiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,17:10,,,,,,3
+4,Giulia Zaminato & Nicola Zonta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,17:36,,,,,,4
+5,Emily Grimmett & Louis Morris,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,17:57,,,,,,5
+6,Alice Bonfanti & Mattia Massaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,18:18,,,,,,6
+7,Gregorio Franceschi & Elisa Ghelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,18:30,,,,,,7
+8,Lino Di Lenarda & Barbara Baschini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,18:58,,,,,,8
+9,Arianna Bastianelli & Fabrizio Cristofari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,19:00,,,,,,9
+10,Andrea Bavari & Jessica Canese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,19:34,,,,,,10
+11,Christian Lucarelli & Alessia Chiatti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,22:08,,,,,,11
+12,Daniela Nicole Guevara Vasquez & Jacopo Sarpi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,22:34,,,,,,12
+13,Lea Draxl-Weiskopf & Aleksandar mikerevic,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,23:35,,,,,,13
+1,Francesco Fioravanti & Alex Gasser,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,12:23,,,,,,1
+2,Mattia Tagliapietra & Mattia Belluco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:30,,,,,,2
+3,Leo Lundgren & Daniele Cosco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:39,,,,,,3
+4,David Fiorese & JEAN-FRANCOIS MAILLAND,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:44,,,,,,4
+5,Ciompi Lorenzo & Andrei Roscan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:48,,,,,,5
+6,Phil Jones & Joe Paris,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:05,,,,,,6
+7,Rory Wilson & Nathan Owusu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:18,,,,,,7
+8,Alessio Stacchio & Leonardo Moglianetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:24,,,,,,8
+9,Luca Vallicella & Tommaso Caceffo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:02,,,,,,9
+10,Roberto Chemi & Enrico Faeta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:39,,,,,,10
+11,simone archi & Enrico Sammarco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:41,,,,,,11
+12,Matteo Simone & Gianluca Occhino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:08,,,,,,12
+13,Jamie Newington & Peter Gillett,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:11,,,,,,13
+14,Lorenzo Boccalari & Alessandro Gallina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:42,,,,,,14
+15,Loïc Pillon & pradas benjamin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,18:04,,,,,,15
+16,Christian casu & Francesco Bertelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,18:11,,,,,,16
+17,Bruno Tobler & Vladimir Spasovski,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,18:39,,,,,,17
+18,Adrian Pazos & alix bahlouli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,18:53,,,,,,18
+19,Jacopo Edoardo Asni & Lorenzo Saiu,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,19:06,,,,,,19
+20,Luca Rossetti & Erik Chiriaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,19:15,,,,,,20
+21,Giulio Fioravanti Cinci & Giacomo Fioravanti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,21:25,,,,,,21
+22,Nicolò Cracco & federico molino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,21:42,,,,,,22
+23,Alessandro Castioni & Davide Maffiolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,22:06,,,,,,23
+24,Emiliano Talacci & Dario De Giorgi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,25:07,,,,,,24
+1,Rebecca Brandon & Richard Burns,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,6 (678KG),22 (9.026KM),4 (13:26),,,,,,32
+2,Katie Palmer & Nathan Waterfield,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,17 (623KG),12 (9.148KM),9 (14:19),,,,,,38
+3,Massimiliano Morena & Naomi Morena,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,22 (610KG),14 (9.127KM),11 (14:21),,,,,,47
+4,Arianna Gretter & Davide Petrosino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,19 (615KG),16 (9.104KM),19 (14:53),,,,,,54
+5,Danilo Marioli & Stefania Gozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,38 (581KG),19 (9.041KM),2 (13:00),,,,,,59
+6,Christian Binder & Mara Ablinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,15 (629KG),17 (9.08KM),32 (15:36),,,,,,64
+7,Severin Candrian & Deborah Schlatter,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,29 (594KG),35 (8.814KM),3 (13:01),,,,,,67
+8,Gentiana Buzhala & Adrian Sickinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,20 (612KG),34 (8.852KM),16 (14:48),,,,,,70
+8,Kate Haynes & Oliver Bates,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,55 (549KG),7 (9.305KM),8 (14:04),,,,,,70
+8,Fabien Laager & Margaux DEREYMEZ,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,31 (589KG),27 (8.938KM),12 (14:27),,,,,,70
+11,Matteo Corsini & Marta Salgarollo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,24 (608KG),9 (9.223KM),39 (15:55),,,,,,72
+11,Eric Michelin Salomon & Valentina Biglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,8 (663KG),37 (8.805KM),27 (15:16),,,,,,72
+13,Celso Belandria & Irene Vila,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,25 (600KG),43 (8.753KM),7 (14:02),,,,,,75
+14,Silvia Guglielmini & Marco Cristoffori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,37 (583KG),23 (9.014KM),16 (14:48),,,,,,76
+15,Stefania Casati & Luca Cavicchiolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,56 (547KG),3 (9.541KM),21 (15:08),,,,,,80
+16,Luca Capassoni & Melissa Muca,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,43 (577KG),11 (9.188KM),30 (15:30),,,,,,84
+16,Camilla Rossi & Simone Bartoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,38 (581KG),30 (8.893KM),16 (14:48),,,,,,84
+18,Ulukan Ulu & Belin Cuceoglu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,13 (640KG),64 (8.484KM),10 (14:20),,,,,,87
+19,Alberto Cugusi & Ilaria Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,32 (588KG),36 (8.813KM),20 (15:02),,,,,,88
+19,Seb Cook & Jen Cachero,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,18 (617KG),47 (8.678KM),23 (15:12),,,,,,88
+21,Filippini Sofia & Samuele Grillo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,9 (660KG),25 (8.97KM),55 (16:26),,,,,,89
+22,Vincenzo Campanella & irene montisci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,48 (565KG),29 (8.902KM),13 (14:31),,,,,,90
+23,Raffaele Del piano & Caterina Piccirilli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,4 (686KG),26 (8.942KM),61 (16:44),,,,,,91
+24,Linda Cavicchi & Rudi Guizzardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,48 (565KG),13 (9.14KM),31 (15:31),,,,,,92
+25,Justin Ellison & Arianna Comello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,58 (541KG),21 (9.031KM),15 (14:46),,,,,,94
+26,Lewis Lodge & Francesca Walmsley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,85 (498KG),1 (10.525KM),13 (14:31),,,,,,99
+27,Veronica Rizza & Alex Paun,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,3 (689KG),32 (8.876KM),64 (16:52),,,,,,99
+28,Edi Katsarski & Monica Lavecchia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,25 (600KG),40 (8.784KM),38 (15:54),,,,,,103
+29,Polymnios Avgousti & Georgia Sokratous,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,73 (516KG),6 (9.382KM),26 (15:14),,,,,,105
+30,Ilaria Bertani & Jacopo Bertani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,47 (568KG),38 (8.801KM),22 (15:11),,,,,,107
+31,Roberta Castiglioni & Matteo Stefanazzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,82 (501KG),4 (9.407KM),24 (15:13),,,,,,110
+32,Alessandro Sechi & Giulia Graci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,34 (585KG),44 (8.748KM),34 (15:38),,,,,,112
+33,Veronica Bersanetti & Massimo Rebolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,38 (581KG),49 (8.639KM),28 (15:18),,,,,,115
+34,Charlotte Georgiades & Cormac Edwards,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,1 (745KG),88 (8.144KM),29 (15:26),,,,,,118
+35,Luigino Caprioli & Annapaola Magni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,12 (641KG),71 (8.387KM),41 (16:00),,,,,,124
+36,Michela Passannante & Lucio Giovanzana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,42 (578KG),28 (8.921KM),57 (16:30),,,,,,127
+37,Silvia Pelucchi & Mario Fumagalli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,67 (527KG),39 (8.799KM),24 (15:13),,,,,,130
+38,Luigi Nardò & Ila Bignardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,5 (685KG),67 (8.456KM),62 (16:46),,,,,,134
+39,Riccardo Giordano & Martina Lucano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,110 (367KG),24 (8.997KM),1 (12:57),,,,,,135
+40,Silvia Guastalla & Riccardo Compagni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,87 (496KG),8 (9.259KM),41 (16:00),,,,,,136
+41,Francesco Luzzo & Alice Aimasso,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,86 (497KG),5 (9.385KM),48 (16:12),,,,,,139
+41,Andrea D'ambrosio & Irina Calugareanu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,51 (557KG),83 (8.228KM),5 (13:36),,,,,,139
+43,Marianna Mauro & giulio negretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,33 (587KG),55 (8.562KM),53 (16:20),,,,,,141
+43,Giovanni Sinibaldi & Michela Favaretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,52 (553KG),46 (8.72KM),43 (16:01),,,,,,141
+43,Liam Rose & Philippa Davenall,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,10 (658KG),76 (8.313KM),55 (16:26),,,,,,141
+46,Wera Hächler & Markus Hächler,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,23 (609KG),72 (8.375KM),49 (16:13),,,,,,144
+47,Nancy Kloter & Fabio Piredda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,54 (550KG),31 (8.883KM),60 (16:35),,,,,,145
+48,Roberta Volpicelli & Dario Fabbri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,57 (543KG),42 (8.767KM),47 (16:10),,,,,,146
+48,Vanessa Grigoli & Fabio Simoncelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,99 (456KG),10 (9.201KM),37 (15:48),,,,,,146
+50,Michele Condidorio & Francesca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,7 (677KG),98 (7.896KM),46 (16:07),,,,,,151
+51,Alessandro Donelli & Elisa Adorni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,70 (520KG),15 (9.105KM),71 (17:09),,,,,,156
+52,Adriana Valentim & Rui Ferraz,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,43 (577KG),74 (8.342KM),40 (15:58),,,,,,157
+52,Gianpaolo Di Pietro & Elisa Bartoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,53 (551KG),61 (8.509KM),43 (16:01),,,,,,157
+52,Chiara Arcuraci & Stefano Baetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,11 (648KG),111 (4.229KM),35 (15:43),,,,,,157
+55,Riccardo Lazzari & Valentina Lazzari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,27 (598KG),86 (8.193KM),45 (16:03),,,,,,158
+56,Kok Yeu Huynh & Ariane Huynh-Hy,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,84 (500KG),45 (8.743KM),32 (15:36),,,,,,161
+57,Paolo Carbone & Arianna Tibaldi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,69 (523KG),59 (8.524KM),35 (15:43),,,,,,163
+58,andrea fornasari & Fabiana Minzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,50 (562KG),66 (8.468KM),52 (16:17),,,,,,168
+59,Gianmaria Meo & Alexa Lipp,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,41 (580KG),73 (8.346KM),57 (16:30),,,,,,171
+59,Jeronimo Lanza & Carla Zoncheddu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,109 (400KG),56 (8.559KM),6 (13:51),,,,,,171
+59,Silvia Quinci & Paolo Marchisio,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,14 (631KG),87 (8.174KM),70 (17:08),,,,,,171
+62,Vlad Lopez & Hannah Stevenson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,91 (488KG),18 (9.065KM),65 (16:58),,,,,,174
+63,Federica Moscatelli & Cristiano Fontana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,58 (541KG),50 (8.612KM),73 (17:22),,,,,,181
+64,Marco Fini & Martina Magliozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,21 (611KG),99 (7.79KM),63 (16:47),,,,,,183
+65,Francesco Seveso & Katia Mascotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,82 (501KG),51 (8.611KM),54 (16:21),,,,,,187
+66,Tobias Seidel & Chiara Lesa,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,105 (415KG),2 (9.708KM),82 (17:50),,,,,,189
+67,Irene Maggi & Pietro Salamone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,60 (540KG),80 (8.301KM),51 (16:16),,,,,,191
+67,Patrycja Mew & Morgan Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,16 (625KG),90 (8.062KM),85 (18:03),,,,,,191
+69,Darren darren_m@hotmail.co.uk & Eireann McSorley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,93 (482KG),33 (8.864KM),68 (17:02),,,,,,194
+69,Mattia Guarino & Alessia Marietta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,34 (585KG),85 (8.213KM),75 (17:23),,,,,,194
+71,Elen Fleisher & Dean Leary,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,62 (535KG),54 (8.569KM),80 (17:38),,,,,,196
+72,antonio cannone & Beatrice Gobbi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,27 (598KG),82 (8.254KM),89 (18:15),,,,,,198
+73,Sami Tijani & Alessia Zingarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,97 (467KG),20 (9.037KM),84 (17:59),,,,,,201
+74,Simona Bratti & Enrico Richiedei,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,72 (517KG),58 (8.552KM),72 (17:17),,,,,,202
+75,elena maurri & Andrea Margheri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,60 (540KG),79 (8.303KM),66 (17:01),,,,,,205
+76,Rosa Magnani & Gabriel Provoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,63 (534KG),84 (8.221KM),59 (16:32),,,,,,206
+77,Marzia Cenedese & Pasquale Patrizio Calvanese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,2 (744KG),108 (7.36KM),97 (18:54),,,,,,207
+78,Giacomo Cherubini & Laura Mori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,66 (529KG),53 (8.587KM),91 (18:26),,,,,,210
+79,Aurora Realini & Leo Chiricone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,80 (503KG),41 (8.769KM),92 (18:34),,,,,,213
+80,Alex Brutti & Chiara Bettinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,30 (592KG),106 (7.51KM),80 (17:38),,,,,,216
+81,Thomas Jackson & Emma Jackson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,78 (505KG),57 (8.555KM),83 (17:51),,,,,,218
+82,Christian Schnur & Stina Güttner,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,68 (525KG),78 (8.306KM),73 (17:22),,,,,,219
+83,Anthony Cross & Kylie Green,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,74 (514KG),70 (8.388KM),77 (17:35),,,,,,221
+84,Alessia Del Mastro & Paolo Simonetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,75 (510KG),81 (8.281KM),66 (17:01),,,,,,222
+85,Daniele Begliomini & Chiara Pistone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,65 (530KG),68 (8.421KM),90 (18:16),,,,,,223
+86,Vivien Timm & Stefan Ludwig,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,102 (440KG),48 (8.671KM),78 (17:36),,,,,,228
+86,Francesco Spadoni & Silvia Marini Monterubbiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,45 (573KG),89 (8.137KM),94 (18:40),,,,,,228
+88,Cristiana Franzini & Davide Scardeoni Fracassi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,79 (504KG),52 (8.603KM),100 (19:15),,,,,,231
+89,Leonardo Bianchi & Gilda Tornatore,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,100 (454KG),65 (8.48KM),69 (17:04),,,,,,234
+90,Riccardo Smiglieri & Giulia Mantovani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,64 (533KG),75 (8.34KM),96 (18:45),,,,,,235
+90,Tommaso Magini & Caterina Mazzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,90 (492KG),69 (8.415KM),76 (17:27),,,,,,235
+92,Marco Tomasin & Jennifer Roncato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,96 (470KG),91 (8.058KM),49 (16:13),,,,,,236
+93,michele bolco & Sara Corvino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,104 (418KG),62 (8.498KM),87 (18:07),,,,,,253
+94,Jérémy Debons & Debons Loredana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,36 (584KG),110 (7.137KM),108 (21:16),,,,,,254
+94,Laura Tamašauskienė & Rolandas Tamasauskas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,106 (414KG),60 (8.519KM),88 (18:09),,,,,,254
+96,Em Crawford & Steve Whitelaw,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,46 (569KG),103 (7.69KM),107 (20:47),,,,,,256
+97,Marco Tommasone & Laura Arifaj,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,92 (485KG),63 (8.492KM),103 (19:53),,,,,,258
+98,Stefania Lovergine & Simone Fasolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,81 (502KG),101 (7.76KM),79 (17:37),,,,,,261
+99,Debora Sampieri & Damiano Ferrari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,71 (518KG),97 (7.906KM),101 (19:36),,,,,,269
+100,Beatrice Verrocchia & Giancarlo Borruto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,88 (495KG),93 (8.027KM),94 (18:40),,,,,,275
+101,Ish Golhar & Karen McFarlane,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,98 (458KG),92 (8.053KM),86 (18:04),,,,,,276
+101,Becky Miles & Grant Pullen,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,101 (452KG),77 (8.311KM),98 (19:04),,,,,,276
+103,Tommaso Mazzola & Emanuela Achille,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,75 (510KG),100 (7.769KM),105 (20:06),,,,,,280
+104,Alba Carmona Giralt & Rodrigo Garcia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,94 (475KG),95 (8.006KM),99 (19:10),,,,,,288
+105,Isa Marin & James Lucas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,77 (506KG),104 (7.676KM),109 (21:32),,,,,,290
+105,Daniele Bombelli & Miriana Carioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,89 (493KG),109 (7.311KM),92 (18:34),,,,,,290
+107,Andrea Usai & Maria Paola Cordedda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,95 (473KG),107 (7.474KM),106 (20:11),,,,,,308
+108,alessia crugnola & alessandrp cappellato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,103 (426KG),102 (7.749KM),104 (19:58),,,,,,309
+108,Matteo Cavallini & Benedetta Brugnatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,111 (347KG),96 (7.929KM),102 (19:52),,,,,,309
+110,Simon Avery & Shreena Avery,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,108 (403KG),94 (8.016KM),110 (22:07),,,,,,312
+111,Alessandro Carniel & Maria Luneva,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Overall,107 (405KG),105 (7.66KM),111 (24:44),,,,,,323
+1,Isacco Martufi & Gaetano.fidanzati Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,2 (974KG),13 (9.892KM),4 (12:30),,,,,,19
+2,Nicky Little & Dan Davis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,25 (780KG),1 (10.885KM),5 (12:42),,,,,,31
+3,Luigi Esposito Mocerino & Mykola Lapta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,14 (810KG),14 (9.889KM),7 (12:56),,,,,,35
+4,Alvise Rigo & Riccardo Paparella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,7 (878KG),20 (9.765KM),10 (13:07),,,,,,37
+5,Kit Timmis & Sam Kipling,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,8 (875KG),17 (9.811KM),22 (13:35),,,,,,47
+6,Sam McGill & Ross Scudamore,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,18 (800KG),25 (9.694KM),5 (12:42),,,,,,48
+7,Claudio Sona & Nicholas Cornia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,28 (770KG),9 (9.994KM),15 (13:17),,,,,,52
+8,LUIGI INVOLTI & alessandro rodella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,38 (752KG),6 (10.073KM),9 (13:04),,,,,,53
+9,Dario Panaro & Samuele Sciarretta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,34 (761KG),4 (10.097KM),21 (13:32),,,,,,59
+10,Lewys Morgan-Smith & Arran Arogundade,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,1 (1006KG),59 (9.243KM),1 (09:12),,,,,,61
+11,Alessio Humar & Gioele Arreghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,42 (745KG),2 (10.484KM),17 (13:18),,,,,,61
+12,Luca Tamborrini & Stefano Tomadini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,18 (800KG),19 (9.788KM),24 (13:40),,,,,,61
+13,Filippo Fiscella & Fabio Fiscella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,10 (860KG),21 (9.759KM),42 (14:25),,,,,,73
+14,Diego Meletti & pietro.selleri Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,16 (805KG),12 (9.894KM),49 (14:53),,,,,,77
+15,Barry Coombs & Craig Thompson,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,36 (757KG),16 (9.812KM),27 (13:46),,,,,,79
+16,Antonio Argento & Luca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,11 (852KG),53 (9.293KM),20 (13:30),,,,,,84
+17,Davide Di Giacomo & Giuseppe Deleonardis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,69 (690KG),5 (10.077KM),11 (13:11),,,,,,85
+17,Thomas Renda & salvatore tarantino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,6 (886KG),76 (9.058KM),3 (11:56),,,,,,85
+19,Cristian Bonetti & Riccardo Ruggeri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,46 (738KG),15 (9.853KM),30 (13:59),,,,,,91
+20,Filippo Segata & David Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,61 (704KG),18 (9.8KM),13 (13:16),,,,,,92
+21,Luca Bonomo & Giammarco De Persiis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,32 (765KG),34 (9.567KM),28 (13:48),,,,,,94
+22,Stefano Alberti & Andrea Simonini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,5 (887KG),78 (9.033KM),13 (13:16),,,,,,96
+23,Lorenzo Parente & Andrea Russo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,3 (970KG),63 (9.226KM),33 (14:04),,,,,,99
+24,Daniele Cortesi & Enrico Mangalaviti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,64 (700KG),22 (9.74KM),15 (13:17),,,,,,101
+24,Nicolo Lazzaro & Francesco Pagano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,28 (770KG),48 (9.323KM),25 (13:42),,,,,,101
+26,Andrea Traica & Daniele Domeneghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,66 (692KG),24 (9.704KM),12 (13:12),,,,,,102
+27,Francesco Testi & Matteo Stoppaccioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,56 (718KG),30 (9.627KM),18 (13:22),,,,,,104
+28,Alessio Bianchi & Edoardo Bettarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,23 (785KG),52 (9.294KM),34 (14:07),,,,,,109
+29,Rocco Gentiluomo & Saverio Pinneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,40 (748KG),44 (9.379KM),30 (13:59),,,,,,114
+30,Davide De Grazia & Luca Barbaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,13 (832KG),69 (9.141KM),35 (14:08),,,,,,117
+31,Patrick Gerlich & Justus Eckert,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,37 (756KG),55 (9.276KM),26 (13:45),,,,,,118
+32,Mauro Frulla & Riccardo Cicetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,82 (668KG),8 (9.995KM),29 (13:50),,,,,,119
+32,Massimo Biasion & Giulio Cecchin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,24 (783KG),32 (9.574KM),63 (15:23),,,,,,119
+34,GABRIELE TORTORELLA & Oscar La Spina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,50 (730KG),40 (9.405KM),39 (14:20),,,,,,129
+35,Andrea Ussia & Fabio Bertoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,35 (758KG),61 (9.236KM),40 (14:24),,,,,,136
+36,Nico Marcovecchio & Andrea Falone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,52 (728KG),41 (9.4KM),45 (14:30),,,,,,138
+37,Duccio Fontanelli & Federico Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,22 (788KG),111 (8.681KM),8 (12:58),,,,,,141
+38,Cristiano Oddo & Roberto Bigoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,73 (683KG),31 (9.611KM),40 (14:24),,,,,,144
+38,Lorenzo Morandin & Marco Martinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,26 (779KG),65 (9.197KM),53 (14:58),,,,,,144
+40,Daniele Convento & Mattia Venini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,63 (702KG),33 (9.57KM),49 (14:53),,,,,,145
+41,simone minicucci & Luca Tanzarella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,9 (864KG),81 (8.988KM),57 (15:05),,,,,,147
+42,Alex Willerton & Taylor Hastings,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,27 (775KG),67 (9.192KM),55 (14:59),,,,,,149
+43,Gabriele Fasoli & Juan Gregorio Cruz Espinel,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,78 (675KG),26 (9.691KM),46 (14:35),,,,,,150
+44,Damiano Curati & Alessandro Bomprezzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,106 (616KG),3 (10.173KM),42 (14:25),,,,,,151
+45,Gabriele Ricciardi & andrea riccardo tessarin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,17 (803KG),77 (9.034KM),58 (15:09),,,,,,152
+46,Kok Sue Huynh & Nicola Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,46 (738KG),84 (8.968KM),23 (13:38),,,,,,153
+47,Salvatore Scolaro & Andrea Giovanni Spinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,52 (728KG),51 (9.302KM),51 (14:55),,,,,,154
+47,Marco Romagno & Rossano Patane,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,45 (740KG),90 (8.928KM),19 (13:27),,,,,,154
+49,Riccardo Motta & Massimiliano Bardini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,15 (808KG),94 (8.882KM),46 (14:35),,,,,,155
+50,Giuseppe Siracusa & Rosario Losordo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,39 (750KG),68 (9.147KM),52 (14:56),,,,,,159
+51,Alessandro Troiani & Massimiliano Felaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,48 (734KG),46 (9.352KM),70 (15:54),,,,,,164
+52,Samuele Marzorati & Nicolò Ferrara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,33 (763KG),66 (9.195KM),66 (15:39),,,,,,165
+52,Luca Folli & Matteo Bombino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,78 (675KG),43 (9.381KM),44 (14:29),,,,,,165
+54,stanislav svyshch & Gigi Rizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,101 (633KG),29 (9.645KM),36 (14:15),,,,,,166
+55,Andrei Cătălin Badiu & Pietro razzai.pietro@gmail.com,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,97 (636KG),27 (9.678KM),48 (14:42),,,,,,172
+56,Dean Leary & Josh Bowen,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,102 (630KG),35 (9.551KM),38 (14:19),,,,,,175
+57,Mattia De Flaviis & Federico Simondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,90 (645KG),38 (9.44KM),59 (15:12),,,,,,187
+58,Nicholas Vasta & Angelino Marras,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,90 (645KG),45 (9.356KM),53 (14:58),,,,,,188
+59,Dominic Raisch & Marcel Haile,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,40 (748KG),80 (8.997KM),70 (15:54),,,,,,190
+59,Gabriele Cortonesi & Gioele Giovagnoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,31 (768KG),99 (8.845KM),60 (15:13),,,,,,190
+61,Nicola Zama & Riccardo Rocchi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,42 (745KG),75 (9.083KM),74 (16:02),,,,,,191
+62,Gianluca Cicero & Federico Puricelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,85 (662KG),42 (9.385KM),67 (15:41),,,,,,194
+63,Lorenzo Cella & Manuel Giraldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,44 (742KG),96 (8.873KM),55 (14:59),,,,,,195
+64,Simone Coraggi & Leonardo Biancalana,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,70 (685KG),125 (8.485KM),2 (11:26),,,,,,197
+65,Joël Brunner & Sasha Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,103 (625KG),57 (9.269KM),37 (14:18),,,,,,197
+66,Giuseppe Surace & Matteo Picotti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,50 (730KG),73 (9.099KM),76 (16:11),,,,,,199
+67,Massimo Cariello & Ivan Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,107 (610KG),7 (10.021KM),86 (16:44),,,,,,200
+68,Davide Dallai & Sandro Del Genio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,76 (678KG),64 (9.206KM),61 (15:14),,,,,,201
+69,Mark Hartnett-Morgan & Joe Spencer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,55 (721KG),115 (8.63KM),32 (14:02),,,,,,202
+70,Flavio Lavecchia & Manuel Licci,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,134 (536KG),10 (9.968KM),62 (15:18),,,,,,206
+71,Eric De Felicibus & Luca Loglio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,108 (606KG),28 (9.661KM),72 (15:58),,,,,,208
+72,jude oduro kwarteng & Federico Bellotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,104 (620KG),11 (9.899KM),99 (17:21),,,,,,214
+73,Luca Olivieri & Fabio Baiocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,21 (790KG),121 (8.57KM),75 (16:07),,,,,,217
+74,federico castrini & Luca Benedetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,58 (705KG),56 (9.274KM),104 (17:29),,,,,,218
+75,Filippo Rizzello & Sergio Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,28 (770KG),107 (8.715KM),85 (16:38),,,,,,220
+76,Stefano Minini & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,128 (575KG),36 (9.531KM),64 (15:31),,,,,,228
+77,Emilio Agnello & Corrado La Francesca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,65 (694KG),86 (8.961KM),78 (16:15),,,,,,229
+78,Michele Saibene & Mirko Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,76 (678KG),91 (8.925KM),68 (15:45),,,,,,235
+79,Antonio Trigiante & Michele La Raia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,110 (605KG),23 (9.738KM),103 (17:25),,,,,,236
+80,Giovanni Cattari & Mattia Baltuzzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,83 (667KG),62 (9.227KM),92 (16:59),,,,,,237
+80,Ingemar Girolomoni & Lorenzo Caldari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,66 (692KG),92 (8.912KM),79 (16:16),,,,,,237
+82,Luca Ferrari & Gianpaolo Lanza,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,49 (733KG),108 (8.709KM),82 (16:29),,,,,,239
+83,Rocco Barbaro & Natale Carbone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,66 (692KG),88 (8.954KM),88 (16:48),,,,,,242
+84,Giulio Bertolino & Yari Tossio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,105 (619KG),54 (9.278KM),84 (16:35),,,,,,243
+85,Alexandre Naudinat & Nicolas Naudinat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,99 (634KG),74 (9.093KM),73 (16:01),,,,,,246
+86,Alexander Stephan & Kevin Paul Monneck,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,121 (582KG),50 (9.315KM),77 (16:13),,,,,,248
+86,Timothy Zanolini & Giovanni Boni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,4 (888KG),133 (8.321KM),111 (18:06),,,,,,248
+88,Guido Cane & Andrea Cianferoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,86 (657KG),81 (8.988KM),83 (16:34),,,,,,250
+89,Francesco Battaglia & Alessandro Battaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,123 (580KG),37 (9.452KM),91 (16:57),,,,,,251
+90,Daniele Marastoni & Simone Predieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,74 (680KG),98 (8.848KM),80 (16:24),,,,,,252
+91,Alexis Manuel Cina’ & Alessio Sanvito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,57 (711KG),103 (8.832KM),95 (17:09),,,,,,255
+92,Michael Leuppi & Daniel Maurer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,88 (652KG),104 (8.809KM),69 (15:53),,,,,,261
+93,Federico Mosti & Andrea Giuliani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,12 (840KG),122 (8.546KM),131 (20:04),,,,,,265
+94,Kalvin Anns & Edward Purcell,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,99 (634KG),71 (9.129KM),98 (17:19),,,,,,268
+95,Andrea Cesi & Michael Campagnari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,62 (703KG),93 (8.907KM),118 (18:36),,,,,,273
+96,Daniele Romagnoli & Michael Lucca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,114 (597KG),72 (9.106KM),89 (16:50),,,,,,275
+97,Juri Masuri & Beniamino Valoti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,118 (585KG),79 (9.002KM),81 (16:25),,,,,,278
+97,Gabriele Ghisu & Patrizio Viero,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,130 (574KG),58 (9.267KM),90 (16:54),,,,,,278
+99,Giacomo Galliani & Edoardo Mulfari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,133 (545KG),39 (9.423KM),107 (17:58),,,,,,279
+100,Ignacio Mondino & Nicolò Borromeo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,127 (576KG),60 (9.237KM),93 (17:02),,,,,,280
+100,Daniele Dalmasso & Niccolò Pezzoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,74 (680KG),83 (8.975KM),123 (19:11),,,,,,280
+102,Giuseppe Quaresima & Mario Vitiello,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,93 (641KG),124 (8.518KM),64 (15:31),,,,,,281
+103,Francesco Lapreziosa & Tommaso Cruciani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,87 (655KG),109 (8.705KM),87 (16:46),,,,,,283
+104,Vincenzo Sgaramella & Mattia Falleroni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,136 (527KG),49 (9.321KM),99 (17:21),,,,,,284
+105,Jamie Anderson & James Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,58 (705KG),114 (8.635KM),113 (18:09),,,,,,285
+106,Giuseppe Cocilovo & Riccardo Biolchini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,20 (793KG),127 (8.448KM),139 (23:03),,,,,,286
+107,Alex Campete & Federico Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,81 (671KG),112 (8.671KM),94 (17:08),,,,,,287
+108,Nicolo Grandini & Kevin Palumbo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,128 (575KG),47 (9.327KM),114 (18:19),,,,,,289
+109,fulvio forlin & Saracino Angelo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,93 (641KG),87 (8.957KM),111 (18:06),,,,,,291
+110,Marcello marcellomoi@gmail.com & Marco Salfi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,71 (684KG),101 (8.84KM),125 (19:14),,,,,,297
+111,Sergio De Ceglia & Giuliano Zhou,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,90 (645KG),97 (8.868KM),117 (18:30),,,,,,304
+112,Leonardo Simone Pilo' & Davide Mariuzzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,96 (637KG),85 (8.963KM),126 (19:23),,,,,,307
+113,Paolo Rossetti & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,84 (664KG),118 (8.585KM),107 (17:58),,,,,,309
+114,Federico Mainenti & Alessandro Pighi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,71 (684KG),123 (8.53KM),120 (18:41),,,,,,314
+115,Fabrizio Paná & Riccardo Spilinga,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,139 (506KG),70 (9.139KM),106 (17:39),,,,,,315
+116,Dane Fallon & Louis Garner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,54 (723KG),131 (8.359KM),134 (21:05),,,,,,319
+117,gianluca casadidio & Deluxegrosseto@gmail.com Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,98 (635KG),116 (8.615KM),110 (18:05),,,,,,324
+118,Luca Andreatta & Mario gabaldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,111 (602KG),95 (8.879KM),119 (18:40),,,,,,325
+119,Benvenuto Alfieri & Marco Oldani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,111 (602KG),106 (8.781KM),109 (18:00),,,,,,326
+120,Fabio Galgani & Fabio Paoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,118 (585KG),110 (8.685KM),101 (17:22),,,,,,329
+121,Arturo Giovanni Imbrauglio & Alessio Colosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,89 (647KG),112 (8.671KM),129 (19:59),,,,,,330
+121,Fiusis Badiali & Pepponi Luca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,115 (594KG),100 (8.843KM),115 (18:24),,,,,,330
+123,Roberto Rodriquez & Edoardo Baschirotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,58 (705KG),141 (7.872KM),133 (20:33),,,,,,332
+124,Federico Ruzzante & Luca Ruzzante,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,113 (599KG),129 (8.402KM),96 (17:14),,,,,,338
+125,Niccolò Frassineti & Lucio Innocenti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,115 (594KG),128 (8.404KM),97 (17:16),,,,,,340
+126,Francesco Miranda & Lorenzo Serena,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,118 (585KG),89 (8.939KM),137 (21:35),,,,,,344
+127,Simone Marcato & Luca Veronese,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,138 (510KG),102 (8.838KM),105 (17:38),,,,,,345
+128,Jonny Di Lauro & Emiliano Borin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,93 (641KG),130 (8.36KM),127 (19:35),,,,,,350
+129,Nicola Dall'Olio & Sergio Parentini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,78 (675KG),139 (8.018KM),138 (21:47),,,,,,355
+130,Charles Price & Adam Glover,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,108 (606KG),132 (8.324KM),121 (19:00),,,,,,361
+131,Salim Gerges & Di Marzio Emiliano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,126 (578KG),105 (8.793KM),132 (20:14),,,,,,363
+132,Giovanni Freni & paolo di marco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,123 (580KG),119 (8.584KM),122 (19:01),,,,,,364
+133,Federico Grillo & Giuseppe Nigro,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,123 (580KG),134 (8.31KM),116 (18:28),,,,,,373
+133,Stefano Senatore & Gabriele Nardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,132 (565KG),140 (7.927KM),101 (17:22),,,,,,373
+135,Andrea Scapicchi & Yari Cesarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,117 (591KG),136 (8.178KM),124 (19:12),,,,,,377
+136,Giuseppe Quaresima & Marco Esposito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,135 (534KG),117 (8.605KM),130 (20:01),,,,,,382
+137,Alessandro Angelini & Lorenzo Riccò,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,122 (581KG),126 (8.478KM),135 (21:07),,,,,,383
+138,Mattia Cedola & Luca Gallan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,131 (571KG),137 (8.136KM),128 (19:46),,,,,,396
+139,Jorge Mendoza Raya & Jesus daniel Gomez bombace,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,140 (477KG),120 (8.579KM),140 (23:54),,,,,,400
+140,Alessio Stellato & Francesco Mosca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,137 (525KG),135 (8.266KM),136 (21:09),,,,,,408
+141,Simone Bonifazi & Gianfranco Ferronato,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,141 (470KG),138 (8.039KM),141 (23:59),,,,,,420
+1,Lewis Lodge & Francesca Walmsley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,5.182KM,5.343KM,1
+2,Tobias Seidel & Chiara Lesa,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.5KM,5.208KM,2
+3,Stefania Casati & Luca Cavicchiolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.181KM,5.36KM,3
+4,Roberta Castiglioni & Matteo Stefanazzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.228KM,5.179KM,4
+5,Francesco Luzzo & Alice Aimasso,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.175KM,5.21KM,5
+6,Polymnios Avgousti & Georgia Sokratous,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.215KM,5.167KM,6
+7,Kate Haynes & Oliver Bates,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.964KM,5.341KM,7
+8,Silvia Guastalla & Riccardo Compagni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.449KM,4.81KM,8
+9,Matteo Corsini & Marta Salgarollo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.86KM,5.363KM,9
+10,Vanessa Grigoli & Fabio Simoncelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.141KM,5.06KM,10
+11,Luca Capassoni & Melissa Muca,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.151KM,5.037KM,11
+12,Katie Palmer & Nathan Waterfield,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.398KM,12
+13,Linda Cavicchi & Rudi Guizzardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.327KM,4.813KM,13
+14,Massimiliano Morena & Naomi Morena,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.377KM,14
+15,Alessandro Donelli & Elisa Adorni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.019KM,5.086KM,15
+16,Arianna Gretter & Davide Petrosino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.202KM,4.902KM,16
+17,Christian Binder & Mara Ablinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.33KM,17
+18,Vlad Lopez & Hannah Stevenson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4KM,5.065KM,18
+19,Danilo Marioli & Stefania Gozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.819KM,5.222KM,19
+20,Sami Tijani & Alessia Zingarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.039KM,4.998KM,20
+21,Justin Ellison & Arianna Comello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.046KM,4.985KM,21
+22,Rebecca Brandon & Richard Burns,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.885KM,5.141KM,22
+23,Silvia Guglielmini & Marco Cristoffori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.95KM,5.064KM,23
+24,Riccardo Giordano & Martina Lucano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,4.5KM,4.497KM,24
+25,Filippini Sofia & Samuele Grillo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.22KM,25
+26,Raffaele Del piano & Caterina Piccirilli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.694KM,5.248KM,26
+27,Fabien Laager & Margaux DEREYMEZ,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.188KM,27
+28,Michela Passannante & Lucio Giovanzana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.171KM,28
+29,Vincenzo Campanella & irene montisci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.909KM,4.993KM,29
+30,Camilla Rossi & Simone Bartoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.777KM,5.116KM,30
+31,Nancy Kloter & Fabio Piredda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.765KM,5.118KM,31
+32,Veronica Rizza & Alex Paun,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.97KM,4.906KM,32
+33,Darren darren_m@hotmail.co.uk & Eireann McSorley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.951KM,4.913KM,33
+34,Gentiana Buzhala & Adrian Sickinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.924KM,4.928KM,34
+35,Severin Candrian & Deborah Schlatter,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.064KM,35
+36,Alberto Cugusi & Ilaria Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.773KM,5.04KM,36
+37,Eric Michelin Salomon & Valentina Biglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.822KM,4.983KM,37
+38,Ilaria Bertani & Jacopo Bertani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.051KM,38
+39,Silvia Pelucchi & Mario Fumagalli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.847KM,4.952KM,39
+40,Edi Katsarski & Monica Lavecchia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.034KM,40
+41,Aurora Realini & Leo Chiricone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.019KM,41
+42,Roberta Volpicelli & Dario Fabbri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.017KM,42
+43,Celso Belandria & Irene Vila,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.821KM,4.932KM,43
+44,Alessandro Sechi & Giulia Graci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.825KM,4.923KM,44
+45,Kok Yeu Huynh & Ariane Huynh-Hy,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.679KM,5.064KM,45
+46,Giovanni Sinibaldi & Michela Favaretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.597KM,5.123KM,46
+47,Seb Cook & Jen Cachero,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.634KM,5.044KM,47
+48,Vivien Timm & Stefan Ludwig,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.672KM,4.999KM,48
+49,Veronica Bersanetti & Massimo Rebolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.696KM,4.943KM,49
+50,Federica Moscatelli & Cristiano Fontana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.862KM,50
+51,Francesco Seveso & Katia Mascotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.861KM,51
+52,Cristiana Franzini & Davide Scardeoni Fracassi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.822KM,4.781KM,52
+53,Giacomo Cherubini & Laura Mori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.837KM,53
+54,Elen Fleisher & Dean Leary,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.844KM,4.725KM,54
+55,Marianna Mauro & giulio negretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.812KM,55
+56,Jeronimo Lanza & Carla Zoncheddu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.93KM,4.629KM,56
+57,Thomas Jackson & Emma Jackson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.805KM,57
+58,Simona Bratti & Enrico Richiedei,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.822KM,4.73KM,58
+59,Paolo Carbone & Arianna Tibaldi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.829KM,4.695KM,59
+60,Laura Tamašauskienė & Rolandas Tamasauskas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.32KM,5.199KM,60
+61,Gianpaolo Di Pietro & Elisa Bartoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.605KM,4.904KM,61
+62,michele bolco & Sara Corvino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.743KM,4.755KM,62
+63,Marco Tommasone & Laura Arifaj,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.204KM,5.288KM,63
+64,Ulukan Ulu & Belin Cuceoglu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.395KM,5.089KM,64
+65,Leonardo Bianchi & Gilda Tornatore,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.73KM,65
+66,andrea fornasari & Fabiana Minzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.724KM,4.744KM,66
+67,Luigi Nardò & Ila Bignardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.956KM,67
+68,Daniele Begliomini & Chiara Pistone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.671KM,68
+69,Tommaso Magini & Caterina Mazzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.634KM,4.781KM,69
+70,Anthony Cross & Kylie Green,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.546KM,4.842KM,70
+71,Luigino Caprioli & Annapaola Magni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.424KM,4.963KM,71
+72,Wera Hächler & Markus Hächler,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.122KM,5.253KM,72
+73,Gianmaria Meo & Alexa Lipp,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.516KM,4.83KM,73
+74,Adriana Valentim & Rui Ferraz,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.634KM,4.708KM,74
+75,Riccardo Smiglieri & Giulia Mantovani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.659KM,4.681KM,75
+76,Liam Rose & Philippa Davenall,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.075KM,5.238KM,76
+77,Becky Miles & Grant Pullen,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.588KM,4.723KM,77
+78,Christian Schnur & Stina Güttner,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.242KM,5.064KM,78
+79,elena maurri & Andrea Margheri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.567KM,4.736KM,79
+80,Irene Maggi & Pietro Salamone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.586KM,4.715KM,80
+81,Alessia Del Mastro & Paolo Simonetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.858KM,4.423KM,81
+82,antonio cannone & Beatrice Gobbi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.522KM,4.732KM,82
+83,Andrea D'ambrosio & Irina Calugareanu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.509KM,4.719KM,83
+84,Rosa Magnani & Gabriel Provoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.471KM,84
+85,Mattia Guarino & Alessia Marietta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.463KM,85
+86,Riccardo Lazzari & Valentina Lazzari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.101KM,5.092KM,86
+87,Silvia Quinci & Paolo Marchisio,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.261KM,4.913KM,87
+88,Charlotte Georgiades & Cormac Edwards,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.4KM,4.744KM,88
+89,Francesco Spadoni & Silvia Marini Monterubbiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.525KM,4.612KM,89
+90,Patrycja Mew & Morgan Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.346KM,4.716KM,90
+91,Marco Tomasin & Jennifer Roncato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.308KM,91
+92,Ish Golhar & Karen McFarlane,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.45KM,4.603KM,92
+93,Beatrice Verrocchia & Giancarlo Borruto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.725KM,4.302KM,93
+94,Simon Avery & Shreena Avery,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.298KM,4.718KM,94
+95,Alba Carmona Giralt & Rodrigo Garcia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.506KM,95
+96,Matteo Cavallini & Benedetta Brugnatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.369KM,4.56KM,96
+97,Debora Sampieri & Damiano Ferrari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.138KM,4.768KM,97
+98,Michele Condidorio & Francesca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.113KM,4.783KM,98
+99,Marco Fini & Martina Magliozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.271KM,4.519KM,99
+100,Tommaso Mazzola & Emanuela Achille,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.283KM,4.486KM,100
+101,Stefania Lovergine & Simone Fasolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.189KM,4.571KM,101
+102,alessia crugnola & alessandrp cappellato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.144KM,4.605KM,102
+103,Em Crawford & Steve Whitelaw,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3KM,4.69KM,103
+104,Isa Marin & James Lucas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.168KM,4.508KM,104
+105,Alessandro Carniel & Maria Luneva,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.378KM,4.282KM,105
+106,Alex Brutti & Chiara Bettinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3KM,4.51KM,106
+107,Andrea Usai & Maria Paola Cordedda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.253KM,4.221KM,107
+108,Marzia Cenedese & Pasquale Patrizio Calvanese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,2.646KM,4.714KM,108
+109,Daniele Bombelli & Miriana Carioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,2.75KM,4.561KM,109
+110,Jérémy Debons & Debons Loredana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,2.654KM,4.483KM,110
+111,Chiara Arcuraci & Stefano Baetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,0.479KM,111
+1,Riccardo Giordano & Martina Lucano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,12:57,,,,,,1
+2,Danilo Marioli & Stefania Gozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,13:00,,,,,,2
+3,Severin Candrian & Deborah Schlatter,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,13:01,,,,,,3
+4,Rebecca Brandon & Richard Burns,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,13:26,,,,,,4
+5,Andrea D'ambrosio & Irina Calugareanu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,13:36,,,,,,5
+6,Jeronimo Lanza & Carla Zoncheddu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,13:51,,,,,,6
+7,Celso Belandria & Irene Vila,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:02,,,,,,7
+8,Kate Haynes & Oliver Bates,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:04,,,,,,8
+9,Katie Palmer & Nathan Waterfield,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:19,,,,,,9
+10,Ulukan Ulu & Belin Cuceoglu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:20,,,,,,10
+11,Massimiliano Morena & Naomi Morena,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:21,,,,,,11
+12,Fabien Laager & Margaux DEREYMEZ,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:27,,,,,,12
+13,Lewis Lodge & Francesca Walmsley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:31,,,,,,13
+13,Vincenzo Campanella & irene montisci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:31,,,,,,13
+15,Justin Ellison & Arianna Comello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:46,,,,,,15
+16,Gentiana Buzhala & Adrian Sickinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:48,,,,,,16
+16,Silvia Guglielmini & Marco Cristoffori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:48,,,,,,16
+16,Camilla Rossi & Simone Bartoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:48,,,,,,16
+19,Arianna Gretter & Davide Petrosino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,14:53,,,,,,19
+20,Alberto Cugusi & Ilaria Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:02,,,,,,20
+21,Stefania Casati & Luca Cavicchiolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:08,,,,,,21
+22,Ilaria Bertani & Jacopo Bertani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:11,,,,,,22
+23,Seb Cook & Jen Cachero,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:12,,,,,,23
+24,Silvia Pelucchi & Mario Fumagalli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:13,,,,,,24
+24,Roberta Castiglioni & Matteo Stefanazzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:13,,,,,,24
+26,Polymnios Avgousti & Georgia Sokratous,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:14,,,,,,26
+27,Eric Michelin Salomon & Valentina Biglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:16,,,,,,27
+28,Veronica Bersanetti & Massimo Rebolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:18,,,,,,28
+29,Charlotte Georgiades & Cormac Edwards,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:26,,,,,,29
+30,Luca Capassoni & Melissa Muca,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:30,,,,,,30
+31,Linda Cavicchi & Rudi Guizzardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:31,,,,,,31
+32,Christian Binder & Mara Ablinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:36,,,,,,32
+32,Kok Yeu Huynh & Ariane Huynh-Hy,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:36,,,,,,32
+34,Alessandro Sechi & Giulia Graci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:38,,,,,,34
+35,Paolo Carbone & Arianna Tibaldi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:43,,,,,,35
+35,Chiara Arcuraci & Stefano Baetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:43,,,,,,35
+37,Vanessa Grigoli & Fabio Simoncelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:48,,,,,,37
+38,Edi Katsarski & Monica Lavecchia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:54,,,,,,38
+39,Matteo Corsini & Marta Salgarollo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:55,,,,,,39
+40,Adriana Valentim & Rui Ferraz,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,15:58,,,,,,40
+41,Luigino Caprioli & Annapaola Magni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:00,,,,,,41
+41,Silvia Guastalla & Riccardo Compagni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:00,,,,,,41
+43,Gianpaolo Di Pietro & Elisa Bartoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:01,,,,,,43
+43,Giovanni Sinibaldi & Michela Favaretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:01,,,,,,43
+45,Riccardo Lazzari & Valentina Lazzari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:03,,,,,,45
+46,Michele Condidorio & Francesca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:07,,,,,,46
+47,Roberta Volpicelli & Dario Fabbri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:10,,,,,,47
+48,Francesco Luzzo & Alice Aimasso,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:12,,,,,,48
+49,Marco Tomasin & Jennifer Roncato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:13,,,,,,49
+49,Wera Hächler & Markus Hächler,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:13,,,,,,49
+51,Irene Maggi & Pietro Salamone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:16,,,,,,51
+52,andrea fornasari & Fabiana Minzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:17,,,,,,52
+53,Marianna Mauro & giulio negretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:20,,,,,,53
+54,Francesco Seveso & Katia Mascotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:21,,,,,,54
+55,Liam Rose & Philippa Davenall,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:26,,,,,,55
+55,Filippini Sofia & Samuele Grillo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:26,,,,,,55
+57,Gianmaria Meo & Alexa Lipp,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:30,,,,,,57
+57,Michela Passannante & Lucio Giovanzana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:30,,,,,,57
+59,Rosa Magnani & Gabriel Provoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:32,,,,,,59
+60,Nancy Kloter & Fabio Piredda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:35,,,,,,60
+61,Raffaele Del piano & Caterina Piccirilli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:44,,,,,,61
+62,Luigi Nardò & Ila Bignardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:46,,,,,,62
+63,Marco Fini & Martina Magliozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:47,,,,,,63
+64,Veronica Rizza & Alex Paun,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:52,,,,,,64
+65,Vlad Lopez & Hannah Stevenson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:58,,,,,,65
+66,elena maurri & Andrea Margheri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:01,,,,,,66
+66,Alessia Del Mastro & Paolo Simonetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:01,,,,,,66
+68,Darren darren_m@hotmail.co.uk & Eireann McSorley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:02,,,,,,68
+69,Leonardo Bianchi & Gilda Tornatore,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:04,,,,,,69
+70,Silvia Quinci & Paolo Marchisio,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:08,,,,,,70
+71,Alessandro Donelli & Elisa Adorni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:09,,,,,,71
+72,Simona Bratti & Enrico Richiedei,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:17,,,,,,72
+73,Christian Schnur & Stina Güttner,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:22,,,,,,73
+73,Federica Moscatelli & Cristiano Fontana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:22,,,,,,73
+75,Mattia Guarino & Alessia Marietta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:23,,,,,,75
+76,Tommaso Magini & Caterina Mazzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:27,,,,,,76
+77,Anthony Cross & Kylie Green,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:35,,,,,,77
+78,Vivien Timm & Stefan Ludwig,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:36,,,,,,78
+79,Stefania Lovergine & Simone Fasolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:37,,,,,,79
+80,Alex Brutti & Chiara Bettinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:38,,,,,,80
+80,Elen Fleisher & Dean Leary,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:38,,,,,,80
+82,Tobias Seidel & Chiara Lesa,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:50,,,,,,82
+83,Thomas Jackson & Emma Jackson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:51,,,,,,83
+84,Sami Tijani & Alessia Zingarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,17:59,,,,,,84
+85,Patrycja Mew & Morgan Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:03,,,,,,85
+86,Ish Golhar & Karen McFarlane,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:04,,,,,,86
+87,michele bolco & Sara Corvino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:07,,,,,,87
+88,Laura Tamašauskienė & Rolandas Tamasauskas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:09,,,,,,88
+89,antonio cannone & Beatrice Gobbi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:15,,,,,,89
+90,Daniele Begliomini & Chiara Pistone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:16,,,,,,90
+91,Giacomo Cherubini & Laura Mori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:26,,,,,,91
+92,Aurora Realini & Leo Chiricone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:34,,,,,,92
+92,Daniele Bombelli & Miriana Carioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:34,,,,,,92
+94,Francesco Spadoni & Silvia Marini Monterubbiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:40,,,,,,94
+94,Beatrice Verrocchia & Giancarlo Borruto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:40,,,,,,94
+96,Riccardo Smiglieri & Giulia Mantovani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:45,,,,,,96
+97,Marzia Cenedese & Pasquale Patrizio Calvanese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,18:54,,,,,,97
+98,Becky Miles & Grant Pullen,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:04,,,,,,98
+99,Alba Carmona Giralt & Rodrigo Garcia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:10,,,,,,99
+100,Cristiana Franzini & Davide Scardeoni Fracassi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:15,,,,,,100
+101,Debora Sampieri & Damiano Ferrari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:36,,,,,,101
+102,Matteo Cavallini & Benedetta Brugnatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:52,,,,,,102
+103,Marco Tommasone & Laura Arifaj,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:53,,,,,,103
+104,alessia crugnola & alessandrp cappellato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,19:58,,,,,,104
+105,Tommaso Mazzola & Emanuela Achille,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,20:06,,,,,,105
+106,Andrea Usai & Maria Paola Cordedda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,20:11,,,,,,106
+107,Em Crawford & Steve Whitelaw,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,20:47,,,,,,107
+108,Jérémy Debons & Debons Loredana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,21:16,,,,,,108
+109,Isa Marin & James Lucas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,21:32,,,,,,109
+110,Simon Avery & Shreena Avery,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,22:07,,,,,,110
+111,Alessandro Carniel & Maria Luneva,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,24:44,,,,,,111
+1,Charlotte Georgiades & Cormac Edwards,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,120KG,275KG,350KG,,,1
+2,Marzia Cenedese & Pasquale Patrizio Calvanese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,132KG,282KG,330KG,,,2
+3,Veronica Rizza & Alex Paun,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,117KG,265KG,307KG,,,3
+4,Raffaele Del piano & Caterina Piccirilli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,126KG,270KG,290KG,,,4
+5,Luigi Nardò & Ila Bignardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,115KG,260KG,310KG,,,5
+6,Rebecca Brandon & Richard Burns,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,138KG,240KG,300KG,,,6
+7,Michele Condidorio & Francesca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,130KG,267KG,280KG,,,7
+8,Eric Michelin Salomon & Valentina Biglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,118KG,255KG,290KG,,,8
+9,Filippini Sofia & Samuele Grillo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,130KG,250KG,280KG,,,9
+10,Liam Rose & Philippa Davenall,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,118KG,250KG,290KG,,,10
+11,Chiara Arcuraci & Stefano Baetto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,125KG,235KG,288KG,,,11
+12,Luigino Caprioli & Annapaola Magni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,101KG,235KG,305KG,,,12
+13,Ulukan Ulu & Belin Cuceoglu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,107KG,238KG,295KG,,,13
+14,Silvia Quinci & Paolo Marchisio,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,123KG,235KG,273KG,,,14
+15,Christian Binder & Mara Ablinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,123KG,226KG,280KG,,,15
+16,Patrycja Mew & Morgan Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,110KG,230KG,285KG,,,16
+17,Katie Palmer & Nathan Waterfield,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,113KG,225KG,285KG,,,17
+18,Seb Cook & Jen Cachero,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,112KG,230KG,275KG,,,18
+19,Arianna Gretter & Davide Petrosino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,116KG,234KG,265KG,,,19
+20,Gentiana Buzhala & Adrian Sickinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,115KG,212KG,285KG,,,20
+21,Marco Fini & Martina Magliozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,126KG,235KG,250KG,,,21
+22,Massimiliano Morena & Naomi Morena,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,220KG,285KG,,,22
+23,Wera Hächler & Markus Hächler,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,114KG,225KG,270KG,,,23
+24,Matteo Corsini & Marta Salgarollo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,118KG,210KG,280KG,,,24
+25,Celso Belandria & Irene Vila,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,110KG,210KG,280KG,,,25
+25,Edi Katsarski & Monica Lavecchia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,115KG,205KG,280KG,,,25
+27,antonio cannone & Beatrice Gobbi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,238KG,270KG,,,27
+27,Riccardo Lazzari & Valentina Lazzari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,123KG,215KG,260KG,,,27
+29,Severin Candrian & Deborah Schlatter,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,108KG,216KG,270KG,,,29
+30,Alex Brutti & Chiara Bettinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,102KG,220KG,270KG,,,30
+31,Fabien Laager & Margaux DEREYMEZ,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,119KG,205KG,265KG,,,31
+32,Alberto Cugusi & Ilaria Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,113KG,220KG,255KG,,,32
+33,Marianna Mauro & giulio negretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,117KG,220KG,250KG,,,33
+34,Alessandro Sechi & Giulia Graci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,107KG,208KG,270KG,,,34
+34,Mattia Guarino & Alessia Marietta,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,110KG,225KG,250KG,,,34
+36,Jérémy Debons & Debons Loredana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,109KG,215KG,260KG,,,36
+37,Silvia Guglielmini & Marco Cristoffori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,108KG,215KG,260KG,,,37
+38,Veronica Bersanetti & Massimo Rebolini,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,95KG,215KG,271KG,,,38
+38,Danilo Marioli & Stefania Gozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,108KG,193KG,280KG,,,38
+38,Camilla Rossi & Simone Bartoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,106KG,220KG,255KG,,,38
+41,Gianmaria Meo & Alexa Lipp,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,95KG,210KG,275KG,,,41
+42,Michela Passannante & Lucio Giovanzana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,113KG,210KG,255KG,,,42
+43,Adriana Valentim & Rui Ferraz,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,111KG,196KG,270KG,,,43
+43,Luca Capassoni & Melissa Muca,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,112KG,215KG,250KG,,,43
+45,Francesco Spadoni & Silvia Marini Monterubbiano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,113KG,200KG,260KG,,,45
+46,Em Crawford & Steve Whitelaw,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,77KG,172KG,320KG,,,46
+47,Ilaria Bertani & Jacopo Bertani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,111KG,200KG,257KG,,,47
+48,Vincenzo Campanella & irene montisci,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,95KG,200KG,270KG,,,48
+48,Linda Cavicchi & Rudi Guizzardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,210KG,250KG,,,48
+50,andrea fornasari & Fabiana Minzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,102KG,200KG,260KG,,,50
+51,Andrea D'ambrosio & Irina Calugareanu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,210KG,242KG,,,51
+52,Giovanni Sinibaldi & Michela Favaretti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,118KG,190KG,245KG,,,52
+53,Gianpaolo Di Pietro & Elisa Bartoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,108KG,210KG,233KG,,,53
+54,Nancy Kloter & Fabio Piredda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,185KG,260KG,,,54
+55,Kate Haynes & Oliver Bates,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,104KG,185KG,260KG,,,55
+56,Stefania Casati & Luca Cavicchiolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,100KG,181KG,266KG,,,56
+57,Roberta Volpicelli & Dario Fabbri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,93KG,190KG,260KG,,,57
+58,Justin Ellison & Arianna Comello,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,103KG,203KG,235KG,,,58
+58,Federica Moscatelli & Cristiano Fontana,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,106KG,205KG,230KG,,,58
+60,Irene Maggi & Pietro Salamone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,113KG,185KG,242KG,,,60
+60,elena maurri & Andrea Margheri,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,110KG,195KG,235KG,,,60
+62,Elen Fleisher & Dean Leary,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,110KG,190KG,235KG,,,62
+63,Rosa Magnani & Gabriel Provoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,109KG,185KG,240KG,,,63
+64,Riccardo Smiglieri & Giulia Mantovani,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,106KG,205KG,222KG,,,64
+65,Daniele Begliomini & Chiara Pistone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,100KG,190KG,240KG,,,65
+66,Giacomo Cherubini & Laura Mori,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,95KG,194KG,240KG,,,66
+67,Silvia Pelucchi & Mario Fumagalli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,97KG,180KG,250KG,,,67
+68,Christian Schnur & Stina Güttner,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,190KG,230KG,,,68
+69,Paolo Carbone & Arianna Tibaldi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,98KG,185KG,240KG,,,69
+70,Alessandro Donelli & Elisa Adorni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,97KG,173KG,250KG,,,70
+71,Debora Sampieri & Damiano Ferrari,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,108KG,180KG,230KG,,,71
+72,Simona Bratti & Enrico Richiedei,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,97KG,185KG,235KG,,,72
+73,Polymnios Avgousti & Georgia Sokratous,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,103KG,203KG,210KG,,,73
+74,Anthony Cross & Kylie Green,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,91KG,173KG,250KG,,,74
+75,Tommaso Mazzola & Emanuela Achille,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,110KG,185KG,215KG,,,75
+75,Alessia Del Mastro & Paolo Simonetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,94KG,164KG,252KG,,,75
+77,Isa Marin & James Lucas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,96KG,190KG,220KG,,,77
+78,Thomas Jackson & Emma Jackson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,175KG,225KG,,,78
+79,Cristiana Franzini & Davide Scardeoni Fracassi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,99KG,180KG,225KG,,,79
+80,Aurora Realini & Leo Chiricone,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,88KG,190KG,225KG,,,80
+81,Stefania Lovergine & Simone Fasolo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,87KG,175KG,240KG,,,81
+82,Francesco Seveso & Katia Mascotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,101KG,175KG,225KG,,,82
+82,Roberta Castiglioni & Matteo Stefanazzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,94KG,195KG,212KG,,,82
+84,Kok Yeu Huynh & Ariane Huynh-Hy,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,190KG,220KG,,,84
+85,Lewis Lodge & Francesca Walmsley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,98KG,180KG,220KG,,,85
+86,Francesco Luzzo & Alice Aimasso,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,97KG,180KG,220KG,,,86
+87,Silvia Guastalla & Riccardo Compagni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,86KG,190KG,220KG,,,87
+88,Beatrice Verrocchia & Giancarlo Borruto,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,180KG,225KG,,,88
+89,Daniele Bombelli & Miriana Carioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,88KG,180KG,225KG,,,89
+90,Tommaso Magini & Caterina Mazzoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,87KG,185KG,220KG,,,90
+91,Vlad Lopez & Hannah Stevenson,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,93KG,175KG,220KG,,,91
+92,Marco Tommasone & Laura Arifaj,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,95KG,185KG,205KG,,,92
+93,Darren darren_m@hotmail.co.uk & Eireann McSorley,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,182KG,210KG,,,93
+94,Alba Carmona Giralt & Rodrigo Garcia,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,105KG,175KG,195KG,,,94
+95,Andrea Usai & Maria Paola Cordedda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,99KG,170KG,204KG,,,95
+96,Marco Tomasin & Jennifer Roncato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,100KG,175KG,195KG,,,96
+97,Sami Tijani & Alessia Zingarelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,95KG,140KG,232KG,,,97
+98,Ish Golhar & Karen McFarlane,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,93KG,150KG,215KG,,,98
+99,Vanessa Grigoli & Fabio Simoncelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,86KG,165KG,205KG,,,99
+100,Leonardo Bianchi & Gilda Tornatore,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,99KG,155KG,200KG,,,100
+101,Becky Miles & Grant Pullen,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,152KG,210KG,,,101
+102,Vivien Timm & Stefan Ludwig,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,91KG,159KG,190KG,,,102
+103,alessia crugnola & alessandrp cappellato,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,91KG,150KG,185KG,,,103
+104,michele bolco & Sara Corvino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,78KG,160KG,180KG,,,104
+105,Tobias Seidel & Chiara Lesa,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,85KG,140KG,190KG,,,105
+106,Laura Tamašauskienė & Rolandas Tamasauskas,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,135KG,189KG,,,106
+107,Alessandro Carniel & Maria Luneva,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,77KG,158KG,170KG,,,107
+108,Simon Avery & Shreena Avery,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,75KG,128KG,200KG,,,108
+109,Jeronimo Lanza & Carla Zoncheddu,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,90KG,145KG,165KG,,,109
+110,Riccardo Giordano & Martina Lucano,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,82KG,120KG,165KG,,,110
+111,Matteo Cavallini & Benedetta Brugnatelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,77KG,100KG,170KG,,,111
+1,Lewys Morgan-Smith & Arran Arogundade,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,09:12,,,,,,1
+2,Simone Coraggi & Leonardo Biancalana,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:26,,,,,,2
+3,Thomas Renda & salvatore tarantino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:56,,,,,,3
+4,Isacco Martufi & Gaetano.fidanzati Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:30,,,,,,4
+5,Nicky Little & Dan Davis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:42,,,,,,5
+5,Sam McGill & Ross Scudamore,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:42,,,,,,5
+7,Luigi Esposito Mocerino & Mykola Lapta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:56,,,,,,7
+8,Duccio Fontanelli & Federico Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:58,,,,,,8
+9,LUIGI INVOLTI & alessandro rodella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:04,,,,,,9
+10,Alvise Rigo & Riccardo Paparella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:07,,,,,,10
+11,Davide Di Giacomo & Giuseppe Deleonardis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:11,,,,,,11
+12,Andrea Traica & Daniele Domeneghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:12,,,,,,12
+13,Filippo Segata & David Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:16,,,,,,13
+13,Stefano Alberti & Andrea Simonini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:16,,,,,,13
+15,Daniele Cortesi & Enrico Mangalaviti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:17,,,,,,15
+15,Claudio Sona & Nicholas Cornia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:17,,,,,,15
+17,Alessio Humar & Gioele Arreghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:18,,,,,,17
+18,Francesco Testi & Matteo Stoppaccioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:22,,,,,,18
+19,Marco Romagno & Rossano Patane,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:27,,,,,,19
+20,Antonio Argento & Luca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:30,,,,,,20
+21,Dario Panaro & Samuele Sciarretta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:32,,,,,,21
+22,Kit Timmis & Sam Kipling,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:35,,,,,,22
+23,Kok Sue Huynh & Nicola Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:38,,,,,,23
+24,Luca Tamborrini & Stefano Tomadini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:40,,,,,,24
+25,Nicolo Lazzaro & Francesco Pagano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:42,,,,,,25
+26,Patrick Gerlich & Justus Eckert,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:45,,,,,,26
+27,Barry Coombs & Craig Thompson,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:46,,,,,,27
+28,Luca Bonomo & Giammarco De Persiis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:48,,,,,,28
+29,Mauro Frulla & Riccardo Cicetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:50,,,,,,29
+30,Cristian Bonetti & Riccardo Ruggeri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:59,,,,,,30
+30,Rocco Gentiluomo & Saverio Pinneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:59,,,,,,30
+32,Mark Hartnett-Morgan & Joe Spencer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:02,,,,,,32
+33,Lorenzo Parente & Andrea Russo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:04,,,,,,33
+34,Alessio Bianchi & Edoardo Bettarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:07,,,,,,34
+35,Davide De Grazia & Luca Barbaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:08,,,,,,35
+36,stanislav svyshch & Gigi Rizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:15,,,,,,36
+37,Joël Brunner & Sasha Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:18,,,,,,37
+38,Dean Leary & Josh Bowen,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:19,,,,,,38
+39,GABRIELE TORTORELLA & Oscar La Spina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:20,,,,,,39
+40,Cristiano Oddo & Roberto Bigoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:24,,,,,,40
+40,Andrea Ussia & Fabio Bertoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:24,,,,,,40
+42,Filippo Fiscella & Fabio Fiscella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:25,,,,,,42
+42,Damiano Curati & Alessandro Bomprezzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:25,,,,,,42
+44,Luca Folli & Matteo Bombino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:29,,,,,,44
+45,Nico Marcovecchio & Andrea Falone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:30,,,,,,45
+46,Riccardo Motta & Massimiliano Bardini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:35,,,,,,46
+46,Gabriele Fasoli & Juan Gregorio Cruz Espinel,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:35,,,,,,46
+48,Andrei Cătălin Badiu & Pietro razzai.pietro@gmail.com,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:42,,,,,,48
+49,Diego Meletti & pietro.selleri Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:53,,,,,,49
+49,Daniele Convento & Mattia Venini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:53,,,,,,49
+51,Salvatore Scolaro & Andrea Giovanni Spinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:55,,,,,,51
+52,Giuseppe Siracusa & Rosario Losordo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:56,,,,,,52
+53,Lorenzo Morandin & Marco Martinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:58,,,,,,53
+53,Nicholas Vasta & Angelino Marras,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:58,,,,,,53
+55,Alex Willerton & Taylor Hastings,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:59,,,,,,55
+55,Lorenzo Cella & Manuel Giraldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:59,,,,,,55
+57,simone minicucci & Luca Tanzarella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:05,,,,,,57
+58,Gabriele Ricciardi & andrea riccardo tessarin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:09,,,,,,58
+59,Mattia De Flaviis & Federico Simondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:12,,,,,,59
+60,Gabriele Cortonesi & Gioele Giovagnoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:13,,,,,,60
+61,Davide Dallai & Sandro Del Genio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:14,,,,,,61
+62,Flavio Lavecchia & Manuel Licci,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:18,,,,,,62
+63,Massimo Biasion & Giulio Cecchin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:23,,,,,,63
+64,Giuseppe Quaresima & Mario Vitiello,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:31,,,,,,64
+64,Stefano Minini & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:31,,,,,,64
+66,Samuele Marzorati & Nicolò Ferrara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:39,,,,,,66
+67,Gianluca Cicero & Federico Puricelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:41,,,,,,67
+68,Michele Saibene & Mirko Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:45,,,,,,68
+69,Michael Leuppi & Daniel Maurer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:53,,,,,,69
+70,Dominic Raisch & Marcel Haile,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:54,,,,,,70
+70,Alessandro Troiani & Massimiliano Felaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:54,,,,,,70
+72,Eric De Felicibus & Luca Loglio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:58,,,,,,72
+73,Alexandre Naudinat & Nicolas Naudinat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:01,,,,,,73
+74,Nicola Zama & Riccardo Rocchi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:02,,,,,,74
+75,Luca Olivieri & Fabio Baiocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:07,,,,,,75
+76,Giuseppe Surace & Matteo Picotti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:11,,,,,,76
+77,Alexander Stephan & Kevin Paul Monneck,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:13,,,,,,77
+78,Emilio Agnello & Corrado La Francesca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:15,,,,,,78
+79,Ingemar Girolomoni & Lorenzo Caldari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:16,,,,,,79
+80,Daniele Marastoni & Simone Predieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:24,,,,,,80
+81,Juri Masuri & Beniamino Valoti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:25,,,,,,81
+82,Luca Ferrari & Gianpaolo Lanza,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:29,,,,,,82
+83,Guido Cane & Andrea Cianferoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:34,,,,,,83
+84,Giulio Bertolino & Yari Tossio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:35,,,,,,84
+85,Filippo Rizzello & Sergio Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:38,,,,,,85
+86,Massimo Cariello & Ivan Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:44,,,,,,86
+87,Francesco Lapreziosa & Tommaso Cruciani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:46,,,,,,87
+88,Rocco Barbaro & Natale Carbone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:48,,,,,,88
+89,Daniele Romagnoli & Michael Lucca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:50,,,,,,89
+90,Gabriele Ghisu & Patrizio Viero,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:54,,,,,,90
+91,Francesco Battaglia & Alessandro Battaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:57,,,,,,91
+92,Giovanni Cattari & Mattia Baltuzzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:59,,,,,,92
+93,Ignacio Mondino & Nicolò Borromeo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:02,,,,,,93
+94,Alex Campete & Federico Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:08,,,,,,94
+95,Alexis Manuel Cina’ & Alessio Sanvito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:09,,,,,,95
+96,Federico Ruzzante & Luca Ruzzante,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:14,,,,,,96
+97,Niccolò Frassineti & Lucio Innocenti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:16,,,,,,97
+98,Kalvin Anns & Edward Purcell,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:19,,,,,,98
+99,jude oduro kwarteng & Federico Bellotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:21,,,,,,99
+99,Vincenzo Sgaramella & Mattia Falleroni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:21,,,,,,99
+101,Fabio Galgani & Fabio Paoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:22,,,,,,101
+101,Stefano Senatore & Gabriele Nardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:22,,,,,,101
+103,Antonio Trigiante & Michele La Raia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:25,,,,,,103
+104,federico castrini & Luca Benedetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:29,,,,,,104
+105,Simone Marcato & Luca Veronese,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:38,,,,,,105
+106,Fabrizio Paná & Riccardo Spilinga,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:39,,,,,,106
+107,Giacomo Galliani & Edoardo Mulfari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:58,,,,,,107
+107,Paolo Rossetti & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:58,,,,,,107
+109,Benvenuto Alfieri & Marco Oldani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:00,,,,,,109
+110,gianluca casadidio & Deluxegrosseto@gmail.com Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:05,,,,,,110
+111,fulvio forlin & Saracino Angelo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:06,,,,,,111
+111,Timothy Zanolini & Giovanni Boni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:06,,,,,,111
+113,Jamie Anderson & James Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:09,,,,,,113
+114,Nicolo Grandini & Kevin Palumbo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:19,,,,,,114
+115,Fiusis Badiali & Pepponi Luca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:24,,,,,,115
+116,Federico Grillo & Giuseppe Nigro,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:28,,,,,,116
+117,Sergio De Ceglia & Giuliano Zhou,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:30,,,,,,117
+118,Andrea Cesi & Michael Campagnari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:36,,,,,,118
+119,Luca Andreatta & Mario gabaldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:40,,,,,,119
+120,Federico Mainenti & Alessandro Pighi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:41,,,,,,120
+121,Charles Price & Adam Glover,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:00,,,,,,121
+122,Giovanni Freni & paolo di marco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:01,,,,,,122
+123,Daniele Dalmasso & Niccolò Pezzoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:11,,,,,,123
+124,Andrea Scapicchi & Yari Cesarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:12,,,,,,124
+125,Marcello marcellomoi@gmail.com & Marco Salfi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:14,,,,,,125
+126,Leonardo Simone Pilo' & Davide Mariuzzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:23,,,,,,126
+127,Jonny Di Lauro & Emiliano Borin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:35,,,,,,127
+128,Mattia Cedola & Luca Gallan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:46,,,,,,128
+129,Arturo Giovanni Imbrauglio & Alessio Colosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:59,,,,,,129
+130,Giuseppe Quaresima & Marco Esposito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:01,,,,,,130
+131,Federico Mosti & Andrea Giuliani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:04,,,,,,131
+132,Salim Gerges & Di Marzio Emiliano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:14,,,,,,132
+133,Roberto Rodriquez & Edoardo Baschirotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:33,,,,,,133
+134,Dane Fallon & Louis Garner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:05,,,,,,134
+135,Alessandro Angelini & Lorenzo Riccò,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:07,,,,,,135
+136,Alessio Stellato & Francesco Mosca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:09,,,,,,136
+137,Francesco Miranda & Lorenzo Serena,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:35,,,,,,137
+138,Nicola Dall'Olio & Sergio Parentini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:47,,,,,,138
+139,Giuseppe Cocilovo & Riccardo Biolchini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,23:03,,,,,,139
+140,Jorge Mendoza Raya & Jesus daniel Gomez bombace,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,23:54,,,,,,140
+141,Simone Bonifazi & Gianfranco Ferronato,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,23:59,,,,,,141
+1,Nicky Little & Dan Davis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,5.027KM,5.858KM,1
+2,Alessio Humar & Gioele Arreghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.768KM,5.716KM,2
+3,Damiano Curati & Alessandro Bomprezzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.673KM,3
+4,Dario Panaro & Samuele Sciarretta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.597KM,4
+5,Davide Di Giacomo & Giuseppe Deleonardis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.388KM,5.689KM,5
+6,LUIGI INVOLTI & alessandro rodella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.208KM,5.865KM,6
+7,Massimo Cariello & Ivan Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.193KM,5.828KM,7
+8,Mauro Frulla & Riccardo Cicetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.314KM,5.681KM,8
+9,Claudio Sona & Nicholas Cornia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.435KM,5.559KM,9
+10,Flavio Lavecchia & Manuel Licci,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.778KM,5.19KM,10
+11,jude oduro kwarteng & Federico Bellotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.832KM,5.067KM,11
+12,Diego Meletti & pietro.selleri Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.386KM,5.508KM,12
+13,Isacco Martufi & Gaetano.fidanzati Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.246KM,5.646KM,13
+14,Luigi Esposito Mocerino & Mykola Lapta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.026KM,5.863KM,14
+15,Cristian Bonetti & Riccardo Ruggeri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.21KM,5.643KM,15
+16,Barry Coombs & Craig Thompson,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.289KM,5.523KM,16
+17,Kit Timmis & Sam Kipling,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.028KM,5.783KM,17
+18,Filippo Segata & David Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.3KM,18
+19,Luca Tamborrini & Stefano Tomadini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.141KM,5.647KM,19
+20,Alvise Rigo & Riccardo Paparella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.974KM,5.791KM,20
+21,Filippo Fiscella & Fabio Fiscella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.71KM,6.049KM,21
+22,Daniele Cortesi & Enrico Mangalaviti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.25KM,5.49KM,22
+23,Antonio Trigiante & Michele La Raia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.302KM,5.436KM,23
+24,Andrea Traica & Daniele Domeneghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.116KM,5.588KM,24
+25,Sam McGill & Ross Scudamore,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.034KM,5.66KM,25
+26,Gabriele Fasoli & Juan Gregorio Cruz Espinel,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.197KM,5.494KM,26
+27,Andrei Cătălin Badiu & Pietro razzai.pietro@gmail.com,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.353KM,5.325KM,27
+28,Eric De Felicibus & Luca Loglio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.435KM,5.226KM,28
+29,stanislav svyshch & Gigi Rizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.394KM,5.251KM,29
+30,Francesco Testi & Matteo Stoppaccioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.185KM,5.442KM,30
+31,Cristiano Oddo & Roberto Bigoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.861KM,31
+32,Massimo Biasion & Giulio Cecchin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.888KM,5.686KM,32
+33,Daniele Convento & Mattia Venini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.011KM,5.559KM,33
+34,Luca Bonomo & Giammarco De Persiis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.967KM,5.6KM,34
+35,Dean Leary & Josh Bowen,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.312KM,5.239KM,35
+36,Stefano Minini & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.41KM,5.121KM,36
+37,Francesco Battaglia & Alessandro Battaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.914KM,5.538KM,37
+38,Mattia De Flaviis & Federico Simondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.69KM,38
+39,Giacomo Galliani & Edoardo Mulfari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.423KM,5KM,39
+40,GABRIELE TORTORELLA & Oscar La Spina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.894KM,5.511KM,40
+41,Nico Marcovecchio & Andrea Falone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.72KM,5.68KM,41
+42,Gianluca Cicero & Federico Puricelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.175KM,5.21KM,42
+43,Luca Folli & Matteo Bombino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.78KM,5.601KM,43
+44,Rocco Gentiluomo & Saverio Pinneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.125KM,5.254KM,44
+45,Nicholas Vasta & Angelino Marras,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.841KM,5.515KM,45
+46,Alessandro Troiani & Massimiliano Felaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.081KM,5.271KM,46
+47,Nicolo Grandini & Kevin Palumbo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.526KM,4.801KM,47
+48,Nicolo Lazzaro & Francesco Pagano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.936KM,5.387KM,48
+49,Vincenzo Sgaramella & Mattia Falleroni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.066KM,5.255KM,49
+50,Alexander Stephan & Kevin Paul Monneck,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.565KM,50
+51,Salvatore Scolaro & Andrea Giovanni Spinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.918KM,5.384KM,51
+52,Alessio Bianchi & Edoardo Bettarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.754KM,5.54KM,52
+53,Antonio Argento & Luca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.967KM,5.326KM,53
+54,Giulio Bertolino & Yari Tossio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.528KM,54
+55,Patrick Gerlich & Justus Eckert,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.526KM,55
+56,federico castrini & Luca Benedetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.589KM,5.685KM,56
+57,Joël Brunner & Sasha Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.802KM,5.467KM,57
+58,Gabriele Ghisu & Patrizio Viero,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.25KM,5.017KM,58
+59,Lewys Morgan-Smith & Arran Arogundade,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.493KM,59
+60,Ignacio Mondino & Nicolò Borromeo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.093KM,5.144KM,60
+61,Andrea Ussia & Fabio Bertoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.979KM,5.257KM,61
+62,Giovanni Cattari & Mattia Baltuzzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.477KM,62
+63,Lorenzo Parente & Andrea Russo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.478KM,5.748KM,63
+64,Davide Dallai & Sandro Del Genio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.568KM,5.638KM,64
+65,Lorenzo Morandin & Marco Martinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.447KM,65
+66,Samuele Marzorati & Nicolò Ferrara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.25KM,4.945KM,66
+67,Alex Willerton & Taylor Hastings,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.442KM,67
+68,Giuseppe Siracusa & Rosario Losordo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.763KM,5.384KM,68
+69,Davide De Grazia & Luca Barbaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.391KM,69
+70,Fabrizio Paná & Riccardo Spilinga,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.13KM,5.009KM,70
+71,Kalvin Anns & Edward Purcell,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.637KM,5.492KM,71
+72,Daniele Romagnoli & Michael Lucca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.316KM,4.79KM,72
+73,Giuseppe Surace & Matteo Picotti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.697KM,5.402KM,73
+74,Alexandre Naudinat & Nicolas Naudinat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.582KM,5.511KM,74
+75,Nicola Zama & Riccardo Rocchi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.333KM,75
+76,Thomas Renda & salvatore tarantino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.542KM,5.516KM,76
+77,Gabriele Ricciardi & andrea riccardo tessarin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.783KM,5.251KM,77
+78,Stefano Alberti & Andrea Simonini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.516KM,5.517KM,78
+79,Juri Masuri & Beniamino Valoti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.252KM,79
+80,Dominic Raisch & Marcel Haile,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.537KM,5.46KM,80
+81,simone minicucci & Luca Tanzarella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.238KM,81
+81,Guido Cane & Andrea Cianferoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.238KM,81
+83,Daniele Dalmasso & Niccolò Pezzoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.928KM,5.047KM,83
+84,Kok Sue Huynh & Nicola Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.218KM,84
+85,Leonardo Simone Pilo' & Davide Mariuzzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.301KM,5.662KM,85
+86,Emilio Agnello & Corrado La Francesca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.83KM,5.131KM,86
+87,fulvio forlin & Saracino Angelo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.607KM,5.35KM,87
+88,Rocco Barbaro & Natale Carbone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.704KM,5.25KM,88
+89,Francesco Miranda & Lorenzo Serena,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.062KM,4.877KM,89
+90,Marco Romagno & Rossano Patane,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.837KM,5.091KM,90
+91,Michele Saibene & Mirko Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.974KM,4.951KM,91
+92,Ingemar Girolomoni & Lorenzo Caldari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.162KM,92
+93,Andrea Cesi & Michael Campagnari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.157KM,93
+94,Riccardo Motta & Massimiliano Bardini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.565KM,5.317KM,94
+95,Luca Andreatta & Mario gabaldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.707KM,5.172KM,95
+96,Lorenzo Cella & Manuel Giraldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.647KM,5.226KM,96
+97,Sergio De Ceglia & Giuliano Zhou,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.118KM,97
+98,Daniele Marastoni & Simone Predieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.599KM,5.249KM,98
+99,Gabriele Cortonesi & Gioele Giovagnoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.597KM,5.248KM,99
+100,Fiusis Badiali & Pepponi Luca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.866KM,4.977KM,100
+101,Marcello marcellomoi@gmail.com & Marco Salfi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.274KM,5.566KM,101
+102,Simone Marcato & Luca Veronese,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.044KM,4.794KM,102
+103,Alexis Manuel Cina’ & Alessio Sanvito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.082KM,103
+104,Michael Leuppi & Daniel Maurer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.371KM,5.438KM,104
+105,Salim Gerges & Di Marzio Emiliano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.677KM,5.116KM,105
+106,Benvenuto Alfieri & Marco Oldani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.534KM,5.247KM,106
+107,Filippo Rizzello & Sergio Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.703KM,5.012KM,107
+108,Luca Ferrari & Gianpaolo Lanza,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.642KM,5.067KM,108
+109,Francesco Lapreziosa & Tommaso Cruciani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.758KM,4.947KM,109
+110,Fabio Galgani & Fabio Paoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.935KM,110
+111,Duccio Fontanelli & Federico Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.789KM,5.892KM,111
+112,Arturo Giovanni Imbrauglio & Alessio Colosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.985KM,4.686KM,112
+112,Alex Campete & Federico Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.64KM,5.031KM,112
+114,Jamie Anderson & James Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.198KM,5.437KM,114
+115,Mark Hartnett-Morgan & Joe Spencer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.88KM,115
+116,gianluca casadidio & Deluxegrosseto@gmail.com Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.408KM,5.207KM,116
+117,Giuseppe Quaresima & Marco Esposito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.094KM,4.511KM,117
+118,Paolo Rossetti & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.478KM,5.107KM,118
+119,Giovanni Freni & paolo di marco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.834KM,119
+120,Jorge Mendoza Raya & Jesus daniel Gomez bombace,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.68KM,4.899KM,120
+121,Luca Olivieri & Fabio Baiocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.426KM,5.144KM,121
+122,Federico Mosti & Andrea Giuliani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.39KM,5.156KM,122
+123,Federico Mainenti & Alessandro Pighi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.207KM,5.323KM,123
+124,Giuseppe Quaresima & Mario Vitiello,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.948KM,4.57KM,124
+125,Simone Coraggi & Leonardo Biancalana,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.017KM,4.468KM,125
+126,Alessandro Angelini & Lorenzo Riccò,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.728KM,126
+127,Giuseppe Cocilovo & Riccardo Biolchini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.617KM,4.831KM,127
+128,Niccolò Frassineti & Lucio Innocenti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.537KM,4.867KM,128
+129,Federico Ruzzante & Luca Ruzzante,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.505KM,4.897KM,129
+130,Jonny Di Lauro & Emiliano Borin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.687KM,4.673KM,130
+131,Dane Fallon & Louis Garner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.694KM,4.665KM,131
+132,Charles Price & Adam Glover,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.552KM,4.772KM,132
+133,Timothy Zanolini & Giovanni Boni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.692KM,4.629KM,133
+134,Federico Grillo & Giuseppe Nigro,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.84KM,4.47KM,134
+135,Alessio Stellato & Francesco Mosca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.538KM,4.728KM,135
+136,Andrea Scapicchi & Yari Cesarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.429KM,4.749KM,136
+137,Mattia Cedola & Luca Gallan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.386KM,137
+138,Simone Bonifazi & Gianfranco Ferronato,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.18KM,4.859KM,138
+139,Nicola Dall'Olio & Sergio Parentini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.01KM,5.008KM,139
+140,Stefano Senatore & Gabriele Nardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.448KM,4.479KM,140
+141,Roberto Rodriquez & Edoardo Baschirotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.94KM,4.932KM,141
+1,Lewys Morgan-Smith & Arran Arogundade,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,226KG,370KG,410KG,,,1
+2,Isacco Martufi & Gaetano.fidanzati Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,170KG,384KG,420KG,,,2
+3,Lorenzo Parente & Andrea Russo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,190KG,370KG,410KG,,,3
+4,Timothy Zanolini & Giovanni Boni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,153KG,350KG,385KG,,,4
+5,Stefano Alberti & Andrea Simonini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,156KG,341KG,390KG,,,5
+6,Thomas Renda & salvatore tarantino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,166KG,340KG,380KG,,,6
+7,Alvise Rigo & Riccardo Paparella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,172KG,320KG,386KG,,,7
+8,Kit Timmis & Sam Kipling,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,155KG,340KG,380KG,,,8
+9,simone minicucci & Luca Tanzarella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,168KG,342KG,354KG,,,9
+10,Filippo Fiscella & Fabio Fiscella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,164KG,311KG,385KG,,,10
+11,Antonio Argento & Luca Seminara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,155KG,330KG,367KG,,,11
+12,Federico Mosti & Andrea Giuliani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,350KG,350KG,,,12
+13,Davide De Grazia & Luca Barbaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,172KG,315KG,345KG,,,13
+14,Luigi Esposito Mocerino & Mykola Lapta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,290KG,380KG,,,14
+15,Riccardo Motta & Massimiliano Bardini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,133KG,320KG,355KG,,,15
+16,Diego Meletti & pietro.selleri Team,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,305KG,350KG,,,16
+17,Gabriele Ricciardi & andrea riccardo tessarin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,160KG,283KG,360KG,,,17
+18,Sam McGill & Ross Scudamore,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,290KG,360KG,,,18
+18,Luca Tamborrini & Stefano Tomadini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,300KG,350KG,,,18
+20,Giuseppe Cocilovo & Riccardo Biolchini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,153KG,300KG,340KG,,,20
+21,Luca Olivieri & Fabio Baiocco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,290KG,350KG,,,21
+22,Duccio Fontanelli & Federico Rossi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,295KG,353KG,,,22
+23,Alessio Bianchi & Edoardo Bettarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,160KG,275KG,350KG,,,23
+24,Massimo Biasion & Giulio Cecchin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,163KG,280KG,340KG,,,24
+25,Nicky Little & Dan Davis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,280KG,350KG,,,25
+26,Lorenzo Morandin & Marco Martinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,120KG,295KG,364KG,,,26
+27,Alex Willerton & Taylor Hastings,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,165KG,270KG,340KG,,,27
+28,Nicolo Lazzaro & Francesco Pagano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,300KG,340KG,,,28
+28,Claudio Sona & Nicholas Cornia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,160KG,270KG,340KG,,,28
+28,Filippo Rizzello & Sergio Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,155KG,300KG,315KG,,,28
+31,Gabriele Cortonesi & Gioele Giovagnoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,293KG,325KG,,,31
+32,Luca Bonomo & Giammarco De Persiis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,145KG,270KG,350KG,,,32
+33,Samuele Marzorati & Nicolò Ferrara,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,126KG,272KG,365KG,,,33
+34,Dario Panaro & Samuele Sciarretta,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,153KG,294KG,314KG,,,34
+35,Andrea Ussia & Fabio Bertoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,163KG,280KG,315KG,,,35
+36,Barry Coombs & Craig Thompson,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,152KG,270KG,335KG,,,36
+37,Patrick Gerlich & Justus Eckert,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,151KG,280KG,325KG,,,37
+38,LUIGI INVOLTI & alessandro rodella,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,144KG,279KG,329KG,,,38
+39,Giuseppe Siracusa & Rosario Losordo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,145KG,260KG,345KG,,,39
+40,Dominic Raisch & Marcel Haile,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,143KG,265KG,340KG,,,40
+40,Rocco Gentiluomo & Saverio Pinneri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,280KG,328KG,,,40
+42,Alessio Humar & Gioele Arreghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,145KG,270KG,330KG,,,42
+42,Nicola Zama & Riccardo Rocchi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,155KG,290KG,300KG,,,42
+44,Lorenzo Cella & Manuel Giraldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,147KG,260KG,335KG,,,44
+45,Marco Romagno & Rossano Patane,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,290KG,310KG,,,45
+46,Cristian Bonetti & Riccardo Ruggeri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,158KG,270KG,310KG,,,46
+46,Kok Sue Huynh & Nicola Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,134KG,302KG,302KG,,,46
+48,Alessandro Troiani & Massimiliano Felaco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,134KG,280KG,320KG,,,48
+49,Luca Ferrari & Gianpaolo Lanza,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,133KG,280KG,320KG,,,49
+50,Giuseppe Surace & Matteo Picotti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,250KG,340KG,,,50
+50,GABRIELE TORTORELLA & Oscar La Spina,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,270KG,320KG,,,50
+52,Salvatore Scolaro & Andrea Giovanni Spinelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,143KG,280KG,305KG,,,52
+52,Nico Marcovecchio & Andrea Falone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,136KG,262KG,330KG,,,52
+54,Dane Fallon & Louis Garner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,148KG,275KG,300KG,,,54
+55,Mark Hartnett-Morgan & Joe Spencer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,159KG,240KG,322KG,,,55
+56,Francesco Testi & Matteo Stoppaccioli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,138KG,260KG,320KG,,,56
+57,Alexis Manuel Cina’ & Alessio Sanvito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,121KG,270KG,320KG,,,57
+58,federico castrini & Luca Benedetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,235KG,330KG,,,58
+58,Jamie Anderson & James Richards,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,145KG,250KG,310KG,,,58
+58,Roberto Rodriquez & Edoardo Baschirotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,135KG,250KG,320KG,,,58
+61,Filippo Segata & David Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,139KG,265KG,300KG,,,61
+62,Andrea Cesi & Michael Campagnari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,136KG,257KG,310KG,,,62
+63,Daniele Convento & Mattia Venini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,136KG,251KG,315KG,,,63
+64,Daniele Cortesi & Enrico Mangalaviti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,250KG,320KG,,,64
+65,Emilio Agnello & Corrado La Francesca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,139KG,240KG,315KG,,,65
+66,Andrea Traica & Daniele Domeneghini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,137KG,255KG,300KG,,,66
+66,Rocco Barbaro & Natale Carbone,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,142KG,250KG,300KG,,,66
+66,Ingemar Girolomoni & Lorenzo Caldari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,132KG,265KG,295KG,,,66
+69,Davide Di Giacomo & Giuseppe Deleonardis,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,135KG,250KG,305KG,,,69
+70,Simone Coraggi & Leonardo Biancalana,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,275KG,280KG,,,70
+71,Federico Mainenti & Alessandro Pighi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,124KG,245KG,315KG,,,71
+71,Marcello marcellomoi@gmail.com & Marco Salfi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,134KG,250KG,300KG,,,71
+73,Cristiano Oddo & Roberto Bigoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,150KG,223KG,310KG,,,73
+74,Daniele Dalmasso & Niccolò Pezzoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,250KG,290KG,,,74
+74,Daniele Marastoni & Simone Predieri,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,230KG,310KG,,,74
+76,Michele Saibene & Mirko Merlo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,138KG,197KG,343KG,,,76
+76,Davide Dallai & Sandro Del Genio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,128KG,250KG,300KG,,,76
+78,Nicola Dall'Olio & Sergio Parentini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,115KG,260KG,300KG,,,78
+78,Gabriele Fasoli & Juan Gregorio Cruz Espinel,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,120KG,245KG,310KG,,,78
+78,Luca Folli & Matteo Bombino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,120KG,250KG,305KG,,,78
+81,Alex Campete & Federico Bongiovanni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,124KG,257KG,290KG,,,81
+82,Mauro Frulla & Riccardo Cicetti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,128KG,250KG,290KG,,,82
+83,Giovanni Cattari & Mattia Baltuzzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,117KG,250KG,300KG,,,83
+84,Paolo Rossetti & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,236KG,298KG,,,84
+85,Gianluca Cicero & Federico Puricelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,132KG,240KG,290KG,,,85
+86,Guido Cane & Andrea Cianferoni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,250KG,285KG,,,86
+87,Francesco Lapreziosa & Tommaso Cruciani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,129KG,231KG,295KG,,,87
+88,Michael Leuppi & Daniel Maurer,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,133KG,244KG,275KG,,,88
+89,Arturo Giovanni Imbrauglio & Alessio Colosi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,112KG,245KG,290KG,,,89
+90,Mattia De Flaviis & Federico Simondi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,145KG,220KG,280KG,,,90
+90,Nicholas Vasta & Angelino Marras,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,235KG,280KG,,,90
+90,Sergio De Ceglia & Giuliano Zhou,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,230KG,285KG,,,90
+93,fulvio forlin & Saracino Angelo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,142KG,219KG,280KG,,,93
+93,Giuseppe Quaresima & Mario Vitiello,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,126KG,236KG,279KG,,,93
+93,Jonny Di Lauro & Emiliano Borin,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,239KG,280KG,,,93
+96,Leonardo Simone Pilo' & Davide Mariuzzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,230KG,285KG,,,96
+97,Andrei Cătălin Badiu & Pietro razzai.pietro@gmail.com,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,125KG,240KG,271KG,,,97
+98,gianluca casadidio & Deluxegrosseto@gmail.com Graziano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,111KG,209KG,315KG,,,98
+99,Kalvin Anns & Edward Purcell,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,134KG,210KG,290KG,,,99
+99,Alexandre Naudinat & Nicolas Naudinat,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,236KG,276KG,,,99
+101,stanislav svyshch & Gigi Rizzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,103KG,240KG,290KG,,,101
+102,Dean Leary & Josh Bowen,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,140KG,220KG,270KG,,,102
+103,Joël Brunner & Sasha Brunner,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,133KG,216KG,276KG,,,103
+104,jude oduro kwarteng & Federico Bellotto,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,110KG,250KG,260KG,,,104
+105,Giulio Bertolino & Yari Tossio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,119KG,210KG,290KG,,,105
+106,Damiano Curati & Alessandro Bomprezzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,118KG,222KG,276KG,,,106
+107,Massimo Cariello & Ivan Carminati,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,120KG,210KG,280KG,,,107
+108,Charles Price & Adam Glover,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,126KG,220KG,260KG,,,108
+108,Eric De Felicibus & Luca Loglio,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,102KG,218KG,286KG,,,108
+110,Antonio Trigiante & Michele La Raia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,120KG,215KG,270KG,,,110
+111,Luca Andreatta & Mario gabaldo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,250KG,230KG,,,111
+111,Benvenuto Alfieri & Marco Oldani,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,225KG,255KG,,,111
+113,Federico Ruzzante & Luca Ruzzante,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,124KG,205KG,270KG,,,113
+114,Daniele Romagnoli & Michael Lucca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,122KG,215KG,260KG,,,114
+115,Niccolò Frassineti & Lucio Innocenti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,114KG,230KG,250KG,,,115
+115,Fiusis Badiali & Pepponi Luca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,124KG,220KG,250KG,,,115
+117,Andrea Scapicchi & Yari Cesarini,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,106KG,220KG,265KG,,,117
+118,Juri Masuri & Beniamino Valoti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,125KG,220KG,240KG,,,118
+118,Francesco Miranda & Lorenzo Serena,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,115KG,215KG,255KG,,,118
+118,Fabio Galgani & Fabio Paoletti,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,113KG,212KG,260KG,,,118
+121,Alexander Stephan & Kevin Paul Monneck,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,107KG,205KG,270KG,,,121
+122,Alessandro Angelini & Lorenzo Riccò,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,117KG,215KG,249KG,,,122
+123,Giovanni Freni & paolo di marco,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,110KG,190KG,280KG,,,123
+123,Francesco Battaglia & Alessandro Battaglia,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,125KG,210KG,245KG,,,123
+123,Federico Grillo & Giuseppe Nigro,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,115KG,195KG,270KG,,,123
+126,Salim Gerges & Di Marzio Emiliano,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,118KG,180KG,280KG,,,126
+127,Ignacio Mondino & Nicolò Borromeo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,110KG,213KG,253KG,,,127
+128,Nicolo Grandini & Kevin Palumbo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,135KG,190KG,250KG,,,128
+128,Stefano Minini & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,110KG,175KG,290KG,,,128
+130,Gabriele Ghisu & Patrizio Viero,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,114KG,210KG,250KG,,,130
+131,Mattia Cedola & Luca Gallan,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,106KG,205KG,260KG,,,131
+132,Stefano Senatore & Gabriele Nardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,125KG,190KG,250KG,,,132
+133,Giacomo Galliani & Edoardo Mulfari,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,125KG,195KG,225KG,,,133
+134,Flavio Lavecchia & Manuel Licci,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,130KG,182KG,224KG,,,134
+135,Giuseppe Quaresima & Marco Esposito,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,115KG,174KG,245KG,,,135
+136,Vincenzo Sgaramella & Mattia Falleroni,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,114KG,178KG,235KG,,,136
+137,Alessio Stellato & Francesco Mosca,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,125KG,180KG,220KG,,,137
+138,Simone Marcato & Luca Veronese,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,100KG,170KG,240KG,,,138
+139,Fabrizio Paná & Riccardo Spilinga,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,106KG,180KG,220KG,,,139
+140,Jorge Mendoza Raya & Jesus daniel Gomez bombace,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,102KG,170KG,205KG,,,140
+141,Simone Bonifazi & Gianfranco Ferronato,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,105KG,150KG,215KG,,,141

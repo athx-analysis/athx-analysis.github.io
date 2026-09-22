@@ -1,0 +1,633 @@
+rank,team_name,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Vanessa Gallogly & Gillian Brooks,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,1
+2,Mary Power & Anna Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,2
+3,Rebecca McAlinden & Jane Morrison,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,3
+4,Emma Doran & Kelsey Luke,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,4
+5,Laura Lyons & Marie Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,5
+6,Ayushi Tripathi & Rachel Hall,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,6
+7,Doireann Dillon & Roisin Patterson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,7
+8,niamh erhard & Paula Dowling,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,8
+9,Gillian McNally & Catherine Synnott,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,9
+9,Helen Whearity & Carla Beattie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,9
+9,Aine Taylor & Julie Plunkett,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,9
+1,Amy Colton & Dylan Connolly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,3 (335KG),1 (19.007KM),2 (11:46),,,,,,6
+2,Cathal Parkes & Muireann Odonnell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,4 (327KG),4 (18.176KM),1 (11:31),,,,,,9
+3,Sean Fitzpatrick & Fiona Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,2 (365KG),6 (17.525KM),12 (15:22),,,,,,20
+4,Khalum Doyle & Kayleigh Mooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,8 (303KG),5 (17.849KM),7 (14:06),,,,,,20
+5,Dave Harty & Gemma Keady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,11 (287KG),8 (17.306KM),5 (14:03),,,,,,24
+5,Emannuel Machado & eduarda devicari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,9 (299KG),12 (17.179KM),3 (13:41),,,,,,24
+7,Lauren Brown & Stephen Mackie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,22 (241KG),3 (18.656KM),4 (13:52),,,,,,29
+7,Sean Rees & Grace Mannion,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,5 (325KG),18 (16.872KM),6 (14:05),,,,,,29
+9,Bernard Hughes & Hannah Rice,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,7 (310KG),10 (17.228KM),13 (15:31),,,,,,30
+9,Joe Tallon & Helen Tallon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,12 (278KG),7 (17.361KM),11 (15:07),,,,,,30
+11,Shane Griffith & Sinead Griffith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,1 (368KG),22 (16.708KM),10 (14:50),,,,,,33
+12,Michael Rochford & Mary Quinn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,6 (319KG),19 (16.761KM),9 (14:41),,,,,,34
+13,Alan Kavanagh & Carmel Kavanagh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,16 (257KG),11 (17.185KM),8 (14:19),,,,,,35
+14,John Allen Glynn & Miriam Ward,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,10 (288KG),14 (17.122KM),14 (15:40),,,,,,38
+15,Kevin ODwyer & Bethany Elms,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,14 (269KG),9 (17.302KM),17 (16:03),,,,,,40
+16,Brendan Duffy & Cathriona Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,15 (263KG),16 (16.94KM),18 (16:08),,,,,,49
+17,Cevher Mete & Irene Masegosa,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,17 (254KG),17 (16.924KM),16 (15:56),,,,,,50
+17,Marie Bracken & Cillian Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,18 (250KG),13 (17.177KM),19 (16:56),,,,,,50
+19,Aoibhin O'Connor & David Gouldson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,25 (235KG),2 (18.976KM),28 (20:18),,,,,,55
+20,Arturs Vitols & Annie O'Connor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,13 (275KG),27 (16.046KM),15 (15:44),,,,,,55
+21,Ben Sherry & Sinéad McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,25 (235KG),15 (17.057KM),21 (17:17),,,,,,61
+22,Neve Doherty & Ross Stevenson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,21 (243KG),21 (16.73KM),20 (17:15),,,,,,62
+23,Claire Carthy & Ho-lap Tse,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,18 (250KG),24 (16.493KM),23 (18:32),,,,,,65
+24,Sonya Tobin & Fraser Thom,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,24 (237KG),20 (16.754KM),27 (20:09),,,,,,71
+25,Gurubir Bains & Laura Erskine,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,23 (240KG),23 (16.577KM),26 (20:03),,,,,,72
+26,Maeve McAllister & Eamon Sheridan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,20 (248KG),31 (14.832KM),24 (18:54),,,,,,75
+27,Mandy Cully & Cian Hyland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,32 (125KG),26 (16.145KM),22 (18:29),,,,,,80
+28,Paul Kane & Jen Cullinan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,27 (230KG),29 (15.967KM),25 (19:58),,,,,,81
+29,Elaine Kelly & Paul Kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,27 (230KG),30 (15.004KM),29 (20:45),,,,,,86
+29,Yvonne Finnegan & Declan McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,31 (197KG),25 (16.305KM),30 (20:49),,,,,,86
+31,Soufi Kaudur & Anny Catalano,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,30 (225KG),28 (15.996KM),31 (21:59),,,,,,89
+32,Sinead Clarke & Darragh Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Overall,27 (230KG),32 (13.903KM),32 (25:29),,,,,,91
+1,Megan Odea & Morgan Wilkes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,1
+2,Shannon Kearney & Colm Kearney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,2
+3,Karolina Gleeson & Aidan Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,3
+4,Sophie McMahon & Emmet O neill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,4
+5,Ross Gribben & Katie Gribben,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,5
+6,Niamh Casserly & Michael Massari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,6
+7,Paul Stretton & Catherine Stretton,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,7
+8,Chloe chloe.crosbie@gmail.com & James Walshe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,8
+9,Shauna McNamara & Benjamin McNamara,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,9
+10,Marius Houelche & Lea Ayme,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,10
+11,Neil Obank & Elaine Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,11
+12,Kevin Horgan & Margaret Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,12
+13,Jennifer Kiernan & Emmet English,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,13
+1,Piotr Kozlowski & Keith Dwyer,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,1 (547KG),1 (19.015KM),1 (14:56),,,,,,3
+2,Gareth Francis & Sean Morris,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,7 (385KG),3 (18.586KM),2 (15:34),,,,,,12
+3,Gareth Moore & Ryan Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,2 (454KG),5 (17.898KM),6 (18:21),,,,,,13
+4,Rocky O'Donovan & Conor Healy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,6 (389KG),4 (18.433KM),3 (16:32),,,,,,13
+5,David O Halloran & Cathal O Longaigh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,4 (407KG),6 (17.312KM),4 (17:15),,,,,,14
+6,Andrew Neenan & Conor Argo,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,3 (445KG),8 (16.801KM),5 (17:23),,,,,,16
+7,Andy Grehan & Martins Bergs,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,8 (378KG),2 (18.865KM),7 (18:57),,,,,,17
+8,Shane Cranny & Ian Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Overall,5 (401KG),7 (17.121KM),8 (21:45),,,,,,20
+1,Vanessa Gallogly & Gillian Brooks,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,1 (233KG),1 (16.222KM),3 (15:28),,,,,,5
+2,Rebecca McAlinden & Jane Morrison,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,3 (203KG),2 (15.854KM),1 (14:18),,,,,,6
+3,Mary Power & Anna Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,2 (220KG),3 (15.527KM),2 (14:36),,,,,,7
+4,Emma Doran & Kelsey Luke,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,4 (169KG),4 (15.397KM),4 (16:47),,,,,,12
+5,Laura Lyons & Marie Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,5 (154KG),6 (15.014KM),6 (18:19),,,,,,17
+6,niamh erhard & Paula Dowling,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,8 (125KG),7 (14.793KM),5 (16:53),,,,,,20
+7,Doireann Dillon & Roisin Patterson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,7 (143KG),8 (14.673KM),7 (18:55),,,,,,22
+7,Helen Whearity & Carla Beattie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,9 (120KG),5 (15.048KM),8 (19:18),,,,,,22
+9,Ayushi Tripathi & Rachel Hall,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,6 (153KG),11 (13.712KM),10 (22:09),,,,,,27
+9,Aine Taylor & Julie Plunkett,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,9 (120KG),9 (14.643KM),9 (20:49),,,,,,27
+11,Gillian McNally & Catherine Synnott,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Overall,9 (120KG),10 (14.18KM),11 (22:30),,,,,,30
+1,Eamon Kelly & Samuel Clark,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,12:21,,,,,,1
+2,Daniel Flanagan & Gavin Finnerty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:02,,,,,,2
+3,Paul McEntee & Aidan Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:09,,,,,,3
+4,Ryan Burnison & Ciaran Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:13,,,,,,4
+5,Wesley Flack & Charlie Flack,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:30,,,,,,5
+6,Andrew Hageman & Paddy Fitzgerald,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:46,,,,,,6
+7,Aodhan Gervin & Mark Carberry,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:47,,,,,,7
+8,Kevin Molloy & David Owens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:50,,,,,,8
+9,Shane McKenna & Paul Rushe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,13:58,,,,,,9
+10,Noel Higgins & Donnacha Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:09,,,,,,10
+11,Stephen Catherwood & Ryan McAleenan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:10,,,,,,11
+12,Malcolm Allister & James McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:18,,,,,,12
+13,Dave Adams & Rory Quigg,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:19,,,,,,13
+14,Alastor Moody & Tiernan Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:25,,,,,,14
+15,nathan dempsey & Stephen Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:33,,,,,,15
+16,Jamie Newington & Dan Fisher,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:34,,,,,,16
+17,Iestyn Owen & Ivan Bolger,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:45,,,,,,17
+18,Yegor Varonik & Ciarán Purcell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:46,,,,,,18
+19,Pete Slevin & Conor Bayne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,14:51,,,,,,19
+20,Harry Doorley & Mark Giles,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,15:00,,,,,,20
+21,Roderick Main & Lewis Govenlock,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,15:10,,,,,,21
+22,Gav Buggy & James Connolly Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,15:33,,,,,,22
+23,Jake Smyth & Daniel Hayes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,15:42,,,,,,23
+24,Sean Power & Theo Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,15:54,,,,,,24
+25,diarmaid kelly & Glen Barron,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,16:15,,,,,,25
+26,Shane Smyth & Dwayne Halpenny,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,16:42,,,,,,26
+27,Lewis Bain & Stuart Wright,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,16:46,,,,,,27
+28,Dean McMahon & Shane Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,16:47,,,,,,28
+29,Paul OConnor & Keith Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,16:52,,,,,,29
+30,Jeff Hurst & Keith Doherty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,17:51,,,,,,30
+31,Joshua Burke Hayes & Daniel McAllister,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,18:06,,,,,,31
+32,James Kelly & Brendan Fox,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,18:10,,,,,,32
+33,Stuart Pannell & Laurence Pannell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,18:17,,,,,,33
+34,Karl Mccallig & Adam Coughlan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,18:35,,,,,,34
+35,Neil Griffin & Anthony Hewitt,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,18:36,,,,,,35
+36,Sean Shuttleworth & Conleth Morgan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,19:09,,,,,,36
+37,Andrew Murphy & Bob Dempsey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,19:56,,,,,,37
+38,David Quinn & Graham Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,20:05,,,,,,38
+39,Keith Hogan & Dylan Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,20:34,,,,,,39
+40,Mark Hamill & dan kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,20:38,,,,,,40
+41,Patrick O'Boyle & Brian Gordon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,20:49,,,,,,41
+42,Brian Wildes & James Donnelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,20:59,,,,,,42
+43,Conor Rafferty & Sean Savage,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,22:20,,,,,,43
+44,Andrew Stansell & Stephen Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,22:21,,,,,,44
+45,Karl O Rourke & Michael Keddy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,22:53,,,,,,45
+46,Paddy Kenna & Chris Magill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,23:40,,,,,,46
+47,Paul Caffrey & Mikey Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,23:41,,,,,,47
+48,Jerome Vorster & Marc McClure,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,MetCon X,,,25:27,,,,,,48
+1,Sophie McMahon & Emmet O neill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,4 (265KG),2 (17.219KM),1 (13:25),,,,,,7
+2,Ross Gribben & Katie Gribben,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,5 (250KG),1 (17.515KM),2 (13:48),,,,,,8
+3,Megan Odea & Morgan Wilkes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,1 (290KG),5 (16.297KM),3 (14:11),,,,,,9
+4,Marius Houelche & Lea Ayme,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,10 (210KG),3 (16.943KM),4 (15:12),,,,,,17
+5,Paul Stretton & Catherine Stretton,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,7 (231KG),6 (15.949KM),5 (16:13),,,,,,18
+6,Karolina Gleeson & Aidan Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,3 (268KG),9 (15.48KM),7 (17:15),,,,,,19
+7,Shannon Kearney & Colm Kearney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,2 (280KG),12 (14.919KM),6 (16:42),,,,,,20
+8,Jennifer Kiernan & Emmet English,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,13 (173KG),4 (16.608KM),8 (18:37),,,,,,25
+9,Niamh Casserly & Michael Massari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,6 (245KG),11 (15.219KM),9 (19:29),,,,,,26
+9,Chloe chloe.crosbie@gmail.com & James Walshe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,8 (228KG),7 (15.603KM),11 (22:27),,,,,,26
+11,Shauna McNamara & Benjamin McNamara,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,9 (224KG),8 (15.521KM),10 (19:42),,,,,,27
+12,Neil Obank & Elaine Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,11 (195KG),10 (15.24KM),12 (23:06),,,,,,33
+13,Kevin Horgan & Margaret Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Overall,12 (183KG),13 (14.164KM),13 (23:50),,,,,,38
+1,Shauna Diamond & Aoife Flannery,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Pro,MetCon X,,,17:35,,,,,,1
+1,Aileen McCann & Baz gouldsbury,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,12:53,,,,,,1
+2,James Sunderland & Laura Sunderland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,13:27,,,,,,2
+3,Cristian Liberona & Claudine Aziz,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:11,,,,,,3
+3,Graham Keenan & yasmin Team,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:11,,,,,,3
+5,Zachary Farrell & Emma kate Carroll,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,16:14,,,,,,5
+6,Carlotta Bertolino & Jacob Baisley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,18:44,,,,,,6
+7,Jude Venn & Clodagh Neville,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,19:02,,,,,,7
+8,Zenouska Murphy & Robert McMullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,MetCon X,,,19:49,,,,,,8
+1,Noel Higgins & Donnacha Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Sean Power & Theo Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Shane McKenna & Paul Rushe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Andrew Hageman & Paddy Fitzgerald,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Aodhan Gervin & Mark Carberry,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,Ryan Burnison & Ciaran Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Daniel Flanagan & Gavin Finnerty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Jake Smyth & Daniel Hayes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,Paul McEntee & Aidan Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Yegor Varonik & Ciarán Purcell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Pete Slevin & Conor Bayne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,Roderick Main & Lewis Govenlock,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Conor Rafferty & Sean Savage,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Harry Doorley & Mark Giles,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Paul OConnor & Keith Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,Dean McMahon & Shane Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,Eamon Kelly & Samuel Clark,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Iestyn Owen & Ivan Bolger,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Kevin Molloy & David Owens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Andrew Stansell & Stephen Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,20
+21,Malcolm Allister & James McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,21
+22,Lewis Bain & Stuart Wright,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,22
+23,Stuart Pannell & Laurence Pannell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,23
+24,Paul Caffrey & Mikey Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,24
+25,Neil Griffin & Anthony Hewitt,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,25
+26,nathan dempsey & Stephen Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,26
+27,Stephen Catherwood & Ryan McAleenan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,27
+28,Gav Buggy & James Connolly Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,28
+29,Wesley Flack & Charlie Flack,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,29
+30,Karl Mccallig & Adam Coughlan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,30
+31,Jamie Newington & Dan Fisher,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,31
+32,Alastor Moody & Tiernan Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,32
+33,Dave Adams & Rory Quigg,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,33
+34,David Quinn & Graham Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,34
+35,Jeff Hurst & Keith Doherty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,35
+36,James Kelly & Brendan Fox,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,36
+37,Andrew Murphy & Bob Dempsey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,37
+38,diarmaid kelly & Glen Barron,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,38
+39,Sean Shuttleworth & Conleth Morgan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,39
+40,Patrick O'Boyle & Brian Gordon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,40
+41,Paddy Kenna & Chris Magill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,41
+42,Shane Smyth & Dwayne Halpenny,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,42
+43,Karl O Rourke & Michael Keddy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,43
+44,Brian Wildes & James Donnelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,44
+45,Keith Hogan & Dylan Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,45
+46,Joshua Burke Hayes & Daniel McAllister,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,46
+47,Jerome Vorster & Marc McClure,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,47
+48,Mark Hamill & dan kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Endurance,,,,,,,,,48
+1,Marcos Hiroyshi Sanchis Hayama & Rafael Chiarinelli,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,14:58,,,,,,1
+2,Gareth Quinn & Anton Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,15:15,,,,,,2
+3,Patrick White & Darren Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,16:38,,,,,,3
+4,Brian Mc neice & Anthony Mullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,17:28,,,,,,4
+5,Michael Banahan & Padraig Roche,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,17:42,,,,,,5
+6,Patrick Erhard & Cian Carty Heffernan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,20:02,,,,,,6
+7,Martin Hurley & Marcus Lynch,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,22:12,,,,,,7
+1,Shauna Diamond & Aoife Flannery,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+1,Aileen McCann & Baz gouldsbury,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,1
+2,James Sunderland & Laura Sunderland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,2
+3,Graham Keenan & yasmin Team,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,3
+4,Cristian Liberona & Claudine Aziz,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,4
+5,Zenouska Murphy & Robert McMullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,5
+6,Zachary Farrell & Emma kate Carroll,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,6
+7,Carlotta Bertolino & Jacob Baisley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,7
+8,Jude Venn & Clodagh Neville,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,8
+1,Eamon Kelly & Samuel Clark,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,1
+2,Gav Buggy & James Connolly Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,2
+3,Jamie Newington & Dan Fisher,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,3
+4,Lewis Bain & Stuart Wright,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,4
+5,Malcolm Allister & James McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,5
+6,Andrew Murphy & Bob Dempsey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,6
+7,Yegor Varonik & Ciarán Purcell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+7,Daniel Flanagan & Gavin Finnerty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+7,Mark Hamill & dan kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+7,Ryan Burnison & Ciaran Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+7,Paul McEntee & Aidan Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+12,Shane McKenna & Paul Rushe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,12
+12,nathan dempsey & Stephen Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,12
+12,Brian Wildes & James Donnelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,12
+15,Kevin Molloy & David Owens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,15
+16,Andrew Hageman & Paddy Fitzgerald,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,16
+16,Alastor Moody & Tiernan Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,16
+18,Dave Adams & Rory Quigg,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,18
+19,Pete Slevin & Conor Bayne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,19
+20,Wesley Flack & Charlie Flack,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,20
+21,Roderick Main & Lewis Govenlock,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,21
+22,Jeff Hurst & Keith Doherty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,22
+22,Iestyn Owen & Ivan Bolger,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,22
+24,Jake Smyth & Daniel Hayes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,24
+25,Aodhan Gervin & Mark Carberry,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,25
+26,Paddy Kenna & Chris Magill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,26
+27,Karl Mccallig & Adam Coughlan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,27
+28,Stuart Pannell & Laurence Pannell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,28
+28,David Quinn & Graham Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,28
+30,Sean Power & Theo Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,30
+30,Shane Smyth & Dwayne Halpenny,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,30
+32,Jerome Vorster & Marc McClure,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,32
+33,Harry Doorley & Mark Giles,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,33
+33,Andrew Stansell & Stephen Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,33
+33,Karl O Rourke & Michael Keddy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,33
+36,Joshua Burke Hayes & Daniel McAllister,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,36
+36,Stephen Catherwood & Ryan McAleenan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,36
+36,diarmaid kelly & Glen Barron,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,36
+39,Paul Caffrey & Mikey Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,39
+40,Paul OConnor & Keith Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,40
+40,James Kelly & Brendan Fox,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,40
+42,Keith Hogan & Dylan Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,42
+42,Sean Shuttleworth & Conleth Morgan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,42
+44,Neil Griffin & Anthony Hewitt,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,44
+45,Patrick O'Boyle & Brian Gordon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,45
+46,Noel Higgins & Donnacha Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,46
+47,Dean McMahon & Shane Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,47
+48,Conor Rafferty & Sean Savage,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,48
+1,Patrick White & Darren Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,1
+2,Michael Banahan & Padraig Roche,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,2
+3,Gareth Quinn & Anton Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,3
+4,Brian Mc neice & Anthony Mullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,4
+5,Marcos Hiroyshi Sanchis Hayama & Rafael Chiarinelli,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,5
+6,Patrick Erhard & Cian Carty Heffernan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,6
+7,Martin Hurley & Marcus Lynch,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,7
+1,Shauna Diamond & Aoife Flannery,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+1,Cristian Liberona & Claudine Aziz,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,1
+2,James Sunderland & Laura Sunderland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,2
+3,Jude Venn & Clodagh Neville,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,3
+4,Graham Keenan & yasmin Team,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,4
+5,Aileen McCann & Baz gouldsbury,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,5
+6,Zachary Farrell & Emma kate Carroll,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,6
+7,Carlotta Bertolino & Jacob Baisley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,7
+8,Zenouska Murphy & Robert McMullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,8
+1,Daniel Flanagan & Gavin Finnerty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,7 (375KG),7 (18.961KM),2 (13:02),,,,,,16
+2,Ryan Burnison & Ciaran Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,7 (375KG),6 (18.99KM),4 (13:13),,,,,,17
+3,Eamon Kelly & Samuel Clark,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,1 (430KG),17 (18.039KM),1 (12:21),,,,,,19
+4,Paul McEntee & Aidan Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,7 (375KG),9 (18.842KM),3 (13:09),,,,,,19
+5,Shane McKenna & Paul Rushe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,12 (360KG),3 (19.246KM),9 (13:58),,,,,,24
+6,Andrew Hageman & Paddy Fitzgerald,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,16 (355KG),4 (19.179KM),6 (13:46),,,,,,26
+7,Yegor Varonik & Ciarán Purcell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,7 (375KG),10 (18.724KM),18 (14:46),,,,,,35
+8,Aodhan Gervin & Mark Carberry,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,25 (335KG),5 (19.059KM),7 (13:47),,,,,,37
+9,Malcolm Allister & James McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,5 (394KG),21 (17.875KM),12 (14:18),,,,,,38
+10,Kevin Molloy & David Owens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,15 (359KG),19 (17.942KM),8 (13:50),,,,,,42
+11,Pete Slevin & Conor Bayne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,19 (350KG),11 (18.69KM),19 (14:51),,,,,,49
+12,Jamie Newington & Dan Fisher,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,3 (408KG),31 (17.367KM),16 (14:34),,,,,,50
+13,Gav Buggy & James Connolly Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,2 (420KG),28 (17.573KM),22 (15:33),,,,,,52
+14,nathan dempsey & Stephen Murphy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,12 (360KG),26 (17.625KM),15 (14:33),,,,,,53
+14,Lewis Bain & Stuart Wright,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,4 (405KG),22 (17.844KM),27 (16:46),,,,,,53
+16,Roderick Main & Lewis Govenlock,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,21 (345KG),12 (18.557KM),21 (15:10),,,,,,54
+16,Wesley Flack & Charlie Flack,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,20 (348KG),29 (17.472KM),5 (13:30),,,,,,54
+18,Jake Smyth & Daniel Hayes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,24 (340KG),8 (18.92KM),23 (15:42),,,,,,55
+19,Sean Power & Theo Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,30 (318KG),2 (19.473KM),24 (15:54),,,,,,56
+20,Noel Higgins & Donnacha Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,46 (260KG),1 (19.754KM),10 (14:09),,,,,,57
+21,Iestyn Owen & Ivan Bolger,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,22 (341KG),18 (17.958KM),17 (14:45),,,,,,57
+22,Alastor Moody & Tiernan Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,16 (355KG),32 (17.288KM),14 (14:25),,,,,,62
+23,Dave Adams & Rory Quigg,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,18 (353KG),33 (17.167KM),13 (14:19),,,,,,64
+24,Harry Doorley & Mark Giles,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,33 (310KG),14 (18.313KM),20 (15:00),,,,,,67
+25,Stephen Catherwood & Ryan McAleenan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,36 (300KG),27 (17.6KM),11 (14:10),,,,,,74
+26,Andrew Murphy & Bob Dempsey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,6 (380KG),37 (16.98KM),37 (19:56),,,,,,80
+27,Paul OConnor & Keith Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,40 (290KG),15 (18.268KM),29 (16:52),,,,,,84
+27,Stuart Pannell & Laurence Pannell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,28 (320KG),23 (17.784KM),33 (18:17),,,,,,84
+29,Jeff Hurst & Keith Doherty,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,22 (341KG),35 (17.102KM),30 (17:51),,,,,,87
+30,Karl Mccallig & Adam Coughlan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,27 (325KG),30 (17.404KM),34 (18:35),,,,,,91
+30,Dean McMahon & Shane Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,47 (255KG),16 (18.14KM),28 (16:47),,,,,,91
+32,Mark Hamill & dan kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,7 (375KG),48 (15.729KM),40 (20:38),,,,,,95
+33,Andrew Stansell & Stephen Higgins,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,33 (310KG),20 (17.936KM),44 (22:21),,,,,,97
+34,Shane Smyth & Dwayne Halpenny,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,30 (318KG),42 (16.783KM),26 (16:42),,,,,,98
+34,Brian Wildes & James Donnelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,12 (360KG),44 (16.382KM),42 (20:59),,,,,,98
+36,diarmaid kelly & Glen Barron,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,36 (300KG),38 (16.958KM),25 (16:15),,,,,,99
+37,David Quinn & Graham Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,28 (320KG),34 (17.124KM),38 (20:05),,,,,,100
+38,Neil Griffin & Anthony Hewitt,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,44 (274KG),25 (17.713KM),35 (18:36),,,,,,104
+38,Conor Rafferty & Sean Savage,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,48 (250KG),13 (18.507KM),43 (22:20),,,,,,104
+40,James Kelly & Brendan Fox,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,40 (290KG),36 (17.01KM),32 (18:10),,,,,,108
+41,Paul Caffrey & Mikey Murray,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,39 (293KG),24 (17.781KM),47 (23:41),,,,,,110
+42,Joshua Burke Hayes & Daniel McAllister,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,36 (300KG),46 (15.942KM),31 (18:06),,,,,,113
+42,Paddy Kenna & Chris Magill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,26 (333KG),41 (16.842KM),46 (23:40),,,,,,113
+44,Sean Shuttleworth & Conleth Morgan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,42 (280KG),39 (16.913KM),36 (19:09),,,,,,117
+45,Karl O Rourke & Michael Keddy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,33 (310KG),43 (16.777KM),45 (22:53),,,,,,121
+46,Keith Hogan & Dylan Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,42 (280KG),45 (16.003KM),39 (20:34),,,,,,126
+46,Patrick O'Boyle & Brian Gordon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,45 (270KG),40 (16.874KM),41 (20:49),,,,,,126
+48,Jerome Vorster & Marc McClure,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Overall,32 (315KG),47 (15.859KM),48 (25:27),,,,,,127
+1,Patrick White & Darren Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,1
+2,Gareth Quinn & Anton Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,2
+3,Brian Mc neice & Anthony Mullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,3
+3,Marcos Hiroyshi Sanchis Hayama & Rafael Chiarinelli,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,3
+5,Patrick Erhard & Cian Carty Heffernan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,5
+6,Michael Banahan & Padraig Roche,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,6
+7,Martin Hurley & Marcus Lynch,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,7
+1,Shauna Diamond & Aoife Flannery,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Pro,Overall,1 (310KG),1 (16.141KM),1 (17:35),,,,,,3
+1,James Sunderland & Laura Sunderland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,2 (388KG),2 (17.866KM),2 (13:27),,,,,,6
+2,Aileen McCann & Baz gouldsbury,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,5 (351KG),1 (17.981KM),1 (12:53),,,,,,7
+3,Cristian Liberona & Claudine Aziz,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,1 (393KG),4 (17.689KM),3 (15:11),,,,,,8
+4,Graham Keenan & yasmin Team,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,4 (362KG),3 (17.755KM),3 (15:11),,,,,,10
+5,Zachary Farrell & Emma kate Carroll,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,6 (320KG),6 (17.053KM),5 (16:14),,,,,,17
+6,Jude Venn & Clodagh Neville,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,3 (363KG),8 (16.139KM),7 (19:02),,,,,,18
+7,Carlotta Bertolino & Jacob Baisley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,7 (278KG),7 (16.84KM),6 (18:44),,,,,,20
+8,Zenouska Murphy & Robert McMullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Pro,Overall,8 (215KG),5 (17.492KM),8 (19:49),,,,,,21
+1,Sharon Clarke & Nicole Dunlop,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,14:24,,,,,,1
+2,Larragh Mann & Katie Mann,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,14:34,,,,,,2
+3,Cara Savage & Kirsty McConachie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,14:56,,,,,,3
+4,Olivia Veal & Niamh Foyle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,15:39,,,,,,4
+5,Nicole Molden & Kelsey O Donovan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,15:42,,,,,,5
+6,Caoimhe Moore & Kate Moynihan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,15:52,,,,,,6
+7,Emma Dadford & Jade Smith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,15:53,,,,,,7
+8,Julie McElroy & Harriet Ravenscroft,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,16:07,,,,,,8
+9,Lucy Kenefick & Sinead Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,16:14,,,,,,9
+9,Kyrie O’ Neill & Niamh Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,16:14,,,,,,9
+11,Angelene Jones & Clare Stone,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,16:31,,,,,,11
+12,Ciara Breen & Linda Stephens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,16:34,,,,,,12
+13,Natalie Blumenthal & Rachel Browne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,16:58,,,,,,13
+14,Julie Barnes & Charlotte Roughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,17:13,,,,,,14
+15,Olivia Rainey & Katie McGonigle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,17:40,,,,,,15
+16,Charlotte Bradley & Sian Nutter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,17:50,,,,,,16
+17,Sarah McDonagh & nichola Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,18:03,,,,,,17
+18,Nikki Lowndes & VALERIE Porter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,18:14,,,,,,18
+19,Sara Jamison & Orlaith Magee,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,18:32,,,,,,19
+20,Lucy Kinsella & Rhiannon Lalor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,18:59,,,,,,20
+21,Charlotte Hillan & Lucy McQuaid,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,19:00,,,,,,21
+22,Emma Harris & Rebecca Wade,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,19:19,,,,,,22
+23,Lucinda O Neill & Mandy Rooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,19:28,,,,,,23
+24,Gillian Campbell & Sheila Connell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,20:26,,,,,,24
+25,Georgia Jackson & Leanne Mcauley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,20:34,,,,,,25
+26,Caroline Corey & Helena Mcmahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,20:50,,,,,,26
+27,Lisa Ramsawak & Sav Gillick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,21:09,,,,,,27
+28,Olivan Vaughan & Denise Vaughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,21:44,,,,,,28
+29,Jessica Thraves & Harshini Solanki,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,24:56,,,,,,29
+30,Amy Dempsey & Laura Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,25:12,,,,,,30
+1,Patrick White & Darren Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,1 (349KG),1 (17.197KM),3 (16:38),,,,,,5
+2,Gareth Quinn & Anton Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,2 (325KG),3 (16.796KM),2 (15:15),,,,,,7
+3,Marcos Hiroyshi Sanchis Hayama & Rafael Chiarinelli,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,3 (310KG),5 (15.77KM),1 (14:58),,,,,,9
+4,Brian Mc neice & Anthony Mullen,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,3 (310KG),4 (16.125KM),4 (17:28),,,,,,11
+5,Michael Banahan & Padraig Roche,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,6 (260KG),2 (17.122KM),5 (17:42),,,,,,13
+6,Patrick Erhard & Cian Carty Heffernan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,5 (268KG),6 (14.792KM),6 (20:02),,,,,,17
+7,Martin Hurley & Marcus Lynch,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,Overall,7 (245KG),7 (13.706KM),7 (22:12),,,,,,21
+1,Cathal Parkes & Muireann Odonnell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,11:31,,,,,,1
+2,Amy Colton & Dylan Connolly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,11:46,,,,,,2
+3,Emannuel Machado & eduarda devicari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,13:41,,,,,,3
+4,Lauren Brown & Stephen Mackie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,13:52,,,,,,4
+5,Dave Harty & Gemma Keady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,14:03,,,,,,5
+6,Sean Rees & Grace Mannion,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,14:05,,,,,,6
+7,Khalum Doyle & Kayleigh Mooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,14:06,,,,,,7
+8,Alan Kavanagh & Carmel Kavanagh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,14:19,,,,,,8
+9,Michael Rochford & Mary Quinn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,14:41,,,,,,9
+10,Shane Griffith & Sinead Griffith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,14:50,,,,,,10
+11,Joe Tallon & Helen Tallon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,15:07,,,,,,11
+12,Sean Fitzpatrick & Fiona Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,15:22,,,,,,12
+13,Bernard Hughes & Hannah Rice,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,15:31,,,,,,13
+14,John Allen Glynn & Miriam Ward,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,15:40,,,,,,14
+15,Arturs Vitols & Annie O'Connor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,15:44,,,,,,15
+16,Cevher Mete & Irene Masegosa,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,15:56,,,,,,16
+17,Kevin ODwyer & Bethany Elms,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,16:03,,,,,,17
+18,Brendan Duffy & Cathriona Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,16:08,,,,,,18
+19,Marie Bracken & Cillian Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,16:56,,,,,,19
+20,Neve Doherty & Ross Stevenson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,17:15,,,,,,20
+21,Ben Sherry & Sinéad McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,17:17,,,,,,21
+22,Mandy Cully & Cian Hyland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,18:29,,,,,,22
+23,Claire Carthy & Ho-lap Tse,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,18:32,,,,,,23
+24,Maeve McAllister & Eamon Sheridan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,18:54,,,,,,24
+25,Paul Kane & Jen Cullinan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,19:58,,,,,,25
+26,Gurubir Bains & Laura Erskine,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,20:03,,,,,,26
+27,Sonya Tobin & Fraser Thom,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,20:09,,,,,,27
+28,Aoibhin O'Connor & David Gouldson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,20:18,,,,,,28
+29,Elaine Kelly & Paul Kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,20:45,,,,,,29
+30,Yvonne Finnegan & Declan McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,20:49,,,,,,30
+31,Soufi Kaudur & Anny Catalano,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,21:59,,,,,,31
+32,Sinead Clarke & Darragh Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,MetCon X,,,25:29,,,,,,32
+1,Piotr Kozlowski & Keith Dwyer,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,14:56,,,,,,1
+2,Gareth Francis & Sean Morris,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,15:34,,,,,,2
+3,Rocky O'Donovan & Conor Healy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,16:32,,,,,,3
+4,David O Halloran & Cathal O Longaigh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,17:15,,,,,,4
+5,Andrew Neenan & Conor Argo,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,17:23,,,,,,5
+6,Gareth Moore & Ryan Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,18:21,,,,,,6
+7,Andy Grehan & Martins Bergs,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,18:57,,,,,,7
+8,Shane Cranny & Ian Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,MetCon X,,,21:45,,,,,,8
+1,Julie Barnes & Charlotte Roughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,Sharon Clarke & Nicole Dunlop,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Caoimhe Moore & Kate Moynihan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Sara Jamison & Orlaith Magee,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Lucy Kinsella & Rhiannon Lalor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,Cara Savage & Kirsty McConachie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,Olivia Rainey & Katie McGonigle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Larragh Mann & Katie Mann,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,8
+9,Lucy Kenefick & Sinead Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,9
+10,Emma Harris & Rebecca Wade,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,10
+11,Charlotte Hillan & Lucy McQuaid,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,11
+12,Olivia Veal & Niamh Foyle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,Ciara Breen & Linda Stephens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,Julie McElroy & Harriet Ravenscroft,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Charlotte Bradley & Sian Nutter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Angelene Jones & Clare Stone,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,Natalie Blumenthal & Rachel Browne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,17
+18,Sarah McDonagh & nichola Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,18
+19,Emma Dadford & Jade Smith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Caroline Corey & Helena Mcmahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,Kyrie O’ Neill & Niamh Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Olivan Vaughan & Denise Vaughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,22
+23,Nicole Molden & Kelsey O Donovan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,23
+24,Nikki Lowndes & VALERIE Porter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,24
+25,Lucinda O Neill & Mandy Rooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,25
+26,Amy Dempsey & Laura Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,26
+27,Georgia Jackson & Leanne Mcauley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,27
+28,Gillian Campbell & Sheila Connell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,28
+29,Lisa Ramsawak & Sav Gillick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,29
+30,Jessica Thraves & Harshini Solanki,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Endurance,,,,,,,,,30
+1,Rebecca McAlinden & Jane Morrison,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,14:18,,,,,,1
+2,Mary Power & Anna Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,14:36,,,,,,2
+3,Vanessa Gallogly & Gillian Brooks,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,15:28,,,,,,3
+4,Emma Doran & Kelsey Luke,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,16:47,,,,,,4
+5,niamh erhard & Paula Dowling,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,16:53,,,,,,5
+6,Laura Lyons & Marie Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,18:19,,,,,,6
+7,Doireann Dillon & Roisin Patterson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,18:55,,,,,,7
+8,Helen Whearity & Carla Beattie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,19:18,,,,,,8
+9,Aine Taylor & Julie Plunkett,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,20:49,,,,,,9
+10,Ayushi Tripathi & Rachel Hall,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,22:09,,,,,,10
+11,Gillian McNally & Catherine Synnott,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,MetCon X,,,22:30,,,,,,11
+1,Amy Colton & Dylan Connolly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,1
+2,Aoibhin O'Connor & David Gouldson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,2
+3,Lauren Brown & Stephen Mackie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,3
+4,Cathal Parkes & Muireann Odonnell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,4
+5,Khalum Doyle & Kayleigh Mooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,5
+6,Sean Fitzpatrick & Fiona Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,6
+7,Joe Tallon & Helen Tallon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,7
+8,Dave Harty & Gemma Keady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,8
+9,Kevin ODwyer & Bethany Elms,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,9
+10,Bernard Hughes & Hannah Rice,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,10
+11,Alan Kavanagh & Carmel Kavanagh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,11
+12,Emannuel Machado & eduarda devicari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,12
+13,Marie Bracken & Cillian Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,13
+14,John Allen Glynn & Miriam Ward,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,14
+15,Ben Sherry & Sinéad McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,15
+16,Brendan Duffy & Cathriona Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,16
+17,Cevher Mete & Irene Masegosa,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,17
+18,Sean Rees & Grace Mannion,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,18
+19,Michael Rochford & Mary Quinn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,19
+20,Sonya Tobin & Fraser Thom,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,20
+21,Neve Doherty & Ross Stevenson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,21
+22,Shane Griffith & Sinead Griffith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,22
+23,Gurubir Bains & Laura Erskine,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,23
+24,Claire Carthy & Ho-lap Tse,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,24
+25,Yvonne Finnegan & Declan McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,25
+26,Mandy Cully & Cian Hyland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,26
+27,Arturs Vitols & Annie O'Connor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,27
+28,Soufi Kaudur & Anny Catalano,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,28
+29,Paul Kane & Jen Cullinan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,29
+30,Elaine Kelly & Paul Kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,30
+31,Maeve McAllister & Eamon Sheridan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,31
+32,Sinead Clarke & Darragh Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,32
+1,Sophie McMahon & Emmet O neill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,13:25,,,,,,1
+2,Ross Gribben & Katie Gribben,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,13:48,,,,,,2
+3,Megan Odea & Morgan Wilkes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,14:11,,,,,,3
+4,Marius Houelche & Lea Ayme,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,15:12,,,,,,4
+5,Paul Stretton & Catherine Stretton,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,16:13,,,,,,5
+6,Shannon Kearney & Colm Kearney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,16:42,,,,,,6
+7,Karolina Gleeson & Aidan Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,17:15,,,,,,7
+8,Jennifer Kiernan & Emmet English,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,18:37,,,,,,8
+9,Niamh Casserly & Michael Massari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,19:29,,,,,,9
+10,Shauna McNamara & Benjamin McNamara,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,19:42,,,,,,10
+11,Chloe chloe.crosbie@gmail.com & James Walshe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,22:27,,,,,,11
+12,Neil Obank & Elaine Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,23:06,,,,,,12
+13,Kevin Horgan & Margaret Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,MetCon X,,,23:50,,,,,,13
+1,Piotr Kozlowski & Keith Dwyer,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,Andy Grehan & Martins Bergs,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Gareth Francis & Sean Morris,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Rocky O'Donovan & Conor Healy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Gareth Moore & Ryan Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,David O Halloran & Cathal O Longaigh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,Shane Cranny & Ian Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,Andrew Neenan & Conor Argo,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+1,Sharon Clarke & Nicole Dunlop,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,1
+2,Olivia Veal & Niamh Foyle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,2
+2,Emma Dadford & Jade Smith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,2
+4,Larragh Mann & Katie Mann,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,4
+5,Jessica Thraves & Harshini Solanki,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,5
+6,Cara Savage & Kirsty McConachie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,6
+6,Kyrie O’ Neill & Niamh Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,6
+8,Nikki Lowndes & VALERIE Porter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,8
+9,Caroline Corey & Helena Mcmahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,9
+10,Olivan Vaughan & Denise Vaughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,10
+11,Nicole Molden & Kelsey O Donovan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,11
+12,Georgia Jackson & Leanne Mcauley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,12
+12,Natalie Blumenthal & Rachel Browne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,12
+14,Lucy Kinsella & Rhiannon Lalor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,14
+14,Ciara Breen & Linda Stephens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,14
+16,Charlotte Bradley & Sian Nutter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,16
+17,Charlotte Hillan & Lucy McQuaid,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,17
+18,Julie Barnes & Charlotte Roughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,18
+18,Angelene Jones & Clare Stone,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,18
+20,Olivia Rainey & Katie McGonigle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,20
+21,Emma Harris & Rebecca Wade,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,21
+21,Lucy Kenefick & Sinead Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,21
+23,Sara Jamison & Orlaith Magee,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,23
+24,Caoimhe Moore & Kate Moynihan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,24
+25,Julie McElroy & Harriet Ravenscroft,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,25
+26,Sarah McDonagh & nichola Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,26
+26,Lucinda O Neill & Mandy Rooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,26
+28,Gillian Campbell & Sheila Connell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,28
+29,Amy Dempsey & Laura Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,29
+30,Lisa Ramsawak & Sav Gillick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Strength,,,,,,,,,30
+1,Vanessa Gallogly & Gillian Brooks,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,1
+2,Rebecca McAlinden & Jane Morrison,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,2
+3,Mary Power & Anna Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,3
+4,Emma Doran & Kelsey Luke,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,4
+5,Helen Whearity & Carla Beattie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,5
+6,Laura Lyons & Marie Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,6
+7,niamh erhard & Paula Dowling,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,7
+8,Doireann Dillon & Roisin Patterson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,8
+9,Aine Taylor & Julie Plunkett,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,9
+10,Gillian McNally & Catherine Synnott,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,10
+11,Ayushi Tripathi & Rachel Hall,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,11
+1,Shane Griffith & Sinead Griffith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,1
+2,Sean Fitzpatrick & Fiona Fitzpatrick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,2
+3,Amy Colton & Dylan Connolly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,3
+4,Cathal Parkes & Muireann Odonnell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,4
+5,Sean Rees & Grace Mannion,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,5
+6,Michael Rochford & Mary Quinn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,6
+7,Bernard Hughes & Hannah Rice,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,7
+8,Khalum Doyle & Kayleigh Mooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,8
+9,Emannuel Machado & eduarda devicari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,9
+10,John Allen Glynn & Miriam Ward,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,10
+11,Dave Harty & Gemma Keady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,11
+12,Joe Tallon & Helen Tallon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,12
+13,Arturs Vitols & Annie O'Connor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,13
+14,Kevin ODwyer & Bethany Elms,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,14
+15,Brendan Duffy & Cathriona Brady,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,15
+16,Alan Kavanagh & Carmel Kavanagh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,16
+17,Cevher Mete & Irene Masegosa,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,17
+18,Claire Carthy & Ho-lap Tse,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,18
+18,Marie Bracken & Cillian Duffy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,18
+20,Maeve McAllister & Eamon Sheridan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,20
+21,Neve Doherty & Ross Stevenson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,21
+22,Lauren Brown & Stephen Mackie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,22
+23,Gurubir Bains & Laura Erskine,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,23
+24,Sonya Tobin & Fraser Thom,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,24
+25,Ben Sherry & Sinéad McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,25
+25,Aoibhin O'Connor & David Gouldson,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,25
+27,Paul Kane & Jen Cullinan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,27
+27,Elaine Kelly & Paul Kelly,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,27
+27,Sinead Clarke & Darragh Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,27
+30,Soufi Kaudur & Anny Catalano,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,30
+31,Yvonne Finnegan & Declan McMahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,31
+32,Mandy Cully & Cian Hyland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,32
+1,Ross Gribben & Katie Gribben,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,1
+2,Sophie McMahon & Emmet O neill,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,2
+3,Marius Houelche & Lea Ayme,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,3
+4,Jennifer Kiernan & Emmet English,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,4
+5,Megan Odea & Morgan Wilkes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,5
+6,Paul Stretton & Catherine Stretton,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,6
+7,Chloe chloe.crosbie@gmail.com & James Walshe,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,7
+8,Shauna McNamara & Benjamin McNamara,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,8
+9,Karolina Gleeson & Aidan Byrne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,9
+10,Neil Obank & Elaine Flynn,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,10
+11,Niamh Casserly & Michael Massari,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,11
+12,Shannon Kearney & Colm Kearney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,12
+13,Kevin Horgan & Margaret Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,13
+1,Piotr Kozlowski & Keith Dwyer,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+2,Gareth Moore & Ryan Moore,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,2
+3,Andrew Neenan & Conor Argo,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,David O Halloran & Cathal O Longaigh,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,Shane Cranny & Ian Hughes,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+6,Rocky O'Donovan & Conor Healy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+7,Gareth Francis & Sean Morris,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,7
+8,Andy Grehan & Martins Bergs,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+1,Sharon Clarke & Nicole Dunlop,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,1 (260KG),2 (16.525KM),1 (14:24),,,,,,4
+2,Larragh Mann & Katie Mann,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,4 (250KG),8 (16.145KM),2 (14:34),,,,,,14
+3,Cara Savage & Kirsty McConachie,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,6 (238KG),6 (16.366KM),3 (14:56),,,,,,15
+4,Olivia Veal & Niamh Foyle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,2 (255KG),12 (15.731KM),4 (15:39),,,,,,18
+5,Emma Dadford & Jade Smith,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,2 (255KG),19 (15.413KM),7 (15:53),,,,,,28
+6,Julie Barnes & Charlotte Roughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,18 (195KG),1 (17.212KM),14 (17:13),,,,,,33
+7,Caoimhe Moore & Kate Moynihan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,24 (183KG),3 (16.516KM),6 (15:52),,,,,,33
+8,Kyrie O’ Neill & Niamh Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,6 (238KG),21 (15.37KM),9 (16:14),,,,,,36
+9,Lucy Kinsella & Rhiannon Lalor,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,14 (200KG),5 (16.415KM),20 (18:59),,,,,,39
+9,Lucy Kenefick & Sinead Casey,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,21 (191KG),9 (15.983KM),9 (16:14),,,,,,39
+9,Nicole Molden & Kelsey O Donovan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,11 (205KG),23 (15.162KM),5 (15:42),,,,,,39
+9,Ciara Breen & Linda Stephens,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,14 (200KG),13 (15.724KM),12 (16:34),,,,,,39
+13,Natalie Blumenthal & Rachel Browne,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,12 (203KG),17 (15.553KM),13 (16:58),,,,,,42
+13,Olivia Rainey & Katie McGonigle,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,20 (192KG),7 (16.302KM),15 (17:40),,,,,,42
+15,Angelene Jones & Clare Stone,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,18 (195KG),16 (15.587KM),11 (16:31),,,,,,45
+16,Sara Jamison & Orlaith Magee,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,23 (186KG),4 (16.469KM),19 (18:32),,,,,,46
+17,Charlotte Bradley & Sian Nutter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,16 (199KG),15 (15.59KM),16 (17:50),,,,,,47
+17,Julie McElroy & Harriet Ravenscroft,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,25 (179KG),14 (15.698KM),8 (16:07),,,,,,47
+19,Charlotte Hillan & Lucy McQuaid,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,17 (197KG),11 (15.827KM),21 (19:00),,,,,,49
+20,Nikki Lowndes & VALERIE Porter,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,8 (212KG),24 (15.127KM),18 (18:14),,,,,,50
+21,Emma Harris & Rebecca Wade,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,21 (191KG),10 (15.961KM),22 (19:19),,,,,,53
+22,Caroline Corey & Helena Mcmahon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,9 (210KG),20 (15.399KM),26 (20:50),,,,,,55
+23,Olivan Vaughan & Denise Vaughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,10 (207KG),22 (15.223KM),28 (21:44),,,,,,60
+24,Sarah McDonagh & nichola Wallace,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,26 (177KG),18 (15.485KM),17 (18:03),,,,,,61
+25,Georgia Jackson & Leanne Mcauley,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,12 (203KG),27 (14.33KM),25 (20:34),,,,,,64
+25,Jessica Thraves & Harshini Solanki,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,5 (247KG),30 (13.157KM),29 (24:56),,,,,,64
+27,Lucinda O Neill & Mandy Rooney,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,26 (177KG),25 (14.987KM),23 (19:28),,,,,,74
+28,Gillian Campbell & Sheila Connell,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,28 (152KG),28 (13.948KM),24 (20:26),,,,,,80
+29,Amy Dempsey & Laura Kennedy,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,29 (145KG),26 (14.486KM),30 (25:12),,,,,,85
+30,Lisa Ramsawak & Sav Gillick,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,Overall,30 (120KG),29 (13.285KM),27 (21:09),,,,,,86

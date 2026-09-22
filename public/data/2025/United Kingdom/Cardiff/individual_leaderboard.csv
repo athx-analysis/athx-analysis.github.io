@@ -1,0 +1,321 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:07,,,,,,1
+2,Lauren,Holt,Lauren Holt,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:12,,,,,,2
+3,JJ,Stone,JJ Stone,Female,United Kingdom,JJSFitness,https://athxgames.com/storage/profile-photos/vbM6ENGYYsiBaiFukDH903uQtGguo2o0a2k1guRS.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,08:33,,,,,,3
+4,Jessica,Rose,Jessica Rose,Female,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:09,,,,,,4
+5,Danielle,Billett,Danielle Billett,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:17,,,,,,5
+6,Charlotte,Jeffes,Charlotte Jeffes,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:51,,,,,,6
+7,annalie,gunner,annalie gunner,Female,,,https://ui-avatars.com/api/?name=a+g&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,09:59,,,,,,7
+8,Alex,Hearn,Alex Hearn,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:08,,,,,,8
+9,Funmi,Arogundade,Funmi Arogundade,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:18,,,,,,9
+10,Becky,Hillman,Becky Hillman,Female,United Kingdom,Madisons,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:19,,,,,,10
+11,Karen,Stephens,Karen Stephens,Female,,,https://athxgames.com/storage/profile-photos/5oRaVSlEGpfTdNOdsE00K5LyLROYTaNIHNHNCDvc.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:37,,,,,,11
+12,Krista,Hammond,Krista Hammond,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,10:40,,,,,,12
+13,Charlie,Lewis,Charlie Lewis,Female,,,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:03,,,,,,13
+14,Caroline,Dyer,Caroline Dyer,Female,United Kingdom,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:21,,,,,,14
+15,Rebecca,Ryan,Rebecca Ryan,Female,United Kingdom,Becca,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:25,,,,,,15
+16,megan,henry,megan henry,Female,,,https://ui-avatars.com/api/?name=m+h&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:29,,,,,,16
+17,Lauren,Singleton,Lauren Singleton,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:36,,,,,,17
+18,Kelly,Lloyd,Kelly Lloyd,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:37,,,,,,18
+19,Sian,Barrett,Sian Barrett,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:10,,,,,,19
+20,Carmen,Powell,Carmen Powell,Female,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:53,,,,,,20
+21,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,13:30,,,,,,21
+22,Zoe,Garnham,Zoe Garnham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/5wQZoDuQACkLHdWUUIak3FAzlzzU2YN4ae2Ok7Th.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,14:50,,,,,,22
+23,Liz,Tobin,Liz Tobin,Female,,,https://athxgames.com/storage/profile-photos/N8SMrrlk9PK4hnxnkiomV1T7GDv75ahaidiAED4q.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,15:15,,,,,,23
+24,Federica,Martini,Federica Martini,Female,,,https://athxgames.com/storage/profile-photos/6Y8ClK5yiaktcYPzm8mQ3IVNAzfObqQQVOjmmCdF.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,18:46,,,,,,24
+25,Terri,Duffy,Terri Duffy,Female,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,27:37,,,,,,25
+1,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+2,Leah Rachel,Cooper,Leah Rachel Cooper,Female,,,https://ui-avatars.com/api/?name=L+R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,2
+3,Victoria,Foote,Victoria Foote,Female,,,https://ui-avatars.com/api/?name=V+F&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+4,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,4
+5,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Strength,,,,,,,,,5
+1,Leah Rachel,Cooper,Leah Rachel Cooper,Female,,,https://ui-avatars.com/api/?name=L+R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,08:21,,,,,,1
+2,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:01,,,,,,2
+3,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,09:32,,,,,,3
+4,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,10:48,,,,,,4
+5,Victoria,Foote,Victoria Foote,Female,,,https://ui-avatars.com/api/?name=V+F&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,MetCon X,,,15:00,,,,,,5
+1,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+2,Joe,Holland,Joe Holland,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,2
+3,Charlie,Wiseman,Charlie Wiseman,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,Sebastian,Harding,Sebastian Harding,Male,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,James,Nichol,James Nichol,Male,,,https://athxgames.com/storage/profile-photos/QmcKvf4zY06kH5XQM1gBQcOtINrnC8T3gVQTOGuu.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+6,Alexander,Sims,Alexander Sims,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+7,Gareth,Lewis,Gareth Lewis,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,7
+8,Dean,Habberfield,Dean Habberfield,Male,United Kingdom,Recharge Strength & Conditioning,https://athxgames.com/storage/profile-photos/EvIKDkwO8Px3JK7JEkVCHH6ax3d3RoD7fcxYkWLX.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+1,Joe,Holland,Joe Holland,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,07:52,,,,,,1
+2,Charlie,Wiseman,Charlie Wiseman,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,08:41,,,,,,2
+3,Alexander,Sims,Alexander Sims,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,09:51,,,,,,3
+4,Gareth,Lewis,Gareth Lewis,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,10:15,,,,,,4
+5,Sebastian,Harding,Sebastian Harding,Male,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,11:51,,,,,,5
+6,James,Nichol,James Nichol,Male,,,https://athxgames.com/storage/profile-photos/QmcKvf4zY06kH5XQM1gBQcOtINrnC8T3gVQTOGuu.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,14:56,,,,,,6
+7,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:48,,,,,,7
+8,Dean,Habberfield,Dean Habberfield,Male,United Kingdom,Recharge Strength & Conditioning,https://athxgames.com/storage/profile-photos/EvIKDkwO8Px3JK7JEkVCHH6ax3d3RoD7fcxYkWLX.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,20:52,,,,,,8
+1,Luke,Whipps,Luke Whipps,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/GrcPPctPXJPqSH2NxRTCY1GgIozaMNq3qDbBh7zt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,1
+1,Ashley,Cunliffe,Ashley Cunliffe,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,1
+3,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,3
+4,Jack,Sewell,Jack Sewell,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,4
+5,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,5
+6,Jesse,Owen,Jesse Owen,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,6
+6,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,6
+8,Oliver,Satchwell,Oliver Satchwell,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,8
+9,Dan,Good,Dan Good,Male,United Kingdom,GPN,https://athxgames.com/storage/profile-photos/oKZyKxazqQhQSVGxXBcYScYiPV9NzfyXYT1rDoUt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,9
+9,Hakan,Huseyin,Hakan Huseyin,Male,,,https://ui-avatars.com/api/?name=H+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,9
+11,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,11
+12,Charlie,Bryan,Charlie Bryan,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,12
+13,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,13
+14,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,14
+15,Tom,Ansen,Tom Ansen,Male,,,https://ui-avatars.com/api/?name=T+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,15
+16,Wil,Willson davies,Wil Willson davies,Male,,,https://ui-avatars.com/api/?name=W+W+d&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,16
+17,Harry,Miles,Harry Miles,Male,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,17
+18,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,18
+19,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Craig,Hughes,Craig Hughes,Male,,,https://athxgames.com/storage/profile-photos/O2PnqvjmD0keiwzz8bWXwcyawvQ2xZOrcWVuibP8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+19,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,19
+24,Michael,Mchunu,Michael Mchunu,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,24
+25,Daniel,Wust,Daniel Wust,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+25,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,25
+27,Jonjo,Wring,Jonjo Wring,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+27,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,27
+29,Nicolas,Alpi,Nicolas Alpi,Male,,,https://ui-avatars.com/api/?name=N+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+29,Will,George,Will George,Male,United Kingdom,Spartan Chamber,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,29
+31,Ben,Harrison,Ben Harrison,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,31
+31,David,Standing,David Standing,Male,United Kingdom,Crossfit shadow valley,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,31
+33,Ken,Chung,Ken Chung,Male,,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,33
+34,Marius,Chifan,Marius Chifan,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,34
+35,Stephen,Baker,Stephen Baker,Male,United Kingdom,HX1,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,35
+36,Steffan,Rees,Steffan Rees,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,36
+37,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,37
+38,Alex,Grumley,Alex Grumley,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,38
+39,Ian,Seabrook,Ian Seabrook,Male,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,39
+40,Daniel,Ryan,Daniel Ryan,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,40
+41,Alex,Mackay,Alex Mackay,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,41
+42,Jack,Spencer,Jack Spencer,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,42
+1,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,1 (190KG),1 (8.711KM),2 (09:01),,,,,,4
+2,Leah Rachel,Cooper,Leah Rachel Cooper,Female,,,https://ui-avatars.com/api/?name=L+R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,2 (160KG),2 (8.514KM),1 (08:21),,,,,,5
+3,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,4 (121KG),3 (8.507KM),3 (09:32),,,,,,10
+4,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,5 (37KG),4 (7.963KM),4 (10:48),,,,,,13
+4,Victoria,Foote,Victoria Foote,Female,,,https://ui-avatars.com/api/?name=V+F&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Overall,3 (126KG),5 (7.485KM),5 (15:00),,,,,,13
+1,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,Charlotte,Jeffes,Charlotte Jeffes,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Rebecca,Ryan,Rebecca Ryan,Female,United Kingdom,Becca,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Krista,Hammond,Krista Hammond,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Danielle,Billett,Danielle Billett,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,Caroline,Dyer,Caroline Dyer,Female,United Kingdom,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,JJ,Stone,JJ Stone,Female,United Kingdom,JJSFitness,https://athxgames.com/storage/profile-photos/vbM6ENGYYsiBaiFukDH903uQtGguo2o0a2k1guRS.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Jessica,Rose,Jessica Rose,Female,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,8
+9,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,9
+10,Becky,Hillman,Becky Hillman,Female,United Kingdom,Madisons,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,10
+11,Alex,Hearn,Alex Hearn,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,11
+12,Lauren,Holt,Lauren Holt,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,Karen,Stephens,Karen Stephens,Female,,,https://athxgames.com/storage/profile-photos/5oRaVSlEGpfTdNOdsE00K5LyLROYTaNIHNHNCDvc.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,annalie,gunner,annalie gunner,Female,,,https://ui-avatars.com/api/?name=a+g&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Charlie,Lewis,Charlie Lewis,Female,,,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Carmen,Powell,Carmen Powell,Female,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,megan,henry,megan henry,Female,,,https://ui-avatars.com/api/?name=m+h&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,17
+18,Liz,Tobin,Liz Tobin,Female,,,https://athxgames.com/storage/profile-photos/N8SMrrlk9PK4hnxnkiomV1T7GDv75ahaidiAED4q.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,18
+19,Lauren,Singleton,Lauren Singleton,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Kelly,Lloyd,Kelly Lloyd,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,Sian,Barrett,Sian Barrett,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Zoe,Garnham,Zoe Garnham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/5wQZoDuQACkLHdWUUIak3FAzlzzU2YN4ae2Ok7Th.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,22
+23,Funmi,Arogundade,Funmi Arogundade,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,23
+24,Terri,Duffy,Terri Duffy,Female,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,24
+25,Federica,Martini,Federica Martini,Female,,,https://athxgames.com/storage/profile-photos/6Y8ClK5yiaktcYPzm8mQ3IVNAzfObqQQVOjmmCdF.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,25
+1,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,6 (123KG),1 (8.631KM),1 (08:07),,,,,,8
+2,JJ,Stone,JJ Stone,Female,United Kingdom,JJSFitness,https://athxgames.com/storage/profile-photos/vbM6ENGYYsiBaiFukDH903uQtGguo2o0a2k1guRS.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,2 (148KG),7 (8.404KM),3 (08:33),,,,,,12
+3,Jessica,Rose,Jessica Rose,Female,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,4 (130KG),8 (8.402KM),4 (09:09),,,,,,16
+4,Becky,Hillman,Becky Hillman,Female,United Kingdom,Madisons,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,3 (135KG),10 (8.27KM),10 (10:19),,,,,,23
+5,Danielle,Billett,Danielle Billett,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,15 (105KG),5 (8.431KM),5 (09:17),,,,,,25
+6,Charlotte,Jeffes,Charlotte Jeffes,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,18 (97KG),2 (8.625KM),6 (09:51),,,,,,26
+7,Alex,Hearn,Alex Hearn,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,7 (118KG),11 (8.243KM),8 (10:08),,,,,,26
+8,annalie,gunner,annalie gunner,Female,,,https://ui-avatars.com/api/?name=a+g&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,7 (118KG),14 (8.094KM),7 (09:59),,,,,,28
+9,Krista,Hammond,Krista Hammond,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,16 (101KG),4 (8.438KM),12 (10:40),,,,,,32
+10,Rebecca,Ryan,Rebecca Ryan,Female,United Kingdom,Becca,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,19 (90KG),3 (8.616KM),15 (11:25),,,,,,37
+11,Lauren,Holt,Lauren Holt,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,25 (38KG),12 (8.21KM),2 (08:12),,,,,,39
+12,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,9 (115KG),9 (8.358KM),21 (13:30),,,,,,39
+12,Caroline,Dyer,Caroline Dyer,Female,United Kingdom,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,19 (90KG),6 (8.417KM),14 (11:21),,,,,,39
+14,Sian,Barrett,Sian Barrett,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,1 (153KG),21 (7.508KM),19 (12:10),,,,,,41
+15,Charlie,Lewis,Charlie Lewis,Female,,,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,13 (108KG),15 (8.042KM),13 (11:03),,,,,,41
+15,Karen,Stephens,Karen Stephens,Female,,,https://athxgames.com/storage/profile-photos/5oRaVSlEGpfTdNOdsE00K5LyLROYTaNIHNHNCDvc.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,17 (98KG),13 (8.171KM),11 (10:37),,,,,,41
+15,Lauren,Singleton,Lauren Singleton,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,5 (126KG),19 (7.744KM),17 (11:36),,,,,,41
+18,Funmi,Arogundade,Funmi Arogundade,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,11 (111KG),23 (6.984KM),9 (10:18),,,,,,43
+18,megan,henry,megan henry,Female,,,https://ui-avatars.com/api/?name=m+h&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,10 (112KG),17 (7.977KM),16 (11:29),,,,,,43
+20,Carmen,Powell,Carmen Powell,Female,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,12 (110KG),16 (7.988KM),20 (12:53),,,,,,48
+21,Kelly,Lloyd,Kelly Lloyd,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,14 (107KG),20 (7.605KM),18 (11:37),,,,,,52
+22,Liz,Tobin,Liz Tobin,Female,,,https://athxgames.com/storage/profile-photos/N8SMrrlk9PK4hnxnkiomV1T7GDv75ahaidiAED4q.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,21 (85KG),18 (7.786KM),23 (15:15),,,,,,62
+23,Zoe,Garnham,Zoe Garnham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/5wQZoDuQACkLHdWUUIak3FAzlzzU2YN4ae2Ok7Th.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,22 (80KG),22 (7.495KM),22 (14:50),,,,,,66
+24,Terri,Duffy,Terri Duffy,Female,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,23 (70KG),24 (6.569KM),25 (27:37),,,,,,72
+25,Federica,Martini,Federica Martini,Female,,,https://athxgames.com/storage/profile-photos/6Y8ClK5yiaktcYPzm8mQ3IVNAzfObqQQVOjmmCdF.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Overall,24 (55KG),25 (6.443KM),24 (18:46),,,,,,73
+1,Jesse,Owen,Jesse Owen,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,6 (210KG),1 (10.541KM),1 (07:09),,,,,,8
+2,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,5 (215KG),6 (9.652KM),4 (08:53),,,,,,15
+3,Charlie,Bryan,Charlie Bryan,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,12 (190KG),3 (9.863KM),3 (08:47),,,,,,18
+4,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),2 (9.893KM),2 (08:03),,,,,,23
+5,Oliver,Satchwell,Oliver Satchwell,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,8 (203KG),10 (9.604KM),6 (09:12),,,,,,24
+6,Ashley,Cunliffe,Ashley Cunliffe,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,1 (245KG),22 (9.066KM),7 (09:27),,,,,,30
+7,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,6 (210KG),9 (9.609KM),18 (10:46),,,,,,33
+8,Tom,Ansen,Tom Ansen,Male,,,https://ui-avatars.com/api/?name=T+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,15 (180KG),11 (9.558KM),8 (09:29),,,,,,34
+8,Harry,Miles,Harry Miles,Male,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,17 (175KG),8 (9.61KM),9 (09:30),,,,,,34
+10,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,13 (187KG),7 (9.63KM),19 (10:53),,,,,,39
+11,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,14 (182KG),15 (9.346KM),14 (10:25),,,,,,43
+12,Dan,Good,Dan Good,Male,United Kingdom,GPN,https://athxgames.com/storage/profile-photos/oKZyKxazqQhQSVGxXBcYScYiPV9NzfyXYT1rDoUt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,9 (200KG),24 (9.037KM),11 (09:56),,,,,,44
+12,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),4 (9.73KM),21 (11:17),,,,,,44
+14,Hakan,Huseyin,Hakan Huseyin,Male,,,https://ui-avatars.com/api/?name=H+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,9 (200KG),16 (9.26KM),20 (11:06),,,,,,45
+14,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,3 (221KG),26 (8.877KM),16 (10:44),,,,,,45
+14,Wil,Willson davies,Wil Willson davies,Male,,,https://ui-avatars.com/api/?name=W+W+d&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,16 (178KG),14 (9.359KM),15 (10:42),,,,,,45
+17,Will,George,Will George,Male,United Kingdom,Spartan Chamber,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (160KG),5 (9.727KM),13 (10:06),,,,,,47
+18,David,Standing,David Standing,Male,United Kingdom,Crossfit shadow valley,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,31 (155KG),17 (9.234KM),5 (09:00),,,,,,53
+19,Luke,Whipps,Luke Whipps,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/GrcPPctPXJPqSH2NxRTCY1GgIozaMNq3qDbBh7zt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,1 (245KG),40 (7.899KM),17 (10:45),,,,,,58
+20,Jonjo,Wring,Jonjo Wring,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (161KG),21 (9.111KM),12 (10:01),,,,,,60
+21,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,18 (171KG),36 (8.254KM),10 (09:37),,,,,,64
+22,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),19 (9.191KM),36 (15:54),,,,,,74
+23,Craig,Hughes,Craig Hughes,Male,,,https://athxgames.com/storage/profile-photos/O2PnqvjmD0keiwzz8bWXwcyawvQ2xZOrcWVuibP8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),30 (8.637KM),27 (13:11),,,,,,76
+24,Michael,Mchunu,Michael Mchunu,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,24 (166KG),29 (8.656KM),24 (12:37),,,,,,77
+24,Stephen,Baker,Stephen Baker,Male,United Kingdom,HX1,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,35 (143KG),13 (9.368KM),29 (13:41),,,,,,77
+26,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,19 (170KG),31 (8.548KM),30 (14:05),,,,,,80
+26,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,27 (161KG),32 (8.412KM),21 (11:17),,,,,,80
+28,Jack,Sewell,Jack Sewell,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,4 (220KG),39 (8.168KM),40 (23:53),,,,,,83
+29,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,11 (195KG),35 (8.271KM),39 (18:29),,,,,,85
+30,Alex,Mackay,Alex Mackay,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,41 (121KG),23 (9.04KM),23 (11:26),,,,,,87
+30,Ian,Seabrook,Ian Seabrook,Male,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,39 (130KG),20 (9.134KM),28 (13:39),,,,,,87
+32,Daniel,Wust,Daniel Wust,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (165KG),28 (8.711KM),35 (14:45),,,,,,88
+33,Alex,Grumley,Alex Grumley,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,38 (135KG),12 (9.435KM),42 (28:06),,,,,,92
+33,Ben,Harrison,Ben Harrison,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,31 (155KG),27 (8.781KM),34 (14:43),,,,,,92
+35,Jack,Spencer,Jack Spencer,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,42 (114KG),25 (8.921KM),26 (12:59),,,,,,93
+35,Nicolas,Alpi,Nicolas Alpi,Male,,,https://ui-avatars.com/api/?name=N+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,29 (160KG),33 (8.372KM),31 (14:09),,,,,,93
+35,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,25 (165KG),36 (8.254KM),32 (14:14),,,,,,93
+38,Daniel,Ryan,Daniel Ryan,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,40 (125KG),18 (9.195KM),37 (16:31),,,,,,95
+39,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,37 (140KG),34 (8.33KM),25 (12:52),,,,,,96
+40,Steffan,Rees,Steffan Rees,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,36 (141KG),38 (8.21KM),33 (14:24),,,,,,107
+41,Ken,Chung,Ken Chung,Male,,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,33 (146KG),42 (7.428KM),38 (16:52),,,,,,113
+42,Marius,Chifan,Marius Chifan,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Overall,34 (145KG),41 (7.671KM),41 (27:53),,,,,,116
+1,Cara,Brown,Cara Brown,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+2,Leah Rachel,Cooper,Leah Rachel Cooper,Female,,,https://ui-avatars.com/api/?name=L+R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,2
+3,Susana,Trujillo,Susana Trujillo,Female,,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,3
+4,Cerys,Johnson,Cerys Johnson,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,4
+5,Victoria,Foote,Victoria Foote,Female,,,https://ui-avatars.com/api/?name=V+F&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Pro,Endurance,,,,,,,,,5
+1,Jesse,Owen,Jesse Owen,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Charlie,Bryan,Charlie Bryan,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Will,George,Will George,Male,United Kingdom,Spartan Chamber,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Harry,Miles,Harry Miles,Male,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Oliver,Satchwell,Oliver Satchwell,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Tom,Ansen,Tom Ansen,Male,,,https://ui-avatars.com/api/?name=T+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,Alex,Grumley,Alex Grumley,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Stephen,Baker,Stephen Baker,Male,United Kingdom,HX1,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Wil,Willson davies,Wil Willson davies,Male,,,https://ui-avatars.com/api/?name=W+W+d&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,Hakan,Huseyin,Hakan Huseyin,Male,,,https://ui-avatars.com/api/?name=H+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,David,Standing,David Standing,Male,United Kingdom,Crossfit shadow valley,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Daniel,Ryan,Daniel Ryan,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Ian,Seabrook,Ian Seabrook,Male,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,20
+21,Jonjo,Wring,Jonjo Wring,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,21
+22,Ashley,Cunliffe,Ashley Cunliffe,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,22
+23,Alex,Mackay,Alex Mackay,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,23
+24,Dan,Good,Dan Good,Male,United Kingdom,GPN,https://athxgames.com/storage/profile-photos/oKZyKxazqQhQSVGxXBcYScYiPV9NzfyXYT1rDoUt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,24
+25,Jack,Spencer,Jack Spencer,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,25
+26,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,26
+27,Ben,Harrison,Ben Harrison,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,27
+28,Daniel,Wust,Daniel Wust,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,28
+29,Michael,Mchunu,Michael Mchunu,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,29
+30,Craig,Hughes,Craig Hughes,Male,,,https://athxgames.com/storage/profile-photos/O2PnqvjmD0keiwzz8bWXwcyawvQ2xZOrcWVuibP8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,30
+31,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,31
+32,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,32
+33,Nicolas,Alpi,Nicolas Alpi,Male,,,https://ui-avatars.com/api/?name=N+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,33
+34,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,34
+35,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,35
+36,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,36
+36,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,36
+38,Steffan,Rees,Steffan Rees,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,38
+39,Jack,Sewell,Jack Sewell,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,39
+40,Luke,Whipps,Luke Whipps,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/GrcPPctPXJPqSH2NxRTCY1GgIozaMNq3qDbBh7zt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,40
+41,Marius,Chifan,Marius Chifan,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,41
+42,Ken,Chung,Ken Chung,Male,,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Endurance,,,,,,,,,42
+1,Jesse,Owen,Jesse Owen,Male,,,https://ui-avatars.com/api/?name=J+O&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,07:09,,,,,,1
+2,Ollie,Rutherford,Ollie Rutherford,Male,United Kingdom,APG Fitness,https://athxgames.com/storage/profile-photos/DRtQSnJvZESVThc38aYdCO9KETZJlgds1S1DDW6r.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:03,,,,,,2
+3,Charlie,Bryan,Charlie Bryan,Male,United Kingdom,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:47,,,,,,3
+4,Ross,Comfort,Ross Comfort,Male,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,08:53,,,,,,4
+5,David,Standing,David Standing,Male,United Kingdom,Crossfit shadow valley,https://ui-avatars.com/api/?name=D+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:00,,,,,,5
+6,Oliver,Satchwell,Oliver Satchwell,Male,,,https://ui-avatars.com/api/?name=O+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:12,,,,,,6
+7,Ashley,Cunliffe,Ashley Cunliffe,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:27,,,,,,7
+8,Tom,Ansen,Tom Ansen,Male,,,https://ui-avatars.com/api/?name=T+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:29,,,,,,8
+9,Harry,Miles,Harry Miles,Male,,,https://ui-avatars.com/api/?name=H+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:30,,,,,,9
+10,Alastair,Eustace,Alastair Eustace,Male,,,https://ui-avatars.com/api/?name=A+E&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:37,,,,,,10
+11,Dan,Good,Dan Good,Male,United Kingdom,GPN,https://athxgames.com/storage/profile-photos/oKZyKxazqQhQSVGxXBcYScYiPV9NzfyXYT1rDoUt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,09:56,,,,,,11
+12,Jonjo,Wring,Jonjo Wring,Male,,,https://ui-avatars.com/api/?name=J+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:01,,,,,,12
+13,Will,George,Will George,Male,United Kingdom,Spartan Chamber,https://ui-avatars.com/api/?name=W+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:06,,,,,,13
+14,Andrew,Cox,Andrew Cox,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:25,,,,,,14
+15,Wil,Willson davies,Wil Willson davies,Male,,,https://ui-avatars.com/api/?name=W+W+d&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:42,,,,,,15
+16,Steven,Stacey,Steven Stacey,Male,,Oxhouse,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:44,,,,,,16
+17,Luke,Whipps,Luke Whipps,Male,United Kingdom,,https://athxgames.com/storage/profile-photos/GrcPPctPXJPqSH2NxRTCY1GgIozaMNq3qDbBh7zt.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:45,,,,,,17
+18,Bryn,Hall,Bryn Hall,Male,United Kingdom,Apex Fitness Ldn,https://athxgames.com/storage/profile-photos/dF7cVIqojPJ6thcNXxEp2MEyz24G5qBOmyt9dTI8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:46,,,,,,18
+19,Andrey,Patsalides,Andrey Patsalides,Male,Cyprus,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,10:53,,,,,,19
+20,Hakan,Huseyin,Hakan Huseyin,Male,,,https://ui-avatars.com/api/?name=H+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:06,,,,,,20
+21,OLIVER,WHITE,OLIVER WHITE,Male,,,https://ui-avatars.com/api/?name=O+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:17,,,,,,21
+21,Chris,Knight,Chris Knight,Male,,,https://ui-avatars.com/api/?name=C+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:17,,,,,,21
+23,Alex,Mackay,Alex Mackay,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,11:26,,,,,,23
+24,Michael,Mchunu,Michael Mchunu,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:37,,,,,,24
+25,william,morgan,william morgan,Male,United Kingdom,The goat shed,https://ui-avatars.com/api/?name=w+m&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:52,,,,,,25
+26,Jack,Spencer,Jack Spencer,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,12:59,,,,,,26
+27,Craig,Hughes,Craig Hughes,Male,,,https://athxgames.com/storage/profile-photos/O2PnqvjmD0keiwzz8bWXwcyawvQ2xZOrcWVuibP8.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:11,,,,,,27
+28,Ian,Seabrook,Ian Seabrook,Male,,,https://ui-avatars.com/api/?name=I+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:39,,,,,,28
+29,Stephen,Baker,Stephen Baker,Male,United Kingdom,HX1,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,13:41,,,,,,29
+30,Daniel,Dunphy,Daniel Dunphy,Male,,,https://ui-avatars.com/api/?name=D+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:05,,,,,,30
+31,Nicolas,Alpi,Nicolas Alpi,Male,,,https://ui-avatars.com/api/?name=N+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:09,,,,,,31
+32,Nathan,Brown,Nathan Brown,Male,,,https://ui-avatars.com/api/?name=N+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:14,,,,,,32
+33,Steffan,Rees,Steffan Rees,Male,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:24,,,,,,33
+34,Ben,Harrison,Ben Harrison,Male,United Kingdom,,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:43,,,,,,34
+35,Daniel,Wust,Daniel Wust,Male,,,https://ui-avatars.com/api/?name=D+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:45,,,,,,35
+36,Callum,Gee,Callum Gee,Male,,,https://ui-avatars.com/api/?name=C+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:54,,,,,,36
+37,Daniel,Ryan,Daniel Ryan,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:31,,,,,,37
+38,Ken,Chung,Ken Chung,Male,,,https://ui-avatars.com/api/?name=K+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:52,,,,,,38
+39,Ritchie,Hemphill,Ritchie Hemphill,Male,United Kingdom,GPN,https://ui-avatars.com/api/?name=R+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,18:29,,,,,,39
+40,Jack,Sewell,Jack Sewell,Male,United Kingdom,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,23:53,,,,,,40
+41,Marius,Chifan,Marius Chifan,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,27:53,,,,,,41
+42,Alex,Grumley,Alex Grumley,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,28:06,,,,,,42
+1,Joe,Holland,Joe Holland,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,2 (272KG),3 (9.642KM),1 (07:52),,,,,,6
+2,Charlie,Wiseman,Charlie Wiseman,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,3 (244KG),2 (9.681KM),2 (08:41),,,,,,7
+3,Alexander,Sims,Alexander Sims,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,6 (218KG),1 (9.819KM),3 (09:51),,,,,,10
+4,Sebastian,Harding,Sebastian Harding,Male,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,4 (242KG),5 (9.135KM),5 (11:51),,,,,,14
+5,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,1 (311KG),7 (8.536KM),7 (15:48),,,,,,15
+6,Gareth,Lewis,Gareth Lewis,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,7 (188KG),4 (9.619KM),4 (10:15),,,,,,15
+7,James,Nichol,James Nichol,Male,,,https://athxgames.com/storage/profile-photos/QmcKvf4zY06kH5XQM1gBQcOtINrnC8T3gVQTOGuu.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,5 (230KG),8 (8.51KM),6 (14:56),,,,,,19
+8,Dean,Habberfield,Dean Habberfield,Male,United Kingdom,Recharge Strength & Conditioning,https://athxgames.com/storage/profile-photos/EvIKDkwO8Px3JK7JEkVCHH6ax3d3RoD7fcxYkWLX.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Overall,8 (176KG),6 (8.865KM),8 (20:52),,,,,,22
+1,Alexander,Sims,Alexander Sims,Male,,,https://ui-avatars.com/api/?name=A+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,Charlie,Wiseman,Charlie Wiseman,Male,,,https://ui-avatars.com/api/?name=C+W&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Joe,Holland,Joe Holland,Male,,,https://ui-avatars.com/api/?name=J+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Gareth,Lewis,Gareth Lewis,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Sebastian,Harding,Sebastian Harding,Male,,,https://ui-avatars.com/api/?name=S+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,Dean,Habberfield,Dean Habberfield,Male,United Kingdom,Recharge Strength & Conditioning,https://athxgames.com/storage/profile-photos/EvIKDkwO8Px3JK7JEkVCHH6ax3d3RoD7fcxYkWLX.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,John,Mckeown,John Mckeown,Male,,,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,James,Nichol,James Nichol,Male,,,https://athxgames.com/storage/profile-photos/QmcKvf4zY06kH5XQM1gBQcOtINrnC8T3gVQTOGuu.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+1,Sian,Barrett,Sian Barrett,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,1
+2,JJ,Stone,JJ Stone,Female,United Kingdom,JJSFitness,https://athxgames.com/storage/profile-photos/vbM6ENGYYsiBaiFukDH903uQtGguo2o0a2k1guRS.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,2
+3,Becky,Hillman,Becky Hillman,Female,United Kingdom,Madisons,https://ui-avatars.com/api/?name=B+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,3
+4,Jessica,Rose,Jessica Rose,Female,,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,4
+5,Lauren,Singleton,Lauren Singleton,Female,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,5
+6,Jayne,Parker,Jayne Parker,Female,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,6
+7,annalie,gunner,annalie gunner,Female,,,https://ui-avatars.com/api/?name=a+g&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,7
+7,Alex,Hearn,Alex Hearn,Female,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,7
+9,Holly,Knott,Holly Knott,Female,,,https://ui-avatars.com/api/?name=H+K&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,9
+10,megan,henry,megan henry,Female,,,https://ui-avatars.com/api/?name=m+h&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,10
+11,Funmi,Arogundade,Funmi Arogundade,Female,United Kingdom,,https://ui-avatars.com/api/?name=F+A&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,11
+12,Carmen,Powell,Carmen Powell,Female,,,https://ui-avatars.com/api/?name=C+P&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,12
+13,Charlie,Lewis,Charlie Lewis,Female,,,https://ui-avatars.com/api/?name=C+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,13
+14,Kelly,Lloyd,Kelly Lloyd,Female,,,https://ui-avatars.com/api/?name=K+L&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,14
+15,Danielle,Billett,Danielle Billett,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,15
+16,Krista,Hammond,Krista Hammond,Female,,,https://ui-avatars.com/api/?name=K+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,16
+17,Karen,Stephens,Karen Stephens,Female,,,https://athxgames.com/storage/profile-photos/5oRaVSlEGpfTdNOdsE00K5LyLROYTaNIHNHNCDvc.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,17
+18,Charlotte,Jeffes,Charlotte Jeffes,Female,,,https://ui-avatars.com/api/?name=C+J&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,18
+19,Caroline,Dyer,Caroline Dyer,Female,United Kingdom,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,19
+19,Rebecca,Ryan,Rebecca Ryan,Female,United Kingdom,Becca,https://ui-avatars.com/api/?name=R+R&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,19
+21,Liz,Tobin,Liz Tobin,Female,,,https://athxgames.com/storage/profile-photos/N8SMrrlk9PK4hnxnkiomV1T7GDv75ahaidiAED4q.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,21
+22,Zoe,Garnham,Zoe Garnham,Female,United Kingdom,,https://athxgames.com/storage/profile-photos/5wQZoDuQACkLHdWUUIak3FAzlzzU2YN4ae2Ok7Th.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,22
+23,Terri,Duffy,Terri Duffy,Female,,,https://ui-avatars.com/api/?name=T+D&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,23
+24,Federica,Martini,Federica Martini,Female,,,https://athxgames.com/storage/profile-photos/6Y8ClK5yiaktcYPzm8mQ3IVNAzfObqQQVOjmmCdF.jpg,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,24
+25,Lauren,Holt,Lauren Holt,Female,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,25

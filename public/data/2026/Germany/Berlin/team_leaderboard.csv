@@ -1,0 +1,1411 @@
+rank,team_name,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Tobias Moos & Tina Dragutinovic-Moos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,1 (653KG),1 (8.819KM),1 (12:07),,,,,,3
+2,Justyna Niemczyk & Kacper Duc,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,4 (526KG),2 (8.677KM),2 (12:22),,,,,,8
+3,Daniel Brandis & Benita-Francesca Teichmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,2 (583KG),6 (8.155KM),5 (13:36),,,,,,13
+4,Amy Wake & Richard Marston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,8 (483KG),4 (8.391KM),3 (12:45),,,,,,15
+5,Rebecca Mengering & Heiko Weirauch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,12 (455KG),3 (8.673KM),4 (13:14),,,,,,19
+6,Constantin Jorde & Sandy Sorger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,11 (456KG),9 (7.882KM),9 (14:53),,,,,,29
+7,Vanja Lier & Johannes Hatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,15 (429KG),5 (8.193KM),10 (15:09),,,,,,30
+7,Maren Kaspers & Frank Piotraschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,9 (478KG),15 (7.61KM),6 (13:54),,,,,,30
+7,Paul-Louis Kuhnke & Josephine Schröder,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,10 (471KG),8 (7.935KM),12 (15:32),,,,,,30
+7,Georgios Kanistras & Saskia-Alessandra Forkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,7 (491KG),12 (7.796KM),11 (15:23),,,,,,30
+7,Florian Rüther & Pia Rüther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,13 (438KG),10 (7.878KM),7 (14:22),,,,,,30
+12,Anja Rausch & Marco Gravera,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,5 (520KG),14 (7.731KM),13 (16:07),,,,,,32
+13,Stefanie Preuß & Sven Preuß,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,2 (583KG),19 (6.51KM),16 (17:44),,,,,,37
+14,Vasiliki Koutsogianni & Miguel Azevedo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,6 (517KG),17 (7.361KM),14 (16:29),,,,,,37
+15,Adrian Dreßler & Milena Belitzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,16 (425KG),16 (7.517KM),8 (14:33),,,,,,40
+16,Thiago Costas & Janine Balzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,19 (380KG),7 (8.103KM),15 (17:05),,,,,,41
+17,Reinhard Rubow & Michy Mann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,18 (393KG),11 (7.856KM),18 (18:08),,,,,,47
+17,Alessa Frey & Nils Bonacker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,17 (398KG),13 (7.754KM),17 (18:07),,,,,,47
+19,Bünyamin Özcelik & Burcin Özcelik,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Overall,14 (435KG),18 (7.042KM),19 (20:36),,,,,,51
+1,Jens Koppe & Lena Fechner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,152KG,320KG,360KG,,,1
+2,Philipp Wamser & Luisa Pfrommer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,145KG,270KG,325KG,,,2
+3,Layla Siebert & Tom Maischak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,133KG,263KG,330KG,,,3
+4,Uli Glöckner & Daniel Lemke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,116KG,265KG,295KG,,,4
+5,Lena Sassano & Philipp Grunert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,124KG,225KG,283KG,,,5
+6,Sören Findeisen & Franziska Kühlthau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,123KG,223KG,284KG,,,6
+7,Alexander Kress & Sandra Hegwein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,114KG,228KG,280KG,,,7
+8,Fina Lale Kutz & Björn Wittig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,112KG,202KG,255KG,,,8
+9,Marc Katzensteiner & Melanie Swoboda,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,110KG,195KG,250KG,,,9
+10,Inga-Marie Ganssauge & Lennart Finke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,103KG,205KG,240KG,,,10
+11,Michaela Ressel & Juergen Deckert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,122KG,185KG,220KG,,,11
+12,Maciek Dzięcioł & Justyna Dzieciol,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,93KG,197KG,210KG,,,12
+13,Sebastian Białowąs & Weronika Białowąs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,90KG,175KG,225KG,,,13
+14,Marcel Knäblein & Vanessa Mazzarella,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,92KG,175KG,215KG,,,14
+15,Anja Meusel & Steve Federow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,89KG,143KG,220KG,,,15
+16,Anne Koch & Robert Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Strength,,,,81KG,162KG,171KG,,,16
+1,Justus Herrenbrück & Dustin Schliwka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,3 (928KG),1 (10.643KM),4 (12:05),,,,,,8
+2,Raffaele Del piano & Simone Tavarani,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,6 (900KG),13 (9.861KM),6 (12:23),,,,,,25
+3,Kristian Czyz & Marek Rok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,14 (808KG),9 (9.955KM),4 (12:05),,,,,,27
+4,Maximilian Brandl & Kevin Hoos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,11 (829KG),17 (9.815KM),1 (11:46),,,,,,29
+5,Tom Grindel & Lukasz Debek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,2 (939KG),20 (9.75KM),7 (12:25),,,,,,29
+6,Simon schmidt & Juri Maier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,9 (838KG),12 (9.862KM),13 (12:59),,,,,,34
+7,Jona Kozmin & Lorenz Petri,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,5 (913KG),33 (9.508KM),2 (11:59),,,,,,40
+8,Felix Michael Müller & Hannes Tüllmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,15 (805KG),16 (9.821KM),12 (12:56),,,,,,43
+9,Lars Kortenbach & Jonas Wintergerst,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,4 (920KG),28 (9.581KM),16 (13:25),,,,,,48
+10,Mateusz Florczak & Adam Dadok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,12 (821KG),22 (9.723KM),15 (13:14),,,,,,49
+11,Marvin Gedlich & Maxime Pracisnore,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,35 (710KG),5 (10.347KM),10 (12:55),,,,,,50
+12,Lukas Bossert & Gabriel Lichtenstein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,46 (685KG),3 (10.486KM),10 (12:55),,,,,,59
+13,Bjarne Rogall & Mischa Schneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,46 (685KG),4 (10.479KM),14 (13:09),,,,,,64
+14,Omar Baritello & Fadi Joumaa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,16 (802KG),46 (9.339KM),3 (12:02),,,,,,65
+15,Jop Siewe & Bernd grosse Siemer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,35 (710KG),23 (9.716KM),8 (12:37),,,,,,66
+16,Frank Bauer & Malte Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,26 (760KG),24 (9.647KM),19 (13:38),,,,,,69
+17,Brooklyn Lange & Rustem Masgutov,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,17 (798KG),37 (9.425KM),18 (13:37),,,,,,72
+18,Andreas Stenberg & Martin Dahlman,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,18 (796KG),21 (9.726KM),35 (14:45),,,,,,74
+19,Daniel Hasselmann & Burak Kara,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,7 (853KG),47 (9.338KM),22 (13:46),,,,,,76
+20,Henry Kaschel & Dennis Hannemann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,64 (653KG),11 (9.891KM),9 (12:44),,,,,,84
+21,Filip Antoszewski & Sebastian Lary,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,20 (788KG),48 (9.332KM),26 (14:06),,,,,,94
+22,Fabian Bullack & Arne Knüppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,52 (673KG),14 (9.848KM),30 (14:26),,,,,,96
+23,Finn Crozier & Joel Hill,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,30 (725KG),30 (9.544KM),37 (14:57),,,,,,97
+24,Sebastian Raeck & Sebastian Whitton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,24 (765KG),45 (9.351KM),29 (14:25),,,,,,98
+24,Jeremy Kausel & Nico Bremer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,59 (660KG),8 (10.068KM),31 (14:33),,,,,,98
+24,Julian Chahal & Tayfun Simsek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,24 (765KG),52 (9.297KM),22 (13:46),,,,,,98
+27,Daniel Alvarado & Kayode Passos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,29 (740KG),43 (9.374KM),28 (14:13),,,,,,100
+27,Leo Marcello Polack & Fritz Theden-Schow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,69 (630KG),7 (10.32KM),24 (13:54),,,,,,100
+29,Eric Brockmann & Jason Henkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,34 (713KG),35 (9.455KM),34 (14:44),,,,,,103
+29,Kevin Weltzien & Christian Nolde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,77 (606KG),6 (10.329KM),20 (13:40),,,,,,103
+31,Leo Chiricone & Federico Benedetti,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,23 (770KG),32 (9.529KM),52 (15:28),,,,,,107
+32,Eugen Wiens & Erik Olbert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,32 (722KG),55 (9.269KM),21 (13:42),,,,,,108
+33,Dom Stroh & Piran Asci,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,87 (585KG),2 (10.636KM),27 (14:09),,,,,,116
+34,Fabian Schießl & Martin Prasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,19 (789KG),58 (9.208KM),45 (15:08),,,,,,122
+35,Felix Schier & Luca Hardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,20 (788KG),68 (9.101KM),38 (14:59),,,,,,126
+36,Robert Steinberg & Jan-Niclas Faasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,75 (610KG),10 (9.934KM),45 (15:08),,,,,,130
+37,Sebastian Brauer & Felix Fischer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,44 (694KG),54 (9.273KM),33 (14:37),,,,,,131
+37,Lars Ulbricht & Christoph Depner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,33 (715KG),57 (9.25KM),41 (15:01),,,,,,131
+39,Bruno Alves & Chris Lenton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,40 (707KG),62 (9.143KM),32 (14:35),,,,,,134
+39,Nils Bind & Sven Lang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,28 (745KG),65 (9.131KM),41 (15:01),,,,,,134
+39,Nico Schulze & Erik Walther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,13 (820KG),74 (8.891KM),47 (15:11),,,,,,134
+42,Luca Hofmann & Benedikt Meyer-Drabert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,42 (702KG),39 (9.402KM),57 (15:51),,,,,,138
+43,Tobias Schuster & Sergio Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,50 (675KG),34 (9.472KM),56 (15:47),,,,,,140
+44,Pit Alexander Klepatz & Bastian Barthel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,63 (654KG),61 (9.146KM),17 (13:36),,,,,,141
+44,Michael Bartsch & Philipp Reb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,22 (780KG),69 (9.018KM),50 (15:24),,,,,,141
+46,Euan MacRury & Euan Duff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,8 (843KG),75 (8.888KM),59 (16:02),,,,,,142
+47,Henry Bauer & Franz Gratz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,59 (660KG),31 (9.538KM),55 (15:35),,,,,,145
+48,Simon Cichos & Nicolas Cichos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,94 (563KG),27 (9.619KM),25 (14:05),,,,,,146
+48,Thorsten Pfeilschifter & Dischner Korbinian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,53 (670KG),49 (9.32KM),44 (15:05),,,,,,146
+50,Denis Rduch & Sven Riek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,48 (682KG),63 (9.138KM),38 (14:59),,,,,,149
+51,Philipp Schneider & Philipp Pecher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,56 (665KG),56 (9.255KM),41 (15:01),,,,,,153
+52,sebastian cifuentes & Nick Schuster,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,49 (680KG),36 (9.45KM),69 (16:58),,,,,,154
+53,WIlli Kellich & Luis Recinos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,41 (704KG),79 (8.822KM),38 (14:59),,,,,,158
+54,Arran Arogundade & Yannick Braun,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,1 (980KG),93 (8.313KM),65 (16:39),,,,,,159
+55,Ilija Markovic & Florian Schatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,80 (600KG),26 (9.644KM),54 (15:33),,,,,,160
+55,Jan Andryszak & Sasha Hinderlich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,9 (838KG),80 (8.808KM),71 (17:00),,,,,,160
+57,Felix Gotsch & Till Wintgen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,83 (599KG),19 (9.761KM),63 (16:08),,,,,,165
+58,Sébastien Petit & Cedric LEJARD,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,67 (640KG),18 (9.782KM),81 (17:34),,,,,,166
+58,Andreas Wikström & Peter Jonas,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,50 (675KG),40 (9.397KM),76 (17:13),,,,,,166
+60,Anton Savitsky & Aliaksandr Kochneu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,66 (642KG),50 (9.305KM),51 (15:25),,,,,,167
+61,Lars Prager & André Sadra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,45 (691KG),76 (8.873KM),49 (15:21),,,,,,170
+62,Adam Kugli & Szabolcs Lukacs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,26 (760KG),73 (8.915KM),75 (17:11),,,,,,174
+63,Thomas Range & Murat Hasan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,74 (618KG),44 (9.364KM),58 (15:56),,,,,,176
+64,Leon Huzeyfe Erdal & sefer ahmet özkan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,76 (608KG),41 (9.39KM),60 (16:04),,,,,,177
+65,Alberto Mesas & Bernardo Mercado Coimbra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,35 (710KG),95 (8.302KM),52 (15:28),,,,,,182
+66,Marten Kiersch & Erik Endelich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,62 (656KG),50 (9.305KM),72 (17:03),,,,,,184
+66,Tim Wiedenmann & Leon Hütter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,99 (537KG),25 (9.646KM),60 (16:04),,,,,,184
+68,Szymon Sekula & Sam Jobson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,91 (572KG),59 (9.186KM),36 (14:48),,,,,,186
+69,Robert Ettrich & Stefan Zipfel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,30 (725KG),78 (8.826KM),85 (18:32),,,,,,193
+70,Dirk Heinze & Drew Pronko,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,96 (550KG),15 (9.837KM),84 (18:09),,,,,,195
+71,Kamil Burkhanov & Peter Freundel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,80 (600KG),38 (9.423KM),82 (17:45),,,,,,200
+72,Jean-Maxime Rivière & Diego Estrada,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,86 (590KG),29 (9.564KM),87 (18:42),,,,,,202
+73,Perry Haki & Ole Petschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,53 (670KG),70 (8.998KM),80 (17:30),,,,,,203
+74,Jens Nordmeier & Thomas Lau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,95 (556KG),42 (9.381KM),67 (16:55),,,,,,204
+75,Tom Haufe & Marcel Weise,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,69 (630KG),66 (9.114KM),70 (16:59),,,,,,205
+76,Christopher Funk & Lorenz Funk,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,56 (665KG),72 (8.931KM),79 (17:18),,,,,,207
+77,Vincent To-Sanguan & Daniel Blank,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,58 (663KG),77 (8.834KM),73 (17:06),,,,,,208
+78,Simon Rossmann & Manuel Holzmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,85 (591KG),64 (9.134KM),62 (16:05),,,,,,211
+79,Luis Jouve Gutiérrez & Eloy López de Carrión,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,53 (670KG),97 (8.261KM),68 (16:56),,,,,,218
+79,Erik Fengler & Hannes Gey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,65 (645KG),87 (8.652KM),66 (16:51),,,,,,218
+81,Erik M & Marcel M,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,84 (596KG),60 (9.151KM),78 (17:17),,,,,,222
+82,Erik Wrage & Anatoli Guschan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,68 (632KG),81 (8.732KM),76 (17:13),,,,,,225
+83,Martin Rapierski & Nino Rum,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,89 (575KG),66 (9.114KM),74 (17:07),,,,,,229
+84,Max Doege & Jörn Sattler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,35 (710KG),99 (8.173KM),96 (19:30),,,,,,230
+85,Martin Gruner & Dennis Hypa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,39 (709KG),102 (7.887KM),91 (18:54),,,,,,232
+86,Jörg Schröder & Marko Weber-Schönherr,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,72 (620KG),98 (8.194KM),64 (16:21),,,,,,234
+87,Benjamin Wilck & Leonhard Wedel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,59 (660KG),88 (8.619KM),88 (18:43),,,,,,235
+87,Mark Hine & Moritz Winkler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,43 (698KG),92 (8.317KM),100 (20:35),,,,,,235
+89,Marco Scardino & Vincenzo Pesce,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,79 (604KG),71 (8.971KM),90 (18:53),,,,,,240
+90,Bernhard Koelbl & Florian Koehler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,105 (418KG),53 (9.277KM),83 (18:06),,,,,,241
+91,Stephan Rabsch & Lucas Altmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,71 (628KG),88 (8.619KM),92 (19:00),,,,,,251
+92,Steven Roese & Markus Riesner-Körner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,78 (605KG),84 (8.678KM),94 (19:14),,,,,,256
+93,Keith McCrae & Phuc Luu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,73 (619KG),91 (8.38KM),93 (19:08),,,,,,257
+94,Jannes Stubbemann & Federico Orlandini,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,88 (577KG),82 (8.684KM),97 (19:36),,,,,,267
+95,Oliver Patzelt & Jerome Kubaschek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,93 (569KG),96 (8.275KM),86 (18:40),,,,,,275
+95,Florian Vielweber & Heiko Hoferer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,100 (529KG),86 (8.666KM),89 (18:50),,,,,,275
+97,Marijo Sucic & rmarohn Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,98 (540KG),85 (8.676KM),98 (19:40),,,,,,281
+98,Erik Larsen & Konrad Larsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,89 (575KG),93 (8.313KM),104 (24:52),,,,,,286
+99,Jakob Handy & Maximilian schöngen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,104 (500KG),83 (8.683KM),103 (23:15),,,,,,290
+100,Alexander Schellinger & friedrich morisak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,91 (572KG),101 (8.055KM),101 (22:13),,,,,,293
+101,Martin Hanson & Daniel Stimpson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,103 (507KG),90 (8.583KM),102 (22:53),,,,,,295
+102,Christian Borka & Hanno Focken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,97 (542KG),104 (7.311KM),95 (19:27),,,,,,296
+103,Rainer De Lima Knappe & ibrahim Zeghzeghi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,101 (522KG),100 (8.119KM),99 (20:12),,,,,,300
+104,Jens Wudick & Marc Wudick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Overall,102 (520KG),103 (7.683KM),105 (25:17),,,,,,310
+1,Cara Halliday & Maya Halliday,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Overall,2 (573KG),3 (9.322KM),1 (15:29),,,,,,6
+1,Emma Ray & Caroline Norton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Overall,3 (504KG),1 (9.361KM),2 (15:35),,,,,,6
+3,Sandra Sommer & Julia Matthies,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Overall,1 (593KG),4 (8.435KM),4 (18:43),,,,,,9
+4,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Overall,4 (456KG),2 (9.332KM),3 (18:41),,,,,,9
+1,Julian Schwikart & Christian Ambichl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,MetCon X,,,12:35,,,,,,1
+2,Robert Wiersbinski & Matthias Trumpold,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,MetCon X,,,14:15,,,,,,2
+2,Tammo Bettex & Michael Adelhardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,MetCon X,,,14:15,,,,,,2
+4,Christian Zittel & Carsten Rothmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,MetCon X,,,14:24,,,,,,4
+5,Rhydian Powell & Jay Jones,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,MetCon X,,,15:10,,,,,,5
+6,Jim Orlando & Diego Juarez,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,MetCon X,,,15:16,,,,,,6
+1,Philipp Wamser & Luisa Pfrommer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,2 (740KG),1 (10.609KM),1 (14:01),,,,,,4
+2,Uli Glöckner & Daniel Lemke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,4 (676KG),2 (9.832KM),2 (14:44),,,,,,8
+3,Layla Siebert & Tom Maischak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,3 (726KG),5 (9.561KM),3 (15:00),,,,,,11
+4,Jens Koppe & Lena Fechner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,1 (832KG),8 (9.348KM),6 (16:40),,,,,,15
+5,Alexander Kress & Sandra Hegwein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,7 (622KG),4 (9.575KM),4 (16:11),,,,,,15
+6,Inga-Marie Ganssauge & Lennart Finke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,10 (548KG),3 (9.625KM),5 (16:35),,,,,,18
+7,Sören Findeisen & Franziska Kühlthau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,6 (630KG),6 (9.518KM),7 (16:41),,,,,,19
+8,Lena Sassano & Philipp Grunert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,5 (632KG),7 (9.455KM),8 (16:44),,,,,,20
+9,Marc Katzensteiner & Melanie Swoboda,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,9 (555KG),9 (9.273KM),9 (18:20),,,,,,27
+10,Fina Lale Kutz & Björn Wittig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,8 (569KG),12 (8.965KM),12 (21:00),,,,,,32
+11,Marcel Knäblein & Vanessa Mazzarella,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,14 (482KG),10 (9.198KM),11 (20:20),,,,,,35
+12,Maciek Dzięcioł & Justyna Dzieciol,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,12 (500KG),11 (9.146KM),13 (21:01),,,,,,36
+13,Sebastian Białowąs & Weronika Białowąs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,13 (490KG),15 (8.268KM),10 (19:59),,,,,,38
+14,Michaela Ressel & Juergen Deckert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,11 (527KG),14 (8.629KM),15 (22:55),,,,,,40
+15,Anja Meusel & Steve Federow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,15 (452KG),13 (8.922KM),14 (21:08),,,,,,42
+16,Anne Koch & Robert Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Overall,16 (414KG),16 (7.953KM),16 (31:00),,,,,,48
+1,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,14:36,,,,,,1
+2,Käthe Neuss & Florence Hofmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,14:40,,,,,,2
+3,Judith Claßen & Jessica Lindenthal,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,15:37,,,,,,3
+4,Sarah Emmermann & Vivien Herb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,15:46,,,,,,4
+5,Dinah Gordon & Jule Braren,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:00,,,,,,5
+6,LICIA FAIELLA & Erika Cavigiolo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:03,,,,,,6
+7,Kristin Plagemann & Cosima Wilke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:04,,,,,,7
+8,Franziska Maisel & Jenny Bierwirth,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:11,,,,,,8
+9,Emily Kavanagh & Georgie Pryor,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:12,,,,,,9
+10,Jennifer Küster & Katrin Schenker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:13,,,,,,10
+11,Hannah Danowski & Janine Gatzke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:27,,,,,,11
+12,Franca König & Jennifer Duque,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:31,,,,,,12
+13,Kim Jennifer Struckmann & Laura Boyksen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:44,,,,,,13
+14,Wiebke Eggers & Ann-Katrin Hinze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:53,,,,,,14
+15,Eliza Cumming & Kelley Griffiths,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:55,,,,,,15
+16,Amelie Dick & Leonie Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:57,,,,,,16
+17,Catharina Schaaff & Leonie Bergmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:05,,,,,,17
+18,Silvia Stenzel & Valerie Geßler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:06,,,,,,18
+19,Isabell Grasnick & Holland Cathey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:08,,,,,,19
+20,Jette Schaffran & Julia Czerwinski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:19,,,,,,20
+21,Aleksandra Kowalska & Agata Szymańczak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:20,,,,,,21
+22,Lisa Brand & Agnes Rössler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:27,,,,,,22
+23,Ceci Ruppert & Kim Rosner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:35,,,,,,23
+24,Sarah Kluge & Katy Völker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:41,,,,,,24
+25,Emma Diallo & Pauline Fajnzylberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:43,,,,,,25
+26,Antje Kern & Maximiliane Thiel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:44,,,,,,26
+27,Lena-Marie Helbing & Teresa Tayerle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:47,,,,,,27
+28,Jeannine Schmidt-Heidenreich & Nadien Freitag,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:50,,,,,,28
+28,Jule Fink & Inga Bockisch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:50,,,,,,28
+30,Daniela Krausch & Laura Frach,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:53,,,,,,30
+30,Kinga Hebda & Celina Piotrowska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,17:53,,,,,,30
+32,Maria Agethen & Franziska Mews,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:00,,,,,,32
+33,Ayse-Sophie Justvan & Malin Holtmeyer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:18,,,,,,33
+34,Petra Bohnet-Waldraff & Vienna Oppie,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:20,,,,,,34
+34,Lara-Marie Scherfig & Laura Conrad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:20,,,,,,34
+36,Samanta Schydlo & Anna Menzel-Giourelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:30,,,,,,36
+37,Asrai Soos & Laura Modrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:31,,,,,,37
+38,Gabriela Carolina Luciano & Juliana Ribeiro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:39,,,,,,38
+39,Katherina Krämer & lausi.weber Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:44,,,,,,39
+40,Zena El Abdalla & Roya Haupt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:45,,,,,,40
+41,Julia Exler & Juliane Zickler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:58,,,,,,41
+42,Jennifer Bechtold & Kira Spuddig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:03,,,,,,42
+43,Anne A & Joélle Knüpfer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:14,,,,,,43
+44,Franziska Sturm & Sandra Krugmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:18,,,,,,44
+45,Stina Güttner & Leah Joswig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:26,,,,,,45
+46,Alexandra Ulbricht & Chiara Jaegers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:43,,,,,,46
+47,Marlis Hochwarter & Tina Hochwarter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:45,,,,,,47
+48,Alicja Bulak & Ela Bogdanowicz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:49,,,,,,48
+49,Celine Ruckaberle & Isabella Singer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:53,,,,,,49
+49,Ann-Kristin Freitag & Carmen Jedosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,19:53,,,,,,49
+51,Susanne Jahn & Sabrina Bürger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:08,,,,,,51
+52,Ramona Eitele & Julia Bertele,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:26,,,,,,52
+53,Ruth Leonard & Karen Mooney,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:30,,,,,,53
+54,Schirin Remmy & Sandra Pörtner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:36,,,,,,54
+55,Selina Rösch & Julia Haschka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:44,,,,,,55
+56,Nicole Bredfeldt & Sina Rieckhoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:45,,,,,,56
+57,Anja Kürzinger & Faina Kaplan Halfon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,20:56,,,,,,57
+58,Lisa Goder & Iris Bräutigam,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,21:36,,,,,,58
+59,Irina Buller & Sarah Bugdoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,21:50,,,,,,59
+60,Yousra Lembachar & Pauline Didier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,21:58,,,,,,60
+61,Eva Zimmermann & Caterina Porro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,22:09,,,,,,61
+62,Stephanie Busch & Sandra Andersen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,22:37,,,,,,62
+63,Deirbhile Seville & Asia O'Driscoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,23:45,,,,,,63
+64,Nadine Schwanebeck & Anja Sander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,23:46,,,,,,64
+65,Svenja Rojem-Wagner & Alexandra Ulrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,23:56,,,,,,65
+1,Alina Bräuer & Sami Mardnli,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,11:54,,,,,,1
+2,Martin Michelius & Nathalie Duerbeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,12:28,,,,,,2
+3,Sarah Kerr & Chris Pawson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,12:40,,,,,,3
+4,Daniel Birca & Klára Nováková,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,12:44,,,,,,4
+5,Kathryn Metcalfe & Joshua Sacher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,12:46,,,,,,5
+6,Kathrin Limmer & Stephan Friedrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:00,,,,,,6
+6,Michal Schwarz & Petra Juskova,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:00,,,,,,6
+8,Florian Kowalczyk & Nadine Henningsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:06,,,,,,8
+9,Paula Loibl & Marius Grad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:10,,,,,,9
+10,Anna Connor-Astreos & Liam Eldridge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:12,,,,,,10
+11,Nina Knieriemen & Pascal Pech,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:19,,,,,,11
+12,Malte Frontzek & Kerstin Brückner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:38,,,,,,12
+13,Luis Willer & Julia Zeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,13:50,,,,,,13
+14,Jule Paulsen & Thies Nicolaisen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:00,,,,,,14
+15,Julia Rißmann & Jan Gimbel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:01,,,,,,15
+16,Christin Bosinsky & Deniz Galander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:03,,,,,,16
+17,Jonathan Bunel joly & Andrea Hendry,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:05,,,,,,17
+18,Cynthia Mensah & Jannes Werner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:14,,,,,,18
+19,Chiara Regli & Enzo Helbling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:19,,,,,,19
+19,Julian Roppelt & Viktoria Roppelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:19,,,,,,19
+21,Alexander Spießl & Manuela Schambeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:24,,,,,,21
+22,Benjamin Lux & Anne Lux,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:25,,,,,,22
+23,Cynthia Gurrieri-Uhl & Armin Uhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:30,,,,,,23
+24,Saskia Noack & Marc Ewers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:34,,,,,,24
+25,Lea Stein & Nico Küttner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:37,,,,,,25
+26,Christian Schnur & Inge Kling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:41,,,,,,26
+27,Sabrina Leinmüller & Hannes Röhrle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:45,,,,,,27
+28,Giannina Pomilio & Angelo E,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:46,,,,,,28
+29,Jana Monin & Adrian Roseanu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:48,,,,,,29
+30,Sally Petzold & Marcel Wichert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:51,,,,,,30
+31,Anna-Lena Markus & Patrick Siehoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:53,,,,,,31
+31,Adrianna Wisniewska & Jaime Bodelon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:53,,,,,,31
+33,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:54,,,,,,33
+33,Romy Trömel & Dan Baaken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:54,,,,,,33
+35,Nicole Malucha & Max Anossow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:55,,,,,,35
+35,Kate Gerhard & Thomas Führer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:55,,,,,,35
+37,Joana Müller & Daniel Fuentealba,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:57,,,,,,37
+38,Thamara Schuster & Stephan Hotzy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:00,,,,,,38
+39,Bastian Bienlein & U Z,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:01,,,,,,39
+39,Maximilian Köckritz & Eva Liedtke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:01,,,,,,39
+41,Melanie Walch & Michael Walch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:03,,,,,,41
+42,Alexander Hespeler & Bahar Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:08,,,,,,42
+43,Lukas Quackatz & Jülly-Inna Liang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:09,,,,,,43
+44,Florian Sebald & Agnes Bretschneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:13,,,,,,44
+44,Steve Enning & Anna Heuschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:13,,,,,,44
+46,Pascal Giger & Janine Czeschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:15,,,,,,46
+46,Susanne Kopf & Patrick Röhrl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:15,,,,,,46
+48,Ines Noeske & Boubacar Bah,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:20,,,,,,48
+49,Simone Schuhbauer & Alexander Hien,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:21,,,,,,49
+50,Steffen Waibel & Julia Waibel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:27,,,,,,50
+50,Veronika Hammerbacher & Meier.Florian Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:27,,,,,,50
+50,Nadine Taschner & Lengsfeld Maximilian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:27,,,,,,50
+53,Magdalena Moltzan-Malkowska & Zbigniew Moltzan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:37,,,,,,53
+54,Jan Danowski & Sara Schäfers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:38,,,,,,54
+55,Jule Minrath & Leon Horn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:39,,,,,,55
+55,Fabian Kettlitz & Romina Buschick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:39,,,,,,55
+57,David Stein & Sarah Neises,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:44,,,,,,57
+58,Katja Stabenow & Markus Oesteritz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:45,,,,,,58
+59,Vanessa Tacke & Marek Buschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:47,,,,,,59
+60,Luisa Eickmeyer & Frederic Ruppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:49,,,,,,60
+61,Andreas Synak & Anina Günzel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:52,,,,,,61
+62,Tim Weyland & Marie Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:59,,,,,,62
+62,Julia Hornauer & Marcel Schreiber,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,15:59,,,,,,62
+64,Ferdinand Greinacher & Laura Lehmkuhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:00,,,,,,64
+65,Alexander Irmscher & Tina Irmscher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:01,,,,,,65
+66,Edith Moser & Manfred Moser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:09,,,,,,66
+67,Bernadett Békési & Mark Halasi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:16,,,,,,67
+68,David Piesik & Laura Heynen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:19,,,,,,68
+68,Hendrik Behrens & Clarissa Siegel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:19,,,,,,68
+70,Marco Ruffani & Sabrina Rebekka Nusser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:20,,,,,,70
+70,Daniel Kochmann & Jenifer Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:20,,,,,,70
+72,Marilena Micha & Vangelis Papanikolaou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:31,,,,,,72
+73,Elena Walter & Steffen Bosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:39,,,,,,73
+74,Uli Heimes & Lars Neumann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:40,,,,,,74
+75,Luca Lahaye & Louis Aisosa Omoregbee,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:55,,,,,,75
+76,Martin Hennig & Laura laura.hirthe@gmx.de,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:59,,,,,,76
+77,Nicole Bäumler & Markus Bäumler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:05,,,,,,77
+78,Igor Roller & Svetlana Roller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:13,,,,,,78
+79,Jan Koch & Michelle Hofmeier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:20,,,,,,79
+80,Michelle Wothe & Eric Wothe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:23,,,,,,80
+81,Oliver Lange & Sarah Andris,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:31,,,,,,81
+82,Franziska Schultz & Sebastian Schramm,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:33,,,,,,82
+83,Melanie Schwalb & Hugo Heid,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:42,,,,,,83
+84,Olivia Shepherd & Manuel Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:47,,,,,,84
+85,Sebastian Vermaat & Sonja Oeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:49,,,,,,85
+86,Nina Sieger & Jakob Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,17:59,,,,,,86
+87,Daniel Rath & Josephine Bärlin,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:03,,,,,,87
+88,Celina Fischer & Denis Fuchs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:15,,,,,,88
+89,Sandy Dannenberg & Philipp Dannenberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:26,,,,,,89
+90,Luka Braun & Anouk Köhler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:36,,,,,,90
+91,Denis Brandt & Sarah Mertes,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:39,,,,,,91
+92,Jenna Kadlubski & Christian Maksvitat,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:40,,,,,,92
+93,maeve hamill & Adam Johnston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:43,,,,,,93
+94,Steffen Mädger & Ilona Michallek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:47,,,,,,94
+95,Christian Leutner & Ines Leutner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:49,,,,,,95
+96,Alexander Karpf & Vivienne Schulze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,18:56,,,,,,96
+97,Christoph Huber & Melissa Hausladen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:05,,,,,,97
+98,Sebastian Letz & Jennifer Letz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:15,,,,,,98
+99,Sabrina Wagner & Dave Gummelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:16,,,,,,99
+100,Konstantin Hoffmann & Michelle Guy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:17,,,,,,100
+101,Nadine Freigang & Thomas Helbig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:18,,,,,,101
+102,Maik Leber & Valeska Grabowski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:38,,,,,,102
+102,Monika Sestic & Slaven Sestic,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,19:38,,,,,,102
+104,Ly Trinh & Henning Reimers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,20:04,,,,,,104
+105,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,20:19,,,,,,105
+106,Corinna Rose & Christian Böttger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,20:50,,,,,,106
+107,Anna Sylvester & Stefan Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,20:52,,,,,,107
+108,Alexander Ebert & Katharina Ebert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,21:32,,,,,,108
+109,Antonio Villani & Nilla Hoppe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,22:45,,,,,,109
+110,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,23:29,,,,,,110
+1,Tammo Bettex & Michael Adelhardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Endurance,,,,,,,3.227KM,5.105KM,1
+2,Julian Schwikart & Christian Ambichl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Endurance,,,,,,,3KM,5.173KM,2
+3,Rhydian Powell & Jay Jones,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Endurance,,,,,,,3.532KM,4.626KM,3
+4,Christian Zittel & Carsten Rothmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Endurance,,,,,,,2.688KM,5.214KM,4
+5,Jim Orlando & Diego Juarez,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Endurance,,,,,,,2.797KM,4.558KM,5
+6,Robert Wiersbinski & Matthias Trumpold,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Endurance,,,,,,,2.5KM,4.567KM,6
+1,Lewys Morgan-Smith & Baz gouldsbury,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,14:14,,,,,,1
+2,Alexander Sonnenthal & Nils Mattern,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,15:06,,,,,,2
+3,Steven Knieriemen & Andre Theis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,15:11,,,,,,3
+4,Max Pieper & Valentin Dorn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,16:09,,,,,,4
+5,Christian Freese & Leonel Quinta,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,17:55,,,,,,5
+6,Christof Hahn & Bjarne Jensen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,18:04,,,,,,6
+7,Ralph Wachter & Thomas Rieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,18:29,,,,,,7
+8,Marlon Kampmann & Yannick Sieberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,18:31,,,,,,8
+9,Horatiu Kraus & Alexander Mory,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,19:49,,,,,,9
+10,philipp Ketzer & Marc Ketzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,19:59,,,,,,10
+11,Jochen Köhler & Torben Krohn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,20:36,,,,,,11
+12,Andreas Kirsch & Johannes Kluge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,23:03,,,,,,12
+13,Detlef Martach & Tobi Kleibe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,MetCon X,,,24:33,,,,,,13
+1,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,4.5KM,4.963KM,1
+2,Emily Kavanagh & Georgie Pryor,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,5.273KM,2
+3,Käthe Neuss & Florence Hofmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.848KM,5.164KM,3
+4,Franca König & Jennifer Duque,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.947KM,5.044KM,4
+5,Isabell Grasnick & Holland Cathey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,5.146KM,5
+6,Jennifer Küster & Katrin Schenker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.896KM,4.959KM,6
+7,Amelie Dick & Leonie Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,5.079KM,7
+8,Alexandra Ulbricht & Chiara Jaegers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,4.102KM,4.687KM,8
+9,Lisa Brand & Agnes Rössler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.719KM,5.046KM,9
+10,Catharina Schaaff & Leonie Bergmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.592KM,5.161KM,10
+11,Aleksandra Kowalska & Agata Szymańczak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.808KM,4.856KM,11
+12,Wiebke Eggers & Ann-Katrin Hinze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.66KM,4.992KM,12
+13,Daniela Krausch & Laura Frach,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.892KM,13
+14,Jeannine Schmidt-Heidenreich & Nadien Freitag,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.789KM,4.851KM,14
+15,Sarah Kluge & Katy Völker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.707KM,4.928KM,15
+16,Jette Schaffran & Julia Czerwinski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.874KM,16
+17,Kristin Plagemann & Cosima Wilke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.639KM,4.96KM,17
+18,Eliza Cumming & Kelley Griffiths,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.84KM,18
+19,Judith Claßen & Jessica Lindenthal,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.367KM,5.219KM,19
+20,Dinah Gordon & Jule Braren,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.692KM,4.886KM,20
+21,Emma Diallo & Pauline Fajnzylberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.755KM,4.809KM,21
+22,Sarah Emmermann & Vivien Herb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.725KM,4.817KM,22
+23,Celine Ruckaberle & Isabella Singer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.571KM,4.924KM,23
+24,Kinga Hebda & Celina Piotrowska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.531KM,4.935KM,24
+25,Antje Kern & Maximiliane Thiel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.655KM,4.8KM,25
+26,Hannah Danowski & Janine Gatzke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.632KM,4.785KM,26
+27,Silvia Stenzel & Valerie Geßler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.758KM,4.631KM,27
+28,Marlis Hochwarter & Tina Hochwarter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.732KM,4.614KM,28
+29,Jennifer Bechtold & Kira Spuddig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.604KM,4.73KM,29
+30,Gabriela Carolina Luciano & Juliana Ribeiro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.759KM,4.554KM,30
+31,Kim Jennifer Struckmann & Laura Boyksen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.285KM,5.016KM,31
+32,Susanne Jahn & Sabrina Bürger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.532KM,32
+33,Franziska Maisel & Jenny Bierwirth,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.25KM,5.026KM,33
+34,Maria Agethen & Franziska Mews,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.414KM,4.856KM,34
+35,Jule Fink & Inga Bockisch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.375KM,4.884KM,35
+36,Lena-Marie Helbing & Teresa Tayerle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.396KM,4.838KM,36
+37,Svenja Rojem-Wagner & Alexandra Ulrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.475KM,37
+38,Selina Rösch & Julia Haschka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.408KM,4.813KM,38
+39,Franziska Sturm & Sandra Krugmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.392KM,4.797KM,39
+40,Schirin Remmy & Sandra Pörtner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.288KM,4.883KM,40
+41,Lara-Marie Scherfig & Laura Conrad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.356KM,4.813KM,41
+42,Anne A & Joélle Knüpfer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.655KM,42
+43,Petra Bohnet-Waldraff & Vienna Oppie,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.698KM,4.443KM,43
+44,Katherina Krämer & lausi.weber Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.277KM,4.842KM,44
+45,Ruth Leonard & Karen Mooney,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.605KM,45
+46,LICIA FAIELLA & Erika Cavigiolo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.307KM,4.796KM,46
+47,Ramona Eitele & Julia Bertele,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.351KM,4.715KM,47
+48,Ceci Ruppert & Kim Rosner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.663KM,4.401KM,48
+49,Samanta Schydlo & Anna Menzel-Giourelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.141KM,4.91KM,49
+50,Julia Exler & Juliane Zickler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.26KM,50
+51,Yousra Lembachar & Pauline Didier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.465KM,4.542KM,51
+52,Anja Kürzinger & Faina Kaplan Halfon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.248KM,52
+53,Ayse-Sophie Justvan & Malin Holtmeyer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.308KM,4.645KM,53
+54,Irina Buller & Sarah Bugdoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.373KM,4.466KM,54
+55,Ann-Kristin Freitag & Carmen Jedosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.185KM,4.635KM,55
+56,Asrai Soos & Laura Modrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.312KM,4.47KM,56
+57,Stina Güttner & Leah Joswig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.1KM,4.674KM,57
+58,Alicja Bulak & Ela Bogdanowicz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.238KM,58
+59,Nadine Schwanebeck & Anja Sander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3KM,4.634KM,59
+60,Lisa Goder & Iris Bräutigam,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.109KM,4.465KM,60
+61,Zena El Abdalla & Roya Haupt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.097KM,4.473KM,61
+62,Deirbhile Seville & Asia O'Driscoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.421KM,4.036KM,62
+63,Eva Zimmermann & Caterina Porro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,3.274KM,4.108KM,63
+64,Stephanie Busch & Sandra Andersen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,2.923KM,4.271KM,64
+65,Nicole Bredfeldt & Sina Rieckhoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Endurance,,,,,,,2.177KM,4.806KM,65
+1,Martin Michelius & Nathalie Duerbeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.887KM,5.325KM,1
+2,Florian Kowalczyk & Nadine Henningsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,5.005KM,5.075KM,2
+3,Alina Bräuer & Sami Mardnli,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.647KM,5.405KM,3
+4,Sarah Kerr & Chris Pawson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.479KM,5.549KM,4
+5,Nicole Malucha & Max Anossow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.83KM,5.061KM,5
+6,Magdalena Moltzan-Malkowska & Zbigniew Moltzan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.459KM,5.372KM,6
+7,Jana Monin & Adrian Roseanu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.5KM,5.299KM,7
+8,Paula Loibl & Marius Grad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.298KM,5.499KM,8
+9,Kathryn Metcalfe & Joshua Sacher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.367KM,5.424KM,9
+10,Daniel Birca & Klára Nováková,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.138KM,5.59KM,10
+11,Malte Frontzek & Kerstin Brückner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.424KM,5.286KM,11
+12,Saskia Noack & Marc Ewers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.395KM,5.312KM,12
+13,Kathrin Limmer & Stephan Friedrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.25KM,5.447KM,13
+14,Luis Willer & Julia Zeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.5KM,5.193KM,14
+15,Anna Connor-Astreos & Liam Eldridge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.25KM,5.359KM,15
+16,Lea Stein & Nico Küttner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.32KM,5.21KM,16
+17,Anna-Lena Markus & Patrick Siehoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.33KM,5.15KM,17
+18,Cynthia Mensah & Jannes Werner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.415KM,5.032KM,18
+19,Nadine Taschner & Lengsfeld Maximilian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.11KM,5.306KM,19
+20,Jan Koch & Michelle Hofmeier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.459KM,4.946KM,20
+21,Julia Hornauer & Marcel Schreiber,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.943KM,5.455KM,21
+22,Maximilian Köckritz & Eva Liedtke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.877KM,5.492KM,22
+23,Nina Knieriemen & Pascal Pech,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.885KM,5.463KM,23
+24,Jule Minrath & Leon Horn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.189KM,5.123KM,24
+25,Jule Paulsen & Thies Nicolaisen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.135KM,5.151KM,25
+26,Christin Bosinsky & Deniz Galander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.018KM,5.265KM,26
+27,Julia Rißmann & Jan Gimbel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.899KM,5.371KM,27
+28,Benjamin Lux & Anne Lux,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.512KM,28
+29,Kate Gerhard & Thomas Führer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.285KM,4.975KM,29
+30,Sabrina Leinmüller & Hannes Röhrle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.895KM,5.361KM,30
+31,Alexander Hespeler & Bahar Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.346KM,4.873KM,31
+32,Julian Roppelt & Viktoria Roppelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.862KM,5.341KM,32
+33,Marilena Micha & Vangelis Papanikolaou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.202KM,4.965KM,33
+34,Michal Schwarz & Petra Juskova,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.684KM,5.469KM,34
+35,Chiara Regli & Enzo Helbling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.354KM,35
+36,Alexander Irmscher & Tina Irmscher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4KM,5.099KM,36
+37,David Stein & Sarah Neises,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.846KM,5.236KM,37
+38,Susanne Kopf & Patrick Röhrl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.821KM,5.256KM,38
+39,Marco Ruffani & Sabrina Rebekka Nusser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.849KM,5.222KM,39
+40,Christian Schnur & Inge Kling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.309KM,40
+41,Pascal Giger & Janine Czeschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.909KM,5.145KM,41
+42,Sally Petzold & Marcel Wichert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.785KM,5.257KM,42
+43,Ferdinand Greinacher & Laura Lehmkuhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.2KM,4.834KM,43
+44,Steve Enning & Anna Heuschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.771KM,5.239KM,44
+45,Ines Noeske & Boubacar Bah,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.857KM,5.151KM,45
+46,Uli Heimes & Lars Neumann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.105KM,4.881KM,46
+47,Adrianna Wisniewska & Jaime Bodelon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.935KM,5.02KM,47
+48,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.16KM,48
+49,Jonathan Bunel joly & Andrea Hendry,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.416KM,5.492KM,49
+50,Florian Sebald & Agnes Bretschneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.698KM,5.206KM,50
+51,Luisa Eickmeyer & Frederic Ruppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.151KM,51
+52,Sebastian Vermaat & Sonja Oeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.14KM,52
+53,Thamara Schuster & Stephan Hotzy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.804KM,5.085KM,53
+54,Giannina Pomilio & Angelo E,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.592KM,5.293KM,54
+55,Katja Stabenow & Markus Oesteritz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.82KM,5.055KM,55
+56,Fabian Kettlitz & Romina Buschick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.542KM,5.31KM,56
+57,Jan Danowski & Sara Schäfers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.765KM,5.08KM,57
+57,Alexander Spießl & Manuela Schambeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.596KM,5.249KM,57
+59,Simone Schuhbauer & Alexander Hien,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.051KM,59
+60,Melanie Walch & Michael Walch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.042KM,60
+61,Tim Weyland & Marie Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.905KM,4.873KM,61
+62,Cynthia Gurrieri-Uhl & Armin Uhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.656KM,5.119KM,62
+63,Melanie Schwalb & Hugo Heid,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.22KM,4.544KM,63
+64,Steffen Waibel & Julia Waibel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.626KM,5.13KM,64
+65,Igor Roller & Svetlana Roller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.92KM,4.835KM,65
+66,Daniel Kochmann & Jenifer Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.559KM,5.192KM,66
+67,Luca Lahaye & Louis Aisosa Omoregbee,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,4.639KM,4.089KM,67
+68,Veronika Hammerbacher & Meier.Florian Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.678KM,5.041KM,68
+69,Bastian Bienlein & U Z,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.951KM,69
+70,Hendrik Behrens & Clarissa Siegel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.64KM,5.056KM,70
+71,Christoph Huber & Melissa Hausladen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.688KM,5.006KM,71
+72,Michelle Wothe & Eric Wothe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.73KM,4.96KM,72
+73,Sandy Dannenberg & Philipp Dannenberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.875KM,73
+73,Vanessa Tacke & Marek Buschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.78KM,4.845KM,73
+75,Romy Trömel & Dan Baaken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.591KM,5.028KM,75
+76,Olivia Shepherd & Manuel Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.575KM,5.029KM,76
+77,Elena Walter & Steffen Bosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.846KM,4.747KM,77
+78,Joana Müller & Daniel Fuentealba,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.788KM,4.798KM,78
+79,Nadine Freigang & Thomas Helbig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.667KM,4.886KM,79
+80,Lukas Quackatz & Jülly-Inna Liang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.614KM,4.908KM,80
+81,David Piesik & Laura Heynen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.434KM,5.086KM,81
+82,Martin Hennig & Laura laura.hirthe@gmx.de,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.768KM,82
+83,Ly Trinh & Henning Reimers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.588KM,4.919KM,83
+84,Oliver Lange & Sarah Andris,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.974KM,84
+85,Edith Moser & Manfred Moser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.72KM,85
+86,Maik Leber & Valeska Grabowski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.496KM,4.961KM,86
+87,Sabrina Wagner & Dave Gummelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.436KM,5.016KM,87
+88,Nicole Bäumler & Markus Bäumler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.883KM,88
+89,Steffen Mädger & Ilona Michallek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.772KM,89
+90,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.533KM,4.738KM,90
+91,Franziska Schultz & Sebastian Schramm,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.265KM,5.003KM,91
+92,Andreas Synak & Anina Günzel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.446KM,4.799KM,92
+93,Sebastian Letz & Jennifer Letz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.744KM,93
+94,Daniel Rath & Josephine Bärlin,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.49KM,4.721KM,94
+95,Monika Sestic & Slaven Sestic,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.518KM,4.662KM,95
+96,Luka Braun & Anouk Köhler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.812KM,4.341KM,96
+97,Anna Sylvester & Stefan Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.548KM,4.589KM,97
+98,Alexander Ebert & Katharina Ebert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.432KM,4.693KM,98
+99,Jenna Kadlubski & Christian Maksvitat,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.064KM,5.001KM,99
+99,Bernadett Békési & Mark Halasi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.182KM,4.883KM,99
+101,Nina Sieger & Jakob Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.355KM,4.693KM,101
+102,Denis Brandt & Sarah Mertes,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,2.995KM,5KM,102
+103,maeve hamill & Adam Johnston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.192KM,4.731KM,103
+104,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.144KM,4.712KM,104
+105,Konstantin Hoffmann & Michelle Guy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.581KM,4.269KM,105
+106,Christian Leutner & Ines Leutner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.079KM,4.746KM,106
+107,Celina Fischer & Denis Fuchs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,2.5KM,5.061KM,107
+108,Antonio Villani & Nilla Hoppe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,3.054KM,4.429KM,108
+109,Corinna Rose & Christian Böttger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,2.924KM,4.492KM,109
+110,Alexander Karpf & Vivienne Schulze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Endurance,,,,,,,2.285KM,4.863KM,110
+1,Julian Schwikart & Christian Ambichl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Strength,,,,138KG,283KG,340KG,,,1
+2,Rhydian Powell & Jay Jones,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Strength,,,,135KG,235KG,270KG,,,2
+3,Robert Wiersbinski & Matthias Trumpold,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Strength,,,,123KG,210KG,250KG,,,3
+4,Jim Orlando & Diego Juarez,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Strength,,,,115KG,200KG,220KG,,,4
+5,Christian Zittel & Carsten Rothmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Strength,,,,105KG,145KG,255KG,,,5
+6,Tammo Bettex & Michael Adelhardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Strength,,,,107KG,170KG,215KG,,,6
+1,Alexander Sonnenthal & Nils Mattern,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.392KM,5.933KM,1
+2,Lewys Morgan-Smith & Baz gouldsbury,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.5KM,5.803KM,2
+3,Jochen Köhler & Torben Krohn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.461KM,5.663KM,3
+4,Max Pieper & Valentin Dorn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.607KM,5.508KM,4
+5,Steven Knieriemen & Andre Theis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3.956KM,5.962KM,5
+6,Christof Hahn & Bjarne Jensen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3.787KM,5.939KM,6
+7,philipp Ketzer & Marc Ketzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.392KM,5.306KM,7
+8,Christian Freese & Leonel Quinta,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.183KM,5.451KM,8
+9,Marlon Kampmann & Yannick Sieberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.175KM,5.382KM,9
+10,Ralph Wachter & Thomas Rieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4.043KM,5.502KM,10
+11,Horatiu Kraus & Alexander Mory,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.492KM,11
+12,Andreas Kirsch & Johannes Kluge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3.982KM,5.192KM,12
+13,Detlef Martach & Tobi Kleibe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Endurance,,,,,,,3.335KM,4.999KM,13
+1,Judith Claßen & Jessica Lindenthal,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,103KG,190KG,230KG,,,1
+2,Hannah Danowski & Janine Gatzke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,90KG,182KG,233KG,,,2
+3,Samanta Schydlo & Anna Menzel-Giourelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,86KG,184KG,228KG,,,3
+4,Jennifer Bechtold & Kira Spuddig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,85KG,174KG,237KG,,,4
+5,Kim Jennifer Struckmann & Laura Boyksen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,83KG,173KG,235KG,,,5
+6,Eliza Cumming & Kelley Griffiths,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,80KG,190KG,220KG,,,6
+7,Asrai Soos & Laura Modrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,78KG,175KG,235KG,,,7
+8,Nicole Bredfeldt & Sina Rieckhoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,81KG,165KG,235KG,,,8
+9,Jette Schaffran & Julia Czerwinski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,78KG,192KG,210KG,,,9
+10,LICIA FAIELLA & Erika Cavigiolo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,84KG,173KG,220KG,,,10
+11,Dinah Gordon & Jule Braren,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,84KG,180KG,210KG,,,11
+12,Emily Kavanagh & Georgie Pryor,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,82KG,165KG,225KG,,,12
+13,Wiebke Eggers & Ann-Katrin Hinze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,89KG,173KG,207KG,,,13
+14,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,85KG,178KG,201KG,,,14
+15,Käthe Neuss & Florence Hofmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,88KG,165KG,210KG,,,15
+16,Antje Kern & Maximiliane Thiel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,78KG,160KG,220KG,,,16
+17,Franziska Maisel & Jenny Bierwirth,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,83KG,160KG,214KG,,,17
+18,Amelie Dick & Leonie Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,80KG,169KG,205KG,,,18
+19,Ceci Ruppert & Kim Rosner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,83KG,165KG,201KG,,,19
+19,Stephanie Busch & Sandra Andersen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,85KG,165KG,199KG,,,19
+21,Sarah Emmermann & Vivien Herb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,94KG,172KG,180KG,,,21
+22,Kristin Plagemann & Cosima Wilke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,85KG,163KG,196KG,,,22
+23,Franziska Sturm & Sandra Krugmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,88KG,160KG,195KG,,,23
+24,Sarah Kluge & Katy Völker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,77KG,165KG,200KG,,,24
+25,Isabell Grasnick & Holland Cathey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,83KG,170KG,186KG,,,25
+26,Schirin Remmy & Sandra Pörtner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,93KG,155KG,190KG,,,26
+26,Ann-Kristin Freitag & Carmen Jedosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,73KG,160KG,205KG,,,26
+28,Maria Agethen & Franziska Mews,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,82KG,150KG,205KG,,,28
+29,Lara-Marie Scherfig & Laura Conrad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,77KG,153KG,205KG,,,29
+30,Anne A & Joélle Knüpfer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,79KG,160KG,195KG,,,30
+31,Stina Güttner & Leah Joswig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,86KG,150KG,195KG,,,31
+31,Marlis Hochwarter & Tina Hochwarter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,87KG,170KG,174KG,,,31
+33,Gabriela Carolina Luciano & Juliana Ribeiro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,75KG,165KG,185KG,,,33
+34,Aleksandra Kowalska & Agata Szymańczak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,81KG,143KG,192KG,,,34
+35,Daniela Krausch & Laura Frach,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,73KG,145KG,195KG,,,35
+36,Kinga Hebda & Celina Piotrowska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,72KG,140KG,200KG,,,36
+37,Selina Rösch & Julia Haschka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,64KG,165KG,182KG,,,37
+38,Petra Bohnet-Waldraff & Vienna Oppie,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,78KG,162KG,163KG,,,38
+39,Catharina Schaaff & Leonie Bergmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,74KG,135KG,190KG,,,39
+40,Silvia Stenzel & Valerie Geßler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,93KG,135KG,170KG,,,40
+40,Emma Diallo & Pauline Fajnzylberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,65KG,140KG,193KG,,,40
+42,Ramona Eitele & Julia Bertele,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,77KG,144KG,175KG,,,42
+43,Katherina Krämer & lausi.weber Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,75KG,140KG,180KG,,,43
+44,Zena El Abdalla & Roya Haupt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,68KG,144KG,180KG,,,44
+45,Jeannine Schmidt-Heidenreich & Nadien Freitag,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,80KG,133KG,175KG,,,45
+45,Lisa Brand & Agnes Rössler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,70KG,140KG,178KG,,,45
+47,Nadine Schwanebeck & Anja Sander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,81KG,120KG,185KG,,,47
+48,Alicja Bulak & Ela Bogdanowicz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,67KG,135KG,180KG,,,48
+49,Jule Fink & Inga Bockisch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,79KG,130KG,170KG,,,49
+50,Lena-Marie Helbing & Teresa Tayerle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,72KG,135KG,170KG,,,50
+51,Anja Kürzinger & Faina Kaplan Halfon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,76KG,120KG,180KG,,,51
+52,Lisa Goder & Iris Bräutigam,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,71KG,130KG,166KG,,,52
+52,Alexandra Ulbricht & Chiara Jaegers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,67KG,130KG,170KG,,,52
+54,Ayse-Sophie Justvan & Malin Holtmeyer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,65KG,128KG,170KG,,,54
+54,Celine Ruckaberle & Isabella Singer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,63KG,130KG,170KG,,,54
+56,Franca König & Jennifer Duque,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,60KG,126KG,169KG,,,56
+57,Yousra Lembachar & Pauline Didier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,74KG,130KG,150KG,,,57
+58,Jennifer Küster & Katrin Schenker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,74KG,120KG,154KG,,,58
+59,Ruth Leonard & Karen Mooney,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,64KG,112KG,170KG,,,59
+60,Deirbhile Seville & Asia O'Driscoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,59KG,120KG,155KG,,,60
+60,Susanne Jahn & Sabrina Bürger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,69KG,103KG,162KG,,,60
+62,Irina Buller & Sarah Bugdoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,57KG,107KG,155KG,,,62
+63,Julia Exler & Juliane Zickler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,63KG,101KG,147KG,,,63
+64,Eva Zimmermann & Caterina Porro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,50KG,106KG,125KG,,,64
+65,Svenja Rojem-Wagner & Alexandra Ulrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,57KG,95KG,123KG,,,65
+1,Anna Connor-Astreos & Liam Eldridge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,137KG,287KG,314KG,,,1
+2,Jonathan Bunel joly & Andrea Hendry,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,118KG,280KG,323KG,,,2
+3,Julian Roppelt & Viktoria Roppelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,128KG,255KG,300KG,,,3
+3,Michal Schwarz & Petra Juskova,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,130KG,255KG,298KG,,,3
+5,Ines Noeske & Boubacar Bah,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,120KG,260KG,290KG,,,5
+6,Nina Knieriemen & Pascal Pech,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,120KG,244KG,285KG,,,6
+7,Veronika Hammerbacher & Meier.Florian Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,119KG,255KG,272KG,,,7
+8,Kathrin Limmer & Stephan Friedrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,133KG,236KG,276KG,,,8
+9,Romy Trömel & Dan Baaken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,120KG,215KG,305KG,,,9
+10,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,120KG,235KG,282KG,,,10
+10,Kathryn Metcalfe & Joshua Sacher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,122KG,235KG,280KG,,,10
+12,Edith Moser & Manfred Moser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,124KG,230KG,282KG,,,12
+13,Cynthia Gurrieri-Uhl & Armin Uhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,122KG,225KG,285KG,,,13
+14,maeve hamill & Adam Johnston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,103KG,235KG,290KG,,,14
+15,Christin Bosinsky & Deniz Galander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,120KG,225KG,280KG,,,15
+16,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,143KG,210KG,270KG,,,16
+17,Sarah Kerr & Chris Pawson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,128KG,220KG,270KG,,,17
+18,Benjamin Lux & Anne Lux,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,120KG,205KG,290KG,,,18
+19,Pascal Giger & Janine Czeschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,229KG,275KG,,,19
+20,Jan Danowski & Sara Schäfers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,128KG,210KG,275KG,,,20
+21,Joana Müller & Daniel Fuentealba,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,107KG,225KG,278KG,,,21
+22,Daniel Birca & Klára Nováková,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,117KG,225KG,260KG,,,22
+23,Jule Paulsen & Thies Nicolaisen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,107KG,210KG,284KG,,,23
+24,Tim Weyland & Marie Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,109KG,210KG,280KG,,,24
+25,Hendrik Behrens & Clarissa Siegel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,108KG,210KG,280KG,,,25
+26,Celina Fischer & Denis Fuchs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,215KG,265KG,,,26
+26,Bernadett Békési & Mark Halasi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,86KG,224KG,280KG,,,26
+28,Saskia Noack & Marc Ewers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,112KG,215KG,259KG,,,28
+29,Olivia Shepherd & Manuel Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,200KG,275KG,,,29
+29,Steve Enning & Anna Heuschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,215KG,265KG,,,29
+31,David Piesik & Laura Heynen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,119KG,205KG,260KG,,,31
+32,Marilena Micha & Vangelis Papanikolaou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,93KG,235KG,253KG,,,32
+32,Paula Loibl & Marius Grad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,99KG,197KG,285KG,,,32
+34,Igor Roller & Svetlana Roller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,107KG,190KG,275KG,,,34
+34,Christian Leutner & Ines Leutner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,119KG,215KG,238KG,,,34
+36,Fabian Kettlitz & Romina Buschick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,114KG,195KG,260KG,,,36
+37,Simone Schuhbauer & Alexander Hien,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,106KG,196KG,266KG,,,37
+38,Corinna Rose & Christian Böttger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,210KG,255KG,,,38
+38,Cynthia Mensah & Jannes Werner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,210KG,250KG,,,38
+40,Steffen Waibel & Julia Waibel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,104KG,200KG,260KG,,,40
+41,Alexander Spießl & Manuela Schambeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,119KG,200KG,243KG,,,41
+42,Adrianna Wisniewska & Jaime Bodelon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,200KG,255KG,,,42
+42,Chiara Regli & Enzo Helbling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,210KG,250KG,,,42
+44,Florian Sebald & Agnes Bretschneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,98KG,215KG,245KG,,,44
+45,Luis Willer & Julia Zeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,191KG,266KG,,,45
+46,Andreas Synak & Anina Günzel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,106KG,225KG,225KG,,,46
+46,Thamara Schuster & Stephan Hotzy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,101KG,220KG,235KG,,,46
+48,Alina Bräuer & Sami Mardnli,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,135KG,200KG,210KG,,,48
+49,Denis Brandt & Sarah Mertes,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,104KG,183KG,256KG,,,49
+50,Maximilian Köckritz & Eva Liedtke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,195KG,235KG,,,50
+50,Alexander Karpf & Vivienne Schulze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,200KG,230KG,,,50
+52,Christoph Huber & Melissa Hausladen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,104KG,195KG,240KG,,,52
+53,Malte Frontzek & Kerstin Brückner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,121KG,190KG,227KG,,,53
+53,Sally Petzold & Marcel Wichert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,98KG,190KG,250KG,,,53
+55,Daniel Rath & Josephine Bärlin,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,92KG,210KG,235KG,,,55
+56,Christian Schnur & Inge Kling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,108KG,193KG,233KG,,,56
+57,Bastian Bienlein & U Z,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,97KG,190KG,245KG,,,57
+58,Franziska Schultz & Sebastian Schramm,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,96KG,185KG,250KG,,,58
+59,Jan Koch & Michelle Hofmeier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,210KG,220KG,,,59
+60,Alexander Irmscher & Tina Irmscher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,98KG,195KG,236KG,,,60
+61,Sandy Dannenberg & Philipp Dannenberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,125KG,164KG,239KG,,,61
+62,Magdalena Moltzan-Malkowska & Zbigniew Moltzan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,106KG,185KG,235KG,,,62
+63,Jule Minrath & Leon Horn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,180KG,240KG,,,63
+63,Luka Braun & Anouk Köhler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,185KG,240KG,,,63
+65,Melanie Walch & Michael Walch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,101KG,183KG,240KG,,,65
+65,Nicole Bäumler & Markus Bäumler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,91KG,195KG,238KG,,,65
+67,David Stein & Sarah Neises,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,108KG,192KG,223KG,,,67
+68,Florian Kowalczyk & Nadine Henningsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,191KG,225KG,,,68
+69,Jenna Kadlubski & Christian Maksvitat,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,180KG,230KG,,,69
+69,Giannina Pomilio & Angelo E,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,109KG,188KG,218KG,,,69
+71,Sabrina Leinmüller & Hannes Röhrle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,172KG,240KG,,,71
+71,Martin Michelius & Nathalie Duerbeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,107KG,173KG,232KG,,,71
+73,Monika Sestic & Slaven Sestic,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,170KG,235KG,,,73
+74,Katja Stabenow & Markus Oesteritz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,103KG,165KG,239KG,,,74
+75,Susanne Kopf & Patrick Röhrl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,96KG,175KG,225KG,,,75
+76,Alexander Hespeler & Bahar Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,93KG,180KG,222KG,,,76
+76,Daniel Kochmann & Jenifer Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,85KG,180KG,230KG,,,76
+78,Martin Hennig & Laura laura.hirthe@gmx.de,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,97KG,175KG,220KG,,,78
+78,Lukas Quackatz & Jülly-Inna Liang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,107KG,160KG,225KG,,,78
+80,Ly Trinh & Henning Reimers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,96KG,185KG,210KG,,,80
+81,Sabrina Wagner & Dave Gummelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,174KG,205KG,,,81
+82,Jana Monin & Adrian Roseanu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,101KG,190KG,195KG,,,82
+83,Sebastian Vermaat & Sonja Oeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,170KG,210KG,,,83
+84,Kate Gerhard & Thomas Führer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,160KG,219KG,,,84
+85,Nadine Freigang & Thomas Helbig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,153KG,220KG,,,85
+86,Elena Walter & Steffen Bosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,170KG,190KG,,,86
+86,Luisa Eickmeyer & Frederic Ruppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,97KG,173KG,200KG,,,86
+88,Lea Stein & Nico Küttner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,155KG,215KG,,,88
+89,Vanessa Tacke & Marek Buschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,98KG,170KG,195KG,,,89
+90,Michelle Wothe & Eric Wothe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,100KG,185KG,177KG,,,90
+91,Anna-Lena Markus & Patrick Siehoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,115KG,155KG,190KG,,,91
+92,Marco Ruffani & Sabrina Rebekka Nusser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,88KG,155KG,215KG,,,92
+92,Julia Hornauer & Marcel Schreiber,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,93KG,160KG,205KG,,,92
+94,Oliver Lange & Sarah Andris,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,82KG,170KG,203KG,,,94
+95,Anna Sylvester & Stefan Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,89KG,160KG,205KG,,,95
+96,Julia Rißmann & Jan Gimbel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,99KG,160KG,192KG,,,96
+97,Sebastian Letz & Jennifer Letz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,160KG,195KG,,,97
+97,Nadine Taschner & Lengsfeld Maximilian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,92KG,156KG,202KG,,,97
+99,Maik Leber & Valeska Grabowski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,162KG,187KG,,,99
+100,Steffen Mädger & Ilona Michallek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,87KG,160KG,190KG,,,100
+101,Ferdinand Greinacher & Laura Lehmkuhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,91KG,152KG,190KG,,,101
+102,Nina Sieger & Jakob Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,85KG,150KG,195KG,,,102
+103,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,90KG,153KG,185KG,,,103
+104,Nicole Malucha & Max Anossow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,140KG,190KG,,,104
+105,Antonio Villani & Nilla Hoppe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,86KG,130KG,205KG,,,105
+106,Luca Lahaye & Louis Aisosa Omoregbee,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,81KG,145KG,189KG,,,106
+107,Konstantin Hoffmann & Michelle Guy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,98KG,137KG,170KG,,,107
+108,Melanie Schwalb & Hugo Heid,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,84KG,150KG,163KG,,,108
+109,Alexander Ebert & Katharina Ebert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,108KG,160KG,120KG,,,109
+110,Uli Heimes & Lars Neumann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,84KG,130KG,155KG,,,110
+1,Julian Schwikart & Christian Ambichl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Overall,1 (761KG),2 (8.173KM),1 (12:35),,,,,,4
+2,Tammo Bettex & Michael Adelhardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Overall,6 (492KG),1 (8.332KM),2 (14:15),,,,,,9
+3,Rhydian Powell & Jay Jones,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Overall,2 (640KG),3 (8.158KM),5 (15:10),,,,,,10
+4,Robert Wiersbinski & Matthias Trumpold,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Overall,3 (583KG),6 (7.067KM),2 (14:15),,,,,,11
+5,Christian Zittel & Carsten Rothmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Overall,5 (505KG),4 (7.902KM),4 (14:24),,,,,,13
+6,Jim Orlando & Diego Juarez,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Lite,Overall,4 (535KG),5 (7.355KM),6 (15:16),,,,,,15
+1,Lewys Morgan-Smith & Baz gouldsbury,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,180KG,380KG,360KG,,,1
+2,Ralph Wachter & Thomas Rieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,145KG,340KG,385KG,,,2
+3,Alexander Sonnenthal & Nils Mattern,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,160KG,320KG,380KG,,,3
+4,Horatiu Kraus & Alexander Mory,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,154KG,292KG,353KG,,,4
+5,Steven Knieriemen & Andre Theis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,164KG,283KG,337KG,,,5
+6,Andreas Kirsch & Johannes Kluge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,143KG,280KG,330KG,,,6
+7,Max Pieper & Valentin Dorn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,154KG,255KG,340KG,,,7
+7,Christof Hahn & Bjarne Jensen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,129KG,275KG,345KG,,,7
+9,Christian Freese & Leonel Quinta,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,135KG,286KG,325KG,,,9
+10,philipp Ketzer & Marc Ketzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,135KG,270KG,330KG,,,10
+10,Detlef Martach & Tobi Kleibe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,130KG,265KG,340KG,,,10
+12,Jochen Köhler & Torben Krohn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,117KG,260KG,298KG,,,12
+13,Marlon Kampmann & Yannick Sieberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Strength,,,,118KG,236KG,305KG,,,13
+1,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,14 (464KG),1 (9.463KM),1 (14:36),,,,,,16
+2,Käthe Neuss & Florence Hofmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,15 (463KG),3 (9.012KM),2 (14:40),,,,,,20
+3,Judith Claßen & Jessica Lindenthal,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,1 (523KG),19 (8.586KM),3 (15:37),,,,,,23
+4,Emily Kavanagh & Georgie Pryor,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,12 (472KG),2 (9.023KM),9 (16:12),,,,,,23
+5,Dinah Gordon & Jule Braren,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,11 (474KG),20 (8.578KM),5 (16:00),,,,,,36
+6,Hannah Danowski & Janine Gatzke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,2 (505KG),26 (8.417KM),11 (16:27),,,,,,39
+7,Eliza Cumming & Kelley Griffiths,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,6 (490KG),18 (8.59KM),15 (16:55),,,,,,39
+7,Wiebke Eggers & Ann-Katrin Hinze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,13 (469KG),12 (8.652KM),14 (16:53),,,,,,39
+9,Amelie Dick & Leonie Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,18 (454KG),7 (8.829KM),16 (16:57),,,,,,41
+10,Jette Schaffran & Julia Czerwinski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,9 (480KG),16 (8.624KM),20 (17:19),,,,,,45
+11,Kristin Plagemann & Cosima Wilke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,22 (444KG),17 (8.599KM),7 (16:04),,,,,,46
+12,Sarah Emmermann & Vivien Herb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,21 (446KG),22 (8.542KM),4 (15:46),,,,,,47
+13,Isabell Grasnick & Holland Cathey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,25 (439KG),5 (8.896KM),19 (17:08),,,,,,49
+13,Kim Jennifer Struckmann & Laura Boyksen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,5 (491KG),31 (8.301KM),13 (16:44),,,,,,49
+15,Franziska Maisel & Jenny Bierwirth,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,17 (457KG),33 (8.276KM),8 (16:11),,,,,,58
+16,LICIA FAIELLA & Erika Cavigiolo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,10 (477KG),46 (8.103KM),6 (16:03),,,,,,62
+17,Sarah Kluge & Katy Völker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,24 (442KG),15 (8.635KM),24 (17:41),,,,,,63
+18,Catharina Schaaff & Leonie Bergmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,39 (399KG),10 (8.753KM),17 (17:05),,,,,,66
+18,Aleksandra Kowalska & Agata Szymańczak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,34 (416KG),11 (8.664KM),21 (17:20),,,,,,66
+20,Antje Kern & Maximiliane Thiel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,16 (458KG),25 (8.455KM),26 (17:44),,,,,,67
+21,Franca König & Jennifer Duque,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,56 (355KG),4 (8.991KM),12 (16:31),,,,,,72
+22,Jennifer Küster & Katrin Schenker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,58 (348KG),6 (8.855KM),10 (16:13),,,,,,74
+23,Jennifer Bechtold & Kira Spuddig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,4 (496KG),29 (8.334KM),42 (19:03),,,,,,75
+24,Lisa Brand & Agnes Rössler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,45 (388KG),9 (8.765KM),22 (17:27),,,,,,76
+25,Daniela Krausch & Laura Frach,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,35 (413KG),13 (8.642KM),30 (17:53),,,,,,78
+26,Silvia Stenzel & Valerie Geßler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,40 (398KG),27 (8.389KM),18 (17:06),,,,,,85
+27,Emma Diallo & Pauline Fajnzylberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,40 (398KG),21 (8.564KM),25 (17:43),,,,,,86
+28,Jeannine Schmidt-Heidenreich & Nadien Freitag,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,45 (388KG),14 (8.64KM),28 (17:50),,,,,,87
+29,Samanta Schydlo & Anna Menzel-Giourelis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,3 (498KG),49 (8.051KM),36 (18:30),,,,,,88
+30,Ceci Ruppert & Kim Rosner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,19 (449KG),48 (8.064KM),23 (17:35),,,,,,90
+30,Kinga Hebda & Celina Piotrowska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,36 (412KG),24 (8.466KM),30 (17:53),,,,,,90
+32,Maria Agethen & Franziska Mews,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,28 (437KG),34 (8.27KM),32 (18:00),,,,,,94
+33,Asrai Soos & Laura Modrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,7 (488KG),56 (7.782KM),37 (18:31),,,,,,100
+34,Gabriela Carolina Luciano & Juliana Ribeiro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,33 (425KG),30 (8.313KM),38 (18:39),,,,,,101
+35,Lara-Marie Scherfig & Laura Conrad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,29 (435KG),41 (8.169KM),34 (18:20),,,,,,104
+36,Alexandra Ulbricht & Chiara Jaegers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,52 (367KG),8 (8.789KM),46 (19:43),,,,,,106
+36,Franziska Sturm & Sandra Krugmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,23 (443KG),39 (8.189KM),44 (19:18),,,,,,106
+36,Marlis Hochwarter & Tina Hochwarter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,31 (431KG),28 (8.346KM),47 (19:45),,,,,,106
+39,Jule Fink & Inga Bockisch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,49 (379KG),35 (8.259KM),28 (17:50),,,,,,112
+40,Lena-Marie Helbing & Teresa Tayerle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,50 (377KG),36 (8.234KM),27 (17:47),,,,,,113
+41,Anne A & Joélle Knüpfer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,30 (434KG),42 (8.155KM),43 (19:14),,,,,,115
+41,Petra Bohnet-Waldraff & Vienna Oppie,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,38 (403KG),43 (8.141KM),34 (18:20),,,,,,115
+43,Schirin Remmy & Sandra Pörtner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,26 (438KG),40 (8.171KM),54 (20:36),,,,,,120
+44,Celine Ruckaberle & Isabella Singer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,54 (363KG),23 (8.495KM),49 (19:53),,,,,,126
+44,Katherina Krämer & lausi.weber Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,43 (395KG),44 (8.119KM),39 (18:44),,,,,,126
+46,Nicole Bredfeldt & Sina Rieckhoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,8 (481KG),65 (6.983KM),56 (20:45),,,,,,129
+47,Selina Rösch & Julia Haschka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,37 (411KG),38 (8.221KM),55 (20:44),,,,,,130
+47,Ann-Kristin Freitag & Carmen Jedosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,26 (438KG),55 (7.82KM),49 (19:53),,,,,,130
+49,Stina Güttner & Leah Joswig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,31 (431KG),57 (7.774KM),45 (19:26),,,,,,133
+50,Ayse-Sophie Justvan & Malin Holtmeyer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,54 (363KG),53 (7.953KM),33 (18:18),,,,,,140
+51,Ramona Eitele & Julia Bertele,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,42 (396KG),47 (8.066KM),52 (20:26),,,,,,141
+52,Susanne Jahn & Sabrina Bürger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,60 (334KG),32 (8.282KM),51 (20:08),,,,,,143
+53,Zena El Abdalla & Roya Haupt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,44 (392KG),61 (7.57KM),40 (18:45),,,,,,145
+53,Stephanie Busch & Sandra Andersen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,19 (449KG),64 (7.194KM),62 (22:37),,,,,,145
+55,Alicja Bulak & Ela Bogdanowicz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,48 (382KG),58 (7.738KM),48 (19:49),,,,,,154
+55,Julia Exler & Juliane Zickler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,63 (311KG),50 (8.01KM),41 (18:58),,,,,,154
+57,Ruth Leonard & Karen Mooney,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,59 (346KG),45 (8.105KM),53 (20:30),,,,,,157
+58,Anja Kürzinger & Faina Kaplan Halfon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,51 (376KG),52 (7.998KM),57 (20:56),,,,,,160
+59,Svenja Rojem-Wagner & Alexandra Ulrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,65 (275KG),37 (8.225KM),65 (23:56),,,,,,167
+60,Yousra Lembachar & Pauline Didier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,57 (354KG),51 (8.007KM),60 (21:58),,,,,,168
+61,Lisa Goder & Iris Bräutigam,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,52 (367KG),60 (7.574KM),58 (21:36),,,,,,170
+61,Nadine Schwanebeck & Anja Sander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,47 (386KG),59 (7.634KM),64 (23:46),,,,,,170
+63,Irina Buller & Sarah Bugdoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,62 (319KG),54 (7.839KM),59 (21:50),,,,,,175
+64,Deirbhile Seville & Asia O'Driscoll,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,60 (334KG),62 (7.457KM),63 (23:45),,,,,,185
+65,Eva Zimmermann & Caterina Porro,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Overall,64 (281KG),63 (7.382KM),61 (22:09),,,,,,188
+1,Kathryn Metcalfe & Joshua Sacher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,10 (637KG),9 (9.791KM),5 (12:46),,,,,,24
+1,Sarah Kerr & Chris Pawson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,17 (618KG),4 (10.028KM),3 (12:40),,,,,,24
+3,Anna Connor-Astreos & Liam Eldridge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,1 (738KG),15 (9.609KM),10 (13:12),,,,,,26
+4,Kathrin Limmer & Stephan Friedrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,8 (645KG),13 (9.697KM),6 (13:00),,,,,,27
+5,Daniel Birca & Klára Nováková,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,22 (602KG),10 (9.728KM),4 (12:44),,,,,,36
+6,Nina Knieriemen & Pascal Pech,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,6 (649KG),23 (9.348KM),11 (13:19),,,,,,40
+7,Michal Schwarz & Petra Juskova,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,3 (683KG),34 (9.153KM),6 (13:00),,,,,,43
+8,Paula Loibl & Marius Grad,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,32 (581KG),8 (9.797KM),9 (13:10),,,,,,49
+9,Alina Bräuer & Sami Mardnli,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,48 (545KG),3 (10.052KM),1 (11:54),,,,,,52
+10,Julian Roppelt & Viktoria Roppelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,3 (683KG),32 (9.203KM),19 (14:19),,,,,,54
+11,Christin Bosinsky & Deniz Galander,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,15 (625KG),26 (9.283KM),16 (14:03),,,,,,57
+12,Jule Paulsen & Thies Nicolaisen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,23 (601KG),25 (9.286KM),14 (14:00),,,,,,62
+13,Saskia Noack & Marc Ewers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,28 (586KG),12 (9.707KM),24 (14:34),,,,,,64
+14,Jonathan Bunel joly & Andrea Hendry,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,2 (721KG),49 (8.908KM),17 (14:05),,,,,,68
+15,Benjamin Lux & Anne Lux,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,18 (615KG),28 (9.262KM),22 (14:25),,,,,,68
+16,Luis Willer & Julia Zeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,45 (557KG),14 (9.693KM),13 (13:50),,,,,,72
+17,Martin Michelius & Nathalie Duerbeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,71 (512KG),1 (10.212KM),2 (12:28),,,,,,74
+18,Cynthia Mensah & Jannes Werner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,38 (565KG),18 (9.447KM),18 (14:14),,,,,,74
+19,Malte Frontzek & Kerstin Brückner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,53 (538KG),11 (9.71KM),12 (13:38),,,,,,76
+20,Florian Kowalczyk & Nadine Henningsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,68 (521KG),2 (10.08KM),8 (13:06),,,,,,78
+21,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,10 (637KG),48 (8.91KM),33 (14:54),,,,,,91
+22,Chiara Regli & Enzo Helbling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,42 (560KG),35 (9.104KM),19 (14:19),,,,,,96
+23,Cynthia Gurrieri-Uhl & Armin Uhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,13 (632KG),62 (8.775KM),23 (14:30),,,,,,98
+23,Ines Noeske & Boubacar Bah,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,5 (670KG),45 (9.008KM),48 (15:20),,,,,,98
+25,Pascal Giger & Janine Czeschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,19 (614KG),41 (9.054KM),46 (15:15),,,,,,106
+26,Maximilian Köckritz & Eva Liedtke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,50 (540KG),22 (9.369KM),39 (15:01),,,,,,111
+27,Romy Trömel & Dan Baaken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,9 (640KG),75 (8.619KM),33 (14:54),,,,,,117
+27,Steve Enning & Anna Heuschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,29 (585KG),44 (9.01KM),44 (15:13),,,,,,117
+29,Jana Monin & Adrian Roseanu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,82 (486KG),7 (9.799KM),29 (14:48),,,,,,118
+30,Alexander Spießl & Manuela Schambeck,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,41 (562KG),57 (8.845KM),21 (14:24),,,,,,119
+31,Adrianna Wisniewska & Jaime Bodelon,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,42 (560KG),47 (8.955KM),31 (14:53),,,,,,120
+32,Magdalena Moltzan-Malkowska & Zbigniew Moltzan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,62 (526KG),6 (9.831KM),53 (15:37),,,,,,121
+33,Christian Schnur & Inge Kling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,56 (534KG),40 (9.059KM),26 (14:41),,,,,,122
+34,Veronika Hammerbacher & Meier.Florian Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,7 (646KG),68 (8.719KM),50 (15:27),,,,,,125
+34,Sally Petzold & Marcel Wichert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,53 (538KG),42 (9.042KM),30 (14:51),,,,,,125
+36,Sabrina Leinmüller & Hannes Röhrle,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,71 (512KG),30 (9.256KM),27 (14:45),,,,,,128
+37,Lea Stein & Nico Küttner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,88 (465KG),16 (9.53KM),25 (14:37),,,,,,129
+38,Jan Danowski & Sara Schäfers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,20 (613KG),57 (8.845KM),54 (15:38),,,,,,131
+39,Joana Müller & Daniel Fuentealba,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,21 (610KG),78 (8.586KM),37 (14:57),,,,,,136
+40,Marilena Micha & Vangelis Papanikolaou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,32 (581KG),33 (9.167KM),72 (16:31),,,,,,137
+40,Thamara Schuster & Stephan Hotzy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,46 (556KG),53 (8.889KM),38 (15:00),,,,,,137
+42,Florian Sebald & Agnes Bretschneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,44 (558KG),50 (8.904KM),44 (15:13),,,,,,138
+42,Julia Rißmann & Jan Gimbel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,96 (451KG),27 (9.27KM),15 (14:01),,,,,,138
+44,Anna-Lena Markus & Patrick Siehoff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,91 (460KG),17 (9.48KM),31 (14:53),,,,,,139
+45,Jule Minrath & Leon Horn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,63 (525KG),24 (9.312KM),55 (15:39),,,,,,142
+46,Nicole Malucha & Max Anossow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,104 (425KG),5 (9.891KM),35 (14:55),,,,,,144
+47,Simone Schuhbauer & Alexander Hien,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,37 (568KG),59 (8.801KM),49 (15:21),,,,,,145
+48,Tim Weyland & Marie Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,24 (599KG),61 (8.778KM),62 (15:59),,,,,,147
+48,Fabian Kettlitz & Romina Buschick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,36 (569KG),56 (8.852KM),55 (15:39),,,,,,147
+50,Kate Gerhard & Thomas Führer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,84 (474KG),29 (9.26KM),35 (14:55),,,,,,148
+51,Alexander Hespeler & Bahar Scholz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,76 (495KG),31 (9.219KM),42 (15:08),,,,,,149
+52,Giannina Pomilio & Angelo E,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,69 (515KG),54 (8.885KM),28 (14:46),,,,,,151
+53,Steffen Waibel & Julia Waibel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,40 (564KG),64 (8.756KM),50 (15:27),,,,,,154
+54,Jan Koch & Michelle Hofmeier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,59 (530KG),20 (9.405KM),79 (17:20),,,,,,158
+55,Susanne Kopf & Patrick Röhrl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,75 (496KG),38 (9.077KM),46 (15:15),,,,,,159
+56,Alexander Irmscher & Tina Irmscher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,60 (529KG),36 (9.099KM),65 (16:01),,,,,,161
+56,David Stein & Sarah Neises,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,67 (523KG),37 (9.082KM),57 (15:44),,,,,,161
+58,Hendrik Behrens & Clarissa Siegel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,25 (598KG),70 (8.696KM),68 (16:19),,,,,,163
+58,Edith Moser & Manfred Moser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,12 (636KG),85 (8.47KM),66 (16:09),,,,,,163
+60,Bastian Bienlein & U Z,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,57 (532KG),69 (8.701KM),39 (15:01),,,,,,165
+61,Melanie Walch & Michael Walch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,65 (524KG),60 (8.792KM),41 (15:03),,,,,,166
+61,Nadine Taschner & Lengsfeld Maximilian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,97 (450KG),19 (9.416KM),50 (15:27),,,,,,166
+63,Julia Hornauer & Marcel Schreiber,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,92 (458KG),21 (9.398KM),62 (15:59),,,,,,175
+64,Igor Roller & Svetlana Roller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,34 (572KG),65 (8.755KM),78 (17:13),,,,,,177
+65,David Piesik & Laura Heynen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,31 (584KG),81 (8.52KM),68 (16:19),,,,,,180
+66,Katja Stabenow & Markus Oesteritz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,74 (507KG),55 (8.875KM),58 (15:45),,,,,,187
+67,Olivia Shepherd & Manuel Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,29 (585KG),76 (8.604KM),84 (17:47),,,,,,189
+68,Bernadett Békési & Mark Halasi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,26 (590KG),99 (8.065KM),67 (16:16),,,,,,192
+69,Luisa Eickmeyer & Frederic Ruppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,86 (470KG),51 (8.901KM),60 (15:49),,,,,,197
+70,Andreas Synak & Anina Günzel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,46 (556KG),92 (8.245KM),61 (15:52),,,,,,199
+71,Lukas Quackatz & Jülly-Inna Liang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,78 (492KG),80 (8.522KM),43 (15:09),,,,,,201
+71,Marco Ruffani & Sabrina Rebekka Nusser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,92 (458KG),39 (9.071KM),70 (16:20),,,,,,201
+73,Ferdinand Greinacher & Laura Lehmkuhl,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,101 (433KG),43 (9.034KM),64 (16:00),,,,,,208
+74,maeve hamill & Adam Johnston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,14 (628KG),103 (7.923KM),93 (18:43),,,,,,210
+75,Daniel Kochmann & Jenifer Stepanow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,76 (495KG),66 (8.751KM),70 (16:20),,,,,,212
+76,Sebastian Vermaat & Sonja Oeller,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,83 (485KG),52 (8.89KM),85 (17:49),,,,,,220
+76,Christoph Huber & Melissa Hausladen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,52 (539KG),71 (8.694KM),97 (19:05),,,,,,220
+78,Celina Fischer & Denis Fuchs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,26 (590KG),107 (7.561KM),88 (18:15),,,,,,221
+78,Vanessa Tacke & Marek Buschmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,89 (463KG),73 (8.625KM),59 (15:47),,,,,,221
+80,Sandy Dannenberg & Philipp Dannenberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,61 (528KG),73 (8.625KM),89 (18:26),,,,,,223
+81,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,16 (623KG),104 (7.856KM),105 (20:19),,,,,,225
+82,Uli Heimes & Lars Neumann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,110 (369KG),46 (8.986KM),74 (16:40),,,,,,230
+82,Nicole Bäumler & Markus Bäumler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,65 (524KG),88 (8.383KM),77 (17:05),,,,,,230
+84,Franziska Schultz & Sebastian Schramm,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,58 (531KG),91 (8.268KM),82 (17:33),,,,,,231
+85,Christian Leutner & Ines Leutner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,34 (572KG),106 (7.825KM),95 (18:49),,,,,,235
+86,Martin Hennig & Laura laura.hirthe@gmx.de,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,78 (492KG),82 (8.518KM),76 (16:59),,,,,,236
+86,Elena Walter & Steffen Bosch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,86 (470KG),77 (8.593KM),73 (16:39),,,,,,236
+86,Daniel Rath & Josephine Bärlin,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,55 (537KG),94 (8.211KM),87 (18:03),,,,,,236
+89,Michelle Wothe & Eric Wothe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,90 (462KG),72 (8.69KM),80 (17:23),,,,,,242
+89,Denis Brandt & Sarah Mertes,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,49 (543KG),102 (7.995KM),91 (18:39),,,,,,242
+91,Luca Lahaye & Louis Aisosa Omoregbee,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,106 (415KG),67 (8.728KM),75 (16:55),,,,,,248
+92,Luka Braun & Anouk Köhler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,63 (525KG),96 (8.153KM),90 (18:36),,,,,,249
+93,Corinna Rose & Christian Böttger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,38 (565KG),109 (7.416KM),106 (20:50),,,,,,253
+94,Melanie Schwalb & Hugo Heid,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,108 (397KG),63 (8.764KM),83 (17:42),,,,,,254
+95,Alexander Karpf & Vivienne Schulze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,50 (540KG),110 (7.148KM),96 (18:56),,,,,,256
+96,Oliver Lange & Sarah Andris,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,94 (455KG),84 (8.474KM),81 (17:31),,,,,,259
+97,Jenna Kadlubski & Christian Maksvitat,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,69 (515KG),99 (8.065KM),92 (18:40),,,,,,260
+98,Nadine Freigang & Thomas Helbig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,85 (473KG),79 (8.553KM),101 (19:18),,,,,,265
+99,Sabrina Wagner & Dave Gummelt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,81 (489KG),87 (8.452KM),99 (19:16),,,,,,267
+99,Ly Trinh & Henning Reimers,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,80 (491KG),83 (8.507KM),104 (20:04),,,,,,267
+101,Monika Sestic & Slaven Sestic,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,73 (510KG),95 (8.18KM),102 (19:38),,,,,,270
+102,Steffen Mädger & Ilona Michallek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,100 (437KG),89 (8.272KM),94 (18:47),,,,,,283
+103,Maik Leber & Valeska Grabowski,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,99 (444KG),86 (8.457KM),102 (19:38),,,,,,287
+104,Sebastian Letz & Jennifer Letz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,97 (450KG),93 (8.244KM),98 (19:15),,,,,,288
+105,Nina Sieger & Jakob Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,102 (430KG),101 (8.048KM),86 (17:59),,,,,,289
+106,Anna Sylvester & Stefan Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,95 (454KG),97 (8.137KM),107 (20:52),,,,,,299
+107,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,103 (428KG),90 (8.271KM),110 (23:29),,,,,,303
+108,Konstantin Hoffmann & Michelle Guy,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,107 (405KG),105 (7.85KM),100 (19:17),,,,,,312
+109,Alexander Ebert & Katharina Ebert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,109 (388KG),98 (8.125KM),108 (21:32),,,,,,315
+110,Antonio Villani & Nilla Hoppe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Overall,105 (421KG),108 (7.483KM),109 (22:45),,,,,,322
+1,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,14:02,,,,,,1
+2,Emily Morgenstern & Jana Lobe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,14:16,,,,,,2
+3,Diellza Isufaj & Inke Nissen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,14:31,,,,,,3
+4,Amelie Wendelaar Bonga & Helen Rinckens,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,14:47,,,,,,4
+5,Diana Petersen & Miriam Post,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,15:39,,,,,,5
+6,Jasmina Schmidt & Vanessa Schilde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,15:48,,,,,,6
+7,Janina Paaß & Lara Farwick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,16:04,,,,,,7
+8,Elena Siepe & Katerina Giannoglou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,16:28,,,,,,8
+9,Saskia Naujok & Sara Douedari,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,17:12,,,,,,9
+10,Susanne Bliesner & Timotée Gbaguidi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,17:28,,,,,,10
+11,Franziska Wilsky & Marit Paschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,18:42,,,,,,11
+12,Sara Kosnacova & Terézia Nadaska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,18:58,,,,,,12
+13,Jessica Kourie & Naruna Kamala Viana Guimarães Vierling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,19:34,,,,,,13
+14,Anna-Marie Rose & Christina Leuker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,19:59,,,,,,14
+15,Desi Lundoloki & Bianca Flender,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,21:23,,,,,,15
+1,Lewys Morgan-Smith & Baz gouldsbury,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,1 (920KG),2 (10.303KM),1 (14:14),,,,,,4
+2,Alexander Sonnenthal & Nils Mattern,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,3 (860KG),1 (10.325KM),2 (15:06),,,,,,6
+3,Steven Knieriemen & Andre Theis,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,5 (784KG),5 (9.918KM),3 (15:11),,,,,,13
+4,Max Pieper & Valentin Dorn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,7 (749KG),4 (10.115KM),4 (16:09),,,,,,15
+5,Ralph Wachter & Thomas Rieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,2 (870KG),10 (9.545KM),7 (18:29),,,,,,19
+6,Christof Hahn & Bjarne Jensen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,7 (749KG),6 (9.726KM),6 (18:04),,,,,,19
+7,Christian Freese & Leonel Quinta,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,9 (746KG),8 (9.634KM),5 (17:55),,,,,,22
+8,Horatiu Kraus & Alexander Mory,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,4 (799KG),11 (9.492KM),9 (19:49),,,,,,24
+9,Jochen Köhler & Torben Krohn,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,12 (675KG),3 (10.124KM),11 (20:36),,,,,,26
+10,philipp Ketzer & Marc Ketzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,10 (735KG),7 (9.698KM),10 (19:59),,,,,,27
+11,Andreas Kirsch & Johannes Kluge,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,6 (753KG),12 (9.174KM),12 (23:03),,,,,,30
+11,Marlon Kampmann & Yannick Sieberg,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,13 (659KG),9 (9.557KM),8 (18:31),,,,,,30
+13,Detlef Martach & Tobi Kleibe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX Pro,Overall,10 (735KG),13 (8.334KM),13 (24:33),,,,,,36
+1,Tobias Moos & Tina Dragutinovic-Moos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,12:07,,,,,,1
+2,Justyna Niemczyk & Kacper Duc,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,12:22,,,,,,2
+3,Amy Wake & Richard Marston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,12:45,,,,,,3
+4,Rebecca Mengering & Heiko Weirauch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,13:14,,,,,,4
+5,Daniel Brandis & Benita-Francesca Teichmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,13:36,,,,,,5
+6,Maren Kaspers & Frank Piotraschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,13:54,,,,,,6
+7,Florian Rüther & Pia Rüther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,14:22,,,,,,7
+8,Adrian Dreßler & Milena Belitzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,14:33,,,,,,8
+9,Constantin Jorde & Sandy Sorger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,14:53,,,,,,9
+10,Vanja Lier & Johannes Hatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,15:09,,,,,,10
+11,Georgios Kanistras & Saskia-Alessandra Forkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,15:23,,,,,,11
+12,Paul-Louis Kuhnke & Josephine Schröder,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,15:32,,,,,,12
+13,Anja Rausch & Marco Gravera,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,16:07,,,,,,13
+14,Vasiliki Koutsogianni & Miguel Azevedo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,16:29,,,,,,14
+15,Thiago Costas & Janine Balzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,17:05,,,,,,15
+16,Stefanie Preuß & Sven Preuß,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,17:44,,,,,,16
+17,Alessa Frey & Nils Bonacker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,18:07,,,,,,17
+18,Reinhard Rubow & Michy Mann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,18:08,,,,,,18
+19,Bünyamin Özcelik & Burcin Özcelik,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,20:36,,,,,,19
+1,Maximilian Brandl & Kevin Hoos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,11:46,,,,,,1
+2,Jona Kozmin & Lorenz Petri,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,11:59,,,,,,2
+3,Omar Baritello & Fadi Joumaa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:02,,,,,,3
+4,Kristian Czyz & Marek Rok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:05,,,,,,4
+4,Justus Herrenbrück & Dustin Schliwka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:05,,,,,,4
+6,Raffaele Del piano & Simone Tavarani,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:23,,,,,,6
+7,Tom Grindel & Lukasz Debek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:25,,,,,,7
+8,Jop Siewe & Bernd grosse Siemer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:37,,,,,,8
+9,Henry Kaschel & Dennis Hannemann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:44,,,,,,9
+10,Marvin Gedlich & Maxime Pracisnore,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:55,,,,,,10
+10,Lukas Bossert & Gabriel Lichtenstein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:55,,,,,,10
+12,Felix Michael Müller & Hannes Tüllmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:56,,,,,,12
+13,Simon schmidt & Juri Maier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,12:59,,,,,,13
+14,Bjarne Rogall & Mischa Schneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:09,,,,,,14
+15,Mateusz Florczak & Adam Dadok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:14,,,,,,15
+16,Lars Kortenbach & Jonas Wintergerst,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:25,,,,,,16
+17,Pit Alexander Klepatz & Bastian Barthel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:36,,,,,,17
+18,Brooklyn Lange & Rustem Masgutov,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:37,,,,,,18
+19,Frank Bauer & Malte Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:38,,,,,,19
+20,Kevin Weltzien & Christian Nolde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:40,,,,,,20
+21,Eugen Wiens & Erik Olbert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:42,,,,,,21
+22,Daniel Hasselmann & Burak Kara,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:46,,,,,,22
+22,Julian Chahal & Tayfun Simsek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:46,,,,,,22
+24,Leo Marcello Polack & Fritz Theden-Schow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,13:54,,,,,,24
+25,Simon Cichos & Nicolas Cichos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:05,,,,,,25
+26,Filip Antoszewski & Sebastian Lary,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:06,,,,,,26
+27,Dom Stroh & Piran Asci,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:09,,,,,,27
+28,Daniel Alvarado & Kayode Passos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:13,,,,,,28
+29,Sebastian Raeck & Sebastian Whitton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:25,,,,,,29
+30,Fabian Bullack & Arne Knüppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:26,,,,,,30
+31,Jeremy Kausel & Nico Bremer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:33,,,,,,31
+32,Bruno Alves & Chris Lenton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:35,,,,,,32
+33,Sebastian Brauer & Felix Fischer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:37,,,,,,33
+34,Eric Brockmann & Jason Henkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:44,,,,,,34
+35,Andreas Stenberg & Martin Dahlman,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:45,,,,,,35
+36,Szymon Sekula & Sam Jobson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:48,,,,,,36
+37,Finn Crozier & Joel Hill,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:57,,,,,,37
+38,Felix Schier & Luca Hardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:59,,,,,,38
+38,WIlli Kellich & Luis Recinos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:59,,,,,,38
+38,Denis Rduch & Sven Riek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,14:59,,,,,,38
+41,Nils Bind & Sven Lang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:01,,,,,,41
+41,Philipp Schneider & Philipp Pecher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:01,,,,,,41
+41,Lars Ulbricht & Christoph Depner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:01,,,,,,41
+44,Thorsten Pfeilschifter & Dischner Korbinian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:05,,,,,,44
+45,Fabian Schießl & Martin Prasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:08,,,,,,45
+45,Robert Steinberg & Jan-Niclas Faasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:08,,,,,,45
+47,Nico Schulze & Erik Walther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:11,,,,,,47
+48,Gianluca Mamone & Dennis Humann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:19,,,,,,48
+49,Lars Prager & André Sadra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:21,,,,,,49
+50,Michael Bartsch & Philipp Reb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:24,,,,,,50
+51,Anton Savitsky & Aliaksandr Kochneu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:25,,,,,,51
+52,Alberto Mesas & Bernardo Mercado Coimbra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:28,,,,,,52
+52,Leo Chiricone & Federico Benedetti,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:28,,,,,,52
+54,Ilija Markovic & Florian Schatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:33,,,,,,54
+55,Henry Bauer & Franz Gratz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:35,,,,,,55
+56,Tobias Schuster & Sergio Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:47,,,,,,56
+57,Luca Hofmann & Benedikt Meyer-Drabert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:51,,,,,,57
+58,Thomas Range & Murat Hasan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:56,,,,,,58
+59,Euan MacRury & Euan Duff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:02,,,,,,59
+60,Tim Wiedenmann & Leon Hütter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:04,,,,,,60
+60,Leon Huzeyfe Erdal & sefer ahmet özkan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:04,,,,,,60
+62,Simon Rossmann & Manuel Holzmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:05,,,,,,62
+63,Felix Gotsch & Till Wintgen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:08,,,,,,63
+64,Jörg Schröder & Marko Weber-Schönherr,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:21,,,,,,64
+65,Arran Arogundade & Yannick Braun,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:39,,,,,,65
+66,Erik Fengler & Hannes Gey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:51,,,,,,66
+67,Jens Nordmeier & Thomas Lau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:55,,,,,,67
+68,Luis Jouve Gutiérrez & Eloy López de Carrión,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:56,,,,,,68
+69,sebastian cifuentes & Nick Schuster,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:58,,,,,,69
+70,Tom Haufe & Marcel Weise,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,16:59,,,,,,70
+71,Jan Andryszak & Sasha Hinderlich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:00,,,,,,71
+72,Marten Kiersch & Erik Endelich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:03,,,,,,72
+73,Vincent To-Sanguan & Daniel Blank,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:06,,,,,,73
+74,Martin Rapierski & Nino Rum,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:07,,,,,,74
+75,Adam Kugli & Szabolcs Lukacs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:11,,,,,,75
+76,Andreas Wikström & Peter Jonas,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:13,,,,,,76
+76,Erik Wrage & Anatoli Guschan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:13,,,,,,76
+78,Erik M & Marcel M,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:17,,,,,,78
+79,Christopher Funk & Lorenz Funk,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:18,,,,,,79
+80,Perry Haki & Ole Petschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:30,,,,,,80
+81,Sébastien Petit & Cedric LEJARD,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:34,,,,,,81
+82,Kamil Burkhanov & Peter Freundel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:45,,,,,,82
+83,Bernhard Koelbl & Florian Koehler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:06,,,,,,83
+84,Dirk Heinze & Drew Pronko,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:09,,,,,,84
+85,Robert Ettrich & Stefan Zipfel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:32,,,,,,85
+86,Oliver Patzelt & Jerome Kubaschek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:40,,,,,,86
+87,Jean-Maxime Rivière & Diego Estrada,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:42,,,,,,87
+88,Benjamin Wilck & Leonhard Wedel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:43,,,,,,88
+89,Florian Vielweber & Heiko Hoferer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:50,,,,,,89
+90,Marco Scardino & Vincenzo Pesce,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:53,,,,,,90
+91,Martin Gruner & Dennis Hypa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,18:54,,,,,,91
+92,Stephan Rabsch & Lucas Altmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:00,,,,,,92
+93,Keith McCrae & Phuc Luu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:08,,,,,,93
+94,Steven Roese & Markus Riesner-Körner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:14,,,,,,94
+95,Christian Borka & Hanno Focken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:27,,,,,,95
+96,Max Doege & Jörn Sattler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:30,,,,,,96
+97,Jannes Stubbemann & Federico Orlandini,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:36,,,,,,97
+98,Marijo Sucic & rmarohn Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,19:40,,,,,,98
+99,Rainer De Lima Knappe & ibrahim Zeghzeghi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,20:12,,,,,,99
+100,Mark Hine & Moritz Winkler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,20:35,,,,,,100
+101,Alexander Schellinger & friedrich morisak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,22:13,,,,,,101
+102,Martin Hanson & Daniel Stimpson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,22:53,,,,,,102
+103,Jakob Handy & Maximilian schöngen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,23:15,,,,,,103
+104,Erik Larsen & Konrad Larsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,24:52,,,,,,104
+105,Jens Wudick & Marc Wudick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,25:17,,,,,,105
+1,Amelie Wendelaar Bonga & Helen Rinckens,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.934KM,4.599KM,1
+2,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.091KM,4.853KM,2
+3,Franziska Wilsky & Marit Paschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.473KM,4.375KM,3
+4,Diana Petersen & Miriam Post,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.19KM,4.618KM,4
+5,Jasmina Schmidt & Vanessa Schilde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.328KM,4.426KM,5
+6,Jessica Kourie & Naruna Kamala Viana Guimarães Vierling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.466KM,4.253KM,6
+7,Diellza Isufaj & Inke Nissen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.175KM,4.49KM,7
+8,Emily Morgenstern & Jana Lobe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.203KM,4.431KM,8
+9,Susanne Bliesner & Timotée Gbaguidi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,4.624KM,9
+10,Janina Paaß & Lara Farwick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,4.555KM,10
+11,Elena Siepe & Katerina Giannoglou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.146KM,4.172KM,11
+12,Desi Lundoloki & Bianca Flender,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.267KM,3.859KM,12
+13,Sara Kosnacova & Terézia Nadaska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.324KM,3.801KM,13
+14,Saskia Naujok & Sara Douedari,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,2.908KM,4.189KM,14
+15,Anna-Marie Rose & Christina Leuker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,2.703KM,4.37KM,15
+1,Cara Halliday & Maya Halliday,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,MetCon X,,,15:29,,,,,,1
+2,Emma Ray & Caroline Norton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,MetCon X,,,15:35,,,,,,2
+3,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,MetCon X,,,18:41,,,,,,3
+4,Sandra Sommer & Julia Matthies,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,MetCon X,,,18:43,,,,,,4
+1,Tobias Moos & Tina Dragutinovic-Moos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.825KM,4.994KM,1
+2,Justyna Niemczyk & Kacper Duc,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.717KM,4.96KM,2
+3,Rebecca Mengering & Heiko Weirauch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.649KM,5.024KM,3
+4,Amy Wake & Richard Marston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.353KM,5.038KM,4
+5,Vanja Lier & Johannes Hatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.441KM,4.752KM,5
+6,Daniel Brandis & Benita-Francesca Teichmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.012KM,5.143KM,6
+7,Thiago Costas & Janine Balzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.5KM,4.603KM,7
+8,Paul-Louis Kuhnke & Josephine Schröder,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.591KM,4.344KM,8
+9,Constantin Jorde & Sandy Sorger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.096KM,4.786KM,9
+10,Florian Rüther & Pia Rüther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.165KM,4.713KM,10
+11,Reinhard Rubow & Michy Mann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.5KM,4.356KM,11
+12,Georgios Kanistras & Saskia-Alessandra Forkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.454KM,4.342KM,12
+13,Alessa Frey & Nils Bonacker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.42KM,4.334KM,13
+14,Anja Rausch & Marco Gravera,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.198KM,4.533KM,14
+15,Maren Kaspers & Frank Piotraschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.61KM,15
+16,Adrian Dreßler & Milena Belitzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.715KM,4.802KM,16
+17,Vasiliki Koutsogianni & Miguel Azevedo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.361KM,17
+18,Bünyamin Özcelik & Burcin Özcelik,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.984KM,4.058KM,18
+19,Stefanie Preuß & Sven Preuß,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.5KM,4.01KM,19
+1,Philipp Wamser & Luisa Pfrommer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,14:01,,,,,,1
+2,Uli Glöckner & Daniel Lemke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,14:44,,,,,,2
+3,Layla Siebert & Tom Maischak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,15:00,,,,,,3
+4,Alexander Kress & Sandra Hegwein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,16:11,,,,,,4
+5,Inga-Marie Ganssauge & Lennart Finke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,16:35,,,,,,5
+6,Jens Koppe & Lena Fechner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,16:40,,,,,,6
+7,Sören Findeisen & Franziska Kühlthau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,16:41,,,,,,7
+8,Lena Sassano & Philipp Grunert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,16:44,,,,,,8
+9,Marc Katzensteiner & Melanie Swoboda,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,18:20,,,,,,9
+10,Sebastian Białowąs & Weronika Białowąs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,19:59,,,,,,10
+11,Marcel Knäblein & Vanessa Mazzarella,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,20:20,,,,,,11
+12,Fina Lale Kutz & Björn Wittig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,21:00,,,,,,12
+13,Maciek Dzięcioł & Justyna Dzieciol,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,21:01,,,,,,13
+14,Anja Meusel & Steve Federow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,21:08,,,,,,14
+15,Michaela Ressel & Juergen Deckert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,22:55,,,,,,15
+16,Anne Koch & Robert Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,31:00,,,,,,16
+1,Justus Herrenbrück & Dustin Schliwka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.855KM,5.788KM,1
+2,Dom Stroh & Piran Asci,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,5.061KM,5.575KM,2
+3,Lukas Bossert & Gabriel Lichtenstein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.679KM,5.807KM,3
+4,Bjarne Rogall & Mischa Schneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.877KM,5.602KM,4
+5,Marvin Gedlich & Maxime Pracisnore,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.756KM,5.591KM,5
+6,Kevin Weltzien & Christian Nolde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.829KM,6
+7,Leo Marcello Polack & Fritz Theden-Schow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.82KM,7
+8,Jeremy Kausel & Nico Bremer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.58KM,5.488KM,8
+9,Kristian Czyz & Marek Rok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.302KM,5.653KM,9
+10,Robert Steinberg & Jan-Niclas Faasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.204KM,5.73KM,10
+11,Henry Kaschel & Dennis Hannemann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.068KM,5.823KM,11
+12,Simon schmidt & Juri Maier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.437KM,5.425KM,12
+13,Raffaele Del piano & Simone Tavarani,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.389KM,5.472KM,13
+14,Fabian Bullack & Arne Knüppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.357KM,5.491KM,14
+15,Dirk Heinze & Drew Pronko,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.59KM,5.247KM,15
+16,Felix Michael Müller & Hannes Tüllmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.976KM,5.845KM,16
+17,Maximilian Brandl & Kevin Hoos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.868KM,5.947KM,17
+18,Sébastien Petit & Cedric LEJARD,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.364KM,5.418KM,18
+19,Felix Gotsch & Till Wintgen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.362KM,5.399KM,19
+20,Tom Grindel & Lukasz Debek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.085KM,5.665KM,20
+21,Andreas Stenberg & Martin Dahlman,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.242KM,5.484KM,21
+22,Mateusz Florczak & Adam Dadok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.199KM,5.524KM,22
+23,Jop Siewe & Bernd grosse Siemer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.409KM,5.307KM,23
+24,Frank Bauer & Malte Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.276KM,5.371KM,24
+25,Tim Wiedenmann & Leon Hütter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.389KM,5.257KM,25
+26,Ilija Markovic & Florian Schatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.477KM,5.167KM,26
+27,Simon Cichos & Nicolas Cichos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.25KM,5.369KM,27
+28,Lars Kortenbach & Jonas Wintergerst,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.082KM,5.499KM,28
+29,Jean-Maxime Rivière & Diego Estrada,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.111KM,5.453KM,29
+30,Finn Crozier & Joel Hill,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.161KM,5.383KM,30
+31,Henry Bauer & Franz Gratz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.469KM,5.069KM,31
+32,Leo Chiricone & Federico Benedetti,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.233KM,5.296KM,32
+33,Jona Kozmin & Lorenz Petri,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.877KM,5.631KM,33
+34,Tobias Schuster & Sergio Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.102KM,5.37KM,34
+35,Eric Brockmann & Jason Henkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.877KM,5.578KM,35
+36,sebastian cifuentes & Nick Schuster,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.353KM,5.097KM,36
+37,Brooklyn Lange & Rustem Masgutov,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.946KM,5.479KM,37
+38,Kamil Burkhanov & Peter Freundel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.183KM,5.24KM,38
+39,Luca Hofmann & Benedikt Meyer-Drabert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.821KM,5.581KM,39
+40,Andreas Wikström & Peter Jonas,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.097KM,5.3KM,40
+41,Leon Huzeyfe Erdal & sefer ahmet özkan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.8KM,5.59KM,41
+42,Jens Nordmeier & Thomas Lau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.065KM,5.316KM,42
+43,Daniel Alvarado & Kayode Passos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.481KM,4.893KM,43
+44,Thomas Range & Murat Hasan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.863KM,5.501KM,44
+45,Sebastian Raeck & Sebastian Whitton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.968KM,5.383KM,45
+46,Omar Baritello & Fadi Joumaa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.589KM,46
+47,Daniel Hasselmann & Burak Kara,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.689KM,5.649KM,47
+48,Filip Antoszewski & Sebastian Lary,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.904KM,5.428KM,48
+49,Thorsten Pfeilschifter & Dischner Korbinian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.669KM,5.651KM,49
+50,Marten Kiersch & Erik Endelich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.838KM,5.467KM,50
+50,Anton Savitsky & Aliaksandr Kochneu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.95KM,5.355KM,50
+52,Julian Chahal & Tayfun Simsek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.337KM,4.96KM,52
+53,Bernhard Koelbl & Florian Koehler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.357KM,4.92KM,53
+54,Sebastian Brauer & Felix Fischer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.636KM,5.637KM,54
+55,Eugen Wiens & Erik Olbert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.87KM,5.399KM,55
+56,Philipp Schneider & Philipp Pecher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.686KM,5.569KM,56
+57,Lars Ulbricht & Christoph Depner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.062KM,5.188KM,57
+58,Fabian Schießl & Martin Prasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.458KM,58
+59,Szymon Sekula & Sam Jobson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.832KM,5.354KM,59
+60,Erik M & Marcel M,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.853KM,5.298KM,60
+61,Pit Alexander Klepatz & Bastian Barthel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.68KM,5.466KM,61
+62,Bruno Alves & Chris Lenton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.393KM,62
+63,Denis Rduch & Sven Riek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.854KM,5.284KM,63
+64,Simon Rossmann & Manuel Holzmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.838KM,5.296KM,64
+65,Nils Bind & Sven Lang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.754KM,5.377KM,65
+66,Martin Rapierski & Nino Rum,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.776KM,5.338KM,66
+66,Tom Haufe & Marcel Weise,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.364KM,66
+68,Felix Schier & Luca Hardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.79KM,5.311KM,68
+69,Michael Bartsch & Philipp Reb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.714KM,5.304KM,69
+70,Perry Haki & Ole Petschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.133KM,4.865KM,70
+71,Marco Scardino & Vincenzo Pesce,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.657KM,5.314KM,71
+72,Christopher Funk & Lorenz Funk,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.945KM,4.986KM,72
+73,Adam Kugli & Szabolcs Lukacs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.544KM,5.371KM,73
+74,Nico Schulze & Erik Walther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.77KM,5.121KM,74
+75,Euan MacRury & Euan Duff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.762KM,5.126KM,75
+76,Lars Prager & André Sadra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.123KM,76
+77,Vincent To-Sanguan & Daniel Blank,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.168KM,5.666KM,77
+78,Robert Ettrich & Stefan Zipfel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.573KM,5.253KM,78
+79,WIlli Kellich & Luis Recinos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.511KM,5.311KM,79
+80,Jan Andryszak & Sasha Hinderlich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.618KM,5.19KM,80
+81,Erik Wrage & Anatoli Guschan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.454KM,5.278KM,81
+82,Jannes Stubbemann & Federico Orlandini,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.663KM,5.021KM,82
+83,Jakob Handy & Maximilian schöngen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.653KM,5.03KM,83
+84,Steven Roese & Markus Riesner-Körner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.928KM,84
+85,Marijo Sucic & rmarohn Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.665KM,5.011KM,85
+86,Florian Vielweber & Heiko Hoferer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.468KM,5.198KM,86
+87,Erik Fengler & Hannes Gey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.524KM,5.128KM,87
+88,Benjamin Wilck & Leonhard Wedel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.48KM,5.139KM,88
+88,Stephan Rabsch & Lucas Altmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.64KM,4.979KM,88
+90,Martin Hanson & Daniel Stimpson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.448KM,5.135KM,90
+91,Keith McCrae & Phuc Luu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.395KM,4.985KM,91
+92,Mark Hine & Moritz Winkler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.045KM,5.272KM,92
+93,Arran Arogundade & Yannick Braun,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.429KM,4.884KM,93
+93,Erik Larsen & Konrad Larsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.499KM,4.814KM,93
+95,Alberto Mesas & Bernardo Mercado Coimbra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.087KM,5.215KM,95
+96,Oliver Patzelt & Jerome Kubaschek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.084KM,5.191KM,96
+97,Luis Jouve Gutiérrez & Eloy López de Carrión,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.25KM,5.011KM,97
+98,Jörg Schröder & Marko Weber-Schönherr,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.189KM,5.005KM,98
+99,Max Doege & Jörn Sattler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.618KM,4.555KM,99
+100,Rainer De Lima Knappe & ibrahim Zeghzeghi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.216KM,4.903KM,100
+101,Alexander Schellinger & friedrich morisak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.098KM,4.957KM,101
+102,Martin Gruner & Dennis Hypa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.086KM,4.801KM,102
+103,Jens Wudick & Marc Wudick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,3.816KM,3.867KM,103
+104,Christian Borka & Hanno Focken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,2.5KM,4.811KM,104
+1,Janina Paaß & Lara Farwick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,75KG,145KG,200KG,,,1
+2,Susanne Bliesner & Timotée Gbaguidi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,74KG,140KG,182KG,,,2
+3,Diellza Isufaj & Inke Nissen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,65KG,140KG,190KG,,,3
+4,Diana Petersen & Miriam Post,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,66KG,130KG,170KG,,,4
+4,Emily Morgenstern & Jana Lobe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,70KG,135KG,161KG,,,4
+6,Anna-Marie Rose & Christina Leuker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,70KG,100KG,180KG,,,6
+7,Franziska Wilsky & Marit Paschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,77KG,110KG,159KG,,,7
+8,Saskia Naujok & Sara Douedari,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,73KG,115KG,155KG,,,8
+9,Desi Lundoloki & Bianca Flender,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,66KG,110KG,165KG,,,9
+10,Jasmina Schmidt & Vanessa Schilde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,62KG,115KG,142KG,,,10
+11,Jessica Kourie & Naruna Kamala Viana Guimarães Vierling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,74KG,90KG,150KG,,,11
+12,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,58KG,105KG,134KG,,,12
+13,Elena Siepe & Katerina Giannoglou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,58KG,109KG,129KG,,,13
+14,Sara Kosnacova & Terézia Nadaska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,58KG,104KG,130KG,,,14
+15,Amelie Wendelaar Bonga & Helen Rinckens,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,51KG,84KG,115KG,,,15
+1,Emma Ray & Caroline Norton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Endurance,,,,,,,4.293KM,5.068KM,1
+2,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Endurance,,,,,,,4.073KM,5.259KM,2
+3,Cara Halliday & Maya Halliday,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Endurance,,,,,,,4.278KM,5.044KM,3
+4,Sandra Sommer & Julia Matthies,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Endurance,,,,,,,3.239KM,5.196KM,4
+1,Tobias Moos & Tina Dragutinovic-Moos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,133KG,250KG,270KG,,,1
+2,Daniel Brandis & Benita-Francesca Teichmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,113KG,220KG,250KG,,,2
+2,Stefanie Preuß & Sven Preuß,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,93KG,165KG,325KG,,,2
+4,Justyna Niemczyk & Kacper Duc,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,113KG,195KG,218KG,,,4
+5,Anja Rausch & Marco Gravera,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,100KG,195KG,225KG,,,5
+6,Vasiliki Koutsogianni & Miguel Azevedo,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,102KG,175KG,240KG,,,6
+7,Georgios Kanistras & Saskia-Alessandra Forkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,103KG,155KG,233KG,,,7
+8,Amy Wake & Richard Marston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,99KG,154KG,230KG,,,8
+9,Maren Kaspers & Frank Piotraschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,113KG,150KG,215KG,,,9
+10,Paul-Louis Kuhnke & Josephine Schröder,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,78KG,178KG,215KG,,,10
+11,Constantin Jorde & Sandy Sorger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,83KG,163KG,210KG,,,11
+12,Rebecca Mengering & Heiko Weirauch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,75KG,160KG,220KG,,,12
+13,Florian Rüther & Pia Rüther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,98KG,155KG,185KG,,,13
+14,Bünyamin Özcelik & Burcin Özcelik,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,105KG,150KG,180KG,,,14
+15,Vanja Lier & Johannes Hatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,84KG,155KG,190KG,,,15
+16,Adrian Dreßler & Milena Belitzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,85KG,120KG,220KG,,,16
+17,Alessa Frey & Nils Bonacker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,90KG,128KG,180KG,,,17
+18,Reinhard Rubow & Michy Mann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,73KG,137KG,183KG,,,18
+19,Thiago Costas & Janine Balzer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,Strength,,,,80KG,145KG,155KG,,,19
+1,Philipp Wamser & Luisa Pfrommer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.942KM,5.667KM,1
+2,Uli Glöckner & Daniel Lemke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.564KM,5.268KM,2
+3,Inga-Marie Ganssauge & Lennart Finke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.343KM,5.282KM,3
+4,Alexander Kress & Sandra Hegwein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.254KM,5.321KM,4
+5,Layla Siebert & Tom Maischak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.029KM,5.532KM,5
+6,Sören Findeisen & Franziska Kühlthau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.216KM,5.302KM,6
+7,Lena Sassano & Philipp Grunert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.166KM,5.289KM,7
+8,Jens Koppe & Lena Fechner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.875KM,5.473KM,8
+9,Marc Katzensteiner & Melanie Swoboda,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4KM,5.273KM,9
+10,Marcel Knäblein & Vanessa Mazzarella,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.178KM,5.02KM,10
+11,Maciek Dzięcioł & Justyna Dzieciol,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4KM,5.146KM,11
+12,Fina Lale Kutz & Björn Wittig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.888KM,5.077KM,12
+13,Anja Meusel & Steve Federow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4KM,4.922KM,13
+14,Michaela Ressel & Juergen Deckert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.572KM,5.057KM,14
+15,Sebastian Białowąs & Weronika Białowąs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.75KM,4.518KM,15
+16,Anne Koch & Robert Koch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.188KM,3.765KM,16
+1,Arran Arogundade & Yannick Braun,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,180KG,380KG,420KG,,,1
+2,Tom Grindel & Lukasz Debek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,187KG,340KG,412KG,,,2
+3,Justus Herrenbrück & Dustin Schliwka,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,155KG,325KG,448KG,,,3
+4,Lars Kortenbach & Jonas Wintergerst,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,160KG,360KG,400KG,,,4
+5,Jona Kozmin & Lorenz Petri,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,173KG,350KG,390KG,,,5
+6,Raffaele Del piano & Simone Tavarani,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,180KG,360KG,360KG,,,6
+7,Daniel Hasselmann & Burak Kara,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,158KG,320KG,375KG,,,7
+8,Euan MacRury & Euan Duff,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,128KG,360KG,355KG,,,8
+9,Jan Andryszak & Sasha Hinderlich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,168KG,330KG,340KG,,,9
+9,Simon schmidt & Juri Maier,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,168KG,320KG,350KG,,,9
+11,Maximilian Brandl & Kevin Hoos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,149KG,320KG,360KG,,,11
+12,Mateusz Florczak & Adam Dadok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,171KG,290KG,360KG,,,12
+13,Nico Schulze & Erik Walther,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,165KG,310KG,345KG,,,13
+14,Kristian Czyz & Marek Rok,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,143KG,287KG,378KG,,,14
+15,Felix Michael Müller & Hannes Tüllmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,175KG,280KG,350KG,,,15
+16,Omar Baritello & Fadi Joumaa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,162KG,280KG,360KG,,,16
+17,Brooklyn Lange & Rustem Masgutov,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,153KG,290KG,355KG,,,17
+18,Andreas Stenberg & Martin Dahlman,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,161KG,275KG,360KG,,,18
+19,Fabian Schießl & Martin Prasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,299KG,345KG,,,19
+20,Felix Schier & Luca Hardt,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,158KG,300KG,330KG,,,20
+20,Filip Antoszewski & Sebastian Lary,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,291KG,352KG,,,20
+22,Michael Bartsch & Philipp Reb,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,160KG,280KG,340KG,,,22
+23,Leo Chiricone & Federico Benedetti,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,300KG,340KG,,,23
+24,Sebastian Raeck & Sebastian Whitton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,155KG,260KG,350KG,,,24
+24,Julian Chahal & Tayfun Simsek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,155KG,290KG,320KG,,,24
+26,Adam Kugli & Szabolcs Lukacs,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,260KG,355KG,,,26
+26,Frank Bauer & Malte Sieger,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,255KG,370KG,,,26
+28,Nils Bind & Sven Lang,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,250KG,350KG,,,28
+29,Daniel Alvarado & Kayode Passos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,275KG,325KG,,,29
+30,Robert Ettrich & Stefan Zipfel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,240KG,340KG,,,30
+30,Finn Crozier & Joel Hill,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,265KG,320KG,,,30
+32,Eugen Wiens & Erik Olbert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,137KG,275KG,310KG,,,32
+33,Lars Ulbricht & Christoph Depner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,275KG,300KG,,,33
+34,Eric Brockmann & Jason Henkel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,255KG,328KG,,,34
+35,Marvin Gedlich & Maxime Pracisnore,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,260KG,320KG,,,35
+35,Alberto Mesas & Bernardo Mercado Coimbra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,260KG,320KG,,,35
+35,Jop Siewe & Bernd grosse Siemer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,250KG,315KG,,,35
+35,Max Doege & Jörn Sattler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,150KG,280KG,280KG,,,35
+39,Martin Gruner & Dennis Hypa,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,158KG,265KG,286KG,,,39
+40,Bruno Alves & Chris Lenton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,127KG,260KG,320KG,,,40
+41,WIlli Kellich & Luis Recinos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,118KG,262KG,324KG,,,41
+42,Luca Hofmann & Benedikt Meyer-Drabert,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,142KG,260KG,300KG,,,42
+43,Mark Hine & Moritz Winkler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,143KG,245KG,310KG,,,43
+44,Sebastian Brauer & Felix Fischer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,139KG,255KG,300KG,,,44
+45,Lars Prager & André Sadra,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,136KG,250KG,305KG,,,45
+46,Lukas Bossert & Gabriel Lichtenstein,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,250KG,300KG,,,46
+46,Bjarne Rogall & Mischa Schneider,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,250KG,290KG,,,46
+48,Denis Rduch & Sven Riek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,132KG,230KG,320KG,,,48
+49,sebastian cifuentes & Nick Schuster,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,250KG,300KG,,,49
+50,Andreas Wikström & Peter Jonas,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,245KG,300KG,,,50
+50,Tobias Schuster & Sergio Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,200KG,340KG,,,50
+52,Fabian Bullack & Arne Knüppel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,138KG,225KG,310KG,,,52
+53,Perry Haki & Ole Petschner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,230KG,300KG,,,53
+53,Luis Jouve Gutiérrez & Eloy López de Carrión,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,115KG,245KG,310KG,,,53
+53,Thorsten Pfeilschifter & Dischner Korbinian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,260KG,275KG,,,53
+56,Christopher Funk & Lorenz Funk,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,145KG,220KG,300KG,,,56
+56,Philipp Schneider & Philipp Pecher,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,230KG,300KG,,,56
+58,Vincent To-Sanguan & Daniel Blank,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,143KG,220KG,300KG,,,58
+59,Jeremy Kausel & Nico Bremer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,120KG,250KG,290KG,,,59
+59,Henry Bauer & Franz Gratz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,240KG,280KG,,,59
+59,Benjamin Wilck & Leonhard Wedel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,240KG,290KG,,,59
+62,Marten Kiersch & Erik Endelich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,123KG,240KG,293KG,,,62
+63,Pit Alexander Klepatz & Bastian Barthel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,122KG,250KG,282KG,,,63
+64,Henry Kaschel & Dennis Hannemann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,128KG,225KG,300KG,,,64
+65,Erik Fengler & Hannes Gey,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,120KG,250KG,275KG,,,65
+66,Anton Savitsky & Aliaksandr Kochneu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,125KG,235KG,282KG,,,66
+67,Sébastien Petit & Cedric LEJARD,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,120KG,220KG,300KG,,,67
+68,Erik Wrage & Anatoli Guschan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,127KG,235KG,270KG,,,68
+69,Leo Marcello Polack & Fritz Theden-Schow,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,215KG,275KG,,,69
+69,Tom Haufe & Marcel Weise,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,220KG,275KG,,,69
+71,Stephan Rabsch & Lucas Altmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,133KG,235KG,260KG,,,71
+72,Jörg Schröder & Marko Weber-Schönherr,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,128KG,222KG,270KG,,,72
+73,Keith McCrae & Phuc Luu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,119KG,270KG,230KG,,,73
+74,Thomas Range & Murat Hasan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,118KG,210KG,290KG,,,74
+75,Robert Steinberg & Jan-Niclas Faasch,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,230KG,240KG,,,75
+76,Leon Huzeyfe Erdal & sefer ahmet özkan,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,128KG,210KG,270KG,,,76
+77,Kevin Weltzien & Christian Nolde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,131KG,215KG,260KG,,,77
+78,Steven Roese & Markus Riesner-Körner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,140KG,215KG,250KG,,,78
+79,Marco Scardino & Vincenzo Pesce,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,112KG,217KG,275KG,,,79
+80,Ilija Markovic & Florian Schatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,115KG,195KG,290KG,,,80
+80,Gianluca Mamone & Dennis Humann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,225KG,240KG,,,80
+80,Kamil Burkhanov & Peter Freundel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,125KG,215KG,260KG,,,80
+83,Felix Gotsch & Till Wintgen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,129KG,190KG,280KG,,,83
+84,Erik M & Marcel M,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,136KG,220KG,240KG,,,84
+85,Simon Rossmann & Manuel Holzmann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,116KG,205KG,270KG,,,85
+86,Jean-Maxime Rivière & Diego Estrada,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,115KG,225KG,250KG,,,86
+87,Dom Stroh & Piran Asci,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,125KG,210KG,250KG,,,87
+88,Jannes Stubbemann & Federico Orlandini,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,127KG,190KG,260KG,,,88
+89,Martin Rapierski & Nino Rum,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,115KG,200KG,260KG,,,89
+89,Erik Larsen & Konrad Larsen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,125KG,210KG,240KG,,,89
+91,Alexander Schellinger & friedrich morisak,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,112KG,200KG,260KG,,,91
+91,Szymon Sekula & Sam Jobson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,112KG,220KG,240KG,,,91
+93,Oliver Patzelt & Jerome Kubaschek,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,119KG,210KG,240KG,,,93
+94,Simon Cichos & Nicolas Cichos,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,113KG,215KG,235KG,,,94
+95,Jens Nordmeier & Thomas Lau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,116KG,200KG,240KG,,,95
+96,Dirk Heinze & Drew Pronko,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,120KG,190KG,240KG,,,96
+97,Christian Borka & Hanno Focken,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,132KG,170KG,240KG,,,97
+98,Marijo Sucic & rmarohn Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,130KG,180KG,230KG,,,98
+99,Tim Wiedenmann & Leon Hütter,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,102KG,185KG,250KG,,,99
+100,Florian Vielweber & Heiko Hoferer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,117KG,192KG,220KG,,,100
+101,Rainer De Lima Knappe & ibrahim Zeghzeghi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,114KG,178KG,230KG,,,101
+102,Jens Wudick & Marc Wudick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,100KG,190KG,230KG,,,102
+103,Martin Hanson & Daniel Stimpson,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,112KG,165KG,230KG,,,103
+104,Jakob Handy & Maximilian schöngen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,120KG,150KG,230KG,,,104
+105,Bernhard Koelbl & Florian Koehler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,94KG,140KG,184KG,,,105
+1,Diana Petersen & Miriam Post,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,4 (366KG),4 (7.808KM),5 (15:39),,,,,,13
+1,Diellza Isufaj & Inke Nissen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,3 (395KG),7 (7.665KM),3 (14:31),,,,,,13
+3,Emily Morgenstern & Jana Lobe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,4 (366KG),8 (7.634KM),2 (14:16),,,,,,14
+4,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,12 (297KG),2 (7.944KM),1 (14:02),,,,,,15
+5,Janina Paaß & Lara Farwick,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,1 (420KG),10 (7.555KM),7 (16:04),,,,,,18
+6,Amelie Wendelaar Bonga & Helen Rinckens,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,15 (250KG),1 (8.533KM),4 (14:47),,,,,,20
+7,Susanne Bliesner & Timotée Gbaguidi,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,2 (396KG),9 (7.624KM),10 (17:28),,,,,,21
+8,Franziska Wilsky & Marit Paschke,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,7 (346KG),3 (7.848KM),11 (18:42),,,,,,21
+8,Jasmina Schmidt & Vanessa Schilde,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,10 (319KG),5 (7.754KM),6 (15:48),,,,,,21
+10,Jessica Kourie & Naruna Kamala Viana Guimarães Vierling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,11 (314KG),6 (7.719KM),13 (19:34),,,,,,30
+11,Saskia Naujok & Sara Douedari,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,8 (343KG),14 (7.097KM),9 (17:12),,,,,,31
+12,Elena Siepe & Katerina Giannoglou,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,13 (296KG),11 (7.318KM),8 (16:28),,,,,,32
+13,Anna-Marie Rose & Christina Leuker,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,6 (350KG),15 (7.073KM),14 (19:59),,,,,,35
+14,Desi Lundoloki & Bianca Flender,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,9 (341KG),12 (7.126KM),15 (21:23),,,,,,36
+15,Sara Kosnacova & Terézia Nadaska,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Overall,14 (292KG),13 (7.125KM),12 (18:58),,,,,,39
+1,Sandra Sommer & Julia Matthies,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Strength,,,,88KG,233KG,272KG,,,1
+2,Cara Halliday & Maya Halliday,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Strength,,,,98KG,215KG,260KG,,,2
+3,Emma Ray & Caroline Norton,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Strength,,,,96KG,183KG,225KG,,,3
+4,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Pro,Strength,,,,79KG,166KG,211KG,,,4

@@ -1,0 +1,964 @@
+rank,first_name,last_name,full_name,gender,nationality,gym_name,profile_photo_url,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Leah,Bygraves-Paul,Leah Bygraves-Paul,Female,United Kingdom,Foundry Gym Sheffield,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,50KG,110KG,140KG,,,1
+2,Ellie,Meads,Ellie Meads,Female,United Kingdom,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,56KG,115KG,120KG,,,2
+3,clarissa,lavoradori,clarissa lavoradori,Female,Italy,,https://ui-avatars.com/api/?name=c+l&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,45KG,110KG,110KG,,,3
+3,Ilaria,Giacò,Ilaria Giacò,Female,,,https://ui-avatars.com/api/?name=I+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,45KG,92KG,128KG,,,3
+5,Emma,Eriksson,Emma Eriksson,Female,Sweden,Crossfit Pavia,https://ui-avatars.com/api/?name=E+E&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,47KG,101KG,115KG,,,5
+6,Giovanna,Sica,Giovanna Sica,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,43KG,98KG,120KG,,,6
+7,Alessandra,Paradiso,Alessandra Paradiso,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,47KG,95KG,110KG,,,7
+8,Vahny,Santos,Vahny Santos,Female,,,https://athxgames.com/storage/profile-photos/0n7oY7KHmLZNC5z5a8NQ7Nxp8IpLa1jaBvIHjpq5.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,43KG,93KG,110KG,,,8
+9,Bridgette,Duarte,Bridgette Duarte,Female,United States,,https://athxgames.com/storage/profile-photos/m8vw0BTbyjJjppOmO1g3Lq0RKOONOVyc6ZJogZkK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,40KG,92KG,112KG,,,9
+9,Emily,Smith,Emily Smith,Female,United Kingdom,MEE-FIT,https://ui-avatars.com/api/?name=E+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,37KG,85KG,122KG,,,9
+11,Chiara,Trimarchi,Chiara Trimarchi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,42KG,76KG,116KG,,,11
+11,Diandra,Guzzone,Diandra Guzzone,Female,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,39KG,85KG,110KG,,,11
+11,Chiara,Castiglioni,Chiara Castiglioni,Female,Italy,Chiara Petite,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,37KG,97KG,100KG,,,11
+14,Giorgia,Sapino,Giorgia Sapino,Female,Italy,GIORGIA SAPINO,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,42KG,90KG,100KG,,,14
+15,Babett,Groholy,Babett Groholy,Female,Hungary,Crossfit Aarau,https://athxgames.com/storage/profile-photos/tGRUfZBngz6ZQYhZ42DglnSTb3zFepVQqsf4nDLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,48KG,60KG,120KG,,,15
+16,Sabrina,Pasotti,Sabrina Pasotti,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,43KG,86KG,94KG,,,16
+16,Rossana,Caputo,Rossana Caputo,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,36KG,89KG,98KG,,,16
+18,Michela,Amodei,Michela Amodei,Female,,,https://athxgames.com/storage/profile-photos/0knn0XpGqTG3YGc3espAlzfJROZQNFoKGt5gdhjG.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,35KG,80KG,107KG,,,18
+19,Nora,Dominko,Nora Dominko,Female,,,https://ui-avatars.com/api/?name=N+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,36KG,85KG,100KG,,,19
+20,Carolina,Ventura,Carolina Ventura,Female,Italy,Lina,https://ui-avatars.com/api/?name=C+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,40KG,85KG,95KG,,,20
+21,Diletta,Bencivenni,Diletta Bencivenni,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,32KG,85KG,100KG,,,21
+22,Giada,Alberga,Giada Alberga,Female,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,40KG,80KG,95KG,,,22
+23,Valentina,Carpin,Valentina Carpin,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,37KG,73KG,98KG,,,23
+24,Carlotta,Tripodi,Carlotta Tripodi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,36KG,70KG,100KG,,,24
+25,Silvia,Pollini,Silvia Pollini,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,35KG,75KG,95KG,,,25
+25,Chiara,Bacchiega,Chiara Bacchiega,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,35KG,75KG,95KG,,,25
+27,Elisa,Tedeschi,Elisa Tedeschi,Female,,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,32KG,85KG,85KG,,,27
+27,federica,macelletti,federica macelletti,Female,,,https://ui-avatars.com/api/?name=f+m&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,37KG,70KG,95KG,,,27
+29,Serena,Tassi,Serena Tassi,Female,Italy,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,36KG,80KG,85KG,,,29
+30,Julia,Dieguez,Julia Dieguez,Female,United States,DRVEN,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,40KG,65KG,93KG,,,30
+31,Marie,Théry,Marie Théry,Female,France,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,32KG,75KG,90KG,,,31
+32,Federica,Castellitto,Federica Castellitto,Female,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,36KG,80KG,80KG,,,32
+33,Lisa,Rusconi,Lisa Rusconi,Female,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,34KG,71KG,90KG,,,33
+34,Lisa,Greppi,Lisa Greppi,Female,Italy,PhysicAll,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,40KG,73KG,76KG,,,34
+35,Veronica,Spinelli,Veronica Spinelli,Female,Italy,,https://athxgames.com/storage/profile-photos/6HDpwcGgxuyVDPcfLdz9zA7VECyRYq2sqZ3pvTvl.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,32KG,75KG,80KG,,,35
+36,Sandra,Regli,Sandra Regli,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,37KG,63KG,85KG,,,36
+37,Flavia,Di Molfetta,Flavia Di Molfetta,Female,Italy,CSB Fight&CrossFit,https://ui-avatars.com/api/?name=F+D+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,37KG,65KG,80KG,,,37
+37,Giorgia,Castelli,Giorgia Castelli,Female,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,30KG,65KG,87KG,,,37
+39,Janine,Binggeli,Janine Binggeli,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,35KG,60KG,85KG,,,39
+40,Alexandra,Almasan,Alexandra Almasan,Female,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,35KG,72KG,70KG,,,40
+41,Giada,Folcia,Giada Folcia,Female,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,33KG,61KG,80KG,,,41
+42,Silvia,Brunelli,Silvia Brunelli,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,31KG,58KG,80KG,,,42
+42,Michela,Rodolfi,Michela Rodolfi,Female,Italy,Ducale crossfit,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,34KG,60KG,75KG,,,42
+42,Francesca,Lettinck,Francesca Lettinck,Female,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,29KG,65KG,75KG,,,42
+45,Sara,Schenetti,Sara Schenetti,Female,Italy,Sari,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,34KG,60KG,70KG,,,45
+46,Silvia,Sorato,Silvia Sorato,Female,Italy,Silvia Sorato,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,31KG,65KG,65KG,,,46
+47,Iryna,Lanko,Iryna Lanko,Female,,,https://ui-avatars.com/api/?name=I+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,28KG,55KG,75KG,,,47
+48,Meera,Mistry,Meera Mistry,Female,United Kingdom,Meera Mistry,https://athxgames.com/storage/profile-photos/n9sAAQy8OhNblrb3Ds36HHGgBFWdz8BQIoXbXm7a.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,30KG,49KG,76KG,,,48
+49,EMANUELA,FANNA,EMANUELA FANNA,Female,,,https://ui-avatars.com/api/?name=E+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,33KG,60KG,55KG,,,49
+50,Josi,Sandhaus,Josi Sandhaus,Female,Germany,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Strength,,,,30KG,50KG,60KG,,,50
+1,Babett,Groholy,Babett Groholy,Female,Hungary,Crossfit Aarau,https://athxgames.com/storage/profile-photos/tGRUfZBngz6ZQYhZ42DglnSTb3zFepVQqsf4nDLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,09:56,,,,,,1
+2,Diandra,Guzzone,Diandra Guzzone,Female,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,10:21,,,,,,2
+3,Silvia,Brunelli,Silvia Brunelli,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,10:23,,,,,,3
+4,Giada,Alberga,Giada Alberga,Female,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,10:39,,,,,,4
+5,Alessandra,Paradiso,Alessandra Paradiso,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,10:53,,,,,,5
+6,clarissa,lavoradori,clarissa lavoradori,Female,Italy,,https://ui-avatars.com/api/?name=c+l&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:13,,,,,,6
+7,Chiara,Trimarchi,Chiara Trimarchi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:15,,,,,,7
+8,Chiara,Castiglioni,Chiara Castiglioni,Female,Italy,Chiara Petite,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:32,,,,,,8
+9,Flavia,Di Molfetta,Flavia Di Molfetta,Female,Italy,CSB Fight&CrossFit,https://ui-avatars.com/api/?name=F+D+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:42,,,,,,9
+10,Giorgia,Sapino,Giorgia Sapino,Female,Italy,GIORGIA SAPINO,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:45,,,,,,10
+11,Serena,Tassi,Serena Tassi,Female,Italy,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:49,,,,,,11
+11,Silvia,Sorato,Silvia Sorato,Female,Italy,Silvia Sorato,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:49,,,,,,11
+13,Ellie,Meads,Ellie Meads,Female,United Kingdom,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,11:59,,,,,,13
+14,Rossana,Caputo,Rossana Caputo,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:11,,,,,,14
+15,Vahny,Santos,Vahny Santos,Female,,,https://athxgames.com/storage/profile-photos/0n7oY7KHmLZNC5z5a8NQ7Nxp8IpLa1jaBvIHjpq5.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:14,,,,,,15
+16,Carlotta,Tripodi,Carlotta Tripodi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:30,,,,,,16
+17,federica,macelletti,federica macelletti,Female,,,https://ui-avatars.com/api/?name=f+m&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:39,,,,,,17
+18,Sandra,Regli,Sandra Regli,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:42,,,,,,18
+19,Lisa,Rusconi,Lisa Rusconi,Female,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:45,,,,,,19
+20,Veronica,Spinelli,Veronica Spinelli,Female,Italy,,https://athxgames.com/storage/profile-photos/6HDpwcGgxuyVDPcfLdz9zA7VECyRYq2sqZ3pvTvl.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:47,,,,,,20
+21,Chiara,Bacchiega,Chiara Bacchiega,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,12:54,,,,,,21
+22,Carolina,Ventura,Carolina Ventura,Female,Italy,Lina,https://ui-avatars.com/api/?name=C+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:06,,,,,,22
+23,Giada,Folcia,Giada Folcia,Female,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:09,,,,,,23
+24,Nora,Dominko,Nora Dominko,Female,,,https://ui-avatars.com/api/?name=N+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:27,,,,,,24
+25,Ilaria,Giacò,Ilaria Giacò,Female,,,https://ui-avatars.com/api/?name=I+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:35,,,,,,25
+26,Michela,Amodei,Michela Amodei,Female,,,https://athxgames.com/storage/profile-photos/0knn0XpGqTG3YGc3espAlzfJROZQNFoKGt5gdhjG.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:38,,,,,,26
+27,Marie,Théry,Marie Théry,Female,France,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:42,,,,,,27
+28,Giovanna,Sica,Giovanna Sica,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,13:54,,,,,,28
+29,Sabrina,Pasotti,Sabrina Pasotti,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:01,,,,,,29
+30,Emma,Eriksson,Emma Eriksson,Female,Sweden,Crossfit Pavia,https://ui-avatars.com/api/?name=E+E&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:10,,,,,,30
+31,Alexandra,Almasan,Alexandra Almasan,Female,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:14,,,,,,31
+32,Diletta,Bencivenni,Diletta Bencivenni,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:24,,,,,,32
+33,Giorgia,Castelli,Giorgia Castelli,Female,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:49,,,,,,33
+34,Valentina,Carpin,Valentina Carpin,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:54,,,,,,34
+35,Sara,Schenetti,Sara Schenetti,Female,Italy,Sari,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:57,,,,,,35
+36,Michela,Rodolfi,Michela Rodolfi,Female,Italy,Ducale crossfit,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,14:59,,,,,,36
+37,EMANUELA,FANNA,EMANUELA FANNA,Female,,,https://ui-avatars.com/api/?name=E+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,15:13,,,,,,37
+38,Francesca,Lettinck,Francesca Lettinck,Female,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,15:24,,,,,,38
+39,Iryna,Lanko,Iryna Lanko,Female,,,https://ui-avatars.com/api/?name=I+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,15:51,,,,,,39
+40,Federica,Castellitto,Federica Castellitto,Female,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:19,,,,,,40
+41,Emily,Smith,Emily Smith,Female,United Kingdom,MEE-FIT,https://ui-avatars.com/api/?name=E+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:33,,,,,,41
+42,Bridgette,Duarte,Bridgette Duarte,Female,United States,,https://athxgames.com/storage/profile-photos/m8vw0BTbyjJjppOmO1g3Lq0RKOONOVyc6ZJogZkK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,16:40,,,,,,42
+43,Leah,Bygraves-Paul,Leah Bygraves-Paul,Female,United Kingdom,Foundry Gym Sheffield,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:20,,,,,,43
+44,Julia,Dieguez,Julia Dieguez,Female,United States,DRVEN,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:48,,,,,,44
+45,Lisa,Greppi,Lisa Greppi,Female,Italy,PhysicAll,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,17:58,,,,,,45
+46,Elisa,Tedeschi,Elisa Tedeschi,Female,,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,18:24,,,,,,46
+47,Josi,Sandhaus,Josi Sandhaus,Female,Germany,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,19:03,,,,,,47
+48,Janine,Binggeli,Janine Binggeli,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,20:43,,,,,,48
+49,Silvia,Pollini,Silvia Pollini,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,21:31,,,,,,49
+50,Meera,Mistry,Meera Mistry,Female,United Kingdom,Meera Mistry,https://athxgames.com/storage/profile-photos/n9sAAQy8OhNblrb3Ds36HHGgBFWdz8BQIoXbXm7a.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,21:37,,,,,,50
+1,Roberta,Mannaioli,Roberta Mannaioli,Female,,Kairos Fitness academy,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,55KG,121KG,124KG,,,1
+2,Alice,Bonora,Alice Bonora,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,52KG,107KG,140KG,,,2
+3,Bettina,De Lucia,Bettina De Lucia,Female,,,https://ui-avatars.com/api/?name=B+D+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,42KG,83KG,106KG,,,3
+4,Stefania,Salmare,Stefania Salmare,Female,Italy,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Strength,,,,37KG,75KG,83KG,,,4
+1,Alice,Bonora,Alice Bonora,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,12:20,,,,,,1
+2,Roberta,Mannaioli,Roberta Mannaioli,Female,,Kairos Fitness academy,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,14:39,,,,,,2
+3,Stefania,Salmare,Stefania Salmare,Female,Italy,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,15:53,,,,,,3
+4,Bettina,De Lucia,Bettina De Lucia,Female,,,https://ui-avatars.com/api/?name=B+D+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,MetCon X,,,18:53,,,,,,4
+1,Stefano,Migliorini,Stefano Migliorini,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,11:38,,,,,,1
+2,Eugenio,Bianchi,Eugenio Bianchi,Male,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,12:22,,,,,,2
+3,David,Rindone,David Rindone,Male,Italy,CrossFit Cervia,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,12:29,,,,,,3
+4,Samuele Carlo Ayrton,Abrami,Samuele Carlo Ayrton Abrami,Male,Italy,,https://ui-avatars.com/api/?name=S+C+A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,12:34,,,,,,4
+5,Mattia,Guidi,Mattia Guidi,Male,Italy,,https://athxgames.com/storage/profile-photos/cqEbFGBerCy1IaeZEglAVe7zWZV4EO3bzd1dRDLE.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,13:04,,,,,,5
+6,Victor,De la Cruz,Victor De la Cruz,Male,Italy,,https://athxgames.com/storage/profile-photos/gESYBZDWdMivIzVRG8j55iDVKlyrwWy0UZzwV5so.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,13:20,,,,,,6
+7,Yuri,Maranta,Yuri Maranta,Male,Italy,Yuri Training Club,https://athxgames.com/storage/profile-photos/qcUls3a4pTxR9qZ1SL4ciuttWPbLNnaQG2mqTRmi.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,13:25,,,,,,7
+8,Michael,Brunialti,Michael Brunialti,Male,Italy,,https://athxgames.com/storage/profile-photos/DWz3C9aW6xpCmRX1SZNO8Z3HBOyL2CxC2DPuXZCU.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,13:46,,,,,,8
+9,Tom,Brough,Tom Brough,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,13:49,,,,,,9
+10,Giulio,Marchetti,Giulio Marchetti,Male,Italy,Fit4all,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:02,,,,,,10
+11,Massimiliano,Donghi,Massimiliano Donghi,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:11,,,,,,11
+12,Federico,Valloncini,Federico Valloncini,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,14:50,,,,,,12
+13,Alessandro,Pellegrini,Alessandro Pellegrini,Male,,,https://athxgames.com/storage/profile-photos/deLU3gvXeFURm1HIjNnXNbrsCI3HsHTnCUEtx0Ne.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:12,,,,,,13
+14,Michael,Tisselli,Michael Tisselli,Male,Italy,Iron Paradise,https://athxgames.com/storage/profile-photos/s8jNg23vLTwC4uSMkYGa7Xi1JGm8UlPObFMmn3zO.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:14,,,,,,14
+15,Guido,Pasanisi,Guido Pasanisi,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:19,,,,,,15
+16,Giovanni,Benzon,Giovanni Benzon,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:43,,,,,,16
+17,Kewin,Bordas,Kewin Bordas,Male,France,,https://athxgames.com/storage/profile-photos/EYAUlRl7IS4PfWQfDdehgajqo1edjE2sYMRsTMJ2.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,15:51,,,,,,17
+18,Fabio,Maggiore,Fabio Maggiore,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:01,,,,,,18
+19,Alec,Stier,Alec Stier,Male,,,https://athxgames.com/storage/profile-photos/uSM9uRLpJ9EqisnNIo0jXeCH1lPOX0jprd25GR1l.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:31,,,,,,19
+20,Aldo,Alberico,Aldo Alberico,Male,Italy,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:36,,,,,,20
+21,Andrea,Bertozzi,Andrea Bertozzi,Male,Italy,Crossfit Faenza,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:38,,,,,,21
+22,Marco,Teruzzi,Marco Teruzzi,Male,,,https://athxgames.com/storage/profile-photos/OlBm8NOfapuUX0dtbm4DhLnfTIDmprdyfDFkSNif.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,16:57,,,,,,22
+23,Ulrich,Dieguez,Ulrich Dieguez,Male,,,https://ui-avatars.com/api/?name=U+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:00,,,,,,23
+24,Dylan,Argentieri,Dylan Argentieri,Male,,,https://athxgames.com/storage/profile-photos/AStjZfYBlpICVNWAwkvLrivQjpYN4mRS2YhGf6II.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:07,,,,,,24
+25,Matteo,Tedeschi,Matteo Tedeschi,Male,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:23,,,,,,25
+26,Francesco,Corticelli,Francesco Corticelli,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,17:45,,,,,,26
+27,Diogo,Corrente,Diogo Corrente,Male,Portugal,CrossFit Odivelas,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,18:04,,,,,,27
+28,Federico,Canuti,Federico Canuti,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,18:31,,,,,,28
+29,Simone,Lodi,Simone Lodi,Male,Italy,Skip Intro - Experience,https://athxgames.com/storage/profile-photos/zap3uqRIOBlk0AucS0o7tmZ5QZuSfmvr44ZwUNyx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,19:04,,,,,,29
+30,Riccardo,Fistolera,Riccardo Fistolera,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,19:32,,,,,,30
+31,Stefano,De Dominicis,Stefano De Dominicis,Male,,,https://ui-avatars.com/api/?name=S+D+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,20:30,,,,,,31
+32,Lucas,Kothe,Lucas Kothe,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,20:42,,,,,,32
+33,Francesco,Bernabei,Francesco Bernabei,Male,,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,21:05,,,,,,33
+34,Francesco,Monopoli,Francesco Monopoli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,21:44,,,,,,34
+35,Federico,Simonetti,Federico Simonetti,Male,Italy,Harvey's Gym,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,25:14,,,,,,35
+36,Davide,Renghi,Davide Renghi,Male,Italy,Egogym,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,25:25,,,,,,36
+37,Stefano,Grassi,Stefano Grassi,Male,,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,26:30,,,,,,37
+38,Sergio,Bertolazzi,Sergio Bertolazzi,Male,Italy,CSB Fight & CrossFit,https://athxgames.com/storage/profile-photos/y4wVrWcXoX0vCQBiempGXNpUZH6hkl14Oe2jn0iB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,26:45,,,,,,38
+39,Luca,Colarusso,Luca Colarusso,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,27:09,,,,,,39
+40,Lorenzo Maria,De Benedictis,Lorenzo Maria De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+M+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,MetCon X,,,27:17,,,,,,40
+1,Babett,Groholy,Babett Groholy,Female,Hungary,Crossfit Aarau,https://athxgames.com/storage/profile-photos/tGRUfZBngz6ZQYhZ42DglnSTb3zFepVQqsf4nDLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,15 (228KG),3 (4.633KM),1 (09:56),,,,,,19
+2,Diandra,Guzzone,Diandra Guzzone,Female,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,11 (234KG),6 (4.49KM),2 (10:21),,,,,,19
+3,Alessandra,Paradiso,Alessandra Paradiso,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,7 (252KG),9 (4.415KM),5 (10:53),,,,,,21
+4,Chiara,Castiglioni,Chiara Castiglioni,Female,Italy,Chiara Petite,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,11 (234KG),4 (4.54KM),8 (11:32),,,,,,23
+5,clarissa,lavoradori,clarissa lavoradori,Female,Italy,,https://ui-avatars.com/api/?name=c+l&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,3 (265KG),20 (4.139KM),6 (11:13),,,,,,29
+6,Ellie,Meads,Ellie Meads,Female,United Kingdom,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,2 (291KG),21 (4.128KM),13 (11:59),,,,,,36
+7,Vahny,Santos,Vahny Santos,Female,,,https://athxgames.com/storage/profile-photos/0n7oY7KHmLZNC5z5a8NQ7Nxp8IpLa1jaBvIHjpq5.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,8 (246KG),13 (4.239KM),15 (12:14),,,,,,36
+8,Giada,Alberga,Giada Alberga,Female,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,22 (215KG),11 (4.355KM),4 (10:39),,,,,,37
+9,Rossana,Caputo,Rossana Caputo,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,16 (223KG),10 (4.38KM),14 (12:11),,,,,,40
+9,Chiara,Trimarchi,Chiara Trimarchi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,11 (234KG),22 (4.114KM),7 (11:15),,,,,,40
+11,Giorgia,Sapino,Giorgia Sapino,Female,Italy,GIORGIA SAPINO,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,14 (232KG),17 (4.187KM),10 (11:45),,,,,,41
+12,Carlotta,Tripodi,Carlotta Tripodi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,24 (206KG),5 (4.51KM),16 (12:30),,,,,,45
+13,Silvia,Brunelli,Silvia Brunelli,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,42 (169KG),1 (4.821KM),3 (10:23),,,,,,46
+14,Serena,Tassi,Serena Tassi,Female,Italy,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,29 (201KG),8 (4.425KM),11 (11:49),,,,,,48
+15,Flavia,Di Molfetta,Flavia Di Molfetta,Female,Italy,CSB Fight&CrossFit,https://ui-avatars.com/api/?name=F+D+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,37 (182KG),7 (4.466KM),9 (11:42),,,,,,53
+16,Nora,Dominko,Nora Dominko,Female,,,https://ui-avatars.com/api/?name=N+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,19 (221KG),14 (4.232KM),24 (13:27),,,,,,57
+17,Silvia,Sorato,Silvia Sorato,Female,Italy,Silvia Sorato,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,46 (161KG),2 (4.676KM),11 (11:49),,,,,,59
+18,federica,macelletti,federica macelletti,Female,,,https://ui-avatars.com/api/?name=f+m&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,27 (202KG),16 (4.206KM),17 (12:39),,,,,,60
+18,Ilaria,Giacò,Ilaria Giacò,Female,,,https://ui-avatars.com/api/?name=I+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,3 (265KG),32 (3.767KM),25 (13:35),,,,,,60
+20,Michela,Amodei,Michela Amodei,Female,,,https://athxgames.com/storage/profile-photos/0knn0XpGqTG3YGc3espAlzfJROZQNFoKGt5gdhjG.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,18 (222KG),18 (4.164KM),26 (13:38),,,,,,62
+21,Emma,Eriksson,Emma Eriksson,Female,Sweden,Crossfit Pavia,https://ui-avatars.com/api/?name=E+E&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,5 (263KG),28 (3.906KM),30 (14:10),,,,,,63
+22,Diletta,Bencivenni,Diletta Bencivenni,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,21 (217KG),12 (4.351KM),32 (14:24),,,,,,65
+23,Chiara,Bacchiega,Chiara Bacchiega,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,25 (205KG),24 (4.075KM),21 (12:54),,,,,,70
+24,Carolina,Ventura,Carolina Ventura,Female,Italy,Lina,https://ui-avatars.com/api/?name=C+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,20 (220KG),29 (3.896KM),22 (13:06),,,,,,71
+25,Sabrina,Pasotti,Sabrina Pasotti,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,16 (223KG),27 (3.918KM),29 (14:01),,,,,,72
+26,Veronica,Spinelli,Veronica Spinelli,Female,Italy,,https://athxgames.com/storage/profile-photos/6HDpwcGgxuyVDPcfLdz9zA7VECyRYq2sqZ3pvTvl.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,35 (187KG),19 (4.162KM),20 (12:47),,,,,,74
+27,Lisa,Rusconi,Lisa Rusconi,Female,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,33 (195KG),23 (4.083KM),19 (12:45),,,,,,75
+28,Sandra,Regli,Sandra Regli,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,36 (185KG),25 (4.064KM),18 (12:42),,,,,,79
+28,Giada,Folcia,Giada Folcia,Female,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,41 (174KG),15 (4.219KM),23 (13:09),,,,,,79
+28,Giovanna,Sica,Giovanna Sica,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,6 (261KG),45 (3.236KM),28 (13:54),,,,,,79
+31,Marie,Théry,Marie Théry,Female,France,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,31 (197KG),26 (3.974KM),27 (13:42),,,,,,84
+32,Leah,Bygraves-Paul,Leah Bygraves-Paul,Female,United Kingdom,Foundry Gym Sheffield,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,1 (300KG),46 (3.19KM),43 (17:20),,,,,,90
+33,Valentina,Carpin,Valentina Carpin,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,23 (208KG),33 (3.765KM),34 (14:54),,,,,,90
+34,Emily,Smith,Emily Smith,Female,United Kingdom,MEE-FIT,https://ui-avatars.com/api/?name=E+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,9 (244KG),43 (3.304KM),41 (16:33),,,,,,93
+35,Bridgette,Duarte,Bridgette Duarte,Female,United States,,https://athxgames.com/storage/profile-photos/m8vw0BTbyjJjppOmO1g3Lq0RKOONOVyc6ZJogZkK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,9 (244KG),48 (3.155KM),42 (16:40),,,,,,99
+36,Giorgia,Castelli,Giorgia Castelli,Female,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,37 (182KG),36 (3.701KM),33 (14:49),,,,,,106
+37,Alexandra,Almasan,Alexandra Almasan,Female,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,40 (177KG),37 (3.645KM),31 (14:14),,,,,,108
+37,Michela,Rodolfi,Michela Rodolfi,Female,Italy,Ducale crossfit,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,42 (169KG),30 (3.813KM),36 (14:59),,,,,,108
+39,Julia,Dieguez,Julia Dieguez,Female,United States,DRVEN,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,30 (198KG),38 (3.633KM),44 (17:48),,,,,,112
+40,Elisa,Tedeschi,Elisa Tedeschi,Female,,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,27 (202KG),41 (3.562KM),46 (18:24),,,,,,114
+40,Lisa,Greppi,Lisa Greppi,Female,Italy,PhysicAll,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,34 (189KG),35 (3.732KM),45 (17:58),,,,,,114
+42,Federica,Castellitto,Federica Castellitto,Female,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,32 (196KG),44 (3.292KM),40 (16:19),,,,,,116
+43,EMANUELA,FANNA,EMANUELA FANNA,Female,,,https://ui-avatars.com/api/?name=E+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,49 (148KG),31 (3.784KM),37 (15:13),,,,,,117
+44,Francesca,Lettinck,Francesca Lettinck,Female,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,42 (169KG),39 (3.617KM),38 (15:24),,,,,,119
+45,Sara,Schenetti,Sara Schenetti,Female,Italy,Sari,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,45 (164KG),40 (3.582KM),35 (14:57),,,,,,120
+46,Silvia,Pollini,Silvia Pollini,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,25 (205KG),50 (3.018KM),49 (21:31),,,,,,124
+47,Janine,Binggeli,Janine Binggeli,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,39 (180KG),42 (3.403KM),48 (20:43),,,,,,129
+48,Josi,Sandhaus,Josi Sandhaus,Female,Germany,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,50 (140KG),34 (3.762KM),47 (19:03),,,,,,131
+49,Iryna,Lanko,Iryna Lanko,Female,,,https://ui-avatars.com/api/?name=I+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,47 (158KG),47 (3.169KM),39 (15:51),,,,,,133
+50,Meera,Mistry,Meera Mistry,Female,United Kingdom,Meera Mistry,https://athxgames.com/storage/profile-photos/n9sAAQy8OhNblrb3Ds36HHGgBFWdz8BQIoXbXm7a.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Overall,48 (155KG),49 (3.129KM),50 (21:37),,,,,,147
+1,Silvia,Brunelli,Silvia Brunelli,Female,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.558KM,2.263KM,1
+2,Silvia,Sorato,Silvia Sorato,Female,Italy,Silvia Sorato,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.414KM,2.262KM,2
+3,Babett,Groholy,Babett Groholy,Female,Hungary,Crossfit Aarau,https://athxgames.com/storage/profile-photos/tGRUfZBngz6ZQYhZ42DglnSTb3zFepVQqsf4nDLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.382KM,2.251KM,3
+4,Chiara,Castiglioni,Chiara Castiglioni,Female,Italy,Chiara Petite,https://ui-avatars.com/api/?name=C+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.255KM,2.285KM,4
+5,Carlotta,Tripodi,Carlotta Tripodi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.26KM,5
+6,Diandra,Guzzone,Diandra Guzzone,Female,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.24KM,6
+7,Flavia,Di Molfetta,Flavia Di Molfetta,Female,Italy,CSB Fight&CrossFit,https://ui-avatars.com/api/?name=F+D+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.216KM,7
+8,Serena,Tassi,Serena Tassi,Female,Italy,,https://ui-avatars.com/api/?name=S+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.175KM,8
+9,Alessandra,Paradiso,Alessandra Paradiso,Female,,,https://ui-avatars.com/api/?name=A+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.165KM,9
+10,Rossana,Caputo,Rossana Caputo,Female,,,https://ui-avatars.com/api/?name=R+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.13KM,10
+11,Giada,Alberga,Giada Alberga,Female,,,https://ui-avatars.com/api/?name=G+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.105KM,11
+12,Diletta,Bencivenni,Diletta Bencivenni,Female,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,2.101KM,12
+13,Vahny,Santos,Vahny Santos,Female,,,https://athxgames.com/storage/profile-photos/0n7oY7KHmLZNC5z5a8NQ7Nxp8IpLa1jaBvIHjpq5.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.989KM,13
+14,Nora,Dominko,Nora Dominko,Female,,,https://ui-avatars.com/api/?name=N+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.982KM,14
+15,Giada,Folcia,Giada Folcia,Female,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.969KM,15
+16,federica,macelletti,federica macelletti,Female,,,https://ui-avatars.com/api/?name=f+m&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.956KM,16
+17,Giorgia,Sapino,Giorgia Sapino,Female,Italy,GIORGIA SAPINO,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.937KM,17
+18,Michela,Amodei,Michela Amodei,Female,,,https://athxgames.com/storage/profile-photos/0knn0XpGqTG3YGc3espAlzfJROZQNFoKGt5gdhjG.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.914KM,18
+19,Veronica,Spinelli,Veronica Spinelli,Female,Italy,,https://athxgames.com/storage/profile-photos/6HDpwcGgxuyVDPcfLdz9zA7VECyRYq2sqZ3pvTvl.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.912KM,19
+20,clarissa,lavoradori,clarissa lavoradori,Female,Italy,,https://ui-avatars.com/api/?name=c+l&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.889KM,20
+21,Ellie,Meads,Ellie Meads,Female,United Kingdom,,https://ui-avatars.com/api/?name=E+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.878KM,21
+22,Chiara,Trimarchi,Chiara Trimarchi,Female,Italy,,https://ui-avatars.com/api/?name=C+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.864KM,22
+23,Lisa,Rusconi,Lisa Rusconi,Female,,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.833KM,23
+24,Chiara,Bacchiega,Chiara Bacchiega,Female,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.825KM,24
+25,Sandra,Regli,Sandra Regli,Female,,,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.814KM,25
+26,Marie,Théry,Marie Théry,Female,France,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.724KM,26
+27,Sabrina,Pasotti,Sabrina Pasotti,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.668KM,27
+28,Emma,Eriksson,Emma Eriksson,Female,Sweden,Crossfit Pavia,https://ui-avatars.com/api/?name=E+E&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.656KM,28
+29,Carolina,Ventura,Carolina Ventura,Female,Italy,Lina,https://ui-avatars.com/api/?name=C+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.646KM,29
+30,Michela,Rodolfi,Michela Rodolfi,Female,Italy,Ducale crossfit,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.135KM,1.678KM,30
+31,EMANUELA,FANNA,EMANUELA FANNA,Female,,,https://ui-avatars.com/api/?name=E+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.534KM,31
+32,Ilaria,Giacò,Ilaria Giacò,Female,,,https://ui-avatars.com/api/?name=I+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.517KM,32
+33,Valentina,Carpin,Valentina Carpin,Female,,,https://ui-avatars.com/api/?name=V+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.515KM,33
+34,Josi,Sandhaus,Josi Sandhaus,Female,Germany,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.25KM,1.512KM,34
+35,Lisa,Greppi,Lisa Greppi,Female,Italy,PhysicAll,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.219KM,1.513KM,35
+36,Giorgia,Castelli,Giorgia Castelli,Female,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.195KM,1.506KM,36
+37,Alexandra,Almasan,Alexandra Almasan,Female,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.13KM,1.515KM,37
+38,Julia,Dieguez,Julia Dieguez,Female,United States,DRVEN,https://ui-avatars.com/api/?name=J+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.121KM,1.512KM,38
+39,Francesca,Lettinck,Francesca Lettinck,Female,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.108KM,1.509KM,39
+40,Sara,Schenetti,Sara Schenetti,Female,Italy,Sari,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.065KM,1.517KM,40
+41,Elisa,Tedeschi,Elisa Tedeschi,Female,,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,2.046KM,1.516KM,41
+42,Janine,Binggeli,Janine Binggeli,Female,,,https://ui-avatars.com/api/?name=J+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.902KM,1.501KM,42
+43,Emily,Smith,Emily Smith,Female,United Kingdom,MEE-FIT,https://ui-avatars.com/api/?name=E+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.788KM,1.516KM,43
+44,Federica,Castellitto,Federica Castellitto,Female,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.779KM,1.513KM,44
+45,Giovanna,Sica,Giovanna Sica,Female,,,https://ui-avatars.com/api/?name=G+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.734KM,1.502KM,45
+46,Leah,Bygraves-Paul,Leah Bygraves-Paul,Female,United Kingdom,Foundry Gym Sheffield,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.678KM,1.512KM,46
+47,Iryna,Lanko,Iryna Lanko,Female,,,https://ui-avatars.com/api/?name=I+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.653KM,1.516KM,47
+48,Bridgette,Duarte,Bridgette Duarte,Female,United States,,https://athxgames.com/storage/profile-photos/m8vw0BTbyjJjppOmO1g3Lq0RKOONOVyc6ZJogZkK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.638KM,1.517KM,48
+49,Meera,Mistry,Meera Mistry,Female,United Kingdom,Meera Mistry,https://athxgames.com/storage/profile-photos/n9sAAQy8OhNblrb3Ds36HHGgBFWdz8BQIoXbXm7a.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.615KM,1.514KM,49
+50,Silvia,Pollini,Silvia Pollini,Female,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,1.5KM,1.518KM,50
+1,Alice,Bonora,Alice Bonora,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,2 (299KG),1 (4.641KM),1 (12:20),,,,,,4
+2,Roberta,Mannaioli,Roberta Mannaioli,Female,,Kairos Fitness academy,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,1 (300KG),3 (4.103KM),2 (14:39),,,,,,6
+3,Stefania,Salmare,Stefania Salmare,Female,Italy,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,4 (195KG),2 (4.261KM),3 (15:53),,,,,,9
+4,Bettina,De Lucia,Bettina De Lucia,Female,,,https://ui-avatars.com/api/?name=B+D+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Overall,3 (231KG),4 (3.766KM),4 (18:53),,,,,,11
+1,Alice,Bonora,Alice Bonora,Female,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,2.633KM,2.008KM,1
+2,Stefania,Salmare,Stefania Salmare,Female,Italy,,https://ui-avatars.com/api/?name=S+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,2.25KM,2.011KM,2
+3,Roberta,Mannaioli,Roberta Mannaioli,Female,,Kairos Fitness academy,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,2.1KM,2.003KM,3
+4,Bettina,De Lucia,Bettina De Lucia,Female,,,https://ui-avatars.com/api/?name=B+D+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX Pro,Endurance,,,,,,,2KM,1.766KM,4
+1,Stefano,Migliorini,Stefano Migliorini,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,3 (480KG),7 (5.277KM),1 (11:38),,,,,,11
+2,Tom,Brough,Tom Brough,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,7 (460KG),5 (5.368KM),9 (13:49),,,,,,21
+3,Victor,De la Cruz,Victor De la Cruz,Male,Italy,,https://athxgames.com/storage/profile-photos/gESYBZDWdMivIzVRG8j55iDVKlyrwWy0UZzwV5so.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,17 (430KG),4 (5.438KM),6 (13:20),,,,,,27
+4,Mattia,Guidi,Mattia Guidi,Male,Italy,,https://athxgames.com/storage/profile-photos/cqEbFGBerCy1IaeZEglAVe7zWZV4EO3bzd1dRDLE.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,17 (430KG),6 (5.308KM),5 (13:04),,,,,,28
+5,Eugenio,Bianchi,Eugenio Bianchi,Male,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,27 (383KG),1 (5.756KM),2 (12:22),,,,,,30
+6,Alessandro,Pellegrini,Alessandro Pellegrini,Male,,,https://athxgames.com/storage/profile-photos/deLU3gvXeFURm1HIjNnXNbrsCI3HsHTnCUEtx0Ne.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,2 (485KG),16 (4.91KM),13 (15:12),,,,,,31
+7,Samuele Carlo Ayrton,Abrami,Samuele Carlo Ayrton Abrami,Male,Italy,,https://ui-avatars.com/api/?name=S+C+A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,26 (385KG),2 (5.611KM),4 (12:34),,,,,,32
+8,David,Rindone,David Rindone,Male,Italy,CrossFit Cervia,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,16 (435KG),13 (4.947KM),3 (12:29),,,,,,32
+9,Michael,Brunialti,Michael Brunialti,Male,Italy,,https://athxgames.com/storage/profile-photos/DWz3C9aW6xpCmRX1SZNO8Z3HBOyL2CxC2DPuXZCU.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,17 (430KG),8 (5.164KM),8 (13:46),,,,,,33
+10,Michael,Tisselli,Michael Tisselli,Male,Italy,Iron Paradise,https://athxgames.com/storage/profile-photos/s8jNg23vLTwC4uSMkYGa7Xi1JGm8UlPObFMmn3zO.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,14 (440KG),9 (5.09KM),14 (15:14),,,,,,37
+11,Yuri,Maranta,Yuri Maranta,Male,Italy,Yuri Training Club,https://athxgames.com/storage/profile-photos/qcUls3a4pTxR9qZ1SL4ciuttWPbLNnaQG2mqTRmi.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,4 (472KG),28 (4.625KM),7 (13:25),,,,,,39
+12,Federico,Valloncini,Federico Valloncini,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,21 (425KG),10 (5.044KM),12 (14:50),,,,,,43
+12,Kewin,Bordas,Kewin Bordas,Male,France,,https://athxgames.com/storage/profile-photos/EYAUlRl7IS4PfWQfDdehgajqo1edjE2sYMRsTMJ2.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,6 (468KG),20 (4.722KM),17 (15:51),,,,,,43
+14,Giovanni,Benzon,Giovanni Benzon,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,30 (340KG),3 (5.579KM),16 (15:43),,,,,,49
+15,Aldo,Alberico,Aldo Alberico,Male,Italy,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,11 (450KG),22 (4.713KM),20 (16:36),,,,,,53
+15,Fabio,Maggiore,Fabio Maggiore,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,24 (410KG),11 (5.023KM),18 (16:01),,,,,,53
+17,Francesco,Corticelli,Francesco Corticelli,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,14 (440KG),14 (4.932KM),26 (17:45),,,,,,54
+18,Marco,Teruzzi,Marco Teruzzi,Male,,,https://athxgames.com/storage/profile-photos/OlBm8NOfapuUX0dtbm4DhLnfTIDmprdyfDFkSNif.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,17 (430KG),17 (4.842KM),22 (16:57),,,,,,56
+19,Diogo,Corrente,Diogo Corrente,Male,Portugal,CrossFit Odivelas,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,1 (495KG),30 (4.475KM),27 (18:04),,,,,,58
+20,Alec,Stier,Alec Stier,Male,,,https://athxgames.com/storage/profile-photos/uSM9uRLpJ9EqisnNIo0jXeCH1lPOX0jprd25GR1l.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,10 (456KG),29 (4.56KM),19 (16:31),,,,,,58
+21,Dylan,Argentieri,Dylan Argentieri,Male,,,https://athxgames.com/storage/profile-photos/AStjZfYBlpICVNWAwkvLrivQjpYN4mRS2YhGf6II.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,9 (457KG),27 (4.627KM),24 (17:07),,,,,,60
+22,Ulrich,Dieguez,Ulrich Dieguez,Male,,,https://ui-avatars.com/api/?name=U+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,5 (470KG),34 (4.375KM),23 (17:00),,,,,,62
+23,Matteo,Tedeschi,Matteo Tedeschi,Male,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,7 (460KG),31 (4.466KM),25 (17:23),,,,,,63
+24,Guido,Pasanisi,Guido Pasanisi,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,31 (333KG),18 (4.835KM),15 (15:19),,,,,,64
+25,Giulio,Marchetti,Giulio Marchetti,Male,Italy,Fit4all,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,25 (395KG),33 (4.439KM),10 (14:02),,,,,,68
+26,Massimiliano,Donghi,Massimiliano Donghi,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,39 (278KG),21 (4.721KM),11 (14:11),,,,,,71
+27,Andrea,Bertozzi,Andrea Bertozzi,Male,Italy,Crossfit Faenza,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,32 (330KG),19 (4.81KM),21 (16:38),,,,,,72
+28,Federico,Canuti,Federico Canuti,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,38 (280KG),12 (4.957KM),28 (18:31),,,,,,78
+29,Francesco,Bernabei,Francesco Bernabei,Male,,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,32 (330KG),15 (4.915KM),33 (21:05),,,,,,80
+30,Davide,Renghi,Davide Renghi,Male,Italy,Egogym,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,22 (415KG),23 (4.687KM),36 (25:25),,,,,,81
+30,Lucas,Kothe,Lucas Kothe,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,12 (442KG),37 (4.324KM),32 (20:42),,,,,,81
+32,Federico,Simonetti,Federico Simonetti,Male,Italy,Harvey's Gym,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,13 (441KG),35 (4.366KM),35 (25:14),,,,,,83
+32,Riccardo,Fistolera,Riccardo Fistolera,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,28 (375KG),25 (4.657KM),30 (19:32),,,,,,83
+34,Francesco,Monopoli,Francesco Monopoli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,29 (372KG),24 (4.659KM),34 (21:44),,,,,,87
+35,Simone,Lodi,Simone Lodi,Male,Italy,Skip Intro - Experience,https://athxgames.com/storage/profile-photos/zap3uqRIOBlk0AucS0o7tmZ5QZuSfmvr44ZwUNyx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,34 (312KG),26 (4.637KM),29 (19:04),,,,,,89
+36,Stefano,De Dominicis,Stefano De Dominicis,Male,,,https://ui-avatars.com/api/?name=S+D+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,22 (415KG),38 (4.28KM),31 (20:30),,,,,,91
+37,Luca,Colarusso,Luca Colarusso,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,35 (310KG),32 (4.444KM),39 (27:09),,,,,,106
+38,Stefano,Grassi,Stefano Grassi,Male,,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,37 (297KG),39 (3.865KM),37 (26:30),,,,,,113
+39,Sergio,Bertolazzi,Sergio Bertolazzi,Male,Italy,CSB Fight & CrossFit,https://athxgames.com/storage/profile-photos/y4wVrWcXoX0vCQBiempGXNpUZH6hkl14Oe2jn0iB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,40 (270KG),36 (4.334KM),38 (26:45),,,,,,114
+40,Lorenzo Maria,De Benedictis,Lorenzo Maria De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+M+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Overall,35 (310KG),40 (3.445KM),40 (27:17),,,,,,115
+1,Eugenio,Bianchi,Eugenio Bianchi,Male,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.75KM,3.006KM,1
+2,Samuele Carlo Ayrton,Abrami,Samuele Carlo Ayrton Abrami,Male,Italy,,https://ui-avatars.com/api/?name=S+C+A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.75KM,2.861KM,2
+3,Giovanni,Benzon,Giovanni Benzon,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.75KM,2.829KM,3
+4,Victor,De la Cruz,Victor De la Cruz,Male,Italy,,https://athxgames.com/storage/profile-photos/gESYBZDWdMivIzVRG8j55iDVKlyrwWy0UZzwV5so.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.75KM,2.688KM,4
+5,Tom,Brough,Tom Brough,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.368KM,5
+6,Mattia,Guidi,Mattia Guidi,Male,Italy,,https://athxgames.com/storage/profile-photos/cqEbFGBerCy1IaeZEglAVe7zWZV4EO3bzd1dRDLE.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.308KM,6
+7,Stefano,Migliorini,Stefano Migliorini,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.277KM,7
+8,Michael,Brunialti,Michael Brunialti,Male,Italy,,https://athxgames.com/storage/profile-photos/DWz3C9aW6xpCmRX1SZNO8Z3HBOyL2CxC2DPuXZCU.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.164KM,8
+9,Michael,Tisselli,Michael Tisselli,Male,Italy,Iron Paradise,https://athxgames.com/storage/profile-photos/s8jNg23vLTwC4uSMkYGa7Xi1JGm8UlPObFMmn3zO.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.09KM,9
+10,Federico,Valloncini,Federico Valloncini,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,3KM,2.044KM,10
+11,Fabio,Maggiore,Fabio Maggiore,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.908KM,2.115KM,11
+12,Federico,Canuti,Federico Canuti,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.943KM,2.014KM,12
+13,David,Rindone,David Rindone,Male,Italy,CrossFit Cervia,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.928KM,2.019KM,13
+14,Francesco,Corticelli,Francesco Corticelli,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.915KM,2.017KM,14
+15,Francesco,Bernabei,Francesco Bernabei,Male,,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.912KM,2.003KM,15
+16,Alessandro,Pellegrini,Alessandro Pellegrini,Male,,,https://athxgames.com/storage/profile-photos/deLU3gvXeFURm1HIjNnXNbrsCI3HsHTnCUEtx0Ne.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.889KM,2.021KM,16
+17,Marco,Teruzzi,Marco Teruzzi,Male,,,https://athxgames.com/storage/profile-photos/OlBm8NOfapuUX0dtbm4DhLnfTIDmprdyfDFkSNif.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.829KM,2.013KM,17
+18,Guido,Pasanisi,Guido Pasanisi,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.824KM,2.011KM,18
+19,Andrea,Bertozzi,Andrea Bertozzi,Male,Italy,Crossfit Faenza,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.803KM,2.007KM,19
+20,Kewin,Bordas,Kewin Bordas,Male,France,,https://athxgames.com/storage/profile-photos/EYAUlRl7IS4PfWQfDdehgajqo1edjE2sYMRsTMJ2.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.705KM,2.017KM,20
+21,Massimiliano,Donghi,Massimiliano Donghi,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.442KM,2.279KM,21
+22,Aldo,Alberico,Aldo Alberico,Male,Italy,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.704KM,2.009KM,22
+23,Davide,Renghi,Davide Renghi,Male,Italy,Egogym,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.67KM,2.017KM,23
+24,Francesco,Monopoli,Francesco Monopoli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.652KM,2.007KM,24
+25,Riccardo,Fistolera,Riccardo Fistolera,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.65KM,2.007KM,25
+26,Simone,Lodi,Simone Lodi,Male,Italy,Skip Intro - Experience,https://athxgames.com/storage/profile-photos/zap3uqRIOBlk0AucS0o7tmZ5QZuSfmvr44ZwUNyx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.632KM,2.005KM,26
+27,Dylan,Argentieri,Dylan Argentieri,Male,,,https://athxgames.com/storage/profile-photos/AStjZfYBlpICVNWAwkvLrivQjpYN4mRS2YhGf6II.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.611KM,2.016KM,27
+28,Yuri,Maranta,Yuri Maranta,Male,Italy,Yuri Training Club,https://athxgames.com/storage/profile-photos/qcUls3a4pTxR9qZ1SL4ciuttWPbLNnaQG2mqTRmi.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.617KM,2.008KM,28
+29,Alec,Stier,Alec Stier,Male,,,https://athxgames.com/storage/profile-photos/uSM9uRLpJ9EqisnNIo0jXeCH1lPOX0jprd25GR1l.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.55KM,2.01KM,29
+30,Diogo,Corrente,Diogo Corrente,Male,Portugal,CrossFit Odivelas,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.471KM,2.004KM,30
+31,Matteo,Tedeschi,Matteo Tedeschi,Male,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.459KM,2.007KM,31
+32,Luca,Colarusso,Luca Colarusso,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.437KM,2.007KM,32
+33,Giulio,Marchetti,Giulio Marchetti,Male,Italy,Fit4all,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.25KM,2.189KM,33
+34,Ulrich,Dieguez,Ulrich Dieguez,Male,,,https://ui-avatars.com/api/?name=U+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.362KM,2.013KM,34
+35,Federico,Simonetti,Federico Simonetti,Male,Italy,Harvey's Gym,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.353KM,2.013KM,35
+36,Sergio,Bertolazzi,Sergio Bertolazzi,Male,Italy,CSB Fight & CrossFit,https://athxgames.com/storage/profile-photos/y4wVrWcXoX0vCQBiempGXNpUZH6hkl14Oe2jn0iB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.332KM,2.002KM,36
+37,Lucas,Kothe,Lucas Kothe,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.329KM,1.995KM,37
+38,Stefano,De Dominicis,Stefano De Dominicis,Male,,,https://ui-avatars.com/api/?name=S+D+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.274KM,2.006KM,38
+39,Stefano,Grassi,Stefano Grassi,Male,,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2.25KM,1.615KM,39
+40,Lorenzo Maria,De Benedictis,Lorenzo Maria De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+M+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Endurance,,,,,,,2KM,1.445KM,40
+1,Diogo,Corrente,Diogo Corrente,Male,Portugal,CrossFit Odivelas,https://ui-avatars.com/api/?name=D+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,105KG,180KG,210KG,,,1
+2,Alessandro,Pellegrini,Alessandro Pellegrini,Male,,,https://athxgames.com/storage/profile-photos/deLU3gvXeFURm1HIjNnXNbrsCI3HsHTnCUEtx0Ne.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,190KG,215KG,,,2
+3,Stefano,Migliorini,Stefano Migliorini,Male,,,https://ui-avatars.com/api/?name=S+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,190KG,210KG,,,3
+4,Yuri,Maranta,Yuri Maranta,Male,Italy,Yuri Training Club,https://athxgames.com/storage/profile-photos/qcUls3a4pTxR9qZ1SL4ciuttWPbLNnaQG2mqTRmi.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,87KG,180KG,205KG,,,4
+5,Ulrich,Dieguez,Ulrich Dieguez,Male,,,https://ui-avatars.com/api/?name=U+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,90KG,180KG,200KG,,,5
+6,Kewin,Bordas,Kewin Bordas,Male,France,,https://athxgames.com/storage/profile-photos/EYAUlRl7IS4PfWQfDdehgajqo1edjE2sYMRsTMJ2.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,88KG,175KG,205KG,,,6
+7,Matteo,Tedeschi,Matteo Tedeschi,Male,,,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,180KG,200KG,,,7
+7,Tom,Brough,Tom Brough,Male,,,https://ui-avatars.com/api/?name=T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,85KG,155KG,220KG,,,7
+9,Dylan,Argentieri,Dylan Argentieri,Male,,,https://athxgames.com/storage/profile-photos/AStjZfYBlpICVNWAwkvLrivQjpYN4mRS2YhGf6II.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,88KG,178KG,191KG,,,9
+10,Alec,Stier,Alec Stier,Male,,,https://athxgames.com/storage/profile-photos/uSM9uRLpJ9EqisnNIo0jXeCH1lPOX0jprd25GR1l.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,76KG,180KG,200KG,,,10
+11,Aldo,Alberico,Aldo Alberico,Male,Italy,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,160KG,210KG,,,11
+12,Lucas,Kothe,Lucas Kothe,Male,,,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,75KG,165KG,202KG,,,12
+13,Federico,Simonetti,Federico Simonetti,Male,Italy,Harvey's Gym,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,86KG,155KG,200KG,,,13
+14,Francesco,Corticelli,Francesco Corticelli,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,170KG,190KG,,,14
+14,Michael,Tisselli,Michael Tisselli,Male,Italy,Iron Paradise,https://athxgames.com/storage/profile-photos/s8jNg23vLTwC4uSMkYGa7Xi1JGm8UlPObFMmn3zO.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,85KG,165KG,190KG,,,14
+16,David,Rindone,David Rindone,Male,Italy,CrossFit Cervia,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,95KG,170KG,170KG,,,16
+17,Victor,De la Cruz,Victor De la Cruz,Male,Italy,,https://athxgames.com/storage/profile-photos/gESYBZDWdMivIzVRG8j55iDVKlyrwWy0UZzwV5so.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,180KG,170KG,,,17
+17,Marco,Teruzzi,Marco Teruzzi,Male,,,https://athxgames.com/storage/profile-photos/OlBm8NOfapuUX0dtbm4DhLnfTIDmprdyfDFkSNif.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,160KG,190KG,,,17
+17,Mattia,Guidi,Mattia Guidi,Male,Italy,,https://athxgames.com/storage/profile-photos/cqEbFGBerCy1IaeZEglAVe7zWZV4EO3bzd1dRDLE.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,160KG,190KG,,,17
+17,Michael,Brunialti,Michael Brunialti,Male,Italy,,https://athxgames.com/storage/profile-photos/DWz3C9aW6xpCmRX1SZNO8Z3HBOyL2CxC2DPuXZCU.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,85KG,165KG,180KG,,,17
+21,Federico,Valloncini,Federico Valloncini,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,85KG,160KG,180KG,,,21
+22,Davide,Renghi,Davide Renghi,Male,Italy,Egogym,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,75KG,155KG,185KG,,,22
+22,Stefano,De Dominicis,Stefano De Dominicis,Male,,,https://ui-avatars.com/api/?name=S+D+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,70KG,160KG,185KG,,,22
+24,Fabio,Maggiore,Fabio Maggiore,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,70KG,150KG,190KG,,,24
+25,Giulio,Marchetti,Giulio Marchetti,Male,Italy,Fit4all,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,75KG,150KG,170KG,,,25
+26,Samuele Carlo Ayrton,Abrami,Samuele Carlo Ayrton Abrami,Male,Italy,,https://ui-avatars.com/api/?name=S+C+A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,75KG,150KG,160KG,,,26
+27,Eugenio,Bianchi,Eugenio Bianchi,Male,,,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,65KG,138KG,180KG,,,27
+28,Riccardo,Fistolera,Riccardo Fistolera,Male,,,https://ui-avatars.com/api/?name=R+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,65KG,140KG,170KG,,,28
+29,Francesco,Monopoli,Francesco Monopoli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,67KG,145KG,160KG,,,29
+30,Giovanni,Benzon,Giovanni Benzon,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,65KG,130KG,145KG,,,30
+31,Guido,Pasanisi,Guido Pasanisi,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,63KG,120KG,150KG,,,31
+32,Andrea,Bertozzi,Andrea Bertozzi,Male,Italy,Crossfit Faenza,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,60KG,120KG,150KG,,,32
+32,Francesco,Bernabei,Francesco Bernabei,Male,,,https://ui-avatars.com/api/?name=F+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,60KG,115KG,155KG,,,32
+34,Simone,Lodi,Simone Lodi,Male,Italy,Skip Intro - Experience,https://athxgames.com/storage/profile-photos/zap3uqRIOBlk0AucS0o7tmZ5QZuSfmvr44ZwUNyx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,57KG,120KG,135KG,,,34
+35,Lorenzo Maria,De Benedictis,Lorenzo Maria De Benedictis,Male,,,https://ui-avatars.com/api/?name=L+M+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,80KG,110KG,120KG,,,35
+35,Luca,Colarusso,Luca Colarusso,Male,,,https://ui-avatars.com/api/?name=L+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,60KG,110KG,140KG,,,35
+37,Stefano,Grassi,Stefano Grassi,Male,,,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,63KG,101KG,133KG,,,37
+38,Federico,Canuti,Federico Canuti,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,60KG,100KG,120KG,,,38
+39,Massimiliano,Donghi,Massimiliano Donghi,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,58KG,90KG,130KG,,,39
+40,Sergio,Bertolazzi,Sergio Bertolazzi,Male,Italy,CSB Fight & CrossFit,https://athxgames.com/storage/profile-photos/y4wVrWcXoX0vCQBiempGXNpUZH6hkl14Oe2jn0iB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX Pro,Strength,,,,60KG,80KG,130KG,,,40
+1,Kevin,Beleshku,Kevin Beleshku,Male,Italy,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,8 (434KG),5 (5.109KM),6 (11:07),,,,,,19
+2,Michele,Artuso,Michele Artuso,Male,Italy,Sauze well&fit,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,22 (390KG),1 (5.371KM),3 (10:46),,,,,,26
+3,Ciro,Formisano,Ciro Formisano,Male,Italy,Ndo Sevenhead,https://athxgames.com/storage/profile-photos/YEDNbOHiyu8EJtXZPL6GTo65TEC8tXBJXif9QfyT.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,18 (398KG),18 (4.816KM),2 (10:42),,,,,,38
+4,Matteo,Bettini,Matteo Bettini,Male,,,https://athxgames.com/storage/profile-photos/TxvG1ecpMBbjPktY5lN9TFhgCtDSpN19Ibh99nbK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,37 (366KG),2 (5.265KM),5 (10:50),,,,,,44
+5,Daniele,Bellino,Daniele Bellino,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,16 (405KG),22 (4.804KM),13 (11:46),,,,,,51
+5,Jon,Rossi,Jon Rossi,Male,Switzerland,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,6 (435KG),26 (4.782KM),19 (12:08),,,,,,51
+7,Andrea,Viviani,Andrea Viviani,Male,,,https://ui-avatars.com/api/?name=A+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,32 (370KG),4 (5.11KM),18 (12:05),,,,,,54
+8,Giovanni,Fois,Giovanni Fois,Male,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,1 (490KG),40 (4.669KM),19 (12:08),,,,,,60
+9,Giovanni,Braghieri,Giovanni Braghieri,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,3 (458KG),30 (4.762KM),31 (12:33),,,,,,64
+10,Andrea,Rossi,Andrea Rossi,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,58 (350KG),7 (5.076KM),1 (10:28),,,,,,66
+11,Luca,Garibaldi,Luca Garibaldi,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,21 (393KG),39 (4.67KM),8 (11:12),,,,,,68
+11,James,Porter,James Porter,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,28 (375KG),24 (4.792KM),16 (11:57),,,,,,68
+13,Nabil,Taleb,Nabil Taleb,Male,,,https://ui-avatars.com/api/?name=N+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,60 (348KG),8 (5.027KM),4 (10:49),,,,,,72
+14,Salvatore,Caligiuri,Salvatore Caligiuri,Male,Italy,Wolf Gym,https://athxgames.com/storage/profile-photos/cxfVucgyzmDJ2ZT1yaNS79CfjWKFRBb8e55T6SnN.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,66 (340KG),9 (4.992KM),7 (11:10),,,,,,82
+15,William,Agostini,William Agostini,Male,,,https://ui-avatars.com/api/?name=W+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,66 (340KG),12 (4.868KM),9 (11:15),,,,,,87
+16,Giuseppe,Palermo,Giuseppe Palermo,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,49 (355KG),20 (4.811KM),23 (12:14),,,,,,92
+17,Luca,Demi,Luca Demi,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,31 (372KG),33 (4.719KM),29 (12:28),,,,,,93
+18,Alessio,Vitangeli,Alessio Vitangeli,Male,Italy,T2 Fitness Lab,https://athxgames.com/storage/profile-photos/T9mK7WMS60y67fsRMooieGdqRXfEEQpxVWJPAtIA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,22 (390KG),60 (4.536KM),15 (11:51),,,,,,97
+19,Andrea,Cavaliero,Andrea Cavaliero,Male,Italy,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,64 (344KG),10 (4.918KM),24 (12:16),,,,,,98
+20,Luca,Borio,Luca Borio,Male,Italy,ONE FOR ALL ASD,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,4 (451KG),59 (4.537KM),36 (12:42),,,,,,99
+21,Ed,Tyler,Ed Tyler,Male,United Kingdom,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,1 (490KG),45 (4.604KM),55 (13:44),,,,,,101
+22,Matteo,Calamari,Matteo Calamari,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,28 (375KG),42 (4.656KM),34 (12:37),,,,,,104
+23,Jonathan,De Caria,Jonathan De Caria,Male,Italy,Crossfit Sempione,https://athxgames.com/storage/profile-photos/tX4Nujom6xreSXoChaBBtj8j16nC4YHFsKRBZ9RK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,25 (386KG),54 (4.569KM),26 (12:23),,,,,,105
+24,Matteo,Landini,Matteo Landini,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,15 (407KG),61 (4.534KM),31 (12:33),,,,,,107
+25,Antonio,Di Verniere,Antonio Di Verniere,Male,Italy,Crossfit Iris,https://athxgames.com/storage/profile-photos/c7TncQol0DmwptfzUAgOH0wRIhnhE9dgxe4YsTJB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,58 (350KG),11 (4.911KM),41 (13:01),,,,,,110
+26,Lionel,Sicre,Lionel Sicre,Male,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,26 (383KG),62 (4.532KM),25 (12:22),,,,,,113
+27,Mario,Mennitto,Mario Mennitto,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,13 (410KG),66 (4.52KM),37 (12:44),,,,,,116
+28,Nicola,Massi,Nicola Massi,Male,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,6 (435KG),72 (4.514KM),40 (13:00),,,,,,118
+29,Michele,Mattiolo,Michele Mattiolo,Male,Italy,CrossFit Lonigo,https://athxgames.com/storage/profile-photos/zbBFry3seqsvdPBBSNmzylW4GQQEPDoP00YX7yoB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,72 (332KG),32 (4.722KM),17 (11:59),,,,,,121
+30,davide,aldrigo,davide aldrigo,Male,,,https://athxgames.com/storage/profile-photos/h1UZJKhSkgCMkNpfBnAGPpxIY3wpkJaBEnS45cO7.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,40 (365KG),21 (4.807KM),63 (13:59),,,,,,124
+31,Mattia,Prioli,Mattia Prioli,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,108 (303KG),6 (5.096KM),11 (11:29),,,,,,125
+32,Andrea,Di Martino,Andrea Di Martino,Male,Italy,Draco,https://athxgames.com/storage/profile-photos/KZAmnbcIN9QIDjNWp9MrqwYmkBPRkAglxxGJjJPx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,28 (375KG),52 (4.575KM),50 (13:22),,,,,,130
+33,Enrico,Pasi,Enrico Pasi,Male,Italy,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,37 (366KG),49 (4.586KM),48 (13:20),,,,,,134
+34,Samuele,Luciano,Samuele Luciano,Male,Italy,Steelgrip,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,79 (325KG),36 (4.71KM),21 (12:11),,,,,,136
+34,Lorenzo,Passari,Lorenzo Passari,Male,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,49 (355KG),46 (4.596KM),41 (13:01),,,,,,136
+36,Flavio,Marchitelli,Flavio Marchitelli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,79 (325KG),13 (4.851KM),45 (13:07),,,,,,137
+37,Mattia,De Gaspari,Mattia De Gaspari,Male,,,https://ui-avatars.com/api/?name=M+D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,102 (310KG),23 (4.798KM),14 (11:50),,,,,,139
+38,Lloyd,Kuizon,Lloyd Kuizon,Male,Philippines,Barbell Performance GmbH,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,17 (399KG),83 (4.506KM),44 (13:02),,,,,,144
+39,Joris,Theron,Joris Theron,Male,,,https://athxgames.com/storage/profile-photos/V3i7y0tolVDJkZUbMrwX2eZqIhOQqv7o7R1jUD19.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,37 (366KG),48 (4.59KM),61 (13:54),,,,,,146
+40,Konstantin,Duve,Konstantin Duve,Male,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,93 (318KG),44 (4.622KM),10 (11:16),,,,,,147
+41,Andrea,Albanese,Andrea Albanese,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,49 (355KG),31 (4.742KM),70 (14:19),,,,,,150
+41,Francesco,Perolari,Francesco Perolari,Male,,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,126 (275KG),3 (5.262KM),21 (12:11),,,,,,150
+43,Daniele,Ravera,Daniele Ravera,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,57 (351KG),56 (4.551KM),41 (13:01),,,,,,154
+44,Mattia,Scagliola,Mattia Scagliola,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,43 (362KG),65 (4.521KM),47 (13:12),,,,,,155
+45,Italo,Trentonzi,Italo Trentonzi,Male,,,https://ui-avatars.com/api/?name=I+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,12 (411KG),116 (4.194KM),29 (12:28),,,,,,157
+46,stephen,brown,stephen brown,Male,,,https://ui-avatars.com/api/?name=s+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,49 (355KG),72 (4.514KM),37 (12:44),,,,,,158
+47,Giulio,Biondini,Giulio Biondini,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,79 (325KG),69 (4.519KM),12 (11:31),,,,,,160
+48,Laurent,Hoeltgen,Laurent Hoeltgen,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,75 (328KG),35 (4.715KM),51 (13:33),,,,,,161
+49,Andrea,Balocchi,Andrea Balocchi,Male,Italy,H2B Training,https://athxgames.com/storage/profile-photos/jV5HTDv7ZRPBOWUMaObvhRhffCBx5e0dF2QMSU9I.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,9 (430KG),87 (4.48KM),67 (14:12),,,,,,163
+50,Thomas,Oneill,Thomas Oneill,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,75 (328KG),43 (4.648KM),49 (13:21),,,,,,167
+51,Giovanni,Cortile,Giovanni Cortile,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,62 (345KG),47 (4.592KM),59 (13:47),,,,,,168
+52,Sylvain,PETIT,Sylvain PETIT,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,77 (327KG),15 (4.832KM),77 (14:33),,,,,,169
+53,Alex,Comisso,Alex Comisso,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,10 (425KG),93 (4.434KM),71 (14:23),,,,,,174
+54,Mauro,Casellini,Mauro Casellini,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,48 (359KG),95 (4.417KM),34 (12:37),,,,,,177
+55,Manuel,Munulli,Manuel Munulli,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,89 (320KG),16 (4.824KM),75 (14:27),,,,,,180
+56,Richard,Thomas,Richard Thomas,Male,,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,89 (320KG),66 (4.52KM),26 (12:23),,,,,,181
+57,Matthew,Dunne,Matthew Dunne,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,82 (324KG),14 (4.844KM),86 (14:59),,,,,,182
+57,Luca,Manzoni,Luca Manzoni,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,19 (395KG),16 (4.824KM),147 (26:02),,,,,,182
+59,Lorenzo,Quintieri,Lorenzo Quintieri,Male,,,https://ui-avatars.com/api/?name=L+Q&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,27 (377KG),112 (4.247KM),46 (13:10),,,,,,185
+59,Germain,Caillaud,Germain Caillaud,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,54 (354KG),53 (4.571KM),78 (14:39),,,,,,185
+61,Carlo,Brighenti,Carlo Brighenti,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,84 (323KG),34 (4.717KM),69 (14:17),,,,,,187
+62,Mark,Puntus,Mark Puntus,Male,Italy,Spartan Valtidone,https://athxgames.com/storage/profile-photos/lVOroegA3OOli4QV7AbZTg7H15DHNHCcPTAjJnLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,36 (369KG),75 (4.513KM),83 (14:50),,,,,,194
+63,Guglielmo,Giambelli,Guglielmo Giambelli,Male,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,41 (363KG),83 (4.506KM),72 (14:26),,,,,,196
+64,Tommaso,Zaltron,Tommaso Zaltron,Male,Italy,,https://ui-avatars.com/api/?name=T+Z&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,69 (337KG),76 (4.512KM),55 (13:44),,,,,,200
+65,Marco,Carrer,Marco Carrer,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,88 (321KG),85 (4.499KM),28 (12:24),,,,,,201
+65,Claudio,Dössegger,Claudio Dössegger,Male,,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,85 (322KG),54 (4.569KM),62 (13:57),,,,,,201
+67,Filippo,Cola,Filippo Cola,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,56 (352KG),78 (4.511KM),68 (14:14),,,,,,202
+68,Nicholas,Fregni,Nicholas Fregni,Male,,,https://ui-avatars.com/api/?name=N+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,45 (360KG),107 (4.326KM),53 (13:38),,,,,,205
+69,thibault,Albergucci,thibault Albergucci,Male,,,https://ui-avatars.com/api/?name=t+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,89 (320KG),66 (4.52KM),52 (13:34),,,,,,207
+69,Roberto,Malagoli,Roberto Malagoli,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,96 (315KG),78 (4.511KM),33 (12:35),,,,,,207
+71,Tihomir,Sadibašić,Tihomir Sadibašić,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,111 (300KG),58 (4.539KM),39 (12:51),,,,,,208
+72,Filippo,Molteni,Filippo Molteni,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,126 (275KG),25 (4.785KM),58 (13:45),,,,,,209
+73,Daniele,Paparella,Daniele Paparella,Male,Italy,,https://ui-avatars.com/api/?name=D+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,45 (360KG),94 (4.43KM),72 (14:26),,,,,,211
+74,CHRISTOS,chris.kampou@gmail.com,CHRISTOS chris.kampou@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,140 (246KG),19 (4.813KM),55 (13:44),,,,,,214
+75,Dik,Katorri,Dik Katorri,Male,Albania,Madame SiSi Sport Club,https://athxgames.com/storage/profile-photos/1DecFUNEdAxIWQJ8vfpWWZBaUxDdqWgkIAuzohkt.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,62 (345KG),57 (4.541KM),97 (16:10),,,,,,216
+76,Walter,Sugliano,Walter Sugliano,Male,,,https://ui-avatars.com/api/?name=W+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,119 (284KG),28 (4.77KM),72 (14:26),,,,,,219
+77,Eddy,Beggiato,Eddy Beggiato,Male,Italy,Begg,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,70 (335KG),71 (4.516KM),79 (14:43),,,,,,220
+78,Robert,Minter,Robert Minter,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,41 (363KG),70 (4.517KM),115 (18:03),,,,,,226
+79,Andrea,Ciucci,Andrea Ciucci,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,108 (303KG),29 (4.766KM),90 (15:18),,,,,,227
+79,Fernando,Vogt,Fernando Vogt,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,82 (324KG),50 (4.584KM),95 (15:48),,,,,,227
+81,Andrea,Borrello,Andrea Borrello,Male,,SPORT ACADEMY KKT,https://athxgames.com/storage/profile-photos/hpqtRZPP2XEv5UWpmMLf2hNw3kJdeMB6jQn3H3qA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,5 (437KG),130 (3.851KM),93 (15:28),,,,,,228
+82,Luigi,Faraone,Luigi Faraone,Male,Italy,BOX 42048 RUBIERA,https://ui-avatars.com/api/?name=L+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,10 (425KG),131 (3.801KM),88 (15:16),,,,,,229
+82,Paolo,Cagliani,Paolo Cagliani,Male,Italy,,https://ui-avatars.com/api/?name=P+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,68 (338KG),81 (4.51KM),80 (14:47),,,,,,229
+84,João,Morgadinho,João Morgadinho,Male,Portugal,Évora wod box,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,85 (322KG),63 (4.531KM),82 (14:49),,,,,,230
+85,Federico,Caloni,Federico Caloni,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,43 (362KG),122 (4.082KM),66 (14:04),,,,,,231
+86,Davide,Galeotti,Davide Galeotti,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,116 (290KG),27 (4.771KM),89 (15:17),,,,,,232
+87,Alex,Biolzi,Alex Biolzi,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,32 (370KG),105 (4.338KM),96 (15:53),,,,,,233
+88,Federico,Sambati,Federico Sambati,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,117 (285KG),37 (4.692KM),84 (14:51),,,,,,238
+89,Flavio,Longo,Flavio Longo,Male,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,49 (355KG),101 (4.373KM),91 (15:19),,,,,,241
+90,Paolo,Di Battista,Paolo Di Battista,Male,,,https://ui-avatars.com/api/?name=P+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,60 (348KG),102 (4.37KM),81 (14:48),,,,,,243
+91,Salvatore,Fiengo,Salvatore Fiengo,Male,Italy,Sasá,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,72 (332KG),118 (4.154KM),54 (13:42),,,,,,244
+91,Luca,Lotito,Luca Lotito,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,19 (395KG),127 (3.974KM),98 (16:11),,,,,,244
+93,Alessandro,Musacchia,Alessandro Musacchia,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,102 (310KG),82 (4.507KM),64 (14:00),,,,,,248
+94,Luca,Molinari,Luca Molinari,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,45 (360KG),99 (4.399KM),105 (16:54),,,,,,249
+95,António,Machado,António Machado,Male,Portugal,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,71 (333KG),89 (4.469KM),92 (15:23),,,,,,252
+96,Giuseppe,Fochi,Giuseppe Fochi,Male,Italy,,https://athxgames.com/storage/profile-photos/1s42jDEiuxLHdAZhGWDeVzscWwVghKjaYqN7Im3E.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,22 (390KG),119 (4.128KM),114 (18:02),,,,,,255
+97,Manuel,Fadda,Manuel Fadda,Male,,,https://ui-avatars.com/api/?name=M+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,122 (280KG),38 (4.688KM),104 (16:42),,,,,,264
+98,Marco,Regli,Marco Regli,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,134 (260KG),51 (4.577KM),85 (14:53),,,,,,270
+99,Gianfranco,Lupo,Gianfranco Lupo,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,14 (408KG),133 (3.766KM),130 (19:25),,,,,,277
+100,Stefano,Goldaniga,Stefano Goldaniga,Male,Italy,Tritium Training Center,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,114 (295KG),104 (4.363KM),60 (13:51),,,,,,278
+101,Andrea,Lodi,Andrea Lodi,Male,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,128 (270KG),41 (4.668KM),113 (18:00),,,,,,282
+102,Stefano,Donzelli,Stefano Donzelli,Male,,,https://ui-avatars.com/api/?name=S+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,121 (281KG),88 (4.474KM),76 (14:30),,,,,,285
+103,Matteo,Valiani,Matteo Valiani,Male,,,https://ui-avatars.com/api/?name=M+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,96 (315KG),92 (4.465KM),103 (16:41),,,,,,291
+104,Saverio,Ricciuti,Saverio Ricciuti,Male,Italy,GYM functional training studio,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,133 (261KG),97 (4.408KM),64 (14:00),,,,,,294
+104,antonio,bancora,antonio bancora,Male,,,https://ui-avatars.com/api/?name=a+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,104 (309KG),89 (4.469KM),101 (16:22),,,,,,294
+106,Giulio,Capelli,Giulio Capelli,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,54 (354KG),126 (4.041KM),116 (18:09),,,,,,296
+107,Fulvio,Saviori,Fulvio Saviori,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,65 (342KG),108 (4.309KM),124 (18:56),,,,,,297
+108,Svetozar,Kujic,Svetozar Kujic,Male,,,https://athxgames.com/storage/profile-photos/k9QARQDBMMVTglMLVQXOJPh8n3b8RGgpR96iA5SC.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,78 (326KG),132 (3.767KM),94 (15:33),,,,,,304
+109,Simone,Buonanno,Simone Buonanno,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,93 (318KG),106 (4.332KM),106 (16:55),,,,,,305
+110,Luca,Olivares,Luca Olivares,Male,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,32 (370KG),138 (3.629KM),138 (21:20),,,,,,308
+111,Alessio,Galletti,Alessio Galletti,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,110 (301KG),100 (4.378KM),99 (16:19),,,,,,309
+112,Enrico,Catalano,Enrico Catalano,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,105 (308KG),120 (4.108KM),87 (15:01),,,,,,312
+113,Massimo,Marinaccio,Massimo Marinaccio,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,122 (280KG),98 (4.403KM),99 (16:19),,,,,,319
+114,MASSIMILIANO,GATTUSO,MASSIMILIANO GATTUSO,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,32 (370KG),146 (3.019KM),145 (25:16),,,,,,323
+115,Simone Ettore,Nera,Simone Ettore Nera,Male,,,https://athxgames.com/storage/profile-photos/T89PL7GSNTPAubpJuSsbNZ3zASY08RtO6mSd0MMB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,111 (300KG),111 (4.277KM),102 (16:40),,,,,,324
+115,Aaron,Dieguez,Aaron Dieguez,Male,United States,LA Fitness,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,119 (284KG),76 (4.512KM),129 (19:21),,,,,,324
+117,Daniele,Gamarro,Daniele Gamarro,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,114 (295KG),78 (4.511KM),137 (21:04),,,,,,329
+118,Matteo,Avelli,Matteo Avelli,Male,Italy,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,89 (320KG),110 (4.28KM),131 (19:26),,,,,,330
+119,Leonardo,Marozzi,Leonardo Marozzi,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,138 (250KG),72 (4.514KM),122 (18:43),,,,,,332
+120,Yevgeniy,Bidusenko,Yevgeniy Bidusenko,Male,France,,https://ui-avatars.com/api/?name=Y+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,130 (265KG),86 (4.492KM),117 (18:20),,,,,,333
+121,andrea,spampinato,andrea spampinato,Male,,Spampi,https://ui-avatars.com/api/?name=a+s&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,72 (332KG),140 (3.622KM),125 (19:03),,,,,,337
+122,Errico,Cauli,Errico Cauli,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,137 (253KG),96 (4.414KM),106 (16:55),,,,,,339
+123,Giampietro,Meloni,Giampietro Meloni,Male,Italy,Crossfit Biel-Bienne,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,117 (285KG),115 (4.22KM),110 (17:13),,,,,,342
+123,Stefano,Bertazzo,Stefano Bertazzo,Male,Italy,Lago Maggiore LAB,https://athxgames.com/storage/profile-photos/VJy6y6Tfd7LL4xOGS1sk1DBQibTEXXQ9cBhgG5tj.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,122 (280KG),109 (4.302KM),111 (17:30),,,,,,342
+125,Marco,Ruocco,Marco Ruocco,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,100 (311KG),125 (4.053KM),120 (18:36),,,,,,345
+126,Silvio,Barbieri,Silvio Barbieri,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,139 (248KG),91 (4.467KM),118 (18:26),,,,,,348
+127,Piergiorgio,Romeo,Piergiorgio Romeo,Male,,,https://ui-avatars.com/api/?name=P+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,143 (235KG),64 (4.528KM),144 (24:40),,,,,,351
+128,Giorgio,De Faveri,Giorgio De Faveri,Male,,,https://ui-avatars.com/api/?name=G+D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,113 (297KG),113 (4.235KM),126 (19:04),,,,,,352
+128,Manuele,Tolfa,Manuele Tolfa,Male,Italy,7Kings Crossfit,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,99 (313KG),121 (4.097KM),132 (20:00),,,,,,352
+130,FABRIZIO,PORCELLINI,FABRIZIO PORCELLINI,Male,Italy,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,141 (243KG),103 (4.365KM),109 (17:06),,,,,,353
+131,Stefano,Vigneri,Stefano Vigneri,Male,Italy,CrossFit Officine,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,85 (322KG),134 (3.762KM),135 (20:59),,,,,,354
+132,Michael,Haid,Michael Haid,Male,Germany,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,106 (307KG),141 (3.563KM),108 (17:05),,,,,,355
+133,Fabian,Cuenca,Fabian Cuenca,Male,Spain,Stygia,https://athxgames.com/storage/profile-photos/Q6UZrjqsz57jgWU4nlx9bRSOtsgBXzLz87r8tAV8.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,132 (263KG),114 (4.225KM),119 (18:31),,,,,,365
+134,Stefano,Bastelli,Stefano Bastelli,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,107 (305KG),135 (3.74KM),127 (19:09),,,,,,369
+135,Emanuele,Piscedda,Emanuele Piscedda,Male,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,93 (318KG),137 (3.644KM),140 (21:45),,,,,,370
+136,Alex,Haberberger,Alex Haberberger,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,122 (280KG),129 (3.921KM),121 (18:37),,,,,,372
+137,Davide,Fiammarelli,Davide Fiammarelli,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,128 (270KG),128 (3.936KM),123 (18:51),,,,,,379
+138,Luca Alessio,Dubi,Luca Alessio Dubi,Male,,,https://ui-avatars.com/api/?name=L+A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,96 (315KG),142 (3.514KM),142 (23:00),,,,,,380
+139,Antonio,Monesi,Antonio Monesi,Male,Italy,Mad Obstacle Gym,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,100 (311KG),143 (3.477KM),139 (21:42),,,,,,382
+140,Marco,Ponzo,Marco Ponzo,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,130 (265KG),124 (4.059KM),133 (20:55),,,,,,387
+141,Davide,Biancuzzi,Davide Biancuzzi,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,142 (238KG),117 (4.193KM),136 (21:03),,,,,,395
+141,Vincenzo Marco,Palmieri,Vincenzo Marco Palmieri,Male,Italy,,https://ui-avatars.com/api/?name=V+M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,144 (226KG),123 (4.076KM),128 (19:12),,,,,,395
+143,Luca,Reppele,Luca Reppele,Male,Italy,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,135 (256KG),136 (3.658KM),146 (26:00),,,,,,417
+144,Spencer,Bailet,Spencer Bailet,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,145 (225KG),139 (3.624KM),141 (22:42),,,,,,425
+145,Juan,Sobas,Juan Sobas,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,136 (255KG),144 (3.367KM),148 (26:50),,,,,,428
+146,Diego Giovanni Tommaso,Bevilacqua,Diego Giovanni Tommaso Bevilacqua,Male,,,https://ui-avatars.com/api/?name=D+G+T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Overall,146 (220KG),145 (3.356KM),143 (23:52),,,,,,434
+1,Andrea,Rossi,Andrea Rossi,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,10:28,,,,,,1
+2,Ciro,Formisano,Ciro Formisano,Male,Italy,Ndo Sevenhead,https://athxgames.com/storage/profile-photos/YEDNbOHiyu8EJtXZPL6GTo65TEC8tXBJXif9QfyT.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,10:42,,,,,,2
+3,Michele,Artuso,Michele Artuso,Male,Italy,Sauze well&fit,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,10:46,,,,,,3
+4,Nabil,Taleb,Nabil Taleb,Male,,,https://ui-avatars.com/api/?name=N+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,10:49,,,,,,4
+5,Matteo,Bettini,Matteo Bettini,Male,,,https://athxgames.com/storage/profile-photos/TxvG1ecpMBbjPktY5lN9TFhgCtDSpN19Ibh99nbK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,10:50,,,,,,5
+6,Kevin,Beleshku,Kevin Beleshku,Male,Italy,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:07,,,,,,6
+7,Salvatore,Caligiuri,Salvatore Caligiuri,Male,Italy,Wolf Gym,https://athxgames.com/storage/profile-photos/cxfVucgyzmDJ2ZT1yaNS79CfjWKFRBb8e55T6SnN.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:10,,,,,,7
+8,Luca,Garibaldi,Luca Garibaldi,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:12,,,,,,8
+9,William,Agostini,William Agostini,Male,,,https://ui-avatars.com/api/?name=W+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:15,,,,,,9
+10,Konstantin,Duve,Konstantin Duve,Male,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:16,,,,,,10
+11,Mattia,Prioli,Mattia Prioli,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:29,,,,,,11
+12,Giulio,Biondini,Giulio Biondini,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:31,,,,,,12
+13,Daniele,Bellino,Daniele Bellino,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:46,,,,,,13
+14,Mattia,De Gaspari,Mattia De Gaspari,Male,,,https://ui-avatars.com/api/?name=M+D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:50,,,,,,14
+15,Alessio,Vitangeli,Alessio Vitangeli,Male,Italy,T2 Fitness Lab,https://athxgames.com/storage/profile-photos/T9mK7WMS60y67fsRMooieGdqRXfEEQpxVWJPAtIA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:51,,,,,,15
+16,James,Porter,James Porter,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:57,,,,,,16
+17,Michele,Mattiolo,Michele Mattiolo,Male,Italy,CrossFit Lonigo,https://athxgames.com/storage/profile-photos/zbBFry3seqsvdPBBSNmzylW4GQQEPDoP00YX7yoB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,11:59,,,,,,17
+18,Andrea,Viviani,Andrea Viviani,Male,,,https://ui-avatars.com/api/?name=A+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:05,,,,,,18
+19,Giovanni,Fois,Giovanni Fois,Male,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:08,,,,,,19
+19,Jon,Rossi,Jon Rossi,Male,Switzerland,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:08,,,,,,19
+21,Samuele,Luciano,Samuele Luciano,Male,Italy,Steelgrip,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:11,,,,,,21
+21,Francesco,Perolari,Francesco Perolari,Male,,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:11,,,,,,21
+23,Giuseppe,Palermo,Giuseppe Palermo,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:14,,,,,,23
+24,Andrea,Cavaliero,Andrea Cavaliero,Male,Italy,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:16,,,,,,24
+25,Lionel,Sicre,Lionel Sicre,Male,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:22,,,,,,25
+26,Richard,Thomas,Richard Thomas,Male,,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:23,,,,,,26
+26,Jonathan,De Caria,Jonathan De Caria,Male,Italy,Crossfit Sempione,https://athxgames.com/storage/profile-photos/tX4Nujom6xreSXoChaBBtj8j16nC4YHFsKRBZ9RK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:23,,,,,,26
+28,Marco,Carrer,Marco Carrer,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:24,,,,,,28
+29,Italo,Trentonzi,Italo Trentonzi,Male,,,https://ui-avatars.com/api/?name=I+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:28,,,,,,29
+29,Luca,Demi,Luca Demi,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:28,,,,,,29
+31,Matteo,Landini,Matteo Landini,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:33,,,,,,31
+31,Giovanni,Braghieri,Giovanni Braghieri,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:33,,,,,,31
+33,Roberto,Malagoli,Roberto Malagoli,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:35,,,,,,33
+34,Matteo,Calamari,Matteo Calamari,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:37,,,,,,34
+34,Mauro,Casellini,Mauro Casellini,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:37,,,,,,34
+36,Luca,Borio,Luca Borio,Male,Italy,ONE FOR ALL ASD,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:42,,,,,,36
+37,stephen,brown,stephen brown,Male,,,https://ui-avatars.com/api/?name=s+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:44,,,,,,37
+37,Mario,Mennitto,Mario Mennitto,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:44,,,,,,37
+39,Tihomir,Sadibašić,Tihomir Sadibašić,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,12:51,,,,,,39
+40,Nicola,Massi,Nicola Massi,Male,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:00,,,,,,40
+41,Antonio,Di Verniere,Antonio Di Verniere,Male,Italy,Crossfit Iris,https://athxgames.com/storage/profile-photos/c7TncQol0DmwptfzUAgOH0wRIhnhE9dgxe4YsTJB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:01,,,,,,41
+41,Daniele,Ravera,Daniele Ravera,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:01,,,,,,41
+41,Lorenzo,Passari,Lorenzo Passari,Male,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:01,,,,,,41
+44,Lloyd,Kuizon,Lloyd Kuizon,Male,Philippines,Barbell Performance GmbH,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:02,,,,,,44
+45,Flavio,Marchitelli,Flavio Marchitelli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:07,,,,,,45
+46,Lorenzo,Quintieri,Lorenzo Quintieri,Male,,,https://ui-avatars.com/api/?name=L+Q&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:10,,,,,,46
+47,Mattia,Scagliola,Mattia Scagliola,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:12,,,,,,47
+48,Enrico,Pasi,Enrico Pasi,Male,Italy,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:20,,,,,,48
+49,Thomas,Oneill,Thomas Oneill,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:21,,,,,,49
+50,Andrea,Di Martino,Andrea Di Martino,Male,Italy,Draco,https://athxgames.com/storage/profile-photos/KZAmnbcIN9QIDjNWp9MrqwYmkBPRkAglxxGJjJPx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:22,,,,,,50
+51,Laurent,Hoeltgen,Laurent Hoeltgen,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:33,,,,,,51
+52,thibault,Albergucci,thibault Albergucci,Male,,,https://ui-avatars.com/api/?name=t+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:34,,,,,,52
+53,Nicholas,Fregni,Nicholas Fregni,Male,,,https://ui-avatars.com/api/?name=N+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:38,,,,,,53
+54,Salvatore,Fiengo,Salvatore Fiengo,Male,Italy,Sasá,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:42,,,,,,54
+55,CHRISTOS,chris.kampou@gmail.com,CHRISTOS chris.kampou@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:44,,,,,,55
+55,Ed,Tyler,Ed Tyler,Male,United Kingdom,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:44,,,,,,55
+55,Tommaso,Zaltron,Tommaso Zaltron,Male,Italy,,https://ui-avatars.com/api/?name=T+Z&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:44,,,,,,55
+58,Filippo,Molteni,Filippo Molteni,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:45,,,,,,58
+59,Giovanni,Cortile,Giovanni Cortile,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:47,,,,,,59
+60,Stefano,Goldaniga,Stefano Goldaniga,Male,Italy,Tritium Training Center,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:51,,,,,,60
+61,Joris,Theron,Joris Theron,Male,,,https://athxgames.com/storage/profile-photos/V3i7y0tolVDJkZUbMrwX2eZqIhOQqv7o7R1jUD19.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:54,,,,,,61
+62,Claudio,Dössegger,Claudio Dössegger,Male,,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:57,,,,,,62
+63,davide,aldrigo,davide aldrigo,Male,,,https://athxgames.com/storage/profile-photos/h1UZJKhSkgCMkNpfBnAGPpxIY3wpkJaBEnS45cO7.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,13:59,,,,,,63
+64,Saverio,Ricciuti,Saverio Ricciuti,Male,Italy,GYM functional training studio,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:00,,,,,,64
+64,Alessandro,Musacchia,Alessandro Musacchia,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:00,,,,,,64
+66,Federico,Caloni,Federico Caloni,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:04,,,,,,66
+67,Andrea,Balocchi,Andrea Balocchi,Male,Italy,H2B Training,https://athxgames.com/storage/profile-photos/jV5HTDv7ZRPBOWUMaObvhRhffCBx5e0dF2QMSU9I.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:12,,,,,,67
+68,Filippo,Cola,Filippo Cola,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:14,,,,,,68
+69,Carlo,Brighenti,Carlo Brighenti,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:17,,,,,,69
+70,Andrea,Albanese,Andrea Albanese,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:19,,,,,,70
+71,Alex,Comisso,Alex Comisso,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:23,,,,,,71
+72,Guglielmo,Giambelli,Guglielmo Giambelli,Male,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:26,,,,,,72
+72,Daniele,Paparella,Daniele Paparella,Male,Italy,,https://ui-avatars.com/api/?name=D+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:26,,,,,,72
+72,Walter,Sugliano,Walter Sugliano,Male,,,https://ui-avatars.com/api/?name=W+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:26,,,,,,72
+75,Manuel,Munulli,Manuel Munulli,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:27,,,,,,75
+76,Stefano,Donzelli,Stefano Donzelli,Male,,,https://ui-avatars.com/api/?name=S+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:30,,,,,,76
+77,Sylvain,PETIT,Sylvain PETIT,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:33,,,,,,77
+78,Germain,Caillaud,Germain Caillaud,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:39,,,,,,78
+79,Eddy,Beggiato,Eddy Beggiato,Male,Italy,Begg,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:43,,,,,,79
+80,Paolo,Cagliani,Paolo Cagliani,Male,Italy,,https://ui-avatars.com/api/?name=P+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:47,,,,,,80
+81,Paolo,Di Battista,Paolo Di Battista,Male,,,https://ui-avatars.com/api/?name=P+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:48,,,,,,81
+82,João,Morgadinho,João Morgadinho,Male,Portugal,Évora wod box,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:49,,,,,,82
+83,Mark,Puntus,Mark Puntus,Male,Italy,Spartan Valtidone,https://athxgames.com/storage/profile-photos/lVOroegA3OOli4QV7AbZTg7H15DHNHCcPTAjJnLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:50,,,,,,83
+84,Federico,Sambati,Federico Sambati,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:51,,,,,,84
+85,Marco,Regli,Marco Regli,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:53,,,,,,85
+86,Matthew,Dunne,Matthew Dunne,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,14:59,,,,,,86
+87,Enrico,Catalano,Enrico Catalano,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:01,,,,,,87
+88,Luigi,Faraone,Luigi Faraone,Male,Italy,BOX 42048 RUBIERA,https://ui-avatars.com/api/?name=L+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:16,,,,,,88
+89,Davide,Galeotti,Davide Galeotti,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:17,,,,,,89
+90,Andrea,Ciucci,Andrea Ciucci,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:18,,,,,,90
+91,Flavio,Longo,Flavio Longo,Male,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:19,,,,,,91
+92,António,Machado,António Machado,Male,Portugal,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:23,,,,,,92
+93,Andrea,Borrello,Andrea Borrello,Male,,SPORT ACADEMY KKT,https://athxgames.com/storage/profile-photos/hpqtRZPP2XEv5UWpmMLf2hNw3kJdeMB6jQn3H3qA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:28,,,,,,93
+94,Svetozar,Kujic,Svetozar Kujic,Male,,,https://athxgames.com/storage/profile-photos/k9QARQDBMMVTglMLVQXOJPh8n3b8RGgpR96iA5SC.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:33,,,,,,94
+95,Fernando,Vogt,Fernando Vogt,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:48,,,,,,95
+96,Alex,Biolzi,Alex Biolzi,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:53,,,,,,96
+97,Dik,Katorri,Dik Katorri,Male,Albania,Madame SiSi Sport Club,https://athxgames.com/storage/profile-photos/1DecFUNEdAxIWQJ8vfpWWZBaUxDdqWgkIAuzohkt.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:10,,,,,,97
+98,Luca,Lotito,Luca Lotito,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:11,,,,,,98
+99,Alessio,Galletti,Alessio Galletti,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:19,,,,,,99
+99,Massimo,Marinaccio,Massimo Marinaccio,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:19,,,,,,99
+101,antonio,bancora,antonio bancora,Male,,,https://ui-avatars.com/api/?name=a+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:22,,,,,,101
+102,Simone Ettore,Nera,Simone Ettore Nera,Male,,,https://athxgames.com/storage/profile-photos/T89PL7GSNTPAubpJuSsbNZ3zASY08RtO6mSd0MMB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:40,,,,,,102
+103,Matteo,Valiani,Matteo Valiani,Male,,,https://ui-avatars.com/api/?name=M+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:41,,,,,,103
+104,Manuel,Fadda,Manuel Fadda,Male,,,https://ui-avatars.com/api/?name=M+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:42,,,,,,104
+105,Luca,Molinari,Luca Molinari,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:54,,,,,,105
+106,Errico,Cauli,Errico Cauli,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:55,,,,,,106
+106,Simone,Buonanno,Simone Buonanno,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,16:55,,,,,,106
+108,Michael,Haid,Michael Haid,Male,Germany,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:05,,,,,,108
+109,FABRIZIO,PORCELLINI,FABRIZIO PORCELLINI,Male,Italy,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:06,,,,,,109
+110,Giampietro,Meloni,Giampietro Meloni,Male,Italy,Crossfit Biel-Bienne,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:13,,,,,,110
+111,Stefano,Bertazzo,Stefano Bertazzo,Male,Italy,Lago Maggiore LAB,https://athxgames.com/storage/profile-photos/VJy6y6Tfd7LL4xOGS1sk1DBQibTEXXQ9cBhgG5tj.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:30,,,,,,111
+112,Marco,Valastro,Marco Valastro,Male,,,https://ui-avatars.com/api/?name=M+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:50,,,,,,112
+113,Andrea,Lodi,Andrea Lodi,Male,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:00,,,,,,113
+114,Giuseppe,Fochi,Giuseppe Fochi,Male,Italy,,https://athxgames.com/storage/profile-photos/1s42jDEiuxLHdAZhGWDeVzscWwVghKjaYqN7Im3E.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:02,,,,,,114
+115,Robert,Minter,Robert Minter,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:03,,,,,,115
+116,Giulio,Capelli,Giulio Capelli,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:09,,,,,,116
+117,Yevgeniy,Bidusenko,Yevgeniy Bidusenko,Male,France,,https://ui-avatars.com/api/?name=Y+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:20,,,,,,117
+118,Silvio,Barbieri,Silvio Barbieri,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:26,,,,,,118
+119,Fabian,Cuenca,Fabian Cuenca,Male,Spain,Stygia,https://athxgames.com/storage/profile-photos/Q6UZrjqsz57jgWU4nlx9bRSOtsgBXzLz87r8tAV8.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:31,,,,,,119
+120,Marco,Ruocco,Marco Ruocco,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:36,,,,,,120
+121,Alex,Haberberger,Alex Haberberger,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:37,,,,,,121
+122,Leonardo,Marozzi,Leonardo Marozzi,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:43,,,,,,122
+123,Davide,Fiammarelli,Davide Fiammarelli,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:51,,,,,,123
+124,Fulvio,Saviori,Fulvio Saviori,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,18:56,,,,,,124
+125,andrea,spampinato,andrea spampinato,Male,,Spampi,https://ui-avatars.com/api/?name=a+s&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:03,,,,,,125
+126,Giorgio,De Faveri,Giorgio De Faveri,Male,,,https://ui-avatars.com/api/?name=G+D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:04,,,,,,126
+127,Stefano,Bastelli,Stefano Bastelli,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:09,,,,,,127
+128,Vincenzo Marco,Palmieri,Vincenzo Marco Palmieri,Male,Italy,,https://ui-avatars.com/api/?name=V+M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:12,,,,,,128
+129,Aaron,Dieguez,Aaron Dieguez,Male,United States,LA Fitness,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:21,,,,,,129
+130,Gianfranco,Lupo,Gianfranco Lupo,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:25,,,,,,130
+131,Matteo,Avelli,Matteo Avelli,Male,Italy,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,19:26,,,,,,131
+132,Manuele,Tolfa,Manuele Tolfa,Male,Italy,7Kings Crossfit,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:00,,,,,,132
+133,Marco,Ponzo,Marco Ponzo,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:55,,,,,,133
+134,Riccardo,Mattu,Riccardo Mattu,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:58,,,,,,134
+135,Stefano,Vigneri,Stefano Vigneri,Male,Italy,CrossFit Officine,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,20:59,,,,,,135
+136,Davide,Biancuzzi,Davide Biancuzzi,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:03,,,,,,136
+137,Daniele,Gamarro,Daniele Gamarro,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:04,,,,,,137
+138,Luca,Olivares,Luca Olivares,Male,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:20,,,,,,138
+139,Antonio,Monesi,Antonio Monesi,Male,Italy,Mad Obstacle Gym,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:42,,,,,,139
+140,Emanuele,Piscedda,Emanuele Piscedda,Male,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,21:45,,,,,,140
+141,Spencer,Bailet,Spencer Bailet,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,22:42,,,,,,141
+142,Luca Alessio,Dubi,Luca Alessio Dubi,Male,,,https://ui-avatars.com/api/?name=L+A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,23:00,,,,,,142
+143,Diego Giovanni Tommaso,Bevilacqua,Diego Giovanni Tommaso Bevilacqua,Male,,,https://ui-avatars.com/api/?name=D+G+T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,23:52,,,,,,143
+144,Piergiorgio,Romeo,Piergiorgio Romeo,Male,,,https://ui-avatars.com/api/?name=P+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,24:40,,,,,,144
+145,MASSIMILIANO,GATTUSO,MASSIMILIANO GATTUSO,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,25:16,,,,,,145
+146,Luca,Reppele,Luca Reppele,Male,Italy,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,26:00,,,,,,146
+147,Luca,Manzoni,Luca Manzoni,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,26:02,,,,,,147
+148,Juan,Sobas,Juan Sobas,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,26:50,,,,,,148
+149,Matteo,Baratti,Matteo Baratti,Male,,,https://athxgames.com/storage/profile-photos/BPbYbx3UnqQWwnVNGtxw4XzZIprzFP4Y0FQR6x2t.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,29:00,,,,,,149
+1,Michele,Artuso,Michele Artuso,Male,Italy,Sauze well&fit,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3KM,2.371KM,1
+2,Matteo,Bettini,Matteo Bettini,Male,,,https://athxgames.com/storage/profile-photos/TxvG1ecpMBbjPktY5lN9TFhgCtDSpN19Ibh99nbK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3KM,2.265KM,2
+3,Francesco,Perolari,Francesco Perolari,Male,,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3KM,2.262KM,3
+4,Andrea,Viviani,Andrea Viviani,Male,,,https://ui-avatars.com/api/?name=A+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.845KM,2.265KM,4
+5,Kevin,Beleshku,Kevin Beleshku,Male,Italy,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.848KM,2.261KM,5
+6,Mattia,Prioli,Mattia Prioli,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.833KM,2.263KM,6
+7,Andrea,Rossi,Andrea Rossi,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.82KM,2.256KM,7
+8,Nabil,Taleb,Nabil Taleb,Male,,,https://ui-avatars.com/api/?name=N+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.762KM,2.265KM,8
+9,Salvatore,Caligiuri,Salvatore Caligiuri,Male,Italy,Wolf Gym,https://athxgames.com/storage/profile-photos/cxfVucgyzmDJ2ZT1yaNS79CfjWKFRBb8e55T6SnN.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.737KM,2.255KM,9
+10,Andrea,Cavaliero,Andrea Cavaliero,Male,Italy,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.661KM,2.257KM,10
+11,Antonio,Di Verniere,Antonio Di Verniere,Male,Italy,Crossfit Iris,https://athxgames.com/storage/profile-photos/c7TncQol0DmwptfzUAgOH0wRIhnhE9dgxe4YsTJB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.645KM,2.266KM,11
+12,William,Agostini,William Agostini,Male,,,https://ui-avatars.com/api/?name=W+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.602KM,2.266KM,12
+13,Flavio,Marchitelli,Flavio Marchitelli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.589KM,2.262KM,13
+14,Matthew,Dunne,Matthew Dunne,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.569KM,2.275KM,14
+15,Sylvain,PETIT,Sylvain PETIT,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.574KM,2.258KM,15
+16,Luca,Manzoni,Luca Manzoni,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.561KM,2.263KM,16
+16,Manuel,Munulli,Manuel Munulli,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.561KM,2.263KM,16
+18,Ciro,Formisano,Ciro Formisano,Male,Italy,Ndo Sevenhead,https://athxgames.com/storage/profile-photos/YEDNbOHiyu8EJtXZPL6GTo65TEC8tXBJXif9QfyT.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.556KM,2.26KM,18
+19,CHRISTOS,chris.kampou@gmail.com,CHRISTOS chris.kampou@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.555KM,2.258KM,19
+20,Giuseppe,Palermo,Giuseppe Palermo,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.551KM,2.26KM,20
+21,davide,aldrigo,davide aldrigo,Male,,,https://athxgames.com/storage/profile-photos/h1UZJKhSkgCMkNpfBnAGPpxIY3wpkJaBEnS45cO7.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.545KM,2.262KM,21
+22,Daniele,Bellino,Daniele Bellino,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.541KM,2.263KM,22
+23,Mattia,De Gaspari,Mattia De Gaspari,Male,,,https://ui-avatars.com/api/?name=M+D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.536KM,2.262KM,23
+24,James,Porter,James Porter,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.525KM,2.267KM,24
+25,Filippo,Molteni,Filippo Molteni,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.526KM,2.259KM,25
+26,Jon,Rossi,Jon Rossi,Male,Switzerland,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.517KM,2.265KM,26
+27,Davide,Galeotti,Davide Galeotti,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.271KM,27
+28,Walter,Sugliano,Walter Sugliano,Male,,,https://ui-avatars.com/api/?name=W+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.504KM,2.266KM,28
+29,Andrea,Ciucci,Andrea Ciucci,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.516KM,29
+30,Giovanni,Braghieri,Giovanni Braghieri,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.509KM,2.253KM,30
+31,Andrea,Albanese,Andrea Albanese,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.242KM,31
+32,Michele,Mattiolo,Michele Mattiolo,Male,Italy,CrossFit Lonigo,https://athxgames.com/storage/profile-photos/zbBFry3seqsvdPBBSNmzylW4GQQEPDoP00YX7yoB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.222KM,32
+33,Luca,Demi,Luca Demi,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.461KM,2.258KM,33
+34,Carlo,Brighenti,Carlo Brighenti,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.453KM,2.264KM,34
+35,Laurent,Hoeltgen,Laurent Hoeltgen,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.445KM,2.27KM,35
+36,Samuele,Luciano,Samuele Luciano,Male,Italy,Steelgrip,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.443KM,2.267KM,36
+37,Federico,Sambati,Federico Sambati,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.63KM,2.062KM,37
+38,Manuel,Fadda,Manuel Fadda,Male,,,https://ui-avatars.com/api/?name=M+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.424KM,2.264KM,38
+39,Luca,Garibaldi,Luca Garibaldi,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.414KM,2.256KM,39
+40,Giovanni,Fois,Giovanni Fois,Male,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.404KM,2.265KM,40
+41,Andrea,Lodi,Andrea Lodi,Male,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.418KM,41
+42,Matteo,Calamari,Matteo Calamari,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.396KM,2.26KM,42
+43,Thomas,Oneill,Thomas Oneill,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.385KM,2.263KM,43
+44,Konstantin,Duve,Konstantin Duve,Male,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.363KM,2.259KM,44
+45,Ed,Tyler,Ed Tyler,Male,United Kingdom,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.331KM,2.273KM,45
+46,Lorenzo,Passari,Lorenzo Passari,Male,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.334KM,2.262KM,46
+47,Giovanni,Cortile,Giovanni Cortile,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.333KM,2.259KM,47
+48,Joris,Theron,Joris Theron,Male,,,https://athxgames.com/storage/profile-photos/V3i7y0tolVDJkZUbMrwX2eZqIhOQqv7o7R1jUD19.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.325KM,2.265KM,48
+49,Enrico,Pasi,Enrico Pasi,Male,Italy,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.319KM,2.267KM,49
+50,Fernando,Vogt,Fernando Vogt,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.317KM,2.267KM,50
+51,Marco,Regli,Marco Regli,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.318KM,2.259KM,51
+52,Andrea,Di Martino,Andrea Di Martino,Male,Italy,Draco,https://athxgames.com/storage/profile-photos/KZAmnbcIN9QIDjNWp9MrqwYmkBPRkAglxxGJjJPx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.305KM,2.27KM,52
+53,Germain,Caillaud,Germain Caillaud,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.305KM,2.266KM,53
+54,Claudio,Dössegger,Claudio Dössegger,Male,,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.303KM,2.266KM,54
+54,Jonathan,De Caria,Jonathan De Caria,Male,Italy,Crossfit Sempione,https://athxgames.com/storage/profile-photos/tX4Nujom6xreSXoChaBBtj8j16nC4YHFsKRBZ9RK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.319KM,2.25KM,54
+56,Daniele,Ravera,Daniele Ravera,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.293KM,2.258KM,56
+57,Dik,Katorri,Dik Katorri,Male,Albania,Madame SiSi Sport Club,https://athxgames.com/storage/profile-photos/1DecFUNEdAxIWQJ8vfpWWZBaUxDdqWgkIAuzohkt.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.272KM,2.269KM,57
+58,Tihomir,Sadibašić,Tihomir Sadibašić,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.276KM,2.263KM,58
+59,Luca,Borio,Luca Borio,Male,Italy,ONE FOR ALL ASD,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.28KM,2.257KM,59
+60,Alessio,Vitangeli,Alessio Vitangeli,Male,Italy,T2 Fitness Lab,https://athxgames.com/storage/profile-photos/T9mK7WMS60y67fsRMooieGdqRXfEEQpxVWJPAtIA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.27KM,2.266KM,60
+61,Matteo,Landini,Matteo Landini,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.274KM,2.26KM,61
+62,Lionel,Sicre,Lionel Sicre,Male,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.266KM,2.266KM,62
+63,João,Morgadinho,João Morgadinho,Male,Portugal,Évora wod box,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.5KM,2.031KM,63
+64,Piergiorgio,Romeo,Piergiorgio Romeo,Male,,,https://ui-avatars.com/api/?name=P+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.413KM,2.115KM,64
+65,Mattia,Scagliola,Mattia Scagliola,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.271KM,65
+66,Richard,Thomas,Richard Thomas,Male,,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.27KM,66
+66,thibault,Albergucci,thibault Albergucci,Male,,,https://ui-avatars.com/api/?name=t+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.27KM,66
+66,Mario,Mennitto,Mario Mennitto,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.27KM,66
+69,Giulio,Biondini,Giulio Biondini,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.254KM,2.265KM,69
+70,Robert,Minter,Robert Minter,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.267KM,70
+71,Eddy,Beggiato,Eddy Beggiato,Male,Italy,Begg,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.266KM,71
+72,Leonardo,Marozzi,Leonardo Marozzi,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.264KM,72
+72,stephen,brown,stephen brown,Male,,,https://ui-avatars.com/api/?name=s+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.264KM,72
+72,Nicola,Massi,Nicola Massi,Male,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.264KM,72
+75,Mark,Puntus,Mark Puntus,Male,Italy,Spartan Valtidone,https://athxgames.com/storage/profile-photos/lVOroegA3OOli4QV7AbZTg7H15DHNHCcPTAjJnLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.263KM,75
+76,Aaron,Dieguez,Aaron Dieguez,Male,United States,LA Fitness,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.262KM,76
+76,Tommaso,Zaltron,Tommaso Zaltron,Male,Italy,,https://ui-avatars.com/api/?name=T+Z&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.253KM,2.259KM,76
+78,Filippo,Cola,Filippo Cola,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.261KM,78
+78,Roberto,Malagoli,Roberto Malagoli,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.261KM,78
+78,Daniele,Gamarro,Daniele Gamarro,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.261KM,78
+81,Paolo,Cagliani,Paolo Cagliani,Male,Italy,,https://ui-avatars.com/api/?name=P+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.26KM,81
+82,Alessandro,Musacchia,Alessandro Musacchia,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.257KM,82
+83,Lloyd,Kuizon,Lloyd Kuizon,Male,Philippines,Barbell Performance GmbH,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.256KM,83
+83,Guglielmo,Giambelli,Guglielmo Giambelli,Male,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.256KM,83
+85,Marco,Carrer,Marco Carrer,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.249KM,85
+86,Yevgeniy,Bidusenko,Yevgeniy Bidusenko,Male,France,,https://ui-avatars.com/api/?name=Y+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.242KM,86
+87,Andrea,Balocchi,Andrea Balocchi,Male,Italy,H2B Training,https://athxgames.com/storage/profile-photos/jV5HTDv7ZRPBOWUMaObvhRhffCBx5e0dF2QMSU9I.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.23KM,87
+88,Stefano,Donzelli,Stefano Donzelli,Male,,,https://ui-avatars.com/api/?name=S+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.224KM,88
+89,antonio,bancora,antonio bancora,Male,,,https://ui-avatars.com/api/?name=a+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.219KM,89
+89,António,Machado,António Machado,Male,Portugal,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.219KM,89
+91,Silvio,Barbieri,Silvio Barbieri,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.217KM,91
+92,Matteo,Valiani,Matteo Valiani,Male,,,https://ui-avatars.com/api/?name=M+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.215KM,92
+93,Alex,Comisso,Alex Comisso,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.184KM,93
+94,Daniele,Paparella,Daniele Paparella,Male,Italy,,https://ui-avatars.com/api/?name=D+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.18KM,94
+95,Mauro,Casellini,Mauro Casellini,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.167KM,95
+96,Errico,Cauli,Errico Cauli,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.164KM,96
+97,Saverio,Ricciuti,Saverio Ricciuti,Male,Italy,GYM functional training studio,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.291KM,2.117KM,97
+98,Massimo,Marinaccio,Massimo Marinaccio,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.153KM,98
+99,Luca,Molinari,Luca Molinari,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.149KM,99
+100,Alessio,Galletti,Alessio Galletti,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.128KM,100
+101,Flavio,Longo,Flavio Longo,Male,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.123KM,101
+102,Paolo,Di Battista,Paolo Di Battista,Male,,,https://ui-avatars.com/api/?name=P+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.12KM,102
+103,FABRIZIO,PORCELLINI,FABRIZIO PORCELLINI,Male,Italy,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.115KM,103
+104,Stefano,Goldaniga,Stefano Goldaniga,Male,Italy,Tritium Training Center,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.113KM,104
+105,Alex,Biolzi,Alex Biolzi,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.088KM,105
+106,Simone,Buonanno,Simone Buonanno,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.082KM,106
+107,Nicholas,Fregni,Nicholas Fregni,Male,,,https://ui-avatars.com/api/?name=N+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.076KM,107
+108,Fulvio,Saviori,Fulvio Saviori,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.059KM,108
+109,Stefano,Bertazzo,Stefano Bertazzo,Male,Italy,Lago Maggiore LAB,https://athxgames.com/storage/profile-photos/VJy6y6Tfd7LL4xOGS1sk1DBQibTEXXQ9cBhgG5tj.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.052KM,109
+110,Matteo,Avelli,Matteo Avelli,Male,Italy,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.03KM,110
+111,Simone Ettore,Nera,Simone Ettore Nera,Male,,,https://athxgames.com/storage/profile-photos/T89PL7GSNTPAubpJuSsbNZ3zASY08RtO6mSd0MMB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,2.027KM,111
+112,Lorenzo,Quintieri,Lorenzo Quintieri,Male,,,https://ui-avatars.com/api/?name=L+Q&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.997KM,112
+113,Giorgio,De Faveri,Giorgio De Faveri,Male,,,https://ui-avatars.com/api/?name=G+D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.985KM,113
+114,Fabian,Cuenca,Fabian Cuenca,Male,Spain,Stygia,https://athxgames.com/storage/profile-photos/Q6UZrjqsz57jgWU4nlx9bRSOtsgBXzLz87r8tAV8.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.975KM,114
+115,Giampietro,Meloni,Giampietro Meloni,Male,Italy,Crossfit Biel-Bienne,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.97KM,115
+116,Italo,Trentonzi,Italo Trentonzi,Male,,,https://ui-avatars.com/api/?name=I+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.944KM,116
+117,Davide,Biancuzzi,Davide Biancuzzi,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.943KM,117
+118,Salvatore,Fiengo,Salvatore Fiengo,Male,Italy,Sasá,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.904KM,118
+119,Giuseppe,Fochi,Giuseppe Fochi,Male,Italy,,https://athxgames.com/storage/profile-photos/1s42jDEiuxLHdAZhGWDeVzscWwVghKjaYqN7Im3E.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.878KM,119
+120,Enrico,Catalano,Enrico Catalano,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.858KM,120
+121,Manuele,Tolfa,Manuele Tolfa,Male,Italy,7Kings Crossfit,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.847KM,121
+122,Federico,Caloni,Federico Caloni,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.832KM,122
+123,Vincenzo Marco,Palmieri,Vincenzo Marco Palmieri,Male,Italy,,https://ui-avatars.com/api/?name=V+M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.826KM,123
+124,Marco,Ponzo,Marco Ponzo,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.809KM,124
+125,Marco,Ruocco,Marco Ruocco,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.803KM,125
+126,Giulio,Capelli,Giulio Capelli,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.791KM,126
+127,Luca,Lotito,Luca Lotito,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.724KM,127
+128,Davide,Fiammarelli,Davide Fiammarelli,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.686KM,128
+129,Alex,Haberberger,Alex Haberberger,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.671KM,129
+130,Andrea,Borrello,Andrea Borrello,Male,,SPORT ACADEMY KKT,https://athxgames.com/storage/profile-photos/hpqtRZPP2XEv5UWpmMLf2hNw3kJdeMB6jQn3H3qA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.601KM,130
+131,Luigi,Faraone,Luigi Faraone,Male,Italy,BOX 42048 RUBIERA,https://ui-avatars.com/api/?name=L+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.551KM,131
+132,Svetozar,Kujic,Svetozar Kujic,Male,,,https://athxgames.com/storage/profile-photos/k9QARQDBMMVTglMLVQXOJPh8n3b8RGgpR96iA5SC.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.517KM,132
+133,Gianfranco,Lupo,Gianfranco Lupo,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.516KM,133
+134,Stefano,Vigneri,Stefano Vigneri,Male,Italy,CrossFit Officine,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.25KM,1.512KM,134
+135,Stefano,Bastelli,Stefano Bastelli,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.168KM,1.572KM,135
+136,Luca,Reppele,Luca Reppele,Male,Italy,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.141KM,1.517KM,136
+137,Emanuele,Piscedda,Emanuele Piscedda,Male,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.139KM,1.505KM,137
+138,Luca,Olivares,Luca Olivares,Male,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.129KM,1.5KM,138
+139,Spencer,Bailet,Spencer Bailet,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.108KM,1.516KM,139
+140,andrea,spampinato,andrea spampinato,Male,,Spampi,https://ui-avatars.com/api/?name=a+s&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.11KM,1.512KM,140
+141,Michael,Haid,Michael Haid,Male,Germany,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2.06KM,1.503KM,141
+142,Luca Alessio,Dubi,Luca Alessio Dubi,Male,,,https://ui-avatars.com/api/?name=L+A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,2KM,1.514KM,142
+143,Antonio,Monesi,Antonio Monesi,Male,Italy,Mad Obstacle Gym,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,1.962KM,1.515KM,143
+144,Juan,Sobas,Juan Sobas,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,1.859KM,1.508KM,144
+145,Diego Giovanni Tommaso,Bevilacqua,Diego Giovanni Tommaso Bevilacqua,Male,,,https://ui-avatars.com/api/?name=D+G+T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,1.844KM,1.512KM,145
+146,MASSIMILIANO,GATTUSO,MASSIMILIANO GATTUSO,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,1.507KM,1.512KM,146
+1,Giovanni,Fois,Giovanni Fois,Male,,,https://ui-avatars.com/api/?name=G+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,100KG,180KG,210KG,,,1
+1,Ed,Tyler,Ed Tyler,Male,United Kingdom,,https://ui-avatars.com/api/?name=E+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,80KG,210KG,200KG,,,1
+3,Giovanni,Braghieri,Giovanni Braghieri,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,88KG,185KG,185KG,,,3
+4,Luca,Borio,Luca Borio,Male,Italy,ONE FOR ALL ASD,https://ui-avatars.com/api/?name=L+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,78KG,168KG,205KG,,,4
+5,Andrea,Borrello,Andrea Borrello,Male,,SPORT ACADEMY KKT,https://athxgames.com/storage/profile-photos/hpqtRZPP2XEv5UWpmMLf2hNw3kJdeMB6jQn3H3qA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,72KG,175KG,190KG,,,5
+6,Jon,Rossi,Jon Rossi,Male,Switzerland,,https://ui-avatars.com/api/?name=J+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,90KG,145KG,200KG,,,6
+6,Nicola,Massi,Nicola Massi,Male,,,https://ui-avatars.com/api/?name=N+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,180KG,190KG,,,6
+8,Kevin,Beleshku,Kevin Beleshku,Male,Italy,,https://ui-avatars.com/api/?name=K+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,72KG,170KG,192KG,,,8
+9,Andrea,Balocchi,Andrea Balocchi,Male,Italy,H2B Training,https://athxgames.com/storage/profile-photos/jV5HTDv7ZRPBOWUMaObvhRhffCBx5e0dF2QMSU9I.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,160KG,200KG,,,9
+10,Luigi,Faraone,Luigi Faraone,Male,Italy,BOX 42048 RUBIERA,https://ui-avatars.com/api/?name=L+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,95KG,150KG,180KG,,,10
+10,Alex,Comisso,Alex Comisso,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,180KG,170KG,,,10
+12,Italo,Trentonzi,Italo Trentonzi,Male,,,https://ui-avatars.com/api/?name=I+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,81KG,155KG,175KG,,,12
+13,Mario,Mennitto,Mario Mennitto,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,90KG,150KG,170KG,,,13
+14,Gianfranco,Lupo,Gianfranco Lupo,Male,,,https://ui-avatars.com/api/?name=G+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,160KG,180KG,,,14
+15,Matteo,Landini,Matteo Landini,Male,,,https://ui-avatars.com/api/?name=M+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,155KG,190KG,,,15
+16,Daniele,Bellino,Daniele Bellino,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,155KG,175KG,,,16
+17,Lloyd,Kuizon,Lloyd Kuizon,Male,Philippines,Barbell Performance GmbH,https://ui-avatars.com/api/?name=L+K&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,83KG,153KG,163KG,,,17
+18,Ciro,Formisano,Ciro Formisano,Male,Italy,Ndo Sevenhead,https://athxgames.com/storage/profile-photos/YEDNbOHiyu8EJtXZPL6GTo65TEC8tXBJXif9QfyT.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,78KG,150KG,170KG,,,18
+19,Luca,Lotito,Luca Lotito,Male,,,https://ui-avatars.com/api/?name=L+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,155KG,170KG,,,19
+19,Luca,Manzoni,Luca Manzoni,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,140KG,180KG,,,19
+21,Luca,Garibaldi,Luca Garibaldi,Male,,,https://ui-avatars.com/api/?name=L+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,148KG,175KG,,,21
+22,Alessio,Vitangeli,Alessio Vitangeli,Male,Italy,T2 Fitness Lab,https://athxgames.com/storage/profile-photos/T9mK7WMS60y67fsRMooieGdqRXfEEQpxVWJPAtIA.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,90KG,140KG,160KG,,,22
+22,Giuseppe,Fochi,Giuseppe Fochi,Male,Italy,,https://athxgames.com/storage/profile-photos/1s42jDEiuxLHdAZhGWDeVzscWwVghKjaYqN7Im3E.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,150KG,170KG,,,22
+22,Michele,Artuso,Michele Artuso,Male,Italy,Sauze well&fit,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,80KG,140KG,170KG,,,22
+25,Jonathan,De Caria,Jonathan De Caria,Male,Italy,Crossfit Sempione,https://athxgames.com/storage/profile-photos/tX4Nujom6xreSXoChaBBtj8j16nC4YHFsKRBZ9RK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,79KG,146KG,161KG,,,25
+26,Lionel,Sicre,Lionel Sicre,Male,,,https://ui-avatars.com/api/?name=L+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,56KG,135KG,192KG,,,26
+27,Lorenzo,Quintieri,Lorenzo Quintieri,Male,,,https://ui-avatars.com/api/?name=L+Q&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,67KG,125KG,185KG,,,27
+28,Andrea,Di Martino,Andrea Di Martino,Male,Italy,Draco,https://athxgames.com/storage/profile-photos/KZAmnbcIN9QIDjNWp9MrqwYmkBPRkAglxxGJjJPx.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,80KG,135KG,160KG,,,28
+28,James,Porter,James Porter,Male,,,https://ui-avatars.com/api/?name=J+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,140KG,160KG,,,28
+28,Matteo,Calamari,Matteo Calamari,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,140KG,165KG,,,28
+31,Luca,Demi,Luca Demi,Male,,,https://ui-avatars.com/api/?name=L+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,72KG,135KG,165KG,,,31
+32,Andrea,Viviani,Andrea Viviani,Male,,,https://ui-avatars.com/api/?name=A+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,135KG,160KG,,,32
+32,Alex,Biolzi,Alex Biolzi,Male,,,https://ui-avatars.com/api/?name=A+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,145KG,160KG,,,32
+32,MASSIMILIANO,GATTUSO,MASSIMILIANO GATTUSO,Male,,,https://ui-avatars.com/api/?name=M+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,90KG,130KG,150KG,,,32
+32,Luca,Olivares,Luca Olivares,Male,,,https://ui-avatars.com/api/?name=L+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,124KG,178KG,,,32
+36,Mark,Puntus,Mark Puntus,Male,Italy,Spartan Valtidone,https://athxgames.com/storage/profile-photos/lVOroegA3OOli4QV7AbZTg7H15DHNHCcPTAjJnLK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,82KG,127KG,160KG,,,36
+37,Matteo,Bettini,Matteo Bettini,Male,,,https://athxgames.com/storage/profile-photos/TxvG1ecpMBbjPktY5lN9TFhgCtDSpN19Ibh99nbK.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,72KG,144KG,150KG,,,37
+37,Enrico,Pasi,Enrico Pasi,Male,Italy,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,63KG,140KG,163KG,,,37
+37,Joris,Theron,Joris Theron,Male,,,https://athxgames.com/storage/profile-photos/V3i7y0tolVDJkZUbMrwX2eZqIhOQqv7o7R1jUD19.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,78KG,140KG,148KG,,,37
+40,davide,aldrigo,davide aldrigo,Male,,,https://athxgames.com/storage/profile-photos/h1UZJKhSkgCMkNpfBnAGPpxIY3wpkJaBEnS45cO7.png,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,140KG,150KG,,,40
+41,Robert,Minter,Robert Minter,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,133KG,160KG,,,41
+41,Guglielmo,Giambelli,Guglielmo Giambelli,Male,,,https://ui-avatars.com/api/?name=G+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,73KG,140KG,150KG,,,41
+43,Mattia,Scagliola,Mattia Scagliola,Male,,,https://ui-avatars.com/api/?name=M+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,67KG,140KG,155KG,,,43
+43,Federico,Caloni,Federico Caloni,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,66KG,138KG,158KG,,,43
+45,Daniele,Paparella,Daniele Paparella,Male,Italy,,https://ui-avatars.com/api/?name=D+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,140KG,165KG,,,45
+45,Luca,Molinari,Luca Molinari,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,130KG,160KG,,,45
+45,Nicholas,Fregni,Nicholas Fregni,Male,,,https://ui-avatars.com/api/?name=N+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,135KG,160KG,,,45
+48,Mauro,Casellini,Mauro Casellini,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,63KG,140KG,156KG,,,48
+49,Flavio,Longo,Flavio Longo,Male,,,https://ui-avatars.com/api/?name=F+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,135KG,165KG,,,49
+49,Lorenzo,Passari,Lorenzo Passari,Male,,,https://ui-avatars.com/api/?name=L+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,125KG,170KG,,,49
+49,Andrea,Albanese,Andrea Albanese,Male,,,https://ui-avatars.com/api/?name=A+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,130KG,160KG,,,49
+49,Giuseppe,Palermo,Giuseppe Palermo,Male,,,https://ui-avatars.com/api/?name=G+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,120KG,170KG,,,49
+49,stephen,brown,stephen brown,Male,,,https://ui-avatars.com/api/?name=s+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,80KG,120KG,155KG,,,49
+54,Giulio,Capelli,Giulio Capelli,Male,Italy,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,59KG,130KG,165KG,,,54
+54,Germain,Caillaud,Germain Caillaud,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,69KG,125KG,160KG,,,54
+56,Filippo,Cola,Filippo Cola,Male,,,https://ui-avatars.com/api/?name=F+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,66KG,126KG,160KG,,,56
+57,Daniele,Ravera,Daniele Ravera,Male,,,https://ui-avatars.com/api/?name=D+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,130KG,151KG,,,57
+58,Antonio,Di Verniere,Antonio Di Verniere,Male,Italy,Crossfit Iris,https://athxgames.com/storage/profile-photos/c7TncQol0DmwptfzUAgOH0wRIhnhE9dgxe4YsTJB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,120KG,160KG,,,58
+58,Andrea,Rossi,Andrea Rossi,Male,,,https://ui-avatars.com/api/?name=A+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,130KG,150KG,,,58
+60,Paolo,Di Battista,Paolo Di Battista,Male,,,https://ui-avatars.com/api/?name=P+D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,110KG,170KG,,,60
+60,Nabil,Taleb,Nabil Taleb,Male,,,https://ui-avatars.com/api/?name=N+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,120KG,163KG,,,60
+62,Dik,Katorri,Dik Katorri,Male,Albania,Madame SiSi Sport Club,https://athxgames.com/storage/profile-photos/1DecFUNEdAxIWQJ8vfpWWZBaUxDdqWgkIAuzohkt.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,64KG,118KG,163KG,,,62
+62,Giovanni,Cortile,Giovanni Cortile,Male,,,https://ui-avatars.com/api/?name=G+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,135KG,150KG,,,62
+64,Andrea,Cavaliero,Andrea Cavaliero,Male,Italy,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,64KG,120KG,160KG,,,64
+65,Fulvio,Saviori,Fulvio Saviori,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,61KG,121KG,160KG,,,65
+66,Salvatore,Caligiuri,Salvatore Caligiuri,Male,Italy,Wolf Gym,https://athxgames.com/storage/profile-photos/cxfVucgyzmDJ2ZT1yaNS79CfjWKFRBb8e55T6SnN.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,125KG,140KG,,,66
+66,William,Agostini,William Agostini,Male,,,https://ui-avatars.com/api/?name=W+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,130KG,145KG,,,66
+68,Paolo,Cagliani,Paolo Cagliani,Male,Italy,,https://ui-avatars.com/api/?name=P+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,130KG,140KG,,,68
+69,Tommaso,Zaltron,Tommaso Zaltron,Male,Italy,,https://ui-avatars.com/api/?name=T+Z&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,77KG,114KG,146KG,,,69
+70,Eddy,Beggiato,Eddy Beggiato,Male,Italy,Begg,https://ui-avatars.com/api/?name=E+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,120KG,150KG,,,70
+71,António,Machado,António Machado,Male,Portugal,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,73KG,120KG,140KG,,,71
+72,andrea,spampinato,andrea spampinato,Male,,Spampi,https://ui-avatars.com/api/?name=a+s&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,117KG,145KG,,,72
+72,Michele,Mattiolo,Michele Mattiolo,Male,Italy,CrossFit Lonigo,https://athxgames.com/storage/profile-photos/zbBFry3seqsvdPBBSNmzylW4GQQEPDoP00YX7yoB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,61KG,115KG,156KG,,,72
+72,Salvatore,Fiengo,Salvatore Fiengo,Male,Italy,Sasá,https://ui-avatars.com/api/?name=S+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,120KG,150KG,,,72
+75,Laurent,Hoeltgen,Laurent Hoeltgen,Male,,,https://ui-avatars.com/api/?name=L+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,120KG,140KG,,,75
+75,Thomas,Oneill,Thomas Oneill,Male,,,https://ui-avatars.com/api/?name=T+O&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,78KG,120KG,130KG,,,75
+77,Sylvain,PETIT,Sylvain PETIT,Male,,,https://ui-avatars.com/api/?name=S+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,115KG,150KG,,,77
+78,Svetozar,Kujic,Svetozar Kujic,Male,,,https://athxgames.com/storage/profile-photos/k9QARQDBMMVTglMLVQXOJPh8n3b8RGgpR96iA5SC.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,74KG,125KG,127KG,,,78
+79,Flavio,Marchitelli,Flavio Marchitelli,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,120KG,130KG,,,79
+79,Samuele,Luciano,Samuele Luciano,Male,Italy,Steelgrip,https://ui-avatars.com/api/?name=S+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,53KG,121KG,151KG,,,79
+79,Giulio,Biondini,Giulio Biondini,Male,,,https://ui-avatars.com/api/?name=G+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,130KG,120KG,,,79
+82,Matthew,Dunne,Matthew Dunne,Male,,,https://ui-avatars.com/api/?name=M+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,69KG,105KG,150KG,,,82
+82,Fernando,Vogt,Fernando Vogt,Male,,,https://ui-avatars.com/api/?name=F+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,59KG,110KG,155KG,,,82
+84,Carlo,Brighenti,Carlo Brighenti,Male,,,https://ui-avatars.com/api/?name=C+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,63KG,130KG,130KG,,,84
+85,Claudio,Dössegger,Claudio Dössegger,Male,,,https://ui-avatars.com/api/?name=C+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,110KG,150KG,,,85
+85,João,Morgadinho,João Morgadinho,Male,Portugal,Évora wod box,https://ui-avatars.com/api/?name=J+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,120KG,140KG,,,85
+85,Stefano,Vigneri,Stefano Vigneri,Male,Italy,CrossFit Officine,https://ui-avatars.com/api/?name=S+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,72KG,100KG,150KG,,,85
+88,Marco,Carrer,Marco Carrer,Male,,,https://ui-avatars.com/api/?name=M+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,71KG,120KG,130KG,,,88
+89,Richard,Thomas,Richard Thomas,Male,,,https://ui-avatars.com/api/?name=R+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,110KG,150KG,,,89
+89,Matteo,Avelli,Matteo Avelli,Male,Italy,,https://ui-avatars.com/api/?name=M+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,110KG,145KG,,,89
+89,thibault,Albergucci,thibault Albergucci,Male,,,https://ui-avatars.com/api/?name=t+A&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,125KG,130KG,,,89
+89,Manuel,Munulli,Manuel Munulli,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,120KG,140KG,,,89
+93,Konstantin,Duve,Konstantin Duve,Male,,,https://ui-avatars.com/api/?name=K+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,110KG,140KG,,,93
+93,Emanuele,Piscedda,Emanuele Piscedda,Male,,,https://ui-avatars.com/api/?name=E+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,125KG,131KG,,,93
+93,Simone,Buonanno,Simone Buonanno,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,59KG,119KG,140KG,,,93
+96,Matteo,Valiani,Matteo Valiani,Male,,,https://ui-avatars.com/api/?name=M+V&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,120KG,135KG,,,96
+96,Roberto,Malagoli,Roberto Malagoli,Male,,,https://ui-avatars.com/api/?name=R+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,125KG,135KG,,,96
+96,Luca Alessio,Dubi,Luca Alessio Dubi,Male,,,https://ui-avatars.com/api/?name=L+A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,75KG,100KG,140KG,,,96
+99,Manuele,Tolfa,Manuele Tolfa,Male,Italy,7Kings Crossfit,https://ui-avatars.com/api/?name=M+T&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,58KG,100KG,155KG,,,99
+100,Marco,Ruocco,Marco Ruocco,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,66KG,95KG,150KG,,,100
+100,Antonio,Monesi,Antonio Monesi,Male,Italy,Mad Obstacle Gym,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,63KG,115KG,133KG,,,100
+102,Mattia,De Gaspari,Mattia De Gaspari,Male,,,https://ui-avatars.com/api/?name=M+D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,105KG,140KG,,,102
+102,Alessandro,Musacchia,Alessandro Musacchia,Male,,,https://ui-avatars.com/api/?name=A+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,110KG,130KG,,,102
+104,antonio,bancora,antonio bancora,Male,,,https://ui-avatars.com/api/?name=a+b&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,64KG,110KG,135KG,,,104
+105,Enrico,Catalano,Enrico Catalano,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,68KG,115KG,125KG,,,105
+106,Michael,Haid,Michael Haid,Male,Germany,,https://ui-avatars.com/api/?name=M+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,57KG,110KG,140KG,,,106
+107,Stefano,Bastelli,Stefano Bastelli,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,100KG,140KG,,,107
+108,Mattia,Prioli,Mattia Prioli,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,58KG,105KG,140KG,,,108
+108,Andrea,Ciucci,Andrea Ciucci,Male,,,https://ui-avatars.com/api/?name=A+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,63KG,110KG,130KG,,,108
+110,Alessio,Galletti,Alessio Galletti,Male,,,https://ui-avatars.com/api/?name=A+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,57KG,107KG,137KG,,,110
+111,Simone Ettore,Nera,Simone Ettore Nera,Male,,,https://athxgames.com/storage/profile-photos/T89PL7GSNTPAubpJuSsbNZ3zASY08RtO6mSd0MMB.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,120KG,120KG,,,111
+111,Tihomir,Sadibašić,Tihomir Sadibašić,Male,,,https://ui-avatars.com/api/?name=T+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,110KG,135KG,,,111
+113,Giorgio,De Faveri,Giorgio De Faveri,Male,,,https://ui-avatars.com/api/?name=G+D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,62KG,110KG,125KG,,,113
+114,Stefano,Goldaniga,Stefano Goldaniga,Male,Italy,Tritium Training Center,https://ui-avatars.com/api/?name=S+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,115KG,125KG,,,114
+114,Daniele,Gamarro,Daniele Gamarro,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,63KG,102KG,130KG,,,114
+116,Davide,Galeotti,Davide Galeotti,Male,,,https://ui-avatars.com/api/?name=D+G&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,105KG,115KG,,,116
+117,Federico,Sambati,Federico Sambati,Male,,,https://ui-avatars.com/api/?name=F+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,100KG,120KG,,,117
+117,Giampietro,Meloni,Giampietro Meloni,Male,Italy,Crossfit Biel-Bienne,https://ui-avatars.com/api/?name=G+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,50KG,105KG,130KG,,,117
+119,Aaron,Dieguez,Aaron Dieguez,Male,United States,LA Fitness,https://ui-avatars.com/api/?name=A+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,59KG,115KG,110KG,,,119
+119,Walter,Sugliano,Walter Sugliano,Male,,,https://ui-avatars.com/api/?name=W+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,64KG,100KG,120KG,,,119
+121,Stefano,Donzelli,Stefano Donzelli,Male,,,https://ui-avatars.com/api/?name=S+D&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,56KG,100KG,125KG,,,121
+122,Alex,Haberberger,Alex Haberberger,Male,,,https://ui-avatars.com/api/?name=A+H&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,120KG,100KG,,,122
+122,Manuel,Fadda,Manuel Fadda,Male,,,https://ui-avatars.com/api/?name=M+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,105KG,120KG,,,122
+122,Massimo,Marinaccio,Massimo Marinaccio,Male,,,https://ui-avatars.com/api/?name=M+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,90KG,135KG,,,122
+122,Stefano,Bertazzo,Stefano Bertazzo,Male,Italy,Lago Maggiore LAB,https://athxgames.com/storage/profile-photos/VJy6y6Tfd7LL4xOGS1sk1DBQibTEXXQ9cBhgG5tj.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,105KG,120KG,,,122
+126,Filippo,Molteni,Filippo Molteni,Male,,,https://ui-avatars.com/api/?name=F+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,90KG,125KG,,,126
+126,Francesco,Perolari,Francesco Perolari,Male,,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,95KG,125KG,,,126
+128,Andrea,Lodi,Andrea Lodi,Male,,,https://ui-avatars.com/api/?name=A+L&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,80KG,130KG,,,128
+128,Davide,Fiammarelli,Davide Fiammarelli,Male,,,https://ui-avatars.com/api/?name=D+F&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,90KG,120KG,,,128
+130,Marco,Ponzo,Marco Ponzo,Male,,,https://ui-avatars.com/api/?name=M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,95KG,115KG,,,130
+130,Yevgeniy,Bidusenko,Yevgeniy Bidusenko,Male,France,,https://ui-avatars.com/api/?name=Y+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,50KG,105KG,110KG,,,130
+132,Fabian,Cuenca,Fabian Cuenca,Male,Spain,Stygia,https://athxgames.com/storage/profile-photos/Q6UZrjqsz57jgWU4nlx9bRSOtsgBXzLz87r8tAV8.jpg,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,57KG,86KG,120KG,,,132
+133,Saverio,Ricciuti,Saverio Ricciuti,Male,Italy,GYM functional training studio,https://ui-avatars.com/api/?name=S+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,54KG,93KG,114KG,,,133
+134,Marco,Regli,Marco Regli,Male,,,https://ui-avatars.com/api/?name=M+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,50KG,80KG,130KG,,,134
+135,Luca,Reppele,Luca Reppele,Male,Italy,,https://ui-avatars.com/api/?name=L+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,56KG,80KG,120KG,,,135
+136,Juan,Sobas,Juan Sobas,Male,,,https://ui-avatars.com/api/?name=J+S&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,65KG,90KG,100KG,,,136
+137,Errico,Cauli,Errico Cauli,Male,,,https://ui-avatars.com/api/?name=E+C&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,53KG,85KG,115KG,,,137
+138,Leonardo,Marozzi,Leonardo Marozzi,Male,,,https://ui-avatars.com/api/?name=L+M&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,60KG,80KG,110KG,,,138
+139,Silvio,Barbieri,Silvio Barbieri,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,48KG,90KG,110KG,,,139
+140,CHRISTOS,chris.kampou@gmail.com,CHRISTOS chris.kampou@gmail.com,Male,,,https://ui-avatars.com/api/?name=C+c&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,70KG,1KG,175KG,,,140
+141,FABRIZIO,PORCELLINI,FABRIZIO PORCELLINI,Male,Italy,,https://ui-avatars.com/api/?name=F+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,55KG,85KG,103KG,,,141
+142,Davide,Biancuzzi,Davide Biancuzzi,Male,,,https://ui-avatars.com/api/?name=D+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,58KG,85KG,95KG,,,142
+143,Piergiorgio,Romeo,Piergiorgio Romeo,Male,,,https://ui-avatars.com/api/?name=P+R&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,50KG,90KG,95KG,,,143
+144,Vincenzo Marco,Palmieri,Vincenzo Marco Palmieri,Male,Italy,,https://ui-avatars.com/api/?name=V+M+P&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,46KG,80KG,100KG,,,144
+145,Spencer,Bailet,Spencer Bailet,Male,,,https://ui-avatars.com/api/?name=S+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,40KG,85KG,100KG,,,145
+146,Diego Giovanni Tommaso,Bevilacqua,Diego Giovanni Tommaso Bevilacqua,Male,,,https://ui-avatars.com/api/?name=D+G+T+B&color=FFFFFF&background=000000,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,50KG,80KG,90KG,,,146

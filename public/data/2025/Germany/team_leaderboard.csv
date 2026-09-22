@@ -1,0 +1,534 @@
+rank,team_name,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
+1,Lukas Benzinger & Anselm von Ritter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,1
+2,Adrian Stolz & Vahdet Akkaya,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,2
+3,Daniel Rath & Maik Leber,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,3
+4,Armando Severino Pepe & Ermerson Ricamora,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,4
+5,Devin Aksu & Daniel Galas,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,5
+6,Gerardo Torres & ROBERTO GALINDO,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,6
+7,Hareesh Goutham & Konstantin Lidvanskii,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,7
+8,Chan Hua Ngo & Chan Sieu Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Endurance,,,,,,,,,8
+1,Jennifer Muir & Ella Wilkinson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,1
+2,Jennifer Fritze & Michaela Klien,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,2
+3,Hanna Koms & Marlene Komes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Strength,,,,,,,,,3
+1,Anna Donauer & Lars Jakobeit,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,1
+2,Florian Göttinger & Jennifer Friedl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,2
+3,Lisa Becker & Tilman Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,3
+4,Markus Spöhnmann & Amelie Sinz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,4
+5,Reuben Fon-Lowe & Jacinda Brass,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,5
+6,Dan Foreman & Danielle Sargent,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,6
+7,Nina Langer & Ruben De Ruyter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,7
+8,Carolin Sonnenschein & Gerrit Pfeil,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,8
+9,Robby Tabor & Melanie Tabor,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Strength,,,,,,,,,9
+1,Max Löw & Martin Michelius,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,1
+2,Marco Kauschka & Lukas Herwig,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,2
+3,Mario Kuhnt & Iba Diaw,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,3
+4,Robert Maire & Patrick Schilhabel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,4
+5,Marko Rezic & Alexander Schweigert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,5
+6,Jens Nordmeier & Wolfgang Schilling,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,6
+7,Simon schmidt & Benedict Noffz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,7
+8,Tristen Wilson & Tithey Schulz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,8
+9,Brett McCall & Andrew French,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,9
+10,Michel Tucker & David Wilhelm,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,10
+11,Santo Galasso & Harold Delabre,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,11
+12,Tim Lischke & Sven Oechler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,12
+13,Lukas Bossert & Paul Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,13
+14,Marian Schulz & Sebastian Kirchert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,14
+15,Lukas Müller & Severin Müller,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,15
+16,Adrian Stolz & Vahdet Akkaya,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,16
+17,Meysam Kavosi & Karan Moallim,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,17
+18,Matthew Bevan & Aidan Solan,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,18
+19,Anatoli Guschan & Erik Wrage,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,19
+20,Marvin Oberländer & Joshua Klingenberg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Endurance,,,,,,,,,20
+1,Devin Aksu & Daniel Galas,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,1
+2,Gerardo Torres & ROBERTO GALINDO,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,2
+3,Daniel Rath & Maik Leber,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,3
+4,Lukas Benzinger & Anselm von Ritter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,4
+5,Chan Hua Ngo & Chan Sieu Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,5
+6,Hareesh Goutham & Konstantin Lidvanskii,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,6
+7,Armando Severino Pepe & Ermerson Ricamora,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Strength,,,,,,,,,7
+1,Simon schmidt & Benedict Noffz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,1 (455KG),7 (18.578KM),1 (12:07),,,,,,9
+2,Brett McCall & Andrew French,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,2 (399KG),9 (18.395KM),2 (13:12),,,,,,13
+3,Mario Kuhnt & Iba Diaw,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,7 (339KG),3 (19.248KM),5 (15:01),,,,,,15
+4,Jens Nordmeier & Wolfgang Schilling,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,4 (365KG),6 (18.66KM),8 (16:14),,,,,,18
+5,Tristen Wilson & Tithey Schulz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,10 (320KG),8 (18.528KM),3 (13:28),,,,,,21
+6,Marco Kauschka & Lukas Herwig,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,14 (275KG),2 (19.533KM),7 (15:53),,,,,,23
+7,Santo Galasso & Harold Delabre,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,3 (373KG),11 (18.271KM),10 (16:29),,,,,,24
+8,Max Löw & Martin Michelius,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,20 (148KG),1 (20.302KM),4 (13:34),,,,,,25
+9,Michel Tucker & David Wilhelm,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,13 (308KG),10 (18.373KM),6 (15:23),,,,,,29
+10,Lukas Müller & Severin Müller,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,5 (358KG),15 (17.305KM),12 (16:48),,,,,,32
+11,Lukas Bossert & Paul Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,12 (310KG),13 (17.844KM),9 (16:24),,,,,,34
+12,Marian Schulz & Sebastian Kirchert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,8 (337KG),14 (17.604KM),13 (17:12),,,,,,35
+13,Robert Maire & Patrick Schilhabel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,15 (260KG),4 (19.086KM),17 (20:35),,,,,,36
+14,Marko Rezic & Alexander Schweigert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,19 (190KG),5 (18.875KM),15 (19:09),,,,,,39
+15,Marvin Oberländer & Joshua Klingenberg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,6 (347KG),20 (16.278KM),16 (19:49),,,,,,42
+15,Tim Lischke & Sven Oechler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,16 (250KG),12 (18.082KM),14 (18:24),,,,,,42
+17,Adrian Stolz & Vahdet Akkaya,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,18 (226KG),2 (17.293KM),2 (16:30),,,,,,45
+18,Matthew Bevan & Aidan Solan,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,9 (325KG),18 (16.481KM),20 (24:03),,,,,,47
+19,Anatoli Guschan & Erik Wrage,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,11 (315KG),19 (16.441KM),18 (21:33),,,,,,48
+20,Meysam Kavosi & Karan Moallim,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Overall,17 (240KG),17 (17.169KM),19 (21:36),,,,,,53
+1,Jennifer Muir & Ella Wilkinson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,1 (398KG),1 (18KM),1 (09:56),,,,,,3
+2,Hanna Koms & Marlene Komes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,3 (239KG),2 (16.976KM),2 (14:24),,,,,,7
+3,Jennifer Fritze & Michaela Klien,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Overall,2 (292KG),3 (16.551KM),3 (16:20),,,,,,8
+1,Anna Donauer & Lars Jakobeit,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,1 (451KG),4 (17.573KM),1 (12:08),,,,,,6
+2,Markus Spöhnmann & Amelie Sinz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,4 (376KG),1 (17.797KM),3 (14:02),,,,,,8
+3,Florian Göttinger & Jennifer Friedl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,2 (403KG),8 (16.78KM),2 (13:28),,,,,,12
+4,Lisa Becker & Tilman Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,3 (380KG),5 (17.28KM),5 (15:35),,,,,,13
+5,Nina Langer & Ruben De Ruyter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,7 (330KG),6 (17.205KM),4 (15:19),,,,,,17
+6,Carolin Sonnenschein & Gerrit Pfeil,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,8 (319KG),3 (17.58KM),7 (15:58),,,,,,18
+6,Reuben Fon-Lowe & Jacinda Brass,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,5 (353KG),7 (16.991KM),6 (15:49),,,,,,18
+8,Robby Tabor & Melanie Tabor,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,9 (294KG),2 (17.625KM),8 (16:30),,,,,,19
+9,Dan Foreman & Danielle Sargent,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Overall,6 (338KG),9 (15.822KM),9 (18:38),,,,,,24
+1,Lukas Benzinger & Anselm von Ritter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,4 (243KG),1 (17.559KM),1 (16:01),,,,,,6
+2,Daniel Rath & Maik Leber,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,3 (258KG),3 (16.874KM),4 (18:15),,,,,,10
+3,Gerardo Torres & ROBERTO GALINDO,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,2 (265KG),6 (15.911KM),3 (17:33),,,,,,11
+4,Devin Aksu & Daniel Galas,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,1 (270KG),5 (16.063KM),6 (22:00),,,,,,12
+5,Hareesh Goutham & Konstantin Lidvanskii,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,6 (216KG),7 (15.81KM),5 (18:51),,,,,,18
+6,Armando Severino Pepe & Ermerson Ricamora,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,7 (175KG),4 (16.281KM),8 (25:22),,,,,,19
+7,Chan Hua Ngo & Chan Sieu Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,Overall,5 (220KG),8 (14.586KM),7 (23:48),,,,,,20
+1,Maximilian Brandl & Franziska Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,12:48,,,,,,1
+2,Timm Witzke & Kimberly Günzel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,13:07,,,,,,2
+3,Ezzahra Mardoume & Nico Küttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,13:18,,,,,,3
+4,Fabian Eisenlauer & Jennifer Nikolaus,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,13:24,,,,,,4
+5,Saskia Noack & Marc Ewers,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,13:29,,,,,,5
+6,Karin Steininger & Alfred Leutl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,14:04,,,,,,6
+7,Kai Jakobeit & Julia Bethke,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,14:14,,,,,,7
+8,Giannina Pomilio & Angelo E,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,14:22,,,,,,8
+9,Sindy Haake & Jan Spreitzenbarth,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,14:30,,,,,,9
+10,Christian Nolde & Steffi Schmitt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,14:35,,,,,,10
+11,Nicole Schoen & Vassili Christu,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,14:51,,,,,,11
+12,Benjamin Lux & Anne Lux,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:27,,,,,,12
+13,Christian Kosak & Tamara Salden,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:33,,,,,,13
+14,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:38,,,,,,14
+15,Madita Carstensen & Tom Harring,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:43,,,,,,15
+16,Helene Wieblitz & Albrecht Grafe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:44,,,,,,16
+17,Juri Maier & Greta Grothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:58,,,,,,17
+18,Christian Schnur & Stina Güttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,15:59,,,,,,18
+19,Josipa Ljiljak & Jenö Mészáros,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,16:01,,,,,,19
+20,Petra Bohnet-Waldraff & Shang Hao Huang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,16:31,,,,,,20
+21,Bastian Bienlein & Valeska Grabowski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,16:34,,,,,,21
+22,Christian Krüger & Maria Tavarone,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,16:35,,,,,,22
+23,Okan Borchert & Nadja Schmidt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,16:36,,,,,,23
+24,Eric Wothe & Michelle Wothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,16:39,,,,,,24
+25,Luis Camilo Cardenas Dovale & Abigail Perez Ortiz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,17:08,,,,,,25
+26,Maik Titjung & Pilar Olivera,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,17:17,,,,,,26
+27,Elias Monfort & Eliza Cumming,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,18:24,,,,,,27
+28,Maria De Sancho & Stewart Patience,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,19:13,,,,,,28
+29,Christian Leutner & Ines Leutner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,19:40,,,,,,29
+30,Ena Soukou & Mohamed Asy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,20:44,,,,,,30
+31,Robert Ettrich & Nadine Freigang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,21:00,,,,,,31
+32,Lisanne Visser & Jannes Stubbemann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,22:08,,,,,,32
+33,Sven Malaschewski & Alla Kliushnyk,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,22:39,,,,,,33
+34,Robin Gumlich & Damaris Endres,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,22:53,,,,,,34
+35,Michelle Guy & Konstantin Hoffmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,23:06,,,,,,35
+36,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,MetCon X,,,25:15,,,,,,36
+1,James Sprague & Ty Jenkins,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,09:29,,,,,,1
+2,Felix Taudte & Malte Golldack-Bosen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,12:53,,,,,,2
+3,Joe Gilbert & Guy Kennedy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,13:27,,,,,,3
+4,Michael Krenz & Jakob Herold,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,14:22,,,,,,4
+5,Maurits Schön & Chase Frankenfeld,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,14:50,,,,,,5
+6,Cooper Marsh & Kevin Roevens,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,15:27,,,,,,6
+7,Sören Findeisen & Pascal Petersen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,15:48,,,,,,7
+8,James McMillian & Keith Lawrence,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,15:54,,,,,,8
+9,Lennart Palausch & Bosse Jordt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,16:24,,,,,,9
+10,Jacob Overgaard & Jesper Skov Christensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,17:03,,,,,,10
+11,Michael Ricatto & Oliver Nink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,17:51,,,,,,11
+12,Martin Petersen & Bjarne Jensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,18:27,,,,,,12
+13,Tyler Alexander & Sam Baza,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,18:37,,,,,,13
+14,Marco Engel & Tilman Link,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,19:44,,,,,,14
+15,Helge Weiger & Dennis Stupka,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,20:30,,,,,,15
+16,Julian Möller & Leif Lindfors,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,20:45,,,,,,16
+17,Massimo De Lieto & Renato La Rana,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,23:00,,,,,,17
+1,Laura Berger & Andrea Sommer,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,16:06,,,,,,1
+2,Isa Braun & Vera Pöhl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,16:36,,,,,,2
+3,daisy heinsen & Diana Fink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,16:38,,,,,,3
+4,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,17:53,,,,,,4
+5,Svenja Rojem-Wagner & Burcin Özcelik,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,18:07,,,,,,5
+6,Georgette Vazquez & Laura Lopez,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,21:08,,,,,,6
+7,Louise Whittaker & Chloe Canham,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,21:36,,,,,,7
+8,Maryna Werner & Ilona Lipovska,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,23:20,,,,,,8
+1,Franka Arendt & Svenja Herbert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,04:50,,,,,,1
+2,Laura Thomanek & Tamara Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:09,,,,,,2
+3,Alex Hipwell & Lena Sassano,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:42,,,,,,3
+4,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,13:43,,,,,,4
+5,Hanna Koms & Marlene Komes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,14:24,,,,,,5
+6,Holland Cathey & Isabell Grasnick,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,14:31,,,,,,6
+7,Saskia Hauser & Kelley Griffiths,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,15:15,,,,,,7
+8,Franziska Mews & Maria Agethen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,15:21,,,,,,8
+9,Alexandra Buschmann & Nancy Sellenthin,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,15:40,,,,,,9
+10,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,15:45,,,,,,10
+11,Francisca Sommer & Josephin Haberlandt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:12,,,,,,11
+12,Tanima Frank & Maryna Kyrchun,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:33,,,,,,12
+13,Vienna Oppie & Ann-Kathrin Burmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:35,,,,,,13
+14,Franzi Rinke & Natalie Lang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:37,,,,,,14
+14,Sarah Wagner & Luisa Alfes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:37,,,,,,14
+16,Anja Kürzinger & Nina Gulde,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,16:57,,,,,,16
+17,Celine Voß & Jule Paulsen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,17:45,,,,,,17
+18,Miriam Blaettler & Veronika Guessregen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,18:17,,,,,,18
+19,Jennifer Morrice & Janin Steitz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,18:43,,,,,,19
+20,Marina Hellenthal & Kerstin Kukla,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,18:56,,,,,,20
+21,Denise Rintisch & Azadeh Ghavamy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,19:42,,,,,,21
+22,Anne A & Julia Achter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,20:19,,,,,,22
+23,Polina Dmitrovskaya & Mia Schütt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,24:06,,,,,,23
+24,Yoonji Jang & amy charlton,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,25:22,,,,,,24
+1,Fabian Eisenlauer & Jennifer Nikolaus,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,1
+2,Ezzahra Mardoume & Nico Küttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,2
+3,Christian Nolde & Steffi Schmitt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,3
+4,Maximilian Brandl & Franziska Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,4
+5,Timm Witzke & Kimberly Günzel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,5
+6,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,6
+7,Madita Carstensen & Tom Harring,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,7
+8,Sindy Haake & Jan Spreitzenbarth,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,8
+9,Saskia Noack & Marc Ewers,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,9
+10,Maria De Sancho & Stewart Patience,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,10
+11,Giannina Pomilio & Angelo E,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,11
+12,Luis Camilo Cardenas Dovale & Abigail Perez Ortiz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,12
+13,Juri Maier & Greta Grothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,13
+14,Benjamin Lux & Anne Lux,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,14
+15,Christian Kosak & Tamara Salden,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,15
+16,Okan Borchert & Nadja Schmidt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,16
+17,Eric Wothe & Michelle Wothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,17
+18,Petra Bohnet-Waldraff & Shang Hao Huang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,18
+19,Karin Steininger & Alfred Leutl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,19
+20,Elias Monfort & Eliza Cumming,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,20
+21,Nicole Schoen & Vassili Christu,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,21
+22,Christian Schnur & Stina Güttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,22
+23,Maik Titjung & Pilar Olivera,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,23
+24,Sven Malaschewski & Alla Kliushnyk,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,24
+25,Helene Wieblitz & Albrecht Grafe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,25
+26,Christian Krüger & Maria Tavarone,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,26
+27,Kai Jakobeit & Julia Bethke,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,27
+28,Lisanne Visser & Jannes Stubbemann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,28
+29,Ena Soukou & Mohamed Asy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,29
+30,Bastian Bienlein & Valeska Grabowski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,30
+31,Robert Ettrich & Nadine Freigang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,31
+32,Josipa Ljiljak & Jenö Mészáros,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,32
+33,Michelle Guy & Konstantin Hoffmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,33
+34,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,34
+35,Robin Gumlich & Damaris Endres,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,35
+36,Christian Leutner & Ines Leutner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,36
+1,Jülly-Inna Liang & Lukas Quackatz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,15:08,,,,,,1
+2,Emilio Anton & Lara Vila Moreno,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,15:36,,,,,,2
+3,Esteban Falconi & Marion Le Flecher,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,15:46,,,,,,3
+4,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,16:58,,,,,,4
+5,Adam Smith & Lucy Smith,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,19:16,,,,,,5
+6,Ana Gutierrez & michal Andrzejewski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,20:32,,,,,,6
+7,Paul Hoatson & Jodi Hoatson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,20:36,,,,,,7
+8,Anne Koch & Robert Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,21:19,,,,,,8
+9,sarah sterzing & Daniel Sterzing,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,21:28,,,,,,9
+10,Duy Nhan & Xiuping Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,MetCon X,,,22:44,,,,,,10
+1,Martin Petersen & Bjarne Jensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,1
+2,James Sprague & Ty Jenkins,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,2
+3,Joe Gilbert & Guy Kennedy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,3
+4,Michael Krenz & Jakob Herold,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,4
+5,Felix Taudte & Malte Golldack-Bosen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,5
+6,Sören Findeisen & Pascal Petersen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,6
+7,Maurits Schön & Chase Frankenfeld,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,7
+8,Lennart Palausch & Bosse Jordt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,8
+9,Helge Weiger & Dennis Stupka,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,9
+10,Jacob Overgaard & Jesper Skov Christensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,10
+11,Massimo De Lieto & Renato La Rana,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,11
+12,Julian Möller & Leif Lindfors,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,12
+13,Tyler Alexander & Sam Baza,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,13
+14,Michael Ricatto & Oliver Nink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,14
+15,Cooper Marsh & Kevin Roevens,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,15
+16,Marco Engel & Tilman Link,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,16
+17,James McMillian & Keith Lawrence,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Endurance,,,,,,,,,17
+1,Isa Braun & Vera Pöhl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,1
+2,Laura Berger & Andrea Sommer,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,2
+3,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,3
+4,Svenja Rojem-Wagner & Burcin Özcelik,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,4
+5,Louise Whittaker & Chloe Canham,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,5
+6,Georgette Vazquez & Laura Lopez,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,6
+7,Maryna Werner & Ilona Lipovska,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,7
+8,daisy heinsen & Diana Fink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,8
+1,Timm Witzke & Kimberly Günzel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,1
+2,Juri Maier & Greta Grothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,2
+3,Okan Borchert & Nadja Schmidt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,3
+4,Saskia Noack & Marc Ewers,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,4
+5,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,5
+6,Karin Steininger & Alfred Leutl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,6
+7,Maximilian Brandl & Franziska Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,7
+8,Giannina Pomilio & Angelo E,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,8
+9,Christian Leutner & Ines Leutner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,9
+9,Kai Jakobeit & Julia Bethke,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,9
+11,Nicole Schoen & Vassili Christu,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,11
+12,Benjamin Lux & Anne Lux,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,12
+13,Elias Monfort & Eliza Cumming,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,13
+14,Robert Ettrich & Nadine Freigang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,14
+15,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,15
+15,Josipa Ljiljak & Jenö Mészáros,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,15
+17,Bastian Bienlein & Valeska Grabowski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,17
+18,Christian Krüger & Maria Tavarone,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,18
+19,Christian Kosak & Tamara Salden,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,19
+20,Sindy Haake & Jan Spreitzenbarth,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,20
+21,Christian Schnur & Stina Güttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,21
+22,Ezzahra Mardoume & Nico Küttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,22
+22,Helene Wieblitz & Albrecht Grafe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,22
+22,Madita Carstensen & Tom Harring,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,22
+25,Luis Camilo Cardenas Dovale & Abigail Perez Ortiz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,25
+26,Eric Wothe & Michelle Wothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,26
+27,Petra Bohnet-Waldraff & Shang Hao Huang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,27
+27,Robin Gumlich & Damaris Endres,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,27
+29,Christian Nolde & Steffi Schmitt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,29
+29,Fabian Eisenlauer & Jennifer Nikolaus,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,29
+31,Maria De Sancho & Stewart Patience,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,31
+32,Ena Soukou & Mohamed Asy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,32
+33,Michelle Guy & Konstantin Hoffmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,33
+33,Sven Malaschewski & Alla Kliushnyk,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,33
+35,Lisanne Visser & Jannes Stubbemann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,35
+36,Maik Titjung & Pilar Olivera,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Strength,,,,,,,,,36
+1,Esteban Falconi & Marion Le Flecher,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,1
+2,Jülly-Inna Liang & Lukas Quackatz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,2
+3,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,3
+4,Anne Koch & Robert Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,4
+5,Emilio Anton & Lara Vila Moreno,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,5
+6,Ana Gutierrez & michal Andrzejewski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,6
+7,Adam Smith & Lucy Smith,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,7
+8,Duy Nhan & Xiuping Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,8
+9,Paul Hoatson & Jodi Hoatson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,9
+10,sarah sterzing & Daniel Sterzing,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Endurance,,,,,,,,,10
+1,James Sprague & Ty Jenkins,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,1
+2,James McMillian & Keith Lawrence,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,2
+3,Felix Taudte & Malte Golldack-Bosen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,3
+4,Michael Krenz & Jakob Herold,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,4
+5,Julian Möller & Leif Lindfors,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,5
+6,Sören Findeisen & Pascal Petersen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,6
+7,Lennart Palausch & Bosse Jordt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,7
+8,Tyler Alexander & Sam Baza,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,8
+9,Massimo De Lieto & Renato La Rana,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,9
+9,Maurits Schön & Chase Frankenfeld,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,9
+11,Jacob Overgaard & Jesper Skov Christensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,11
+11,Cooper Marsh & Kevin Roevens,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,11
+13,Marco Engel & Tilman Link,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,13
+14,Joe Gilbert & Guy Kennedy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,14
+15,Martin Petersen & Bjarne Jensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,15
+16,Michael Ricatto & Oliver Nink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,16
+17,Helge Weiger & Dennis Stupka,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,17
+1,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,1
+2,Laura Thomanek & Tamara Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,2
+3,Tanima Frank & Maryna Kyrchun,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,3
+4,Alex Hipwell & Lena Sassano,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,4
+5,Miriam Blaettler & Veronika Guessregen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,5
+6,Saskia Hauser & Kelley Griffiths,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,6
+7,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,7
+8,Celine Voß & Jule Paulsen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,8
+8,Jennifer Morrice & Janin Steitz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,8
+10,Holland Cathey & Isabell Grasnick,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,10
+11,Polina Dmitrovskaya & Mia Schütt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,11
+12,Sarah Wagner & Luisa Alfes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,12
+13,Franzi Rinke & Natalie Lang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,13
+14,Franziska Mews & Maria Agethen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,14
+15,Vienna Oppie & Ann-Kathrin Burmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,15
+16,Denise Rintisch & Azadeh Ghavamy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,16
+17,Alexandra Buschmann & Nancy Sellenthin,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,17
+18,Marina Hellenthal & Kerstin Kukla,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,18
+19,Anja Kürzinger & Nina Gulde,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,19
+20,Francisca Sommer & Josephin Haberlandt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,20
+21,Anne A & Julia Achter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,21
+22,Yoonji Jang & amy charlton,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Endurance,,,,,,,,,22
+1,Alex Hipwell & Lena Sassano,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,1 (239KG),4 (17.053KM),3 (13:42),,,,,,8
+2,Laura Thomanek & Tamara Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,5 (215KG),2 (17.37KM),2 (13:09),,,,,,9
+3,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,9 (193KG),1 (17.481KM),4 (13:43),,,,,,14
+4,Holland Cathey & Isabell Grasnick,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,3 (219KG),10 (16.598KM),6 (14:31),,,,,,19
+5,Saskia Hauser & Kelley Griffiths,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,7 (196KG),6 (16.794KM),7 (15:15),,,,,,20
+6,Franziska Mews & Maria Agethen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,4 (217KG),14 (15.616KM),8 (15:21),,,,,,26
+7,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,12 (185KG),7 (16.661KM),10 (15:45),,,,,,29
+8,Tanima Frank & Maryna Kyrchun,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,17 (163KG),3 (17.201KM),12 (16:33),,,,,,32
+9,Francisca Sommer & Josephin Haberlandt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,2 (224KG),20 (15.059KM),11 (16:12),,,,,,33
+10,Sarah Wagner & Luisa Alfes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,8 (195KG),12 (16.372KM),14 (16:37),,,,,,34
+11,Alexandra Buschmann & Nancy Sellenthin,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,10 (191KG),17 (15.227KM),9 (15:40),,,,,,36
+12,Vienna Oppie & Ann-Kathrin Burmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,12 (185KG),15 (15.321KM),13 (16:35),,,,,,40
+13,Franzi Rinke & Natalie Lang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,14 (184KG),13 (16.235KM),14 (16:37),,,,,,41
+13,Celine Voß & Jule Paulsen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,16 (173KG),8 (16.601KM),17 (17:45),,,,,,41
+15,Miriam Blaettler & Veronika Guessregen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,21 (157KG),5 (16.867KM),18 (18:17),,,,,,44
+16,Jennifer Morrice & Janin Steitz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,18 (162KG),8 (16.601KM),19 (18:43),,,,,,45
+17,Anja Kürzinger & Nina Gulde,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,11 (186KG),19 (15.166KM),16 (16:57),,,,,,46
+18,Polina Dmitrovskaya & Mia Schütt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,18 (162KG),11 (16.477KM),23 (24:06),,,,,,52
+19,Marina Hellenthal & Kerstin Kukla,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,20 (160KG),18 (15.194KM),20 (18:56),,,,,,58
+19,Anne A & Julia Achter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,15 (180KG),21 (14.83KM),22 (20:19),,,,,,58
+21,Denise Rintisch & Azadeh Ghavamy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,22 (127KG),16 (15.229KM),21 (19:42),,,,,,59
+22,Yoonji Jang & amy charlton,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Overall,23 (124KG),22 (14.774KM),24 (25:22),,,,,,69
+1,Laura Berger & Andrea Sommer,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,1
+2,daisy heinsen & Diana Fink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,2
+3,Georgette Vazquez & Laura Lopez,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,3
+4,Isa Braun & Vera Pöhl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,4
+5,Svenja Rojem-Wagner & Burcin Özcelik,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,5
+6,Louise Whittaker & Chloe Canham,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,6
+7,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,7
+8,Maryna Werner & Ilona Lipovska,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,8
+1,Timm Witzke & Kimberly Günzel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,1 (340KG),5 (17.958KM),2 (13:07),,,,,,8
+2,Maximilian Brandl & Franziska Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,7 (282KG),4 (17.98KM),1 (12:48),,,,,,12
+3,Saskia Noack & Marc Ewers,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,4 (298KG),9 (17.631KM),5 (13:29),,,,,,18
+4,Sina Bertelsbeck & Philip Heitmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,5 (290KG),6 (17.912KM),14 (15:38),,,,,,25
+5,Ezzahra Mardoume & Nico Küttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,22 (235KG),2 (18.131KM),3 (13:18),,,,,,27
+6,Giannina Pomilio & Angelo E,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,8 (278KG),11 (17.333KM),8 (14:22),,,,,,27
+7,Karin Steininger & Alfred Leutl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,6 (284KG),19 (16.655KM),6 (14:04),,,,,,31
+8,Juri Maier & Greta Grothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,2 (309KG),13 (17.189KM),17 (15:58),,,,,,32
+9,Fabian Eisenlauer & Jennifer Nikolaus,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,29 (220KG),1 (19.693KM),4 (13:24),,,,,,34
+10,Sindy Haake & Jan Spreitzenbarth,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,20 (242KG),8 (17.708KM),9 (14:30),,,,,,37
+11,Benjamin Lux & Anne Lux,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,12 (268KG),14 (16.983KM),12 (15:27),,,,,,38
+12,Christian Nolde & Steffi Schmitt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,29 (220KG),3 (18.11KM),10 (14:35),,,,,,42
+12,Okan Borchert & Nadja Schmidt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,3 (300KG),16 (16.842KM),23 (16:36),,,,,,42
+14,Kai Jakobeit & Julia Bethke,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,9 (277KG),27 (15.908KM),7 (14:14),,,,,,43
+14,Nicole Schoen & Vassili Christu,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,11 (272KG),21 (16.471KM),11 (14:51),,,,,,43
+16,Madita Carstensen & Tom Harring,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,22 (235KG),7 (17.802KM),15 (15:43),,,,,,44
+17,Christian Kosak & Tamara Salden,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,19 (243KG),15 (16.884KM),13 (15:33),,,,,,47
+18,Elias Monfort & Eliza Cumming,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,13 (262KG),20 (16.48KM),27 (18:24),,,,,,60
+19,Christian Schnur & Stina Güttner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,21 (241KG),22 (16.408KM),18 (15:59),,,,,,61
+20,Luis Camilo Cardenas Dovale & Abigail Perez Ortiz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,25 (233KG),12 (17.207KM),25 (17:08),,,,,,62
+21,Helene Wieblitz & Albrecht Grafe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,22 (235KG),25 (16.193KM),16 (15:44),,,,,,63
+22,Petra Bohnet-Waldraff & Shang Hao Huang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,27 (225KG),18 (16.715KM),20 (16:31),,,,,,65
+23,Christian Krüger & Maria Tavarone,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,18 (254KG),26 (16.174KM),22 (16:35),,,,,,66
+23,Josipa Ljiljak & Jenö Mészáros,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,15 (260KG),32 (15.523KM),19 (16:01),,,,,,66
+25,Eric Wothe & Michelle Wothe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,26 (232KG),17 (16.761KM),24 (16:39),,,,,,67
+26,Bastian Bienlein & Valeska Grabowski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,17 (255KG),30 (15.767KM),21 (16:34),,,,,,68
+27,Maria De Sancho & Stewart Patience,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,31 (216KG),10 (17.37KM),28 (19:13),,,,,,69
+28,Christian Leutner & Ines Leutner,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,9 (277KG),36 (14.905KM),29 (19:40),,,,,,74
+29,Robert Ettrich & Nadine Freigang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,14 (261KG),31 (15.634KM),31 (21:00),,,,,,76
+30,Romy Leutner & Marco Friedrichs,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,15 (260KG),34 (15.236KM),36 (25:15),,,,,,85
+30,Maik Titjung & Pilar Olivera,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,36 (162KG),23 (16.403KM),26 (17:17),,,,,,85
+32,Sven Malaschewski & Alla Kliushnyk,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,33 (194KG),24 (16.23KM),33 (22:39),,,,,,90
+33,Ena Soukou & Mohamed Asy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,32 (210KG),29 (15.827KM),30 (20:44),,,,,,91
+34,Lisanne Visser & Jannes Stubbemann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,35 (183KG),28 (15.846KM),32 (22:08),,,,,,95
+35,Robin Gumlich & Damaris Endres,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,27 (225KG),35 (14.93KM),34 (22:53),,,,,,96
+36,Michelle Guy & Konstantin Hoffmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Overall,33 (194KG),33 (15.263KM),35 (23:06),,,,,,101
+1,Emilio Anton & Lara Vila Moreno,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,1
+2,Duy Nhan & Xiuping Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,2
+3,Adam Smith & Lucy Smith,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,3
+3,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,3
+3,Jülly-Inna Liang & Lukas Quackatz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,3
+6,Anne Koch & Robert Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,6
+7,Esteban Falconi & Marion Le Flecher,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,7
+8,Paul Hoatson & Jodi Hoatson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,8
+9,sarah sterzing & Daniel Sterzing,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,9
+10,Ana Gutierrez & michal Andrzejewski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Strength,,,,,,,,,10
+1,James Sprague & Ty Jenkins,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,1 (609KG),2 (19.676KM),1 (09:29),,,,,,4
+2,Felix Taudte & Malte Golldack-Bosen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,3 (532KG),5 (18.912KM),2 (12:53),,,,,,10
+3,Michael Krenz & Jakob Herold,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,4 (487KG),4 (18.927KM),4 (14:22),,,,,,12
+4,Sören Findeisen & Pascal Petersen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,6 (450KG),6 (18.567KM),7 (15:48),,,,,,19
+5,Joe Gilbert & Guy Kennedy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,14 (386KG),3 (19.232KM),3 (13:27),,,,,,20
+6,Maurits Schön & Chase Frankenfeld,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,9 (430KG),7 (18.506KM),5 (14:50),,,,,,21
+7,Lennart Palausch & Bosse Jordt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,7 (441KG),8 (18.455KM),9 (16:24),,,,,,24
+8,James McMillian & Keith Lawrence,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,2 (570KG),17 (16.488KM),8 (15:54),,,,,,27
+9,Martin Petersen & Bjarne Jensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,15 (367KG),1 (19.747KM),12 (18:27),,,,,,28
+10,Jacob Overgaard & Jesper Skov Christensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,11 (426KG),10 (17.953KM),10 (17:03),,,,,,31
+11,Cooper Marsh & Kevin Roevens,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,11 (426KG),15 (17.034KM),6 (15:27),,,,,,32
+12,Julian Möller & Leif Lindfors,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,5 (485KG),12 (17.448KM),16 (20:45),,,,,,33
+13,Tyler Alexander & Sam Baza,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,8 (431KG),13 (17.358KM),13 (18:37),,,,,,34
+14,Massimo De Lieto & Renato La Rana,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,9 (430KG),11 (17.524KM),17 (23:00),,,,,,37
+15,Michael Ricatto & Oliver Nink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,16 (357KG),14 (17.234KM),11 (17:51),,,,,,41
+15,Helge Weiger & Dennis Stupka,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,17 (345KG),9 (18.102KM),15 (20:30),,,,,,41
+17,Marco Engel & Tilman Link,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Overall,13 (400KG),16 (16.922KM),14 (19:44),,,,,,43
+1,Laura Berger & Andrea Sommer,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,1 (250KG),2 (16.418KM),1 (16:06),,,,,,4
+2,Isa Braun & Vera Pöhl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,4 (153KG),1 (17.688KM),2 (16:36),,,,,,7
+3,daisy heinsen & Diana Fink,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,2 (168KG),8 (14.205KM),3 (16:38),,,,,,13
+4,Svenja Rojem-Wagner & Burcin Özcelik,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,5 (127KG),4 (15.188KM),5 (18:07),,,,,,14
+4,Martina Burkert & Charlotte Schindler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,7 (125KG),3 (16.086KM),4 (17:53),,,,,,14
+6,Georgette Vazquez & Laura Lopez,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,3 (159KG),6 (14.477KM),6 (21:08),,,,,,15
+7,Louise Whittaker & Chloe Canham,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,6 (126KG),5 (14.481KM),7 (21:36),,,,,,18
+8,Maryna Werner & Ilona Lipovska,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Overall,8 (68KG),7 (14.424KM),8 (23:20),,,,,,23
+1,Jülly-Inna Liang & Lukas Quackatz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,3 (195KG),2 (16.755KM),1 (15:08),,,,,,6
+2,Emilio Anton & Lara Vila Moreno,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,1 (224KG),5 (15.946KM),2 (15:36),,,,,,8
+3,Josi Sandhaus & Alex Haberberger,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,3 (195KG),3 (16.253KM),4 (16:58),,,,,,10
+4,Esteban Falconi & Marion Le Flecher,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,7 (191KG),1 (17.122KM),3 (15:46),,,,,,11
+5,Adam Smith & Lucy Smith,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,3 (195KG),7 (15.019KM),5 (19:16),,,,,,15
+6,Anne Koch & Robert Koch,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,6 (192KG),4 (16.141KM),8 (21:19),,,,,,18
+7,Duy Nhan & Xiuping Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,2 (206KG),8 (14.739KM),10 (22:44),,,,,,20
+8,Ana Gutierrez & michal Andrzejewski,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,10 (161KG),6 (15.57KM),6 (20:32),,,,,,22
+9,Paul Hoatson & Jodi Hoatson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,8 (183KG),9 (14.345KM),7 (20:36),,,,,,24
+10,sarah sterzing & Daniel Sterzing,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Lite,Overall,9 (181KG),10 (13.491KM),9 (21:28),,,,,,28
+1,Jennifer Muir & Ella Wilkinson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,09:56,,,,,,1
+2,Hanna Koms & Marlene Komes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,14:24,,,,,,2
+3,Jennifer Fritze & Michaela Klien,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,MetCon X,,,16:20,,,,,,3
+1,Anna Donauer & Lars Jakobeit,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,12:08,,,,,,1
+2,Florian Göttinger & Jennifer Friedl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,13:28,,,,,,2
+3,Markus Spöhnmann & Amelie Sinz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,14:02,,,,,,3
+4,Nina Langer & Ruben De Ruyter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:19,,,,,,4
+5,Lisa Becker & Tilman Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:35,,,,,,5
+6,Reuben Fon-Lowe & Jacinda Brass,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:49,,,,,,6
+7,Carolin Sonnenschein & Gerrit Pfeil,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:58,,,,,,7
+8,Robby Tabor & Melanie Tabor,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,16:30,,,,,,8
+9,Dan Foreman & Danielle Sargent,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,18:38,,,,,,9
+1,Lukas Benzinger & Anselm von Ritter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,16:01,,,,,,1
+2,Adrian Stolz & Vahdet Akkaya,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,16:30,,,,,,2
+3,Gerardo Torres & ROBERTO GALINDO,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,17:33,,,,,,3
+4,Daniel Rath & Maik Leber,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,18:15,,,,,,4
+5,Hareesh Goutham & Konstantin Lidvanskii,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,18:51,,,,,,5
+6,Devin Aksu & Daniel Galas,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,22:00,,,,,,6
+7,Chan Hua Ngo & Chan Sieu Ngo,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,23:48,,,,,,7
+8,Armando Severino Pepe & Ermerson Ricamora,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,25:22,,,,,,8
+1,Jennifer Muir & Ella Wilkinson,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,1
+2,Hanna Koms & Marlene Komes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,2
+3,Jennifer Fritze & Michaela Klien,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Pro,Endurance,,,,,,,,,3
+1,Alex Hipwell & Lena Sassano,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,1
+2,Francisca Sommer & Josephin Haberlandt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,2
+3,Holland Cathey & Isabell Grasnick,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,3
+4,Franziska Mews & Maria Agethen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,4
+5,Laura Thomanek & Tamara Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,5
+6,Hanna Koms & Marlene Komes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,6
+7,Saskia Hauser & Kelley Griffiths,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,7
+8,Sarah Wagner & Luisa Alfes,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,8
+9,Michelle Krahnenfeld & Lina Michaelis,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,9
+10,Alexandra Buschmann & Nancy Sellenthin,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,10
+11,Anja Kürzinger & Nina Gulde,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,11
+12,Vienna Oppie & Ann-Kathrin Burmann,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,12
+12,Anne-Marie Hansen & Finja Thoroe,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,12
+14,Franzi Rinke & Natalie Lang,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,14
+15,Anne A & Julia Achter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,15
+16,Celine Voß & Jule Paulsen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,16
+17,Tanima Frank & Maryna Kyrchun,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,17
+18,Jennifer Morrice & Janin Steitz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,18
+18,Polina Dmitrovskaya & Mia Schütt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,18
+20,Marina Hellenthal & Kerstin Kukla,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,20
+21,Miriam Blaettler & Veronika Guessregen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,21
+22,Denise Rintisch & Azadeh Ghavamy,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,22
+23,Yoonji Jang & amy charlton,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,23
+1,Simon schmidt & Benedict Noffz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,12:07,,,,,,1
+2,Brett McCall & Andrew French,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:12,,,,,,2
+3,Tristen Wilson & Tithey Schulz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:28,,,,,,3
+4,Max Löw & Martin Michelius,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,13:34,,,,,,4
+5,Mario Kuhnt & Iba Diaw,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,15:01,,,,,,5
+6,Michel Tucker & David Wilhelm,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,15:23,,,,,,6
+7,Marco Kauschka & Lukas Herwig,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,15:53,,,,,,7
+8,Jens Nordmeier & Wolfgang Schilling,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,16:14,,,,,,8
+9,Lukas Bossert & Paul Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,16:24,,,,,,9
+10,Santo Galasso & Harold Delabre,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,16:29,,,,,,10
+11,Adrian Stolz & Vahdet Akkaya,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,16:30,,,,,,11
+12,Lukas Müller & Severin Müller,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,16:48,,,,,,12
+13,Marian Schulz & Sebastian Kirchert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,17:12,,,,,,13
+14,Tim Lischke & Sven Oechler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,18:24,,,,,,14
+15,Marko Rezic & Alexander Schweigert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,19:09,,,,,,15
+16,Marvin Oberländer & Joshua Klingenberg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,19:49,,,,,,16
+17,Robert Maire & Patrick Schilhabel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,20:35,,,,,,17
+18,Anatoli Guschan & Erik Wrage,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,21:33,,,,,,18
+19,Meysam Kavosi & Karan Moallim,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,21:36,,,,,,19
+20,Matthew Bevan & Aidan Solan,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,MetCon X,,,24:03,,,,,,20
+1,Markus Spöhnmann & Amelie Sinz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,1
+2,Robby Tabor & Melanie Tabor,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,2
+3,Carolin Sonnenschein & Gerrit Pfeil,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,3
+4,Anna Donauer & Lars Jakobeit,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,4
+5,Lisa Becker & Tilman Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,5
+6,Nina Langer & Ruben De Ruyter,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,6
+7,Reuben Fon-Lowe & Jacinda Brass,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,7
+8,Florian Göttinger & Jennifer Friedl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,8
+9,Dan Foreman & Danielle Sargent,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,9
+1,Simon schmidt & Benedict Noffz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,1
+2,Brett McCall & Andrew French,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,2
+3,Santo Galasso & Harold Delabre,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,3
+4,Jens Nordmeier & Wolfgang Schilling,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,4
+5,Lukas Müller & Severin Müller,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,5
+6,Marvin Oberländer & Joshua Klingenberg,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,6
+7,Mario Kuhnt & Iba Diaw,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,7
+8,Marian Schulz & Sebastian Kirchert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,8
+9,Matthew Bevan & Aidan Solan,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,9
+10,Tristen Wilson & Tithey Schulz,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,10
+11,Anatoli Guschan & Erik Wrage,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,11
+12,Lukas Bossert & Paul Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,12
+13,Michel Tucker & David Wilhelm,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,13
+14,Marco Kauschka & Lukas Herwig,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,14
+15,Robert Maire & Patrick Schilhabel,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,15
+16,Tim Lischke & Sven Oechler,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,16
+17,Meysam Kavosi & Karan Moallim,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,17
+18,Adrian Stolz & Vahdet Akkaya,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,18
+19,Marko Rezic & Alexander Schweigert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,19
+20,Max Löw & Martin Michelius,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX,Strength,,,,,,,,,20
