@@ -350,14 +350,13 @@ export default function Analyses() {
             <EvidenceToggle label={lang === 'fr' ? 'Comment lire ce graphique ?' : 'How to read this chart?'}>
               <p className="about-intro-text" style={{ marginBottom: 0 }}>
                 {lang === 'fr' ? (
-                  <>Z-score par épreuve, saison {data.year}. Une case colorée en rouge/orange veut
-                    dire que la ville est au-dessus de la moyenne des villes sur cette épreuve, une
-                    case bleue qu'elle est en-dessous. Plus la couleur est foncée, plus l'écart est
-                    grand.</>
+                  <>Une case colorée en rouge/orange veut dire que la ville est au-dessus de la
+                    moyenne des villes sur cette épreuve, une case bleue qu'elle est en-dessous.
+                    Plus la couleur est foncée, plus l'écart est grand.</>
                 ) : (
-                  <>Z-score per event, {data.year} season. A cell colored red/orange means the city
-                    is above the average of all cities on that event, a blue cell means it's below.
-                    The darker the color, the bigger the gap.</>
+                  <>A cell colored red/orange means the city is above the average of all cities on
+                    that event, a blue cell means it's below. The darker the color, the bigger the
+                    gap.</>
                 )}
               </p>
             </EvidenceToggle>
@@ -448,18 +447,15 @@ export default function Analyses() {
             <EvidenceToggle label={lang === 'fr' ? 'Comment lire ces graphiques ?' : 'How to read these charts?'}>
               <p className="about-intro-text" style={{ marginBottom: 0 }}>
                 {lang === 'fr' ? (
-                  <>Chaque point est un athlète. La courbe lisse la tendance réelle ; au-delà de
-                    la ligne pointillée orange (le seuil), progresser sur cette épreuve rapporte de
-                    moins en moins de places au classement (ou de KG sur le total Force, pour le
-                    zoom par mouvement). Pour le MetCon, l'axe va du temps le plus long (à gauche) au
-                    plus rapide (à droite), pour rester dans le sens "on progresse en allant vers la
-                    droite" sur les trois graphiques.</>
+                  <>Chaque point est un athlète. La courbe lisse (en noir) est la tendance réelle ;
+                    au-delà du seuil (ligne pointillée orange), progresser sur cette épreuve
+                    rapporte de moins en moins de places au classement (ou de KG sur le total
+                    Force, pour le zoom par mouvement).</>
                 ) : (
-                  <>Each point is one athlete. The curve smooths the real trend; beyond the
-                    orange dashed line (the threshold), improving on that event yields fewer and
-                    fewer ranking places (or KG on the total Strength score, for the movement zoom).
-                    For MetCon, the axis runs from the longest time (left) to the fastest (right),
-                    to keep "progress = moving right" true on all three charts.</>
+                  <>Each point is one athlete. The smooth curve (in black) is the real trend;
+                    beyond the threshold (orange dashed line), improving on that event yields fewer
+                    and fewer ranking places (or KG on the total Strength score, for the movement
+                    zoom).</>
                 )}
               </p>
             </EvidenceToggle>
