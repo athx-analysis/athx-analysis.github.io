@@ -76,6 +76,22 @@ function filterGenderInLine(line, gender) {
   return line.replace(GENDER_PAIR_RE, (_match, mVal, fVal) => (gender === 'Male' ? mVal : fVal))
 }
 
+// Petit "i" d'info a cote d'un mouvement concerne par une precision officielle (ex : regle
+// specifique aux paires mixtes) -- affichee au survol/focus uniquement (tooltip CSS), plutot
+// qu'en bloc de texte permanent sous la carte (demande explicite de l'utilisateur).
+function InfoIcon({ text }) {
+  return (
+    <span className="wof-info" tabIndex={0}>
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+        <circle cx="6" cy="6" r="5.25" stroke="currentColor" strokeWidth="1.2" />
+        <path d="M6 5.5V8.5" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round" />
+        <circle cx="6" cy="3.6" r="0.75" fill="currentColor" />
+      </svg>
+      <span className="wof-info-tooltip" role="tooltip">{text}</span>
+    </span>
+  )
+}
+
 export default function WorkoutFormatCard({ zone, mode, gender, categoryTag }) {
   const { lang } = useLanguage()
   const data = mode === 'pairs' ? zone.pairs : zone.individual
@@ -98,19 +114,21 @@ export default function WorkoutFormatCard({ zone, mode, gender, categoryTag }) {
           const isScore = SCORE_RE.test(line)
           const isTimeCap = TIME_CAP_RE.test(line)
           const display = lang === 'fr' ? (WORKOUT_LINE_FR[line] || line) : line
+          // lineNotes : cherche une precision rattachee a CE mouvement (sous-chaine stable,
+          // survit aux variantes LITE/ATHX/PRO puisque les noms de mouvement ne sont jamais
+          // reformules). data.lineNotes n'existe que sur les zones qui en ont besoin.
+          const noteEntry = data.lineNotes?.find((n) => n.match.some((m) => line.includes(m)))
           let cls = 'wof-line'
           if (isScore) cls += ' wof-line-score'
           else if (isTimeCap) cls += ' wof-line-timecap'
-          return <div key={i} className={cls}>{display}</div>
+          return (
+            <div key={i} className={cls}>
+              {display}
+              {noteEntry && <InfoIcon text={lang === 'fr' ? noteEntry.note.fr : noteEntry.note.en} />}
+            </div>
+          )
         })}
       </div>
-      {data.notes && (
-        <div className="wof-notes">
-          {data.notes.map((n, i) => (
-            <p key={i}>{lang === 'fr' ? (WORKOUT_LINE_FR[n] || n) : n}</p>
-          ))}
-        </div>
-      )}
     </div>
   )
 }

@@ -2274,21 +2274,52 @@ button {
   font-weight: 700;
 }
 
-.wof-notes {
-  margin-top: 12px;
-  padding-top: 10px;
-  border-top: 1px solid var(--border-dark);
-}
-
-.wof-notes p {
-  font-size: 10.5px;
+/* Petit "i" d'info a cote d'un mouvement (WorkoutFormatCard.jsx, lineNotes) -- precision
+   officielle affichee au survol/focus uniquement, plutot qu'en bloc de texte permanent. */
+.wof-info {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
   color: #8a8a8a;
-  margin: 0 0 4px;
-  line-height: 1.4;
+  cursor: help;
+  vertical-align: middle;
 }
 
-.wof-notes p:last-child {
-  margin-bottom: 0;
+.wof-info:hover,
+.wof-info:focus-visible {
+  color: var(--accent-2);
+  outline: none;
+}
+
+.wof-info-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  width: max-content;
+  max-width: 220px;
+  background: #1a1a1a;
+  border: 1px solid var(--border-dark);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+  line-height: 1.45;
+  padding: 8px 10px;
+  border-radius: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  z-index: 20;
+}
+
+.wof-info:hover .wof-info-tooltip,
+.wof-info:focus-visible .wof-info-tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
 }
 
 /* Selecteurs (annee / team-solo / genre / categorie) -- pastilles compactes, meme langage

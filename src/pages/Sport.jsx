@@ -103,12 +103,12 @@ export default function Sport() {
               <p style={{ marginTop: 14 }}>
                 {lang === 'fr' ? (
                   <>Autre signal fort pour la suite : ATHX est devenu, en septembre 2026,
-                    un <strong>« CrossFit Partner Event Series »</strong> officiel — une
+                    un <strong>« CrossFit Partner Event Series »</strong> officiel. Une
                     affiliation qui devrait, elle aussi, jouer en faveur de la croissance du nombre
                     de participants dans les saisons à venir.</>
                 ) : (
                   <>Another strong signal for what's next: in September 2026, ATHX became an
-                    official <strong>"CrossFit Partner Event Series"</strong> — an affiliation that
+                    official <strong>"CrossFit Partner Event Series"</strong>. An affiliation that
                     should also help drive participant growth in the seasons ahead.</>
                 )}
               </p>

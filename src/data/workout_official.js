@@ -162,9 +162,40 @@ export const OFFICIAL_WORKOUTS = {
             '25 MIN TIME CAP',
             'SCORE - TIME TO COMPLETE',
           ],
-          notes: [
-            'Reps split between the pair as desired apart from Sandbag Carry that will be split 30m/30m',
-            'Mixed Pairs use female box height for BJO and Female DBs for Lunges. DB GTOH & Sandbag Carry use the prescribed M & F weights.',
+          // Notes officielles rattachees au mouvement concerne (pas un bloc de texte generique) :
+          // `match` = sous-chaine(s) cherchees dans la ligne AFFICHEE (verifie mot pour mot,
+          // survit aux variantes LITE/ATHX/PRO puisque les noms de mouvement ne sont jamais
+          // reformules -- seuls les poids/reps changent). Affichee au survol d'un petit "i" a
+          // cote du mouvement concerne plutot qu'en texte permanent sous la carte.
+          lineNotes: [
+            {
+              match: ['SANDBAG CARRY'],
+              note: {
+                fr: 'Répétitions réparties comme la paire le souhaite pour les autres mouvements, mais toujours 30m/30m pour le Sandbag Carry. Poids Homme/Femme prescrits utilisés normalement, même en paire mixte.',
+                en: 'Reps split between the pair as desired for the other movements, but always 30m/30m for the Sandbag Carry. Prescribed Male/Female weights used as normal, even in Mixed Pairs.',
+              },
+            },
+            {
+              match: ['BOX JUMP'],
+              note: {
+                fr: 'En paire mixte : hauteur de box Femme utilisée.',
+                en: "Mixed Pairs: female box height used.",
+              },
+            },
+            {
+              match: ['WALKING LUNGES'],
+              note: {
+                fr: 'En paire mixte : haltères au poids Femme utilisés.',
+                en: 'Mixed Pairs: female DB weight used.',
+              },
+            },
+            {
+              match: ['GROUND TO OVERHEAD', 'GTOH'],
+              note: {
+                fr: 'Poids Homme/Femme prescrits utilisés normalement, même en paire mixte.',
+                en: 'Prescribed Male/Female weights used as normal, even in Mixed Pairs.',
+              },
+            },
           ],
         },
         individual: {
