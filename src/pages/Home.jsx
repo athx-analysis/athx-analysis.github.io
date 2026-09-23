@@ -77,25 +77,6 @@ export default function Home() {
                 tested in a single competition.</>
             )}
           </p>
-
-          {/* Acces rapide, sans scroll : un visiteur qui sait deja ce qu'il est venu chercher
-              (typiquement Simulation) doit pouvoir y aller en un clic depuis le tout premier
-              ecran -- demande explicite ("sans qu'on sache ce qu'il veut voir... si l'utilisateur
-              connait deja le site et veut aller voir la simulation... le plus tot possible"). */}
-          <div className="hero-quicklinks">
-            <Link to="/simulation" className="hero-quicklink">
-              {lang === 'fr' ? 'Simulation' : 'Simulation'}
-              {ARROW}
-            </Link>
-            <Link to="/analyses" className="hero-quicklink">
-              {lang === 'fr' ? 'Analyses' : 'Analyses'}
-              {ARROW}
-            </Link>
-            <Link to="/le-sport" className="hero-quicklink">
-              {lang === 'fr' ? 'Le Sport' : 'The Sport'}
-              {ARROW}
-            </Link>
-          </div>
         </div>
       </section>
 
