@@ -29,9 +29,18 @@ export const OFFICIAL_WORKOUTS = {
           ],
         },
         individual: {
+          // "PRO+ -" (additif, jamais un variant de "10 REP MAX" juste au-dessus) : la page
+          // officielle /workouts/2025 ne mentionne aucune difference ATHX/ATHX Pro, mais les
+          // vrais resultats scrapes (data_general/individual_leaderboard.csv, colonne
+          // "3RM Pull Up") confirment qu'un 3e mouvement existe reellement pour ATHX Pro
+          // uniquement -- voir scripts/reference/workout_format_2025.txt et le fix de
+          // generate_simulation_data.py (bug "3RM Pull Up" du meme nom, deja corrige cote
+          // Simulation). Aucune fenetre de temps precise n'est publiee nulle part pour ce
+          // mouvement : on ne l'invente pas, seule la nature du mouvement est indiquee.
           lines: [
             '0-6MIN', 'BACK SQUAT', '5 REP MAX',
             '6-12 MINS', 'STRICT PRESS', '10 REP MAX',
+            'PRO+ - 3RM PULL UP (BODYWEIGHT + ADDED LOAD)',
             'SCORE - COMBINED WEIGHT OF MAX LIFTS',
           ],
         },
@@ -334,6 +343,7 @@ export const WORKOUT_LINE_FR = {
   'THE FIRST ATHLETE IN A PAIRS TEAM CAN BEGIN SKIING AS SOON AS THEY COMPLETE THE RUN':
     'LE PREMIER ATHLÈTE DE LA PAIRE PEUT COMMENCER LE SKI-ERG DÈS QU\'IL TERMINE SA COURSE',
   'TIME CAP: 25MINS': 'TEMPS LIMITE : 25MIN',
+  '3RM PULL UP (BODYWEIGHT + ADDED LOAD)': '3RM TRACTION LESTÉE (POIDS DE CORPS + LEST AJOUTÉ)',
   'SCORE - COMBINED WEIGHT OF MAX LIFTS': 'SCORE - POIDS COMBINÉ DES CHARGES MAX',
   'SCORE - TOTAL DISTANCE COVERED BY PAIR': 'SCORE - DISTANCE TOTALE PARCOURUE PAR LA PAIRE',
   'SCORE - TOTAL DISTANCE COVERED': 'SCORE - DISTANCE TOTALE PARCOURUE',

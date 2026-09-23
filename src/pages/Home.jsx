@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import AthxLogo from '../components/AthxLogo'
 import Reveal from '../components/Reveal'
@@ -47,6 +47,16 @@ export default function Home() {
 
   const yearData = OFFICIAL_WORKOUTS[year]
   const categoryTag = category === 'ATHX Pro' ? 'PRO' : category === 'LITE' ? 'LITE' : 'ATHX'
+
+  // LITE n'existe pas partout : absent en 2025 (aucune source, officielle ou donnees reelles de
+  // classement, ne montre de categorie LITE cette saison-la) et, en 2026/2027, reserve au
+  // format Team (aucune ligne "LITE -" dans les donnees Solo/individual de workout_official.js
+  // -- verifie ligne par ligne). Le bouton reste visible mais grise/desactive plutot que
+  // silencieusement filtrer vers un contenu incomplet sans prevenir l'utilisateur.
+  const liteAvailable = year !== 2025 && mode === 'pairs'
+  useEffect(() => {
+    if (category === 'LITE' && !liteAvailable) setCategory('ATHX')
+  }, [liteAvailable, category])
 
   return (
     <>
@@ -192,9 +202,22 @@ export default function Home() {
               <div className="wof-filter-block">
                 <span className="wof-filter-title">{lang === 'fr' ? 'Catégorie' : 'Category'}</span>
                 <div className="wof-toggle-group">
-                  {['ATHX', 'ATHX Pro', 'LITE'].map((c) => (
-                    <button key={c} className={`wof-toggle-btn${category === c ? ' active' : ''}`} onClick={() => setCategory(c)}>{c}</button>
-                  ))}
+                  {['ATHX', 'ATHX Pro', 'LITE'].map((c) => {
+                    const disabled = c === 'LITE' && !liteAvailable
+                    return (
+                      <button
+                        key={c}
+                        className={`wof-toggle-btn${category === c ? ' active' : ''}`}
+                        disabled={disabled}
+                        title={disabled ? (lang === 'fr'
+                          ? (year === 2025 ? "LITE n'existait pas en 2025" : 'LITE existe uniquement en Team')
+                          : (year === 2025 ? 'LITE did not exist in 2025' : 'LITE only exists in Team format')) : undefined}
+                        onClick={() => !disabled && setCategory(c)}
+                      >
+                        {c}
+                      </button>
+                    )
+                  })}
                 </div>
               </div>
             </div>

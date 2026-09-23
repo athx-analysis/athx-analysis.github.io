@@ -10,6 +10,13 @@ import { useLanguage } from '../i18n/LanguageContext'
 // lignes INSTRUCTIVES/de score sont traduites en FR (voir WORKOUT_LINE_FR) -- mouvements et
 // chiffres restent en anglais (terminologie internationale du sport).
 const CATEGORY_RE = /^(LITE|ATHX|PRO)\s*-\s*/i
+// Variante "additive" (ex: "PRO+ - 3RM PULL UP..." en Force 2025 individuel) : un mouvement qui
+// EXISTE UNIQUEMENT pour cette categorie, sans remplacer/etre un variant d'un mouvement commun
+// -- contrairement aux lignes CATEGORY_RE normales (qui remplacent la ligne SANS tag juste
+// au-dessus, cas MetCon), une ligne "+" n'efface jamais la ligne precedente : elle s'AJOUTE,
+// point. Necessaire car l'heuristique "ligne sans tag suivie d'une ligne taguee = variante de
+// cette meme ligne" ne tient pas ici (rien a voir entre "10 REP MAX" et "3RM PULL UP").
+const CATEGORY_ADD_RE = /^(LITE|ATHX|PRO)\+\s*-\s*/i
 const SCORE_RE = /^SCORE\b/i
 const TIME_CAP_RE = /TIME CAP/i
 // "0-6MIN", "0-8 MINS", "5-10 MIN", "12-20MIN"... -- ligne qui ne contient QUE une fenetre de
@@ -23,7 +30,7 @@ const GENDER_PAIR_RE = /M\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)\s*\/\s*F\s*:?\s*([\d.]
 function mergeTimeWindowLines(lines) {
   const out = []
   for (let i = 0; i < lines.length; i++) {
-    if (TIME_WINDOW_ONLY_RE.test(lines[i]) && lines[i + 1] && !CATEGORY_RE.test(lines[i + 1])) {
+    if (TIME_WINDOW_ONLY_RE.test(lines[i]) && lines[i + 1] && !CATEGORY_RE.test(lines[i + 1]) && !CATEGORY_ADD_RE.test(lines[i + 1])) {
       out.push(`${lines[i + 1]} : ${lines[i]}`)
       i += 1
     } else {
@@ -41,6 +48,11 @@ function filterByCategory(lines, categoryTag) {
   const out = []
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i]
+    const addM = CATEGORY_ADD_RE.exec(line)
+    if (addM) {
+      if (addM[1].toUpperCase() === categoryTag) out.push(line.replace(CATEGORY_ADD_RE, ''))
+      continue
+    }
     const m = CATEGORY_RE.exec(line)
     if (m) {
       if (m[1].toUpperCase() === categoryTag) out.push(line.replace(CATEGORY_RE, ''))

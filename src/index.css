@@ -2345,6 +2345,17 @@ button {
   color: #ffffff;
 }
 
+/* Option non applicable a la combinaison saison/format en cours (ex: LITE en Solo, ou en 2025)
+   -- grisee et non cliquable plutot que silencieusement filtree vers un contenu incomplet. */
+.wof-toggle-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.wof-toggle-btn:disabled:hover {
+  border-color: var(--border);
+}
+
 /* 5 enfants : carte, fleche (pause), carte, fleche (pause), carte -- colonnes "auto" pour les
    fleches (juste la largeur de leur contenu), le reste partage a parts egales entre les 3
    cartes. */
