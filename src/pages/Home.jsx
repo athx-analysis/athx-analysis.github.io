@@ -10,6 +10,29 @@ const ARROW = (
   <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 11L11 3M11 3H4M11 3V10" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg>
 )
 
+const FLOW_ARROW = (
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M5 12H19M19 12L13 6M19 12L13 18" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" /></svg>
+)
+
+// Pauses OFFICIELLES entre les 3 epreuves -- source : section "How It Works" de la page
+// d'accueil athxgames.com (timeline Start -> Warm-Up 30:00 -> Strength -> Refuel Zone 10:00 ->
+// Endurance -> Recovery Zone 30:00 -> MetCon X -> Finish), confirmee identique sur la page
+// officielle des workouts 2025 (Zone 3.0 Refuel 10 MINS, Zone 5.0 Recovery 30 MINS). Meme
+// structure de pause pour les 3 saisons affichees ici (aucune source ne la donne differente
+// par annee).
+const BREAK_AFTER_STRENGTH = { min: 10, fr: 'Ravitaillement', en: 'Refuel' }
+const BREAK_AFTER_ENDURANCE = { min: 30, fr: 'Récupération', en: 'Recovery' }
+
+function FlowArrow({ theBreak, lang }) {
+  return (
+    <div className="wof-flow-arrow">
+      {FLOW_ARROW}
+      <span className="wof-flow-arrow-time">{theBreak.min} {lang === 'fr' ? 'min' : 'min'}</span>
+      <span className="wof-flow-arrow-label">{lang === 'fr' ? theBreak.fr : theBreak.en}</span>
+    </div>
+  )
+}
+
 // Page d'accroche (nouvelle "/", l'ancienne page d'accueil vit desormais sur /le-sport, voir
 // Sport.jsx) : objectif = hooker un visiteur qui ne connait pas les ATHX Games, lui montrer le
 // format exact en 10 secondes, puis l'amener -- de son plein gre, en apparence -- vers la page
@@ -180,7 +203,9 @@ export default function Home() {
           <Reveal>
             <div className="wof-cards-row">
               <WorkoutFormatCard zone={yearData.zones.strength} mode={mode} gender={gender} categoryTag={categoryTag} />
+              <FlowArrow theBreak={BREAK_AFTER_STRENGTH} lang={lang} />
               <WorkoutFormatCard zone={yearData.zones.endurance} mode={mode} gender={gender} categoryTag={categoryTag} />
+              <FlowArrow theBreak={BREAK_AFTER_ENDURANCE} lang={lang} />
               <WorkoutFormatCard zone={yearData.zones.metconx} mode={mode} gender={gender} categoryTag={categoryTag} />
             </div>
             <p className="source-line" style={{ marginTop: 16 }}>
