@@ -41,30 +41,76 @@ function mergeTimeWindowLines(lines) {
 }
 
 // Etape 2 : ne garde, pour chaque ligne taguee LITE-/ATHX-/PRO-, que celle qui correspond a la
-// categorie selectionnee -- et, si une ligne SANS tag est immediatement suivie d'une variante
-// taguee qui correspond a la selection (cas MetCon : ligne de base = ATHX implicite + override
-// LITE/PRO), la ligne de base s'efface au profit de la variante choisie.
+// categorie selectionnee.
+//
+// Deux motifs distincts dans la source, a ne SURTOUT PAS traiter pareil (bug reel corrige ici,
+// signale par l'utilisateur -- "70KG"/"30"" affiches sans dire a quel mouvement ca correspond) :
+//   1) "Vrai override" (ex: MetCon, mouvement de base = ATHX implicite, SANS tag, suivi d'une
+//      ou deux variantes LITE-/PRO- explicites, jamais de tag "ATHX-" dans ce groupe) : la
+//      ligne de base s'efface au profit de la variante choisie -- MAIS certaines variantes
+//      officielles sont "nues" (juste un poids/une dimension, sans nom de mouvement, car sur
+//      le site officiel la ligne de base reste toujours visible juste au-dessus). Des qu'on la
+//      cache, il faut donc RECOMPOSER le nom du mouvement (copie verbatim depuis la ligne de
+//      base) devant la valeur nue -- jamais la laisser seule.
+//   2) "Groupe a plat" (ex: Endurance, distances LITE-/ATHX-/PRO- toutes les 3 explicitement
+//      taguees, y compris "ATHX-") : la ligne SANS tag juste avant (ex: "Swap Every Time
+//      Athlete Completes") n'est PAS une base a remplacer, c'est une ligne independante
+//      (instruction) qui doit TOUJOURS rester visible, peu importe la categorie choisie -- le
+//      groupe tague est filtre a cote, independamment.
 function filterByCategory(lines, categoryTag) {
   const out = []
-  for (let i = 0; i < lines.length; i++) {
+  let i = 0
+  while (i < lines.length) {
     const line = lines[i]
     const addM = CATEGORY_ADD_RE.exec(line)
     if (addM) {
       if (addM[1].toUpperCase() === categoryTag) out.push(line.replace(CATEGORY_ADD_RE, ''))
+      i += 1
       continue
     }
     const m = CATEGORY_RE.exec(line)
     if (m) {
+      // Ligne tagguee rencontree isolement (groupe "a plat", cf. motif 2 -- un vrai groupe
+      // override, motif 1, saute directement par-dessus ses variantes plus bas).
       if (m[1].toUpperCase() === categoryTag) out.push(line.replace(CATEGORY_RE, ''))
+      i += 1
       continue
     }
     let j = i + 1
-    let overridden = false
+    const siblings = []
     while (j < lines.length && CATEGORY_RE.test(lines[j])) {
-      if (CATEGORY_RE.exec(lines[j])[1].toUpperCase() === categoryTag) overridden = true
+      siblings.push(lines[j])
       j += 1
     }
-    if (!overridden) out.push(line)
+    const siblingTags = siblings.map((s) => CATEGORY_RE.exec(s)[1].toUpperCase())
+    const isTrueOverrideGroup = siblings.length > 0 && !siblingTags.includes('ATHX')
+    if (!isTrueOverrideGroup) {
+      // Motif 2 (ou pas de groupe du tout) : ligne independante, toujours gardee ; ses
+      // eventuels voisins tagues seront traites individuellement aux prochains tours de boucle.
+      out.push(line)
+      i += 1
+      continue
+    }
+    // Motif 1 : vrai override -- ne garde que la variante qui correspond a la categorie
+    // choisie (ou la ligne de base si aucune variante ne correspond, categorie ATHX implicite).
+    const matchLine = siblings.find((s) => CATEGORY_RE.exec(s)[1].toUpperCase() === categoryTag)
+    if (!matchLine) {
+      out.push(line)
+    } else {
+      const stripped = matchLine.replace(CATEGORY_RE, '')
+      // "Nue" = aucun mot d'au moins 3 lettres UNE FOIS le motif poids H/F/MIX retire (sinon
+      // "MIX" lui-meme, 3 lettres, faisait a tort croire a du texte descriptif reel sur les
+      // lignes du style "M: 60 / F: 45 / MIX: 60") -- il faut alors recomposer le nom du
+      // mouvement, copie verbatim depuis la ligne de base juste au-dessus.
+      const isBare = !/[A-Za-z]{3,}/.test(stripped.replace(GENDER_PAIR_RE, ''))
+      if (isBare) {
+        const baseName = line.replace(GENDER_PAIR_RE, '').replace(/\s*-\s*$/, '').trim()
+        out.push(`${baseName} - ${stripped}`)
+      } else {
+        out.push(stripped)
+      }
+    }
+    i = j // saute les variantes du groupe, deja traitees ci-dessus
   }
   return out
 }

@@ -104,6 +104,44 @@ export function bestImprovementTarget(field, perf, improvementPct = IMPROVEMENT_
   return { base, scenarios }
 }
 
+// Classe les MOUVEMENTS de Force du plus fort au plus faible pour cet athlete -- percentile
+// INDIVIDUEL par mouvement (pas le total), seule facon equitable de comparer des mouvements a
+// des echelles differentes (ex: 1RM Strict Press vs 5RM Deadlift, jamais les memes ordres de
+// grandeur en KG). Necessite `field.strength_by_movement` (une liste triee par mouvement,
+// generee par generate_simulation_data.py).
+export function rankMovements(field, movementNames, movementValues) {
+  const byMovement = field?.strength_by_movement
+  if (!byMovement) return []
+  return movementNames.map((name, i) => {
+    const arr = byMovement[name]
+    if (!arr || !arr.length) return null
+    const rank = 1 + countBetter(arr, movementValues[i], 'higher')
+    const n = arr.length
+    return { key: name, label: name, value: movementValues[i], rank, n, pct: (rank / n) * 100 }
+  }).filter(Boolean)
+}
+
+// Pour chaque mouvement de Force, simule un gain de +3% SUR CE SEUL mouvement (les 2 autres
+// mouvements de Force + Endurance + MetCon inchanges) : le nouveau total Force (somme des
+// mouvements, un seul boostee) est resimule contre la MEME population que le reste de la page
+// (field.overall, deja utilisee pour le classement general) -- symetrique a
+// bestImprovementTarget, mais a l'interieur de la seule discipline Force. Valeur affichee
+// arrondie au KG pres (demande explicite).
+export function bestMovementImprovement(field, perf, movementNames, movementValues, improvementPct = IMPROVEMENT_PCT) {
+  const f = improvementPct / 100
+  const base = simulateField(field, perf)
+  if (!base) return null
+  const total = movementValues.reduce((a, b) => a + b, 0)
+  const scenarios = movementNames.map((name, i) => {
+    const boosted = Math.round(movementValues[i] * (1 + f))
+    const newTotal = total - movementValues[i] + boosted
+    const sim = simulateField(field, { ...perf, strength: newTotal })
+    return { key: name, label: name, fromValue: Math.round(movementValues[i]), toValue: boosted, rank: sim.rank, gain: base.rank - sim.rank }
+  })
+  scenarios.sort((a, b) => b.gain - a.gain)
+  return { base, scenarios }
+}
+
 // Classement + marge d'erreur +-3% sur UNE SEULE epreuve (utilise pour les cartes "classement
 // general par epreuve" : rang/percentile sur cette seule dimension, independamment des 2 autres).
 export function simulateDisciplineMargin(field, disciplineKey, rawValue, marginPct = MARGIN_PCT) {

@@ -3,7 +3,7 @@ import simData from '../data/simulation_data.json'
 import AthxLogo from '../components/AthxLogo'
 import WorkoutReference from '../components/WorkoutReference'
 import AthxCard from '../components/charts/AthxCard'
-import { simulateField, simulateWithMargin, bestImprovementTarget, MARGIN_PCT, IMPROVEMENT_PCT } from '../lib/simulate'
+import { simulateField, simulateWithMargin, bestImprovementTarget, rankMovements, bestMovementImprovement, MARGIN_PCT, IMPROVEMENT_PCT } from '../lib/simulate'
 import { useLanguage } from '../i18n/LanguageContext'
 
 // Plateau qualificatif (invitations uniquement) -- non representatif pour un visiteur random,
@@ -140,16 +140,24 @@ export default function Simulation() {
   }), [inputs, lang])
   const hasErrors = Object.values(fieldErrors).some(Boolean)
 
+  // Une valeur par mouvement de Force (2 ou 3 selon saison/categorie, cf. strengthMovements) --
+  // dans le meme ordre que strengthMovements, donc movementValues[i] correspond toujours a
+  // strengthMovements[i].
+  const movementValues = useMemo(
+    () => ['strength0', 'strength1', 'strength2']
+      .slice(0, strengthMovements.length)
+      .map((k) => parseFloat((inputs[k] || '').replace(',', '.')) || 0),
+    [inputs, strengthMovements.length],
+  )
+
   const perf = useMemo(() => {
-    const strength = ['strength0', 'strength1', 'strength2'].reduce(
-      (sum, k) => sum + (parseFloat((inputs[k] || '').replace(',', '.')) || 0), 0,
-    )
+    const strength = movementValues.reduce((sum, v) => sum + v, 0)
     return {
       strength,
       endurance: parseFloat((inputs.endurance || '').replace(',', '.')) || 0,
       metcon: parseClockToSeconds(inputs.metcon) || 0,
     }
-  }, [inputs])
+  }, [inputs, movementValues])
 
   const valid = !hasErrors && perf.strength > 0 && perf.endurance > 0 && perf.metcon > 0
 
@@ -162,6 +170,23 @@ export default function Simulation() {
     if (!field || !submitted || !valid) return null
     return bestImprovementTarget(field.overall, perf)
   }, [field, submitted, valid, perf])
+
+  // Meme principe que "Points forts/faibles" et "Sur quelle epreuve travailler en priorite",
+  // mais A L'INTERIEUR de la Force : quel mouvement est le plus fort/faible (percentile
+  // individuel par mouvement) et lequel, boosté de +3%, rapporte le plus de places au
+  // classement general (pas forcement le meme -- s'ameliorer sur son point faible ne paie pas
+  // toujours le plus, demande explicite de l'utilisateur).
+  const movementRanksByPct = useMemo(() => {
+    if (!field || !submitted || !valid || strengthMovements.length < 2) return []
+    return rankMovements(field.overall, strengthMovements, movementValues).sort((a, b) => a.pct - b.pct)
+  }, [field, submitted, valid, strengthMovements, movementValues])
+  const bestMovement = movementRanksByPct[0]
+  const worstMovement = movementRanksByPct[movementRanksByPct.length - 1]
+
+  const movementImprovement = useMemo(() => {
+    if (!field || !submitted || !valid || strengthMovements.length < 2) return null
+    return bestMovementImprovement(field.overall, perf, strengthMovements, movementValues)
+  }, [field, submitted, valid, strengthMovements, movementValues, perf])
 
   const eventSims = useMemo(() => {
     if (!field || !submitted || !valid) return []
@@ -411,7 +436,27 @@ export default function Simulation() {
             </div>
 
             <div className="sim-result-block">
-              <h3>{lang === 'fr' ? 'Classement par compétition' : 'Ranking by competition'}</h3>
+              <div className="sim-block-head-row">
+                <h3>{lang === 'fr' ? 'Classement par compétition' : 'Ranking by competition'}</h3>
+                <p className="sim-block-note">
+                  {lang === 'fr' ? (
+                    <>Simulation basée sur les résultats réels de la saison {year} scrapés sur ce
+                      site (division {genderLabel(gender)}, catégorie {category}). Le classement
+                      est calculé en comparant directement vos estimations aux performances de
+                      tous les athlètes ayant concouru. La colonne "Marge d'erreur" indique la
+                      plage de classement possible avec une estimation ±{MARGIN_PCT}% plus ou
+                      moins optimiste, l'incertitude habituelle d'une auto-évaluation, pas une
+                      garantie de résultat.</>
+                  ) : (
+                    <>Simulation based on the real results of the {year} season scraped from this
+                      site (division {genderLabel(gender)}, category {category}). The ranking is
+                      calculated by directly comparing your estimates to the performances of
+                      every athlete who competed. The "Margin of error" column shows the possible
+                      ranking range with an estimate ±{MARGIN_PCT}% more or less optimistic — the
+                      usual uncertainty of a self-assessment, not a guarantee of result.</>
+                  )}
+                </p>
+              </div>
               <div className="table-wrap sim-event-table-wrap">
                 <table className="lb-table sim-event-table">
                   <thead>
@@ -492,16 +537,18 @@ export default function Simulation() {
                 <h3>{lang === 'fr' ? 'Sur quelle épreuve travailler en priorité ?' : 'Which event should you prioritize?'}</h3>
                 <p className="sim-improve-intro">
                   {lang === 'fr' ? (
-                    <>Si vous ne deviez progresser que sur UNE seule épreuve (les 2 autres restant
+                    <>Si vous deviez mettre l'accent sur UNE seule épreuve (les 2 autres restant
                       identiques), voici le nombre de places gagnées pour un même effort de +{IMPROVEMENT_PCT}%
                       {' '}de performance, épreuve par épreuve, avec la performance concrète que ça
                       représente. Certaines épreuves rapportent nettement plus de places que d'autres
-                      pour le même effort : c'est là qu'un effort de progression est le plus rentable.</>
+                      en fonction du niveau que vous avez et du niveau des autres participants pour
+                      le même effort : c'est là qu'un effort de progression est le plus rentable.</>
                   ) : (
-                    <>If you could only improve on ONE event (the other 2 staying the same), here's
+                    <>If you had to focus on just ONE event (the other 2 staying the same), here's
                       the number of places gained for the same +{IMPROVEMENT_PCT}% effort in
                       performance, event by event, with the concrete performance that represents.
-                      Some events yield clearly more places than others for the same effort: that's
+                      Some events yield clearly more places than others depending on your own
+                      level and the level of other participants, for the same effort: that's
                       where a progression effort pays off the most.</>
                   )}
                 </p>
@@ -525,25 +572,76 @@ export default function Simulation() {
               </div>
             )}
 
-            <p className="source-line">
-              {lang === 'fr' ? (
-                <>Simulation basée sur les résultats réels de la saison {year} scrapés sur ce site
-                  (division {genderLabel(gender)}, catégorie {category}). Le
-                  classement est calculé en comparant directement vos estimations aux performances
-                  de tous les athlètes ayant concouru. Dans le classement par compétition, la colonne
-                  "Marge d'erreur" indique la plage de classement possible avec une estimation ±{MARGIN_PCT}%
-                  {' '}plus ou moins optimiste, l'incertitude habituelle d'une auto-évaluation, pas une
-                  garantie de résultat.</>
-              ) : (
-                <>Simulation based on the real results of the {year} season scraped from this site
-                  (division {genderLabel(gender)}, category {category}). The ranking is
-                  calculated by directly comparing your estimates to the performances of every
-                  athlete who competed. In the competition ranking, the "Margin of error" column
-                  shows the possible ranking range with an estimate ±{MARGIN_PCT}% more or less
-                  optimistic — the usual uncertainty of a self-assessment, not a guarantee of
-                  result.</>
-              )}
-            </p>
+            {bestMovement && worstMovement && (
+              <div className="sim-result-block">
+                <h3>{lang === 'fr' ? 'Mouvement fort / mouvement faible (Force)' : 'Strong / weak movement (Strength)'}</h3>
+                <p className="sim-improve-intro">
+                  {lang === 'fr' ? (
+                    <>Même principe que les points forts/faibles, mais à l'intérieur de la
+                      Force : chaque mouvement comparé à sa propre population (un 1RM Strict
+                      Press ne se compare pas à un 5RM Deadlift en KG bruts).</>
+                  ) : (
+                    <>Same idea as strengths/weaknesses, but inside Strength itself: each
+                      movement compared to its own population (a 1RM Strict Press can't be
+                      compared to a 5RM Deadlift in raw KG).</>
+                  )}
+                </p>
+                <div className="sim-strength-weakness">
+                  <div className="sim-sw-card sim-sw-good">
+                    <p className="sim-sw-tag">{lang === 'fr' ? 'Mouvement fort' : 'Strong movement'}</p>
+                    <p className="sim-sw-name">{bestMovement.label}</p>
+                    <p className="sim-sw-detail">
+                      {topLabel(bestMovement.pct)}, {formatDisciplineValue('strength', bestMovement.value)}
+                    </p>
+                  </div>
+                  <div className="sim-sw-card sim-sw-bad">
+                    <p className="sim-sw-tag">{lang === 'fr' ? 'Mouvement faible' : 'Weak movement'}</p>
+                    <p className="sim-sw-name">{worstMovement.label}</p>
+                    <p className="sim-sw-detail">
+                      {topLabel(worstMovement.pct)}, {formatDisciplineValue('strength', worstMovement.value)}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {movementImprovement && (
+              <div className="sim-result-block">
+                <h3>{lang === 'fr' ? 'Quel mouvement de Force prioriser ?' : 'Which Strength movement should you prioritize?'}</h3>
+                <p className="sim-improve-intro">
+                  {lang === 'fr' ? (
+                    <>Attention, ce n'est pas forcément votre mouvement faible : s'améliorer de
+                      +{IMPROVEMENT_PCT}% (arrondi au KG près) sur votre point faible ne fait pas
+                      toujours gagner le plus de KG sur le total Force, donc pas forcément le
+                      plus de places au classement général. Voici le vrai classement, mouvement
+                      par mouvement.</>
+                  ) : (
+                    <>Careful, it's not necessarily your weak movement: a +{IMPROVEMENT_PCT}%
+                      improvement (rounded to the nearest KG) on your weak point doesn't always
+                      add the most KG to your total Strength score, so not necessarily the most
+                      places in the overall ranking. Here's the real ranking, movement by
+                      movement.</>
+                  )}
+                </p>
+                <div className="sim-improve-grid">
+                  {movementImprovement.scenarios.map((s, i) => (
+                    <div key={s.key} className={`sim-improve-card${i === 0 ? ' sim-improve-best' : ''}`}>
+                      <p className="sim-improve-label">
+                        {s.label}{i === 0 ? (lang === 'fr' ? ', le plus rentable' : ', the most profitable') : ''}
+                      </p>
+                      <p className="sim-improve-values">
+                        {formatDisciplineValue('strength', s.fromValue)} → {formatDisciplineValue('strength', s.toValue)}
+                      </p>
+                      <p className="sim-improve-gain">
+                        {s.gain > 0
+                          ? `+${fmtInt(s.gain)} ${lang === 'fr' ? `place${s.gain > 1 ? 's' : ''}` : `place${s.gain > 1 ? 's' : ''}`}`
+                          : (lang === 'fr' ? 'aucun gain' : 'no gain')}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </section>
       )}
