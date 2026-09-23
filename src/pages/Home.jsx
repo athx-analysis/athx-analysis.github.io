@@ -214,13 +214,13 @@ export default function Home() {
           <Reveal>
             <p className="about-closing-text" style={{ marginTop: 20 }}>
               {lang === 'fr' ? (
-                <>Tu as déjà une petite idée de tes performances sur les 3 épreuves ? Ne la laisse
-                  pas de côté : simule ton classement pour voir exactement où tu te situerais, et
-                  si une épreuve mérite un travail prioritaire.</>
+                <>Tu as déjà une idée de tes performances sur les 3 épreuves ? Simule ton
+                  classement pour voir exactement où tu te situerais, et si une épreuve mérite un
+                  travail prioritaire.</>
               ) : (
-                <>Already have a rough idea of your performance on the 3 events? Don't leave it
-                  guesswork: simulate your ranking to see exactly where you'd stand, and whether
-                  one event deserves priority work.</>
+                <>Already have an idea of your performance on the 3 events? Simulate your ranking
+                  to see exactly where you'd stand, and whether one event deserves priority
+                  work.</>
               )}
               <br /><br />
               <Link to="/simulation" className="closing-text-link">
