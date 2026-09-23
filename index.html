@@ -25,13 +25,12 @@
     <!--
       Mesure d'audience, sans cookie, respectueuse de la vie privee (Cloudflare Web
       Analytics -- gratuit, ne depose aucun cookie, ne fait aucun profilage : pas besoin de
-      bandeau de consentement, cf. /cookie-policy). Pour l'activer : creer un compte gratuit
-      sur https://dash.cloudflare.com -> Analytics -> Web Analytics -> ajouter ce site ->
-      copier le "beacon token" fourni et remplacer REMPLACER-PAR-TON-TOKEN ci-dessous. Tant que
-      le token n'est pas renseigne, ce script ne fait rien (401 silencieux, pas d'erreur
-      visible, pas de tracking).
+      bandeau de consentement, cf. /cookie-policy). Dashboard : dash.cloudflare.com -> Web
+      Analytics -> athx-analysis.github.io.
     -->
-    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "REMPLACER-PAR-TON-TOKEN"}'></script>
+    <!-- Cloudflare Web Analytics -->
+    <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "bd263f8492074642901201daf417d937"}'></script>
+    <!-- End Cloudflare Web Analytics -->
   </head>
   <body>
     <div id="root"></div>
