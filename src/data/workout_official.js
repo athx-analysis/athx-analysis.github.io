@@ -289,3 +289,65 @@ export const OFFICIAL_WORKOUTS = {
 }
 
 export const OFFICIAL_YEARS = [2025, 2026, 2027]
+
+// Traduction FR des lignes INSTRUCTIVES/de score (phrases en anglais courant, pas de la
+// terminologie de mouvement) -- demande explicite de l'utilisateur ("SWAP EVERY 750M RUN/ROW
+// COMPLETED" doit s'afficher en francais en mode FR). Les noms de mouvements (STRICT PRESS,
+// BACK SQUAT, GTOH...) et les chiffres/unites (KG, MIN, M, KM...) restent volontairement en
+// anglais partout (terminologie internationale du sport, cf. Simulation/Home) -- seules les
+// phrases d'explication du deroule et les lignes "SCORE -" sont traduites ici. Cle = ligne
+// EXACTE telle qu'affichee (apres retrait du prefixe LITE-/ATHX-/PRO- et apres reduction du
+// genre a la valeur choisie) ; absente de cette table = affichee telle quelle (fallback sur).
+export const WORKOUT_LINE_FR = {
+  'A. RUN': 'A. COURSE',
+  'B. ROW': 'B. RAMEUR',
+  'A. 12MIN MAX DISTANCE RUN': 'A. COURSE, DISTANCE MAX EN 12MIN',
+  'B. 12MIN MAX DISTANCE BIKE': 'B. VÉLO, DISTANCE MAX EN 12MIN',
+  '12MIN MAX DISTANCE RUN': 'COURSE, DISTANCE MAX EN 12MIN',
+  '2 MINS REST': '2MIN DE REPOS',
+  '12MIN MAX DISTANCE BIKE': 'VÉLO, DISTANCE MAX EN 12MIN',
+  'ONE PERSON STARTS ON A AND THE OTHER STARTS ON B. AT 12MINS THEY SWITCH':
+    "UN ATHLÈTE COMMENCE SUR A, L'AUTRE SUR B. À 12MIN, ILS ÉCHANGENT",
+  'ATHLETE A STARTS ON RUN - ATHLETE B STARTS ON ROW': 'ATHLÈTE A COMMENCE SUR LA COURSE - ATHLÈTE B SUR LE RAMEUR',
+  'Swap Every Time Athlete Completes': "Changement à chaque fois qu'un athlète termine",
+  'Athlete Starts On Run': "L'athlète commence sur la course",
+  'SWAP EVERY 750M RUN/ROW COMPLETED': 'CHANGEMENT TOUS LES 750M COURSE/RAMEUR TERMINÉS',
+  'SWAP EVERY 1K RUN/ROW COMPLETED': 'CHANGEMENT TOUS LES 1KM COURSE/RAMEUR TERMINÉS',
+  'AT 12 MIN': 'À 12 MIN',
+  'ATHLETE A - LIFT 1': 'ATHLÈTE A - LEVÉE 1',
+  'ATHLETE A - LIFT 2': 'ATHLÈTE A - LEVÉE 2',
+  'ATHLETE B - LIFT 1': 'ATHLÈTE B - LEVÉE 1',
+  'ATHLETE B - LIFT 2': 'ATHLÈTE B - LEVÉE 2',
+  '1 MIN REST': '1 MIN DE REPOS',
+  '2 MIN WARM UP FOR ATHLETE B': "2 MIN D'ÉCHAUFFEMENT POUR L'ATHLÈTE B",
+  'EACH ATHLETE HAS 2 x 1 MIN WINDOWS TO ACHIEVE A 3RM': 'CHAQUE ATHLÈTE A 2 FENÊTRES DE 1 MIN POUR RÉALISER UN 3RM',
+  'COMPLETE AS 3 CONTINUOUS REPS OR 3 SINGLES WITHIN 1 MINUTE':
+    'À RÉALISER EN 3 RÉPÉTITIONS ENCHAÎNÉES OU 3 RÉPÉTITIONS UNIQUES EN 1 MINUTE',
+  '10-12 MIN - ATHLETE A - WARM UP': '10-12 MIN - ATHLÈTE A - ÉCHAUFFEMENT',
+  '10-12 MIN - WARM UP': '10-12 MIN - ÉCHAUFFEMENT',
+  '1 MIN TO COMPLETE 3RM': '1 MIN POUR RÉALISER LE 3RM',
+  'ATHLETE HAS 2 x 1 MIN WINDOWS TO ACHIEVE A 3RM': "L'ATHLÈTE A 2 FENÊTRES DE 1 MIN POUR RÉALISER UN 3RM",
+  'SET DISTANCE RUN': 'COURSE À DISTANCE FIXE',
+  'BOTH ATHLETES START THE SET DISTANCE RUN AT THE SAME TIME':
+    'LES DEUX ATHLÈTES DÉMARRENT LA COURSE À DISTANCE FIXE EN MÊME TEMPS',
+  'MAX DISTANCE SKI': 'SKI-ERG, DISTANCE MAX',
+  'THE FIRST ATHLETE IN A PAIRS TEAM CAN BEGIN SKIING AS SOON AS THEY COMPLETE THE RUN':
+    'LE PREMIER ATHLÈTE DE LA PAIRE PEUT COMMENCER LE SKI-ERG DÈS QU\'IL TERMINE SA COURSE',
+  'TIME CAP: 25MINS': 'TEMPS LIMITE : 25MIN',
+  'SCORE - COMBINED WEIGHT OF MAX LIFTS': 'SCORE - POIDS COMBINÉ DES CHARGES MAX',
+  'SCORE - TOTAL DISTANCE COVERED BY PAIR': 'SCORE - DISTANCE TOTALE PARCOURUE PAR LA PAIRE',
+  'SCORE - TOTAL DISTANCE COVERED': 'SCORE - DISTANCE TOTALE PARCOURUE',
+  'SCORE - TIME TO COMPLETE': 'SCORE - TEMPS POUR TERMINER',
+  'SCORE - TOTAL WEIGHT LIFTED BY PAIR': 'SCORE - POIDS TOTAL SOULEVÉ PAR LA PAIRE',
+  'SCORE - TOTAL WEIGHT LIFTED BY INDIVIDUAL': 'SCORE - POIDS TOTAL SOULEVÉ',
+  'SCORE - TOTAL DISTANCE COVERED BY INDIVIDUAL': 'SCORE - DISTANCE TOTALE PARCOURUE',
+  'SCORE - SUM OF ALL THREE COMPONENTS': 'SCORE - SOMME DES TROIS COMPOSANTES',
+  'DEADLIFT SCORE - AVERAGE OF EACH ATHLETES 2 LIFTS': 'SCORE DEADLIFT - MOYENNE DES 2 LEVÉES DE CHAQUE ATHLÈTE',
+  'DEADLIFT SCORE - AVERAGE OF 2 LIFTS': 'SCORE DEADLIFT - MOYENNE DES 2 LEVÉES',
+  'SCORE - TOTAL DISTANCE ACHIEVED ON SKI-ERG': 'SCORE - DISTANCE TOTALE RÉALISÉE AU SKI-ERG',
+  'SCORE - TIME TAKEN TO COMPLETE THE WORKOUT': 'SCORE - TEMPS POUR TERMINER LE WORKOUT',
+  'Reps split between the pair as desired apart from Sandbag Carry that will be split 30m/30m':
+    "Répétitions réparties comme la paire le souhaite, sauf le Sandbag Carry, réparti 30m/30m",
+  'Mixed Pairs use female box height for BJO and Female DBs for Lunges. DB GTOH & Sandbag Carry use the prescribed M & F weights.':
+    'Les paires mixtes utilisent la hauteur de box Femme pour les BJO et les haltères Femme pour les Lunges. DB GTOH et Sandbag Carry utilisent les poids H/F prescrits.',
+}

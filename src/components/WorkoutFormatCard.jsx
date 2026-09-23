@@ -1,9 +1,14 @@
+import { WORKOUT_LINE_FR } from '../data/workout_official'
+import { useLanguage } from '../i18n/LanguageContext'
+
 // Rendu d'UNE zone (Force/Endurance/MetCon X) du format officiel ATHX, verbatim (voir
 // src/data/workout_official.js). Les chiffres/mots source ne sont jamais reformules -- mais,
 // demande explicite de l'utilisateur, la categorie et le genre NON selectionnes sont retires
 // de l'affichage plutot que simplement estompes (ex: un utilisateur qui regarde le format ATHX
 // "normal" n'a pas a voir la distance PRO/LITE, ca embrouille) : la valeur gardee est toujours
-// copiee mot pour mot depuis la source, seule la mise en page choisit laquelle montrer.
+// copiee mot pour mot depuis la source, seule la mise en page choisit laquelle montrer. Les
+// lignes INSTRUCTIVES/de score sont traduites en FR (voir WORKOUT_LINE_FR) -- mouvements et
+// chiffres restent en anglais (terminologie internationale du sport).
 const CATEGORY_RE = /^(LITE|ATHX|PRO)\s*-\s*/i
 const SCORE_RE = /^SCORE\b/i
 const TIME_CAP_RE = /TIME CAP/i
@@ -60,6 +65,7 @@ function filterGenderInLine(line, gender) {
 }
 
 export default function WorkoutFormatCard({ zone, mode, gender, categoryTag }) {
+  const { lang } = useLanguage()
   const data = mode === 'pairs' ? zone.pairs : zone.individual
   if (!data) return null
 
@@ -75,17 +81,22 @@ export default function WorkoutFormatCard({ zone, mode, gender, categoryTag }) {
       </div>
       <div className="wof-card-body">
         {lines.map((line, i) => {
+          // Classification toujours sur le texte source anglais (stable quelle que soit la
+          // langue) -- seul l'affichage change.
           const isScore = SCORE_RE.test(line)
           const isTimeCap = TIME_CAP_RE.test(line)
+          const display = lang === 'fr' ? (WORKOUT_LINE_FR[line] || line) : line
           let cls = 'wof-line'
           if (isScore) cls += ' wof-line-score'
           else if (isTimeCap) cls += ' wof-line-timecap'
-          return <div key={i} className={cls}>{line}</div>
+          return <div key={i} className={cls}>{display}</div>
         })}
       </div>
       {data.notes && (
         <div className="wof-notes">
-          {data.notes.map((n, i) => <p key={i}>{n}</p>)}
+          {data.notes.map((n, i) => (
+            <p key={i}>{lang === 'fr' ? (WORKOUT_LINE_FR[n] || n) : n}</p>
+          ))}
         </div>
       )}
     </div>

@@ -2244,6 +2244,7 @@ button {
   display: flex;
   flex-direction: column;
   gap: 7px;
+  flex: 1;
 }
 
 .wof-line {
@@ -2253,8 +2254,11 @@ button {
   word-break: break-word;
 }
 
+/* Demande explicite : le score toujours tout en bas de la carte (pas juste apres le texte),
+   quelle que soit la longueur du contenu au-dessus -- .wof-card-body est etire en pleine
+   hauteur (flex:1 ci-dessus), margin-top:auto pousse la ligne SCORE jusqu'au bas. */
 .wof-line-score {
-  margin-top: 6px;
+  margin-top: auto;
   padding-top: 10px;
   border-top: 1px dashed var(--border-dark);
   font-weight: 700;

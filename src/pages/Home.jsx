@@ -50,32 +50,22 @@ export default function Home() {
       <section className="section">
         <div className="container">
           <Reveal>
-            <h2 className="hook-section-title">
-              {lang === 'fr' ? '3 questions, 3 réponses.' : '3 questions, 3 answers.'}
-            </h2>
-            <p className="hook-section-sub">
-              {lang === 'fr'
-                ? 'Chacune trouve sa réponse sur une page différente du site.'
-                : 'Each one gets answered on a different page of this site.'}
-            </p>
             <div className="hook-cards">
-              <Link to="/simulation" className="hook-card">
+              <Link to="/le-sport" className="hook-card">
                 <span className="hook-card-num">01</span>
-                <span className="hook-card-eyebrow">{lang === 'fr' ? 'Simulation' : 'Simulation'}</span>
-                <h3 className="hook-card-title">{lang === 'fr' ? 'Où te situerais-tu ?' : 'Where would you rank?'}</h3>
+                <span className="hook-card-eyebrow">{lang === 'fr' ? 'Le Sport' : 'The Sport'}</span>
+                <h3 className="hook-card-title">{lang === 'fr' ? 'Un sport d\'avenir ?' : 'A sport with a future?'}</h3>
                 <p className="hook-card-body">
                   {lang === 'fr' ? (
-                    <>Tu hésites à t'inscrire à un ATHX ? Découvre exactement où tu te classerais
-                      face aux vrais résultats de la saison, ton point fort, ton point faible, et
-                      l'épreuve sur laquelle progresser en priorité.</>
+                    <>ATHX pourra-t-il un jour rivaliser avec HYROX ? Le sport construit-il son
+                      image de marque avec des athlètes phares ?</>
                   ) : (
-                    <>On the fence about signing up for an ATHX? Find out exactly where you'd rank
-                      against this season's real results, your strength, your weakness, and which
-                      event to prioritize.</>
+                    <>Could ATHX one day rival HYROX? Is the sport building its brand with
+                      standout athletes?</>
                   )}
                 </p>
                 <span className="hook-card-cta">
-                  {lang === 'fr' ? 'Simuler mon classement' : 'Simulate my ranking'}
+                  {lang === 'fr' ? 'Découvrir la croissance ATHX' : "Discover ATHX's growth"}
                   <span className="btn-pill-icon">{ARROW}</span>
                 </span>
               </Link>
@@ -86,12 +76,13 @@ export default function Home() {
                 <h3 className="hook-card-title">{lang === 'fr' ? 'Faut-il être bon partout ?' : 'Do you need to be good at everything?'}</h3>
                 <p className="hook-card-body">
                   {lang === 'fr' ? (
-                    <>Un point faible peut-il vraiment être compensé par deux points forts ? Existe-t-il
-                      un profil type chez les meilleurs ? Et à partir de quel niveau progresser encore
-                      ne rapporte (presque) plus rien ?</>
+                    <>Peut-on vraiment compenser un point faible ? Existe-t-il un profil type chez
+                      les meilleurs ? Et à partir de quel niveau de performance l'optimisation de
+                      la performance devient-elle moins rentable ?</>
                   ) : (
-                    <>Can a weak spot really be offset by two strengths? Is there a typical profile
-                      among the best? And past what level does getting even better stop paying off?</>
+                    <>Can a weak spot really be compensated for? Is there a typical profile among
+                      the best? And past what performance level does optimizing performance
+                      further stop paying off?</>
                   )}
                 </p>
                 <span className="hook-card-cta">
@@ -100,23 +91,23 @@ export default function Home() {
                 </span>
               </Link>
 
-              <Link to="/le-sport" className="hook-card">
+              <Link to="/simulation" className="hook-card">
                 <span className="hook-card-num">03</span>
-                <span className="hook-card-eyebrow">{lang === 'fr' ? 'Le Sport' : 'The Sport'}</span>
-                <h3 className="hook-card-title">{lang === 'fr' ? 'Un sport d\'avenir ?' : 'A sport with a future?'}</h3>
+                <span className="hook-card-eyebrow">{lang === 'fr' ? 'Simulation' : 'Simulation'}</span>
+                <h3 className="hook-card-title">{lang === 'fr' ? 'Où te situerais-tu ?' : 'Where would you rank?'}</h3>
                 <p className="hook-card-body">
                   {lang === 'fr' ? (
-                    <>Ce jeune circuit a-t-il vraiment le vent en poupe, ou juste l'air d'y être ?
-                      Peut-il un jour rivaliser avec HYROX ? Et les athlètes reviennent-ils
-                      vraiment, saison après saison ?</>
+                    <>Tu hésites à t'inscrire à un ATHX ? Découvre exactement où tu te classerais
+                      face aux vrais résultats de la saison, tes points forts, tes points faibles,
+                      et l'épreuve sur laquelle progresser en priorité.</>
                   ) : (
-                    <>Is this young circuit really on the rise, or does it just look that way? Could
-                      it one day rival HYROX? And do athletes actually come back, season after
-                      season?</>
+                    <>On the fence about signing up for an ATHX? Find out exactly where you'd rank
+                      against this season's real results, your strengths, your weaknesses, and
+                      which event to prioritize.</>
                   )}
                 </p>
                 <span className="hook-card-cta">
-                  {lang === 'fr' ? 'Découvrir la croissance ATHX' : "Discover ATHX's growth"}
+                  {lang === 'fr' ? 'Simuler mon classement' : 'Simulate my ranking'}
                   <span className="btn-pill-icon">{ARROW}</span>
                 </span>
               </Link>
@@ -127,6 +118,19 @@ export default function Home() {
             <h2 className="wof-page-title" style={{ marginTop: 64 }}>
               {lang === 'fr' ? 'Déroulement de la compétition' : 'How the Competition Works'}
             </h2>
+            <p className="about-intro-text" style={{ marginBottom: 28 }}>
+              {lang === 'fr' ? (
+                <>Le format change chaque saison, décliné en plusieurs catégories (LITE, ATHX,
+                  ATHX Pro) et adapté au genre comme au format Team. Sur chaque épreuve, l'athlète
+                  est classé ; l'addition de ces trois classements donne son score total — et
+                  l'objectif est d'obtenir la somme la plus basse possible.</>
+              ) : (
+                <>The format changes every season, split into several categories (LITE, ATHX,
+                  ATHX Pro) and adapted for gender and for the Team format. On each event, the
+                  athlete is ranked; adding up those three rankings gives their total score — and
+                  the goal is to get the lowest sum possible.</>
+              )}
+            </p>
 
             <div className="wof-filter-row">
               <div className="wof-filter-block">
@@ -202,6 +206,25 @@ export default function Home() {
               <br /><br />
               <Link to="/analyses" className="closing-text-link">
                 {lang === 'fr' ? 'La réponse est dans les chiffres' : 'The answer is in the numbers'}
+                <span className="btn-pill-icon">{ARROW}</span>
+              </Link>
+            </p>
+          </Reveal>
+
+          <Reveal>
+            <p className="about-closing-text" style={{ marginTop: 20 }}>
+              {lang === 'fr' ? (
+                <>Tu as déjà une petite idée de tes performances sur les 3 épreuves ? Ne la laisse
+                  pas de côté : simule ton classement pour voir exactement où tu te situerais, et
+                  si une épreuve mérite un travail prioritaire.</>
+              ) : (
+                <>Already have a rough idea of your performance on the 3 events? Don't leave it
+                  guesswork: simulate your ranking to see exactly where you'd stand, and whether
+                  one event deserves priority work.</>
+              )}
+              <br /><br />
+              <Link to="/simulation" className="closing-text-link">
+                {lang === 'fr' ? 'Simuler mon classement' : 'Simulate my ranking'}
                 <span className="btn-pill-icon">{ARROW}</span>
               </Link>
             </p>
