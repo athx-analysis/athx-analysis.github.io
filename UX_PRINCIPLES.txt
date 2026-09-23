@@ -1,0 +1,69 @@
+ATHX ANALYSIS — PRINCIPES UX/UI (site "moderne 2026")
+========================================================
+Règles déduites de la vision du site telle qu'exprimée par le porteur du projet. À relire
+avant toute nouvelle page/fonctionnalité : chaque ajout devrait pouvoir se justifier par au
+moins une de ces règles.
+
+1. HOOK IMMÉDIAT, POUR TOUS LES PROFILS
+   La première chose vue doit parler à la fois à quelqu'un qui ne connaît pas ATHX (expliquer
+   ce que c'est, vite, sans jargon) ET à quelqu'un qui connaît déjà (lui montrer la valeur
+   ajoutée du site en quelques secondes : "voilà ce que tu peux faire ici que tu ne trouves
+   pas ailleurs"). Ne jamais supposer un seul type de visiteur.
+
+2. INTRIGUER AVANT D'EXPLIQUER
+   Poser la question avant que le visiteur se la pose lui-même. Une accroche qui déclenche une
+   question ("et si...", "est-ce vraiment le cas ?") retient mieux qu'une accroche qui
+   déclare un fait. Le contenu répond ensuite à une curiosité déjà éveillée, pas à une
+   question que personne ne s'était posée.
+
+3. ROUTER PAR INTENTION PERÇUE, PAS PAR MENU
+   Le visiteur sait souvent déjà ce qu'il est venu chercher (simuler son classement, lire le
+   contexte du sport, éplucher les chiffres). La page d'accueil doit lui permettre d'y aller
+   en un clic, sans lire ni scroller, tout en fonctionnant aussi pour celui qui ne sait pas
+   encore ce qu'il veut. Concrètement : plusieurs points d'entrée visibles dès le haut de
+   page, pas un unique chemin linéaire obligatoire.
+
+4. L'ILLUSION DU CHOIX, PAS LA PARALYSIE DU CHOIX
+   Peu d'options, mais rendues évidentes (gros boutons, contraste fort, peu d'ambiguïté).
+   L'utilisateur doit sentir qu'il choisit son chemin — même si, dans les faits, toutes les
+   routes le ramènent vers le même objectif final (la simulation). Beaucoup de choix cachés
+   dans du texte = paralysie. Peu de choix gros et visibles = engagement.
+
+5. DONNER L'IMPRESSION DE CHERCHER SOI-MÊME
+   Un contenu entièrement pré-mâché (tout affiché d'un coup) n'engage pas ; un contenu
+   totalement caché décourage. La bonne zone : une question posée, une réponse courte
+   immédiate pour celui qui veut juste la conclusion, et un chemin de découverte optionnel
+   (un clic, une carte qui se retourne, un "voir pourquoi") pour celui qui veut fouiller. Les
+   deux profils doivent trouver leur compte sur la même page, sans that l'un gêne l'autre.
+
+6. TRANSITIONS SUGGÉRÉES, JAMAIS SUBIES
+   Ne jamais compter sur le simple scroll pour faire découvrir la suite. Chaque section/page
+   doit se terminer par une suggestion claire et engageante vers l'étape suivante (gros CTA,
+   pas un lien perdu dans le texte) — comme un escape game qui guide sans jamais donner
+   l'impression de forcer la main.
+
+7. LISIBILITÉ AVANT TOUT
+   Jamais de texte gris sur fond gris, jamais de contraste borderline. Le texte secondaire
+   doit rester secondaire par la hiérarchie (taille, poids), pas par un contraste qui le rend
+   difficile à lire. Un utilisateur qui doit plisser les yeux part.
+
+8. LA COMPLEXITÉ SE DOMESTIQUE, ELLE NE SE CACHE PAS
+   Les graphiques/analyses complexes restent complexes dans le fond, mais la présentation doit
+   toujours offrir un point d'entrée simple (une réponse courte en une phrase) avant le détail
+   complet. Le détail ne doit jamais être un prérequis pour comprendre le message principal.
+
+9. PEU DE SCROLL DE TEXTE PUR
+   En 2026, un mur de texte à lire perd l'attention. Préférer l'interaction (cliquer pour
+   révéler, choisir un filtre, naviguer par carte) au défilement passif chaque fois que
+   c'est possible.
+
+10. TOUT MÈNE QUELQUE PART
+    Chaque page a un objectif de destination finale implicite (la simulation, ici). Le
+    contenu de chaque page doit non seulement informer, mais aussi donner une raison
+    concrète de continuer vers la suite du parcours.
+
+11. EXACTITUDE NON NÉGOCIABLE, MÊME QUAND ON SIMPLIFIE L'UX
+    Rendre une info plus digeste ou plus interactive ne justifie jamais de l'approximer, de
+    l'inventer ou de perdre un cas particulier en chemin (ex : une catégorie qui n'existe pas
+    pour toutes les combinaisons doit rester absente/désactivée, jamais présentée comme
+    disponible par défaut). L'UX habille la donnée vraie, elle ne la remplace jamais.

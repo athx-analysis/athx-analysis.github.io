@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import AthxLogo from '../components/AthxLogo'
 import Reveal from '../components/Reveal'
 import EvidenceToggle from '../components/EvidenceToggle'
+import RevealQuestion from '../components/RevealQuestion'
 import SegmentPicker from '../components/SegmentPicker'
 import ScatterWithFit from '../components/charts/ScatterWithFit'
 import RadarProfile from '../components/charts/RadarProfile'
@@ -69,70 +70,78 @@ export default function Analyses() {
       <section className="section analyses-act">
         <div className="container">
           <Reveal>
-            <h2 className="section-heading section-heading-tight">
-              {lang === 'fr' ? 'Quels sont les profils qui font un ATHX ?' : 'What profiles make an ATHX athlete?'}
-            </h2>
-            <p className="question-subtitle">
-              {t('answer_prefix')} : {lang === 'fr' ? "aucun profil ne se distingue vraiment d'un autre." : "no profile really stands out from another."}
-            </p>
-            <p className="about-intro-text">
-              {lang === 'fr' ? (
-                <>En regardant Force, Endurance et MetCon deux à deux, on ne voit pas de groupe
-                  particulier qui se détache : les athlètes se répartissent sur un continuum, pas
-                  en profils bien séparés.</>
-              ) : (
-                <>Looking at Strength, Endurance and MetCon two at a time, no particular group
-                  stands out: athletes spread out over a continuum, not into clearly separate
-                  profiles.</>
-              )}
-            </p>
-          </Reveal>
-          <Reveal className="analyses-chart-block">
-            <SegmentPicker segments={data.segments} value={pairKey} onChange={setPairKey} />
-            {pairSeg?.pairwise ? (
-              <div className="analyses-threeup">
-                {PAIR_SPECS.map((spec) => {
-                  const raw = pairSeg.pairwise.pairs[`${spec.aKey}__${spec.bKey}`] || []
-                  // metcon_perf = -temps en secondes -- reconverti en minutes (site entier : on
-                  // parle toujours en minutes pour le MetCon, jamais en secondes brutes).
-                  const points = raw.map((p) => ({
-                    x: p.x, y: spec.bIsMetcon ? secToMin(-p.y) : p.y,
-                  }))
-                  return (
-                    <div key={spec.key} className="about-block-chart">
-                      <ScatterWithFit
-                        title={`${spec.aLabel} / ${spec.bLabel}`}
-                        points={points}
-                        xLabel={spec.aLabel} xUnit={spec.aUnit}
-                        yLabel={spec.bLabel} yUnit={spec.bUnit}
-                        yReversed={spec.bIsMetcon}
-                        yTickFormatter={spec.bIsMetcon ? fmtMin : undefined}
-                        pointSize={2} pointOpacity={0.5}
-                      />
-                    </div>
-                  )
-                })}
-              </div>
-            ) : <p className="chart-caption">{notEnoughData}</p>}
-            <EvidenceToggle label={lang === 'fr' ? 'Comment lire ces graphiques ?' : 'How to read these charts?'}>
-              <p className="about-intro-text" style={{ marginBottom: 0 }}>
+            <RevealQuestion
+              nextId="q2"
+              title={
+                <h2 className="section-heading section-heading-tight">
+                  {lang === 'fr' ? 'Quels sont les profils qui font un ATHX ?' : 'What profiles make an ATHX athlete?'}
+                </h2>
+              }
+              answer={
+                <p className="question-subtitle">
+                  {t('answer_prefix')} : {lang === 'fr' ? "aucun profil ne se distingue vraiment d'un autre." : "no profile really stands out from another."}
+                </p>
+              }
+            >
+              <p className="about-intro-text">
                 {lang === 'fr' ? (
-                  <>Chaque point est un athlète, comparé sur deux épreuves à la fois. Si des profils
-                    distincts existaient, on verrait des amas séparés dans les nuages — ce n'est pas
-                    le cas.</>
+                  <>En regardant Force, Endurance et MetCon deux à deux, on ne voit pas de groupe
+                    particulier qui se détache : les athlètes se répartissent sur un continuum, pas
+                    en profils bien séparés.</>
                 ) : (
-                  <>Each point is one athlete, compared on two events at a time. If distinct
-                    profiles existed, we'd see separate clusters in the clouds — that's not the
-                    case.</>
+                  <>Looking at Strength, Endurance and MetCon two at a time, no particular group
+                    stands out: athletes spread out over a continuum, not into clearly separate
+                    profiles.</>
                 )}
               </p>
-            </EvidenceToggle>
+              <div className="analyses-chart-block">
+                <SegmentPicker segments={data.segments} value={pairKey} onChange={setPairKey} />
+                {pairSeg?.pairwise ? (
+                  <div className="analyses-threeup">
+                    {PAIR_SPECS.map((spec) => {
+                      const raw = pairSeg.pairwise.pairs[`${spec.aKey}__${spec.bKey}`] || []
+                      // metcon_perf = -temps en secondes -- reconverti en minutes (site entier : on
+                      // parle toujours en minutes pour le MetCon, jamais en secondes brutes).
+                      const points = raw.map((p) => ({
+                        x: p.x, y: spec.bIsMetcon ? secToMin(-p.y) : p.y,
+                      }))
+                      return (
+                        <div key={spec.key} className="about-block-chart">
+                          <ScatterWithFit
+                            title={`${spec.aLabel} / ${spec.bLabel}`}
+                            points={points}
+                            xLabel={spec.aLabel} xUnit={spec.aUnit}
+                            yLabel={spec.bLabel} yUnit={spec.bUnit}
+                            yReversed={spec.bIsMetcon}
+                            yTickFormatter={spec.bIsMetcon ? fmtMin : undefined}
+                            pointSize={2} pointOpacity={0.5}
+                          />
+                        </div>
+                      )
+                    })}
+                  </div>
+                ) : <p className="chart-caption">{notEnoughData}</p>}
+                <EvidenceToggle label={lang === 'fr' ? 'Comment lire ces graphiques ?' : 'How to read these charts?'}>
+                  <p className="about-intro-text" style={{ marginBottom: 0 }}>
+                    {lang === 'fr' ? (
+                      <>Chaque point est un athlète, comparé sur deux épreuves à la fois. Si des profils
+                        distincts existaient, on verrait des amas séparés dans les nuages — ce n'est pas
+                        le cas.</>
+                    ) : (
+                      <>Each point is one athlete, compared on two events at a time. If distinct
+                        profiles existed, we'd see separate clusters in the clouds — that's not the
+                        case.</>
+                    )}
+                  </p>
+                </EvidenceToggle>
+              </div>
+            </RevealQuestion>
           </Reveal>
         </div>
       </section>
 
       {/* ================= Q2 : profil precis ================= */}
-      <section className="section analyses-act" style={{ background: 'var(--bg-panel)' }}>
+      <section id="q2" className="section analyses-act" style={{ background: 'var(--bg-panel)' }}>
         <div className="container">
           <Reveal className="about-block reverse">
             <div className="about-block-text">
@@ -496,19 +505,22 @@ export default function Analyses() {
               <>
                 <strong>Alors, où vous situez-vous ?</strong> Toutes ces analyses tournent autour d'une
                 même conclusion : le classement se lit par épreuve, et le bon conseil dépend
-                entièrement de votre profil personnel, pas d'une règle générale. La page{' '}
-                <Link to="/simulation">Simulation</Link> applique exactement cette méthode à vos propres
-                estimations : votre classement réel, vos points forts, vos points faibles.
+                entièrement de votre profil personnel, pas d'une règle générale.
               </>
             ) : (
               <>
                 <strong>So, where do you stand?</strong> All these analyses circle back to the same
                 conclusion: the ranking is read event by event, and the right advice depends
-                entirely on your own profile, not on a general rule. The{' '}
-                <Link to="/simulation">Simulation</Link> page applies exactly this method to your own
-                estimates: your real ranking, your strengths, your weaknesses.
+                entirely on your own profile, not on a general rule.
               </>
             )}
+            <br /><br />
+            <Link to="/simulation" className="closing-text-link">
+              {lang === 'fr' ? 'Appliquer cette méthode à mon propre profil' : 'Apply this method to my own profile'}
+              <span className="btn-pill-icon">
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 11L11 3M11 3H4M11 3V10" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg>
+              </span>
+            </Link>
           </Reveal>
 
           <Reveal>
