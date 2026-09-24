@@ -5,7 +5,12 @@ import { useLanguage } from '../../i18n/LanguageContext'
 export default function Terms() {
   const { lang } = useLanguage()
   return (
-    <LegalPage title={lang === 'fr' ? "Conditions générales d'utilisation" : 'Terms of Use'} updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}>
+    <LegalPage
+      title={lang === 'fr' ? "Conditions générales d'utilisation" : 'Terms of Use'}
+      updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}
+      path="/terms"
+      description={lang === 'fr' ? "Conditions générales d'utilisation du site ATHX Analysis." : 'Terms of use for the ATHX Analysis website.'}
+    >
       {lang === 'fr' ? (
         <>
           <p className="legal-intro">

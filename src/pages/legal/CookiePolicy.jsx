@@ -4,7 +4,12 @@ import { useLanguage } from '../../i18n/LanguageContext'
 export default function CookiePolicy() {
   const { lang } = useLanguage()
   return (
-    <LegalPage title={lang === 'fr' ? 'Politique de cookies' : 'Cookie Policy'} updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}>
+    <LegalPage
+      title={lang === 'fr' ? 'Politique de cookies' : 'Cookie Policy'}
+      updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}
+      path="/cookie-policy"
+      description={lang === 'fr' ? 'Politique de cookies et de mesure d’audience du site ATHX Analysis.' : "ATHX Analysis' cookie and analytics policy."}
+    >
       {lang === 'fr' ? (
         <>
           <p className="legal-intro">

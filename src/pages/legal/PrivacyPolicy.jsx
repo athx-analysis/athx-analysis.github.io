@@ -5,7 +5,12 @@ import { useLanguage } from '../../i18n/LanguageContext'
 export default function PrivacyPolicy() {
   const { lang } = useLanguage()
   return (
-    <LegalPage title={lang === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy'} updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}>
+    <LegalPage
+      title={lang === 'fr' ? 'Politique de confidentialité' : 'Privacy Policy'}
+      updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}
+      path="/privacy-policy"
+      description={lang === 'fr' ? "Politique de confidentialité du site ATHX Analysis." : 'Privacy policy for the ATHX Analysis website.'}
+    >
       {lang === 'fr' ? (
         <>
           <p className="legal-intro">

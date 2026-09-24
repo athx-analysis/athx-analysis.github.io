@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- À mettre à jour avec le domaine réel une fois le site hébergé (remplacer REMPLACER-PAR-LE-DOMAINE). -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/analyses</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/simulation</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/individual-leaderboards</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/team-leaderboards</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/team-individual-leaderboards</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/privacy-policy</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/terms</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/cookie-policy</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/legal-notice</loc></url>
-  <url><loc>https://REMPLACER-PAR-LE-DOMAINE/#/contact</loc></url>
+  <url><loc>https://athx-analysis.github.io/</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/le-sport</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/analyses</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/simulation</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/individual-leaderboards</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/team-leaderboards</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/team-individual-leaderboards</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/privacy-policy</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/terms</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/cookie-policy</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/legal-notice</loc></url>
+  <url><loc>https://athx-analysis.github.io/#/contact</loc></url>
 </urlset>

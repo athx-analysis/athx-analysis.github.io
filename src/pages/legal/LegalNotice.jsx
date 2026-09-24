@@ -5,7 +5,12 @@ import { useLanguage } from '../../i18n/LanguageContext'
 export default function LegalNotice() {
   const { lang } = useLanguage()
   return (
-    <LegalPage title={lang === 'fr' ? 'Mentions légales' : 'Legal Notice'} updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}>
+    <LegalPage
+      title={lang === 'fr' ? 'Mentions légales' : 'Legal Notice'}
+      updated={lang === 'fr' ? '21 septembre 2026' : 'September 21, 2026'}
+      path="/legal-notice"
+      description={lang === 'fr' ? "Mentions légales du site ATHX Analysis." : 'Legal notice for the ATHX Analysis website.'}
+    >
       {lang === 'fr' ? (
         <>
           <h2>Éditeur du site</h2>

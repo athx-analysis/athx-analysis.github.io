@@ -4,7 +4,11 @@ import { useLanguage } from '../../i18n/LanguageContext'
 export default function Contact() {
   const { lang } = useLanguage()
   return (
-    <LegalPage title="Contact">
+    <LegalPage
+      title="Contact"
+      path="/contact"
+      description={lang === 'fr' ? 'Contactez ATHX Analysis, notamment pour une demande de retrait de données.' : 'Contact ATHX Analysis, including for a data removal request.'}
+    >
       {lang === 'fr' ? (
         <>
           <p className="legal-intro">

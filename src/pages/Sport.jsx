@@ -8,6 +8,7 @@ import RankedBarChart from '../components/charts/RankedBarChart'
 import stats from '../data/site_stats.json'
 import analyses from '../data/analyses_data.json'
 import { useLanguage } from '../i18n/LanguageContext'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 const COUNTRY_NAME = {
   fr: {
@@ -31,6 +32,15 @@ const ARROW = (
 // CrossFit) est nouveau.
 export default function Sport() {
   const { lang } = useLanguage()
+  usePageMeta({
+    path: '/le-sport',
+    title: lang === 'fr'
+      ? 'Le Sport ATHX — Format, règles et croissance des ATHX Games | ATHX Analysis'
+      : 'The ATHX Sport — Format, Rules & Growth of the ATHX Games | ATHX Analysis',
+    description: lang === 'fr'
+      ? 'Découvrez le format des ATHX Games (Force, Endurance, MetCon X), les catégories, et la croissance du nombre de participants saison après saison.'
+      : 'Discover the ATHX Games format (Strength, Endurance, MetCon X), categories, and how the number of participants has grown season after season.',
+  })
   const fmt = (n) => n.toLocaleString(lang === 'fr' ? 'fr-FR' : 'en-US')
   const toCountryName = (c) => COUNTRY_NAME[lang][c] || c
 

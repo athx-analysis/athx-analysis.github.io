@@ -11,6 +11,7 @@ import Heatmap from '../components/charts/Heatmap'
 import { niceDomainTicks } from '../lib/chartUtils'
 import data from '../data/analyses_data.json'
 import { useLanguage } from '../i18n/LanguageContext'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 const DEFAULT_SEGMENT = data.segments.find((s) => s.key === 'individual_Male_ATHX')?.key || data.segments[0].key
 
@@ -28,6 +29,15 @@ function useSegment(initial = DEFAULT_SEGMENT) {
 
 export default function Analyses() {
   const { lang, t } = useLanguage()
+  usePageMeta({
+    path: '/analyses',
+    title: lang === 'fr'
+      ? 'Analyses ATHX Games — Statistiques et tendances des résultats | ATHX Analysis'
+      : 'ATHX Games Analyses — Stats & Trends from Real Results | ATHX Analysis',
+    description: lang === 'fr'
+      ? "Des données réelles des ATHX Games aux réponses concrètes : quelle épreuve compte le plus, quel profil gagne, où se situe le seuil compétitif."
+      : 'From real ATHX Games data to concrete answers: which event matters most, which profile wins, where the competitive threshold sits.',
+  })
   const [pairKey, setPairKey, pairSeg] = useSegment()
   const [profKey, setProfKey, profSeg] = useSegment()
   const [corrKey, setCorrKey, corrSeg] = useSegment()

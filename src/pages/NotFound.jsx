@@ -1,8 +1,15 @@
 import { Link } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 export default function NotFound() {
   const { lang } = useLanguage()
+  usePageMeta({
+    path: '/404',
+    noindex: true,
+    title: lang === 'fr' ? 'Page non trouvée | ATHX Analysis' : 'Page Not Found | ATHX Analysis',
+    description: lang === 'fr' ? "L'URL demandée ne correspond à aucune page du site." : "The requested URL doesn't match any page on this site.",
+  })
   return (
     <section className="hero" style={{ minHeight: '50vh', display: 'flex', alignItems: 'center' }}>
       <div className="container">

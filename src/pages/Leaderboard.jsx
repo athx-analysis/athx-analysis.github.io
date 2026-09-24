@@ -7,6 +7,18 @@ import {
   loadLeaderboardCsv,
 } from '../lib/dataSource'
 import { useLanguage } from '../i18n/LanguageContext'
+import { usePageMeta } from '../hooks/usePageMeta'
+
+const LB_PATH = {
+  individual: '/individual-leaderboards',
+  team: '/team-leaderboards',
+  team_individual: '/team-individual-leaderboards',
+}
+const LB_TITLE = {
+  individual: { fr: 'Classement Individuel ATHX Games', en: 'Individual Leaderboard — ATHX Games' },
+  team: { fr: 'Classement par Équipe ATHX Games', en: 'Team Leaderboard — ATHX Games' },
+  team_individual: { fr: 'Classement Individuel par Mouvement (Équipe) ATHX Games', en: 'Team Individual Leaderboards — ATHX Games' },
+}
 
 const WORKOUT_ORDER = ['Overall', 'Strength', 'Endurance', 'MetCon X']
 const GENDER_ORDER = ['Female', 'Male', 'Mixed']
@@ -31,6 +43,11 @@ function distinct(rows, key) {
 
 export default function Leaderboard({ lbKey }) {
   const { lang, t } = useLanguage()
+  usePageMeta({
+    path: LB_PATH[lbKey],
+    title: `${LB_TITLE[lbKey][lang]} | ATHX Analysis`,
+    description: `${t(`lb_${lbKey}_sub`)} — ATHX Games.`,
+  })
   const spec = LEADERBOARDS.find((l) => l.key === lbKey)
   const yearOptions = GLOBAL_YEARS_BY_LEADERBOARD[lbKey]
 

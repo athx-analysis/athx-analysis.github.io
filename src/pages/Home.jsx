@@ -5,6 +5,7 @@ import Reveal from '../components/Reveal'
 import WorkoutFormatCard from '../components/WorkoutFormatCard'
 import { OFFICIAL_WORKOUTS, OFFICIAL_YEARS } from '../data/workout_official'
 import { useLanguage } from '../i18n/LanguageContext'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 const ARROW = (
   <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 11L11 3M11 3H4M11 3V10" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" /></svg>
@@ -39,6 +40,15 @@ function FlowArrow({ theBreak, lang }) {
 // qui parle du sport et de sa croissance (elle-meme un tremplin vers Simulation).
 export default function Home() {
   const { lang } = useLanguage()
+  usePageMeta({
+    path: '',
+    title: lang === 'fr'
+      ? 'ATHX Analysis — Simulateur de classement, analyses et résultats ATHX Games'
+      : 'ATHX Analysis — Ranking Simulator, Analyses & ATHX Games Results',
+    description: lang === 'fr'
+      ? 'Classements, simulateur de performance et analyse complète des ATHX Games, construits à partir des résultats réels de chaque compétition. Non affilié à ATHX Games.'
+      : 'Rankings, a performance simulator and in-depth analysis of the ATHX Games, built from the real results of every competition. Not affiliated with ATHX Games.',
+  })
 
   const [year, setYear] = useState(2026)
   const [mode, setMode] = useState('individual') // 'individual' (Solo) | 'pairs' (Team)

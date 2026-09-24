@@ -19,10 +19,9 @@ export function LanguageProvider({ children }) {
   useEffect(() => {
     try { localStorage.setItem(STORAGE_KEY, lang) } catch { /* ignore */ }
     document.documentElement.lang = lang
-    // Le <title> de l'onglet suit la langue -- les balises meta SEO/partage social (index.html)
-    // restent en francais (langue par defaut, servies statiquement aux robots/previews qui
-    // n'executent pas ce toggle cote client).
-    document.title = lang === 'fr' ? 'ATHX Analysis' : 'ATHX Analysis (EN)'
+    // Le <title>/meta description par page est gere par chaque page via usePageMeta (voir
+    // src/hooks/usePageMeta.js) -- pose plus tard dans le rendu (effets enfants avant effets
+    // parents), donc ne pas le faire ici sous peine de l'ecraser a chaque changement de langue.
   }, [lang])
 
   const value = useMemo(() => ({

@@ -5,6 +5,7 @@ import WorkoutReference from '../components/WorkoutReference'
 import AthxCard from '../components/charts/AthxCard'
 import { simulateField, simulateWithMargin, bestImprovementTarget, rankMovements, bestMovementImprovement, MARGIN_PCT, IMPROVEMENT_PCT } from '../lib/simulate'
 import { useLanguage } from '../i18n/LanguageContext'
+import { usePageMeta } from '../hooks/usePageMeta'
 
 // Plateau qualificatif (invitations uniquement) -- non representatif pour un visiteur random,
 // exclu du classement par competition hypothetique (meme logique que la page Analyses).
@@ -90,6 +91,15 @@ function Field({ label, error, children }) {
 
 export default function Simulation() {
   const { lang, t } = useLanguage()
+  usePageMeta({
+    path: '/simulation',
+    title: lang === 'fr'
+      ? 'Simulateur de classement ATHX — Estimez votre place | ATHX Analysis'
+      : 'ATHX Ranking Simulator — Estimate Your Placing | ATHX Analysis',
+    description: lang === 'fr'
+      ? 'Entrez vos performances (Force, Endurance, MetCon X) et estimez votre classement face aux résultats réels de la saison ATHX Games.'
+      : 'Enter your performance (Strength, Endurance, MetCon X) and estimate your ranking against the real results of the ATHX Games season.',
+  })
   const fmtInt = (n) => Math.round(n).toLocaleString(lang === 'fr' ? 'fr-FR' : 'en-US')
   const topLabel = (pct) => `Top ${fmtPct(pct)}`
   const DISCIPLINE_LABEL = { strength: t('discipline_force'), endurance: t('discipline_endurance'), metcon: t('discipline_metcon') }
