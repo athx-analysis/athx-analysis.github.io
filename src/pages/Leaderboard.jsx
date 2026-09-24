@@ -41,6 +41,15 @@ function distinct(rows, key) {
   return [...new Set(rows.map((r) => r[key]).filter(Boolean))]
 }
 
+// Ordre croissant des tranches d'age a partir du premier nombre trouve dans le libelle --
+// marche pour les 2 conventions du site sans les coder en dur ("34 & under"->34, "35 - 39"->35
+// cote individuel ; "69 & under"->69, "Above 110"->110 cote equipe/cumule -- cf. groupe d'age
+// CUMULE pour les equipes, somme des ages des 2 coequipiers, jamais un age individuel).
+function ageGroupSortKey(label) {
+  const m = /\d+/.exec(label)
+  return m ? parseInt(m[0], 10) : 0
+}
+
 export default function Leaderboard({ lbKey }) {
   const { lang, t } = useLanguage()
   usePageMeta({
@@ -57,6 +66,7 @@ export default function Leaderboard({ lbKey }) {
   const [category, setCategory] = useState('')
   const [gender, setGender] = useState('')
   const [workout, setWorkout] = useState('')
+  const [ageGroup, setAgeGroup] = useState('')
   const [search, setSearch] = useState('')
 
   const [rawRows, setRawRows] = useState([])
@@ -103,6 +113,17 @@ export default function Leaderboard({ lbKey }) {
   const categoryOptions = useMemo(() => distinct(rawRows, 'event_category').sort(), [rawRows])
   const genderOptions = useMemo(() => sortByPriority(distinct(rawRows, 'division'), GENDER_ORDER), [rawRows])
   const workoutOptions = useMemo(() => sortByPriority(distinct(rawRows, 'workout_filter'), WORKOUT_ORDER), [rawRows])
+  // Optionnel (comme pays/ville, pas de valeur forcee par defaut) : absent pour les saisons
+  // 2023/2024 (jamais scrape, cf. scripts/generate_simulation_data.py) et pour team-individual-
+  // leaderboards (jamais eu cette donnee) -- le filtre se vide alors naturellement, pas de cas
+  // particulier a gerer.
+  const ageGroupOptions = useMemo(
+    () => distinct(rawRows, 'age_group').sort((a, b) => ageGroupSortKey(a) - ageGroupSortKey(b)),
+    [rawRows],
+  )
+  useEffect(() => {
+    if (ageGroup && !ageGroupOptions.includes(ageGroup)) setAgeGroup('')
+  }, [ageGroupOptions]) // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (categoryOptions.length && !categoryOptions.includes(category)) setCategory(categoryOptions[0])
@@ -118,13 +139,14 @@ export default function Leaderboard({ lbKey }) {
     const q = search.trim().toLowerCase()
     return rawRows
       .filter((r) => r.event_category === category && r.division === gender && r.workout_filter === workout)
+      .filter((r) => !ageGroup || r.age_group === ageGroup)
       .filter((r) => {
         if (!q) return true
         const name = spec.kind === 'team' ? r.team_name : r.full_name
         return (name || '').toLowerCase().includes(q)
       })
       .sort((a, b) => Number(a.rank) - Number(b.rank))
-  }, [rawRows, category, gender, workout, search, spec.kind])
+  }, [rawRows, category, gender, workout, ageGroup, search, spec.kind])
 
   const visibleMetricColumns = useMemo(
     () => METRIC_COLUMNS.filter((col) => filteredRows.some((r) => r[col])),
@@ -204,6 +226,16 @@ export default function Leaderboard({ lbKey }) {
         </div>
 
         <div className="filter-field">
+          <label>{lang === 'fr' ? "Groupe d'âge" : 'Age group'}</label>
+          <select value={ageGroup} onChange={(e) => setAgeGroup(e.target.value)} disabled={!ageGroupOptions.length}>
+            <option value="">{lang === 'fr' ? 'Tous âges' : 'All ages'}</option>
+            {ageGroupOptions.map((ag) => (
+              <option key={ag} value={ag}>{ag}</option>
+            ))}
+          </select>
+        </div>
+
+        <div className="filter-field">
           <label>{lang === 'fr' ? 'Recherche' : 'Search'}</label>
           <input
             type="text"
@@ -232,6 +264,9 @@ export default function Leaderboard({ lbKey }) {
                     <th scope="col">{spec.kind === 'team' ? t('team') : t('athlete')}</th>
                     <th scope="col">{t('event')}</th>
                     <th scope="col">{t('country')}</th>
+                    {ageGroupOptions.length > 0 && (
+                      <th scope="col">{lang === 'fr' ? "Groupe d'âge" : 'Age group'}</th>
+                    )}
                     {visibleMetricColumns.map((col) => (
                       <th key={col} scope="col">{col}</th>
                     ))}
@@ -252,6 +287,9 @@ export default function Leaderboard({ lbKey }) {
                       </td>
                       <td className="muted">{r.event}</td>
                       <td className="muted">{r.country}</td>
+                      {ageGroupOptions.length > 0 && (
+                        <td className="muted">{r.age_group || '—'}</td>
+                      )}
                       {visibleMetricColumns.map((col) => (
                         <td key={col}>{r[col] || '—'}</td>
                       ))}

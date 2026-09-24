@@ -138,6 +138,8 @@ export default function Simulation() {
   const [mode, setMode] = useState('individual') // 'individual' (Solo) | 'team' (paire)
   const [gender, setGender] = useState(null)
   const [category, setCategory] = useState(null)
+  const [ageGroup, setAgeGroup] = useState(null)
+  const [ageCardFlipped, setAgeCardFlipped] = useState(false)
   const [inputs, setInputs] = useState(EMPTY_INPUTS)
   const [submitted, setSubmitted] = useState(false)
   const [justSubmitted, setJustSubmitted] = useState(false)
@@ -157,6 +159,7 @@ export default function Simulation() {
   function handleSubmit() {
     setSubmitted(true)
     setJustSubmitted(true)
+    setAgeCardFlipped(false) // chaque nouvelle soumission repart sur la face avant (classement general)
   }
 
   const yearData = simData.by_year[String(year)][mode]
@@ -167,6 +170,11 @@ export default function Simulation() {
   const strengthMovements = category ? yearData.strength_movements[category] : []
   const field = gender && category ? yearData.populations[gender][category] : null
   const enduranceBounds = enduranceBoundsFor(mode, year)
+  // Sous-population de field, restreinte au groupe d'age choisi (demande explicite,
+  // 25/09/2026) -- peut etre absent (undefined) si trop peu d'athletes/paires dans ce groupe
+  // pour ce genre/cette categorie/cette annee precise (cf. MIN_AGE_GROUP_N cote script) ; geree
+  // partout comme "pas assez de donnees" plutot que masquee silencieusement.
+  const ageField = ageGroup ? field?.by_age_group?.[ageGroup] : null
 
   // Les 2 "emplacements" coequipier en Team, avec leur libelle et leur PROPRE genre (utile en
   // Mixte, ou les 2 coequipiers n'ont pas le meme genre -- cf. strength_by_movement_individual,
@@ -305,6 +313,26 @@ export default function Simulation() {
       .sort((a, b) => a.base.rank - b.base.rank)
   }, [field, submitted, valid, perf])
 
+  // Classement general (toutes competitions confondues) au sein du seul groupe d'age --
+  // simule exactement comme overallSim, juste contre ageField.overall au lieu de field.overall.
+  const ageOverallSim = useMemo(() => {
+    if (!ageField || !submitted || !valid) return null
+    return simulateWithMargin(ageField.overall, perf)
+  }, [ageField, submitted, valid, perf])
+
+  // Classement par competition au sein du groupe d'age -- par cle d'evenement, PEUT etre
+  // absent pour certaines competitions precises (trop peu d'athletes de ce groupe d'age a CET
+  // evenement precis, cf. MIN_AGE_GROUP_N cote script) meme quand ageField existe globalement :
+  // gere ligne par ligne dans le tableau, pas juste bloc par bloc.
+  const ageEventSims = useMemo(() => {
+    if (!ageField || !submitted || !valid) return {}
+    const out = {}
+    Object.entries(ageField.events).forEach(([key, ev]) => {
+      out[key] = { n: ev.n, ...simulateWithMargin(ev, perf) }
+    })
+    return out
+  }, [ageField, submitted, valid, perf])
+
   function updateInput(key, value) {
     setInputs((prev) => ({ ...prev, [key]: value }))
     setSubmitted(false)
@@ -333,6 +361,8 @@ export default function Simulation() {
     setYear(y)
     setGender(null)
     setCategory(null)
+    setAgeGroup(null)
+    setAgeCardFlipped(false)
     setInputs(EMPTY_INPUTS)
     setSubmitted(false)
   }
@@ -341,6 +371,8 @@ export default function Simulation() {
     setMode(m)
     setGender(null)
     setCategory(null)
+    setAgeGroup(null)
+    setAgeCardFlipped(false)
     setInputs(EMPTY_INPUTS)
     setSubmitted(false)
   }
@@ -348,6 +380,8 @@ export default function Simulation() {
   function reset() {
     setGender(null)
     setCategory(null)
+    setAgeGroup(null)
+    setAgeCardFlipped(false)
     setInputs(EMPTY_INPUTS)
     setSubmitted(false)
   }
@@ -427,7 +461,7 @@ export default function Simulation() {
                 <button
                   key={g}
                   className={`sim-square${gender === g ? ' active' : ''}`}
-                  onClick={() => { setGender(g); setCategory(null); setSubmitted(false) }}
+                  onClick={() => { setGender(g); setCategory(null); setAgeGroup(null); setSubmitted(false) }}
                 >
                   {genderLabel(g)}
                 </button>
@@ -444,7 +478,7 @@ export default function Simulation() {
                   <button
                     key={c}
                     className={`sim-square${category === c ? ' active' : ''}`}
-                    onClick={() => { setCategory(c); setSubmitted(false) }}
+                    onClick={() => { setCategory(c); setAgeGroup(null); setSubmitted(false) }}
                   >
                     {c}
                   </button>
@@ -453,9 +487,27 @@ export default function Simulation() {
             </div>
           )}
 
-          {gender && category && field && (
+          {gender && category && (
             <div className="sim-step">
               <p className="section-title">{lang === 'fr' ? 'Étape 5' : 'Step 5'}</p>
+              <h2 className="section-heading sim-step-heading">{lang === 'fr' ? "Groupe d'âge" : 'Age group'}</h2>
+              <div className="sim-square-grid sim-age-grid">
+                {simData.age_groups_by_mode[mode].map((ag) => (
+                  <button
+                    key={ag}
+                    className={`sim-square${ageGroup === ag ? ' active' : ''}`}
+                    onClick={() => { setAgeGroup(ag); setSubmitted(false) }}
+                  >
+                    {ag}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {gender && category && ageGroup && field && (
+            <div className="sim-step">
+              <p className="section-title">{lang === 'fr' ? 'Étape 6' : 'Step 6'}</p>
               <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Vos estimations de performance' : 'Your performance estimates'}</h2>
 
               <WorkoutReference year={year} mode={mode} gender={gender} category={category} />
@@ -574,6 +626,15 @@ export default function Simulation() {
             </div>
 
             <div className="sim-result-block">
+              <h3>{lang === 'fr' ? "Classement général parmi votre groupe d'âge, toutes compétitions confondues" : 'Overall ranking within your age group, all competitions combined'}</h3>
+              {ageOverallSim?.base ? (
+                <RangeBadge base={ageOverallSim.base} n={ageField.overall.n} topLabel={topLabel} />
+              ) : (
+                <p className="sim-not-enough-data">{t('not_enough_data')}</p>
+              )}
+            </div>
+
+            <div className="sim-result-block">
               <h3>{lang === 'fr' ? 'Classement général par épreuve' : 'Overall ranking by event'}</h3>
               <div className="sim-discipline-grid">
                 {[
@@ -588,6 +649,27 @@ export default function Simulation() {
                   </div>
                 ))}
               </div>
+            </div>
+
+            <div className="sim-result-block">
+              <h3>{lang === 'fr' ? "Classement général par épreuve parmi votre groupe d'âge" : 'Overall ranking by event within your age group'}</h3>
+              {ageOverallSim?.base ? (
+                <div className="sim-discipline-grid">
+                  {[
+                    { key: 'strength', label: DISCIPLINE_LABEL.strength, rank: ageOverallSim.base.subrankStrength, pct: ageOverallSim.base.pctStrength },
+                    { key: 'endurance', label: DISCIPLINE_LABEL.endurance, rank: ageOverallSim.base.subrankEndurance, pct: ageOverallSim.base.pctEndurance },
+                    { key: 'metcon', label: DISCIPLINE_LABEL.metcon, rank: ageOverallSim.base.subrankMetcon, pct: ageOverallSim.base.pctMetcon },
+                  ].map((d) => (
+                    <div key={d.key} className="sim-discipline-card">
+                      <p className="sim-discipline-label">{d.label}</p>
+                      <p className="sim-discipline-rank">{fmtInt(d.rank)} <span className="sim-discipline-total">/ {fmtInt(ageField.overall.n)}</span></p>
+                      <p className="sim-discipline-pct">{topLabel(d.pct)}</p>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <p className="sim-not-enough-data">{t('not_enough_data')}</p>
+              )}
             </div>
 
             <div className="sim-result-block">
@@ -624,21 +706,52 @@ export default function Simulation() {
                           )}
                         />
                       </th>
+                      <th scope="col">{lang === 'fr' ? 'Rang (groupe d’âge)' : 'Rank (age group)'}</th>
+                      <th scope="col">{lang === 'fr' ? 'Percentile (groupe d’âge)' : 'Percentile (age group)'}</th>
+                      <th scope="col">
+                        {lang === 'fr' ? 'Marge d’erreur (groupe d’âge)' : 'Margin of error (age group)'}
+                        <InfoIconPortal
+                          text={lang === 'fr' ? (
+                            <>Mêmes principes que la marge d'erreur générale, mais comparé
+                              uniquement aux {mode === 'team' ? 'paires' : 'athlètes'} de votre
+                              groupe d'âge ({ageGroup}) à chaque compétition. Peut afficher "—"
+                              si trop peu de {mode === 'team' ? 'paires' : 'athlètes'} de ce
+                              groupe d'âge ont participé à cette compétition précise pour un
+                              classement significatif.</>
+                          ) : (
+                            <>Same principles as the general margin of error, but compared only
+                              to the {mode === 'team' ? 'pairs' : 'athletes'} in your age group
+                              ({ageGroup}) at each competition. May show "—" if too few
+                              {' '}{mode === 'team' ? 'pairs' : 'athletes'} from this age group
+                              took part in that specific competition for a meaningful ranking.</>
+                          )}
+                        />
+                      </th>
                     </tr>
                   </thead>
                   <tbody>
-                    {eventSims.map((ev) => (
-                      <tr key={ev.key}>
-                        <td>{ev.label}</td>
-                        <td className="rank-cell">{fmtInt(ev.base.rank)} / {fmtInt(ev.n)}</td>
-                        <td>{topLabel(ev.base.pctOverall)}</td>
-                        <td className="sim-event-margin">
-                          {ev.best.rank !== ev.base.rank || ev.worst.rank !== ev.base.rank
-                            ? `${fmtInt(ev.best.rank)} – ${fmtInt(ev.worst.rank)}`
-                            : '—'}
-                        </td>
-                      </tr>
-                    ))}
+                    {eventSims.map((ev) => {
+                      const ageEv = ageEventSims[ev.key]
+                      return (
+                        <tr key={ev.key}>
+                          <td>{ev.label}</td>
+                          <td className="rank-cell">{fmtInt(ev.base.rank)} / {fmtInt(ev.n)}</td>
+                          <td>{topLabel(ev.base.pctOverall)}</td>
+                          <td className="sim-event-margin">
+                            {ev.best.rank !== ev.base.rank || ev.worst.rank !== ev.base.rank
+                              ? `${fmtInt(ev.best.rank)} – ${fmtInt(ev.worst.rank)}`
+                              : '—'}
+                          </td>
+                          <td className="rank-cell">{ageEv ? `${fmtInt(ageEv.base.rank)} / ${fmtInt(ageEv.n)}` : '—'}</td>
+                          <td>{ageEv ? topLabel(ageEv.base.pctOverall) : '—'}</td>
+                          <td className="sim-event-margin">
+                            {ageEv && (ageEv.best.rank !== ageEv.base.rank || ageEv.worst.rank !== ageEv.base.rank)
+                              ? `${fmtInt(ageEv.best.rank)} – ${fmtInt(ageEv.worst.rank)}`
+                              : '—'}
+                          </td>
+                        </tr>
+                      )
+                    })}
                   </tbody>
                 </table>
               </div>
@@ -657,15 +770,46 @@ export default function Simulation() {
                       another way to see where you stand, your strengths and your weaknesses.</>
                   )}
                 </p>
-                <AthxCard
-                  division={genderLabel(gender)}
-                  category={category}
-                  scores={{
-                    strength: Math.round(100 - overallSim.base.pctStrength),
-                    endurance: Math.round(100 - overallSim.base.pctEndurance),
-                    metcon: Math.round(100 - overallSim.base.pctMetcon),
-                  }}
-                />
+                {/* Carte retournable (flip 3D) : face avant = score general, face arriere =
+                    score au sein du groupe d'age -- le survol/clic sur le bouton anime une
+                    rotation complete plutot que de simplement remplacer le contenu, pour
+                    accentuer la sensation de "devoiler" l'autre classement (demande
+                    explicite). */}
+                <div className={`athx-flip-wrap${ageCardFlipped ? ' flipped' : ''}`}>
+                  <div className="athx-flip-inner">
+                    <div className="athx-flip-face athx-flip-front">
+                      <AthxCard
+                        division={genderLabel(gender)}
+                        category={category}
+                        scores={{
+                          strength: Math.round(100 - overallSim.base.pctStrength),
+                          endurance: Math.round(100 - overallSim.base.pctEndurance),
+                          metcon: Math.round(100 - overallSim.base.pctMetcon),
+                        }}
+                      />
+                    </div>
+                    <div className="athx-flip-face athx-flip-back">
+                      {ageOverallSim?.base ? (
+                        <AthxCard
+                          division={genderLabel(gender)}
+                          category={`${category} · ${ageGroup}`}
+                          scores={{
+                            strength: Math.round(100 - ageOverallSim.base.pctStrength),
+                            endurance: Math.round(100 - ageOverallSim.base.pctEndurance),
+                            metcon: Math.round(100 - ageOverallSim.base.pctMetcon),
+                          }}
+                        />
+                      ) : (
+                        <div className="athx-flip-empty">{t('not_enough_data')}</div>
+                      )}
+                    </div>
+                  </div>
+                </div>
+                <button type="button" className="athx-flip-toggle" onClick={() => setAgeCardFlipped((v) => !v)}>
+                  {ageCardFlipped
+                    ? (lang === 'fr' ? 'Revenir au classement général' : 'Back to overall ranking')
+                    : (lang === 'fr' ? "Voir mon score dans mon groupe d'âge" : 'See my score within my age group')}
+                </button>
               </div>
             )}
 

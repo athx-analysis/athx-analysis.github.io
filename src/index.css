@@ -2064,6 +2064,79 @@ button {
   letter-spacing: 0.05em;
 }
 
+/* ---------- Carte ATHX Score retournable (classement general / groupe d'age) ---------- */
+
+.athx-flip-wrap {
+  max-width: 320px;
+  margin: 0 auto;
+  perspective: 1600px;
+}
+
+.athx-flip-inner {
+  position: relative;
+  transition: transform 0.7s cubic-bezier(0.4, 0.15, 0.2, 1);
+  transform-style: preserve-3d;
+}
+
+.athx-flip-wrap.flipped .athx-flip-inner {
+  transform: rotateY(180deg);
+}
+
+.athx-flip-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.athx-flip-face .athx-card {
+  margin: 0;
+}
+
+.athx-flip-back {
+  position: absolute;
+  inset: 0;
+  transform: rotateY(180deg);
+  display: flex;
+  align-items: stretch;
+}
+
+.athx-flip-empty {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(165deg, #141414 0%, #000000 65%);
+  border: 1px solid #2b2b2b;
+  border-radius: 24px;
+  color: #9a9a9a;
+  font-size: 13px;
+  padding: 24px;
+}
+
+.athx-flip-toggle {
+  display: block;
+  margin: 20px auto 0;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.athx-flip-toggle:hover {
+  border-color: var(--accent);
+  background: var(--bg-panel);
+}
+
+.sim-not-enough-data {
+  color: var(--gray-500);
+  font-size: 13px;
+}
+
 /* ---------- Profil en anneaux (alternative circulaire au radar) ---------- */
 
 .profile-rings {
