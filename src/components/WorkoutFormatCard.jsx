@@ -23,7 +23,8 @@ const TIME_CAP_RE = /TIME CAP/i
 // temps, rien d'autre (donc jamais un faux positif sur une ligne de mouvement/protocole).
 const TIME_WINDOW_ONLY_RE = /^\d{1,2}(-\d{1,2})?\s*MINS?$/i
 // "M: 20KG / F: 12.5KG", "M 20KG / F 12.5KG" (format 2025, sans ":"), "M: 60 / F: 45 / MIX: 60"...
-const GENDER_PAIR_RE = /M\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)\s*\/\s*F\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)(?:\s*\/\s*MIX\s*:?\s*[\d.]+(?:KG|CAL|CM)?"?)?/gi
+// (3e groupe capturant, valeur MIX -- utilisee pour les paires mixtes, voir filterGenderInLine).
+const GENDER_PAIR_RE = /M\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)\s*\/\s*F\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?)(?:\s*\/\s*MIX\s*:?\s*([\d.]+(?:KG|CAL|CM)?"?))?/gi
 
 // Etape 1 : "0-6MIN" + "1RM STRICT PRESS" (deux lignes consecutives) -> "1RM STRICT PRESS :
 // 0-6MIN" (une ligne) -- style demande explicitement par l'utilisateur pour la zone Force.
@@ -118,8 +119,16 @@ function filterByCategory(lines, categoryTag) {
 // Etape 3 : "M: 20KG / F: 12.5KG" -> "20KG" (ou "12.5KG") selon le genre selectionne -- le
 // chiffre garde est toujours copie mot pour mot, seul celui qui ne concerne pas le genre choisi
 // (et l'eventuelle valeur MIX) disparait de l'affichage.
+// Cas "Mixed" (paire mixte, Team uniquement) : si la source donne une valeur MIX explicite
+// (ex: 2027 MetCon, "M: 60 / F: 45 / MIX: 60"), on l'affiche. Sinon -- la regle officielle pour
+// la plupart des mouvements est que CHAQUE partenaire utilise le poids de son propre genre (cf.
+// note "DB GTOH et Sandbag Carry utilisent les poids H/F prescrits", lineNotes MetCon Team) --
+// on garde alors la ligne "M: X / F: Y" telle quelle plutot que de choisir arbitrairement.
 function filterGenderInLine(line, gender) {
-  return line.replace(GENDER_PAIR_RE, (_match, mVal, fVal) => (gender === 'Male' ? mVal : fVal))
+  return line.replace(GENDER_PAIR_RE, (match, mVal, fVal, mixVal) => {
+    if (gender === 'Mixed') return mixVal || match
+    return gender === 'Male' ? mVal : fVal
+  })
 }
 
 // Petit "i" d'info a cote d'un mouvement concerne par une precision officielle (ex : regle

@@ -112,6 +112,7 @@ export default function Simulation() {
   }
 
   const [year, setYear] = useState(simData.default_year)
+  const [mode, setMode] = useState('individual') // 'individual' (Solo) | 'team' (paire)
   const [gender, setGender] = useState(null)
   const [category, setCategory] = useState(null)
   const [inputs, setInputs] = useState({ strength0: '', strength1: '', strength2: '', endurance: '', metcon: '' })
@@ -135,10 +136,11 @@ export default function Simulation() {
     setJustSubmitted(true)
   }
 
-  const yearData = simData.by_year[String(year)]
+  const yearData = simData.by_year[String(year)][mode]
+  const genders = simData.genders_by_mode[mode]
   // strength_movements differe par CATEGORIE en 2025 (ATHX Pro a un 3e mouvement, 3RM Pull Up,
   // que la categorie ATHX reguliere n'a pas -- cf. scripts/generate_simulation_data.py) : on
-  // n'a donc la vraie liste qu'une fois la categorie choisie (etape 3).
+  // n'a donc la vraie liste qu'une fois la categorie choisie (etape 4).
   const strengthMovements = category ? yearData.strength_movements[category] : []
   const field = gender && category ? yearData.populations[gender][category] : null
 
@@ -246,6 +248,14 @@ export default function Simulation() {
     setSubmitted(false)
   }
 
+  function changeMode(m) {
+    setMode(m)
+    setGender(null)
+    setCategory(null)
+    setInputs({ strength0: '', strength1: '', strength2: '', endurance: '', metcon: '' })
+    setSubmitted(false)
+  }
+
   function reset() {
     setGender(null)
     setCategory(null)
@@ -262,7 +272,12 @@ export default function Simulation() {
     : []
   const best = disciplinesByPct[0]
   const worst = disciplinesByPct[disciplinesByPct.length - 1]
-  const genderLabel = (g) => (g === 'Male' ? (lang === 'fr' ? 'Homme' : 'Men') : (lang === 'fr' ? 'Femme' : 'Women'))
+  const genderLabel = (g) => {
+    if (g === 'Male') return lang === 'fr' ? 'Homme' : 'Men'
+    if (g === 'Female') return lang === 'fr' ? 'Femme' : 'Women'
+    return lang === 'fr' ? 'Mixte' : 'Mixed'
+  }
+  const modeLabel = (m) => (m === 'team' ? (lang === 'fr' ? 'Team' : 'Team') : (lang === 'fr' ? 'Solo' : 'Solo'))
 
   return (
     <div className="sim-page">
@@ -304,9 +319,22 @@ export default function Simulation() {
 
           <div className="sim-step">
             <p className="section-title">{lang === 'fr' ? 'Étape 2' : 'Step 2'}</p>
+            <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Format' : 'Format'}</h2>
+            <div className="sim-square-grid">
+              <button className={`sim-square${mode === 'individual' ? ' active' : ''}`} onClick={() => changeMode('individual')}>
+                {lang === 'fr' ? 'Solo' : 'Solo'}
+              </button>
+              <button className={`sim-square${mode === 'team' ? ' active' : ''}`} onClick={() => changeMode('team')}>
+                {lang === 'fr' ? 'Team' : 'Team'}
+              </button>
+            </div>
+          </div>
+
+          <div className="sim-step">
+            <p className="section-title">{lang === 'fr' ? 'Étape 3' : 'Step 3'}</p>
             <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Division' : 'Division'}</h2>
             <div className="sim-square-grid">
-              {simData.genders.map((g) => (
+              {genders.map((g) => (
                 <button
                   key={g}
                   className={`sim-square${gender === g ? ' active' : ''}`}
@@ -320,7 +348,7 @@ export default function Simulation() {
 
           {gender && (
             <div className="sim-step">
-              <p className="section-title">{lang === 'fr' ? 'Étape 3' : 'Step 3'}</p>
+              <p className="section-title">{lang === 'fr' ? 'Étape 4' : 'Step 4'}</p>
               <h2 className="section-heading sim-step-heading">{t('category')}</h2>
               <div className="sim-square-grid">
                 {simData.categories.map((c) => (
@@ -338,10 +366,10 @@ export default function Simulation() {
 
           {gender && category && field && (
             <div className="sim-step">
-              <p className="section-title">{lang === 'fr' ? 'Étape 4' : 'Step 4'}</p>
+              <p className="section-title">{lang === 'fr' ? 'Étape 5' : 'Step 5'}</p>
               <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Vos estimations de performance' : 'Your performance estimates'}</h2>
 
-              <WorkoutReference year={year} gender={gender} category={category} />
+              <WorkoutReference year={year} mode={mode} gender={gender} category={category} />
 
               <div className="sim-form">
                 <div className="sim-form-group">
@@ -421,7 +449,7 @@ export default function Simulation() {
           <div className="container">
             <p className="section-title">{lang === 'fr' ? 'Résultats' : 'Results'}</p>
             <h2 className="section-heading sim-step-heading">
-              {genderLabel(gender)} · {category} · {lang === 'fr' ? 'saison' : 'season'} {year}
+              {modeLabel(mode)} · {genderLabel(gender)} · {category} · {lang === 'fr' ? 'saison' : 'season'} {year}
             </h2>
 
             <div className="sim-result-block">
@@ -460,20 +488,23 @@ export default function Simulation() {
                         <InfoIconPortal
                           text={lang === 'fr' ? (
                             <>Simulation basée sur les résultats réels de la saison {year} scrapés
-                              sur ce site (division {genderLabel(gender)}, catégorie {category}).
-                              Le classement est calculé en comparant directement vos estimations
-                              aux performances de tous les athlètes ayant concouru. La colonne
-                              "Marge d'erreur" indique la plage de classement possible avec une
-                              estimation ±{MARGIN_PCT}% plus ou moins optimiste, l'incertitude
-                              habituelle d'une auto-évaluation, pas une garantie de résultat.</>
+                              sur ce site ({modeLabel(mode)}, division {genderLabel(gender)},
+                              catégorie {category}). Le classement est calculé en comparant
+                              directement vos estimations aux performances de
+                              {mode === 'team' ? ' toutes les paires ayant participé' : ' tous les athlètes ayant concouru'}.
+                              La colonne "Marge d'erreur" indique la plage de classement possible
+                              avec une estimation ±{MARGIN_PCT}% plus ou moins optimiste,
+                              l'incertitude habituelle d'une auto-évaluation, pas une garantie de
+                              résultat.</>
                           ) : (
                             <>Simulation based on the real results of the {year} season scraped
-                              from this site (division {genderLabel(gender)}, category {category}).
-                              The ranking is calculated by directly comparing your estimates to
-                              the performances of every athlete who competed. The "Margin of
-                              error" column shows the possible ranking range with an estimate
-                              ±{MARGIN_PCT}% more or less optimistic — the usual uncertainty of a
-                              self-assessment, not a guarantee of result.</>
+                              from this site ({modeLabel(mode)}, division {genderLabel(gender)},
+                              category {category}). The ranking is calculated by directly
+                              comparing your estimates to the performances of
+                              {mode === 'team' ? ' every pair that competed' : ' every athlete who competed'}.
+                              The "Margin of error" column shows the possible ranking range with
+                              an estimate ±{MARGIN_PCT}% more or less optimistic — the usual
+                              uncertainty of a self-assessment, not a guarantee of result.</>
                           )}
                         />
                       </th>
