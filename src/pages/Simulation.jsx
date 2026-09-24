@@ -6,6 +6,7 @@ import AthxCard from '../components/charts/AthxCard'
 import { simulateField, simulateWithMargin, bestImprovementTarget, rankMovements, bestMovementImprovement, MARGIN_PCT, IMPROVEMENT_PCT } from '../lib/simulate'
 import { useLanguage } from '../i18n/LanguageContext'
 import { usePageMeta } from '../hooks/usePageMeta'
+import InfoIconPortal from '../components/InfoIconPortal'
 
 // Plateau qualificatif (invitations uniquement) -- non representatif pour un visiteur random,
 // exclu du classement par competition hypothetique (meme logique que la page Analyses).
@@ -446,27 +447,7 @@ export default function Simulation() {
             </div>
 
             <div className="sim-result-block">
-              <div className="sim-block-head-row">
-                <h3>{lang === 'fr' ? 'Classement par compétition' : 'Ranking by competition'}</h3>
-                <p className="sim-block-note">
-                  {lang === 'fr' ? (
-                    <>Simulation basée sur les résultats réels de la saison {year} scrapés sur ce
-                      site (division {genderLabel(gender)}, catégorie {category}). Le classement
-                      est calculé en comparant directement vos estimations aux performances de
-                      tous les athlètes ayant concouru. La colonne "Marge d'erreur" indique la
-                      plage de classement possible avec une estimation ±{MARGIN_PCT}% plus ou
-                      moins optimiste, l'incertitude habituelle d'une auto-évaluation, pas une
-                      garantie de résultat.</>
-                  ) : (
-                    <>Simulation based on the real results of the {year} season scraped from this
-                      site (division {genderLabel(gender)}, category {category}). The ranking is
-                      calculated by directly comparing your estimates to the performances of
-                      every athlete who competed. The "Margin of error" column shows the possible
-                      ranking range with an estimate ±{MARGIN_PCT}% more or less optimistic — the
-                      usual uncertainty of a self-assessment, not a guarantee of result.</>
-                  )}
-                </p>
-              </div>
+              <h3>{lang === 'fr' ? 'Classement par compétition' : 'Ranking by competition'}</h3>
               <div className="table-wrap sim-event-table-wrap">
                 <table className="lb-table sim-event-table">
                   <thead>
@@ -474,7 +455,28 @@ export default function Simulation() {
                       <th scope="col">{t('event')}</th>
                       <th scope="col">{t('rank')}</th>
                       <th scope="col">{lang === 'fr' ? 'Percentile' : 'Percentile'}</th>
-                      <th scope="col">{lang === 'fr' ? "Marge d'erreur" : 'Margin of error'}</th>
+                      <th scope="col">
+                        {lang === 'fr' ? "Marge d'erreur" : 'Margin of error'}
+                        <InfoIconPortal
+                          text={lang === 'fr' ? (
+                            <>Simulation basée sur les résultats réels de la saison {year} scrapés
+                              sur ce site (division {genderLabel(gender)}, catégorie {category}).
+                              Le classement est calculé en comparant directement vos estimations
+                              aux performances de tous les athlètes ayant concouru. La colonne
+                              "Marge d'erreur" indique la plage de classement possible avec une
+                              estimation ±{MARGIN_PCT}% plus ou moins optimiste, l'incertitude
+                              habituelle d'une auto-évaluation, pas une garantie de résultat.</>
+                          ) : (
+                            <>Simulation based on the real results of the {year} season scraped
+                              from this site (division {genderLabel(gender)}, category {category}).
+                              The ranking is calculated by directly comparing your estimates to
+                              the performances of every athlete who competed. The "Margin of
+                              error" column shows the possible ranking range with an estimate
+                              ±{MARGIN_PCT}% more or less optimistic — the usual uncertainty of a
+                              self-assessment, not a guarantee of result.</>
+                          )}
+                        />
+                      </th>
                     </tr>
                   </thead>
                   <tbody>
