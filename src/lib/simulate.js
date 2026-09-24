@@ -127,11 +127,18 @@ export function rankMovements(field, movementNames, movementValues) {
 // (field.overall, deja utilisee pour le classement general) -- symetrique a
 // bestImprovementTarget, mais a l'interieur de la seule discipline Force. Valeur affichee
 // arrondie au KG pres (demande explicite).
-export function bestMovementImprovement(field, perf, movementNames, movementValues, improvementPct = IMPROVEMENT_PCT) {
+//
+// `totalOverride` (optionnel) : le total Force REEL utilise pour le classement (perf.strength)
+// quand il ne correspond PAS a la somme de movementValues -- cas Team, ou movementValues ne
+// contient que les mouvements d'UN SEUL coequipier (l'autre moitie du total Force de l'equipe),
+// donc movementValues.reduce(...) serait le sous-total de cet athlete, pas le total d'equipe.
+// Sans override (Solo, comportement inchange), le total est derive de movementValues comme
+// avant.
+export function bestMovementImprovement(field, perf, movementNames, movementValues, improvementPct = IMPROVEMENT_PCT, totalOverride = null) {
   const f = improvementPct / 100
   const base = simulateField(field, perf)
   if (!base) return null
-  const total = movementValues.reduce((a, b) => a + b, 0)
+  const total = totalOverride != null ? totalOverride : movementValues.reduce((a, b) => a + b, 0)
   const scenarios = movementNames.map((name, i) => {
     const boosted = Math.round(movementValues[i] * (1 + f))
     const newTotal = total - movementValues[i] + boosted

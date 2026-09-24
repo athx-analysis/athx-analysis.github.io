@@ -1077,6 +1077,21 @@ button {
   gap: 14px;
 }
 
+/* Team : un jeu de champs de Force par coequipier (Athlete Homme 1/2, etc.), les 2 groupes
+   empiles avec un petit intitule au-dessus de chacun. */
+.sim-form-athlete + .sim-form-athlete {
+  margin-top: 18px;
+}
+
+.sim-form-athlete-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--gray-500);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 0 0 10px;
+}
+
 .sim-field {
   display: flex;
   flex-direction: column;

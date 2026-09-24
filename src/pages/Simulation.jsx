@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
 import simData from '../data/simulation_data.json'
 import AthxLogo from '../components/AthxLogo'
 import WorkoutReference from '../components/WorkoutReference'
@@ -19,11 +19,24 @@ const fmtPct = (p) => `${Math.min(Math.max(p, 0.01), 100).toFixed(2)}%`
 // farfelus, valeurs impossibles). Calees sur les valeurs reellement observees dans les donnees
 // scrapees (2025+2026, tous segments), avec une marge de securite :
 //   Force par mouvement : max reel observe 265KG (5RM Deadlift 2026) -> plafond 300KG.
-//   Endurance (distance totale) : max reel observe 10.6KM (2025) -> plafond 15KM.
+//   Endurance Solo (distance totale) : max reel observe 10.6KM (2025) -> plafond 15KM.
 //   MetCon (temps total) : max reel observe 29:50 (1790s) -> plafond 30:00.
 const STRENGTH_MAX_KG = 300
-const ENDURANCE_MAX_KM = 15
 const METCON_MAX_SECONDS = 30 * 60
+
+// Bornes d'endurance Team -- demande explicite utilisateur (24/09/2026), verifiees contre les
+// vraies donnees : en 2026 l'endurance Team va reellement de 2.4 a 11.2KM -> 1-14KM colle bien.
+// En 2025 en revanche, le format demande aux DEUX coequipiers de faire Course+Velo chacun (pas
+// une relance partagee comme en 2026), donc le total Team fait ~2x un total Solo -- vrais
+// totaux observes jusqu'a 20.3KM. Une borne 1-14 y rejetterait a tort de vrais resultats :
+// plafond adapte a 21KM (marge au-dessus du max reel observe), min reste 1 comme demande.
+const ENDURANCE_BOUNDS = {
+  individual: { min: 0, max: 15 },
+  team: { 2026: { min: 1, max: 14 }, 2025: { min: 1, max: 21 } },
+}
+function enduranceBoundsFor(mode, year) {
+  return mode === 'team' ? ENDURANCE_BOUNDS.team[year] : ENDURANCE_BOUNDS.individual
+}
 
 // Parse un temps STRICTEMENT au format "MM:SS" (pas d'autre format accepte -- demande
 // explicite). Secondes doivent etre < 60 (sinon "5:99" serait accepte a tort).
@@ -49,12 +62,12 @@ function validateStrengthField(raw, lang) {
   return null
 }
 
-function validateEnduranceField(raw, lang) {
+function validateEnduranceField(raw, lang, bounds) {
   if (raw === '') return null
   const norm = raw.trim().replace(',', '.')
   if (!/^\d{1,2}(\.\d{1,3})?$/.test(norm)) return lang === 'fr' ? 'Nombre uniquement (ex : 4.2)' : 'Numbers only (e.g. 4.2)'
   const v = parseFloat(norm)
-  if (v < 0 || v > ENDURANCE_MAX_KM) return lang === 'fr' ? `Entre 0 et ${ENDURANCE_MAX_KM} km` : `Between 0 and ${ENDURANCE_MAX_KM} km`
+  if (v < bounds.min || v > bounds.max) return lang === 'fr' ? `Entre ${bounds.min} et ${bounds.max} km` : `Between ${bounds.min} and ${bounds.max} km`
   return null
 }
 
@@ -78,6 +91,16 @@ function RangeBadge({ base, n, topLabel }) {
       </div>
     </div>
   )
+}
+
+// strengthA0/1/2, strengthB0/1/2 : saisie Team, un mouvement par coequipier (demande
+// explicite : pouvoir situer chaque athlete individuellement, pas seulement le total
+// d'equipe) -- inutilises en Solo, qui garde strength0/1/2 comme avant.
+const EMPTY_INPUTS = {
+  strength0: '', strength1: '', strength2: '',
+  strengthA0: '', strengthA1: '', strengthA2: '',
+  strengthB0: '', strengthB1: '', strengthB2: '',
+  endurance: '', metcon: '',
 }
 
 function Field({ label, error, children }) {
@@ -115,7 +138,7 @@ export default function Simulation() {
   const [mode, setMode] = useState('individual') // 'individual' (Solo) | 'team' (paire)
   const [gender, setGender] = useState(null)
   const [category, setCategory] = useState(null)
-  const [inputs, setInputs] = useState({ strength0: '', strength1: '', strength2: '', endurance: '', metcon: '' })
+  const [inputs, setInputs] = useState(EMPTY_INPUTS)
   const [submitted, setSubmitted] = useState(false)
   const [justSubmitted, setJustSubmitted] = useState(false)
   const resultsRef = useRef(null)
@@ -143,25 +166,70 @@ export default function Simulation() {
   // n'a donc la vraie liste qu'une fois la categorie choisie (etape 4).
   const strengthMovements = category ? yearData.strength_movements[category] : []
   const field = gender && category ? yearData.populations[gender][category] : null
+  const enduranceBounds = enduranceBoundsFor(mode, year)
 
-  const fieldErrors = useMemo(() => ({
-    strength0: validateStrengthField(inputs.strength0, lang),
-    strength1: validateStrengthField(inputs.strength1, lang),
-    strength2: validateStrengthField(inputs.strength2, lang),
-    endurance: validateEnduranceField(inputs.endurance, lang),
-    metcon: validateMetconField(inputs.metcon, lang),
-  }), [inputs, lang])
+  // Les 2 "emplacements" coequipier en Team, avec leur libelle et leur PROPRE genre (utile en
+  // Mixte, ou les 2 coequipiers n'ont pas le meme genre -- cf. strength_by_movement_individual,
+  // indexe par genre d'athlete, jamais par division d'equipe). Homme/Femme (non mixte) :
+  // numerotes 1/2 (2 coequipiers du meme genre, il faut les distinguer) ; Mixte : pas de
+  // numero, un seul de chaque genre, aucune ambiguite possible.
+  const athleteSlots = useMemo(() => {
+    if (mode !== 'team' || !gender) return []
+    if (gender === 'Mixed') {
+      return [
+        { key: 'A', athleteGender: 'Male', label: lang === 'fr' ? 'Athlète Homme' : 'Male Athlete' },
+        { key: 'B', athleteGender: 'Female', label: lang === 'fr' ? 'Athlète Femme' : 'Female Athlete' },
+      ]
+    }
+    const genderWord = gender === 'Male' ? (lang === 'fr' ? 'Homme' : 'Male') : (lang === 'fr' ? 'Femme' : 'Female')
+    const prefix = lang === 'fr' ? 'Athlète' : ''
+    return [
+      { key: 'A', athleteGender: gender, label: lang === 'fr' ? `${prefix} ${genderWord} 1` : `${genderWord} Athlete 1` },
+      { key: 'B', athleteGender: gender, label: lang === 'fr' ? `${prefix} ${genderWord} 2` : `${genderWord} Athlete 2` },
+    ]
+  }, [mode, gender, lang])
+
+  const strengthFieldKeys = mode === 'team'
+    ? [
+        ...['strengthA0', 'strengthA1', 'strengthA2'].slice(0, strengthMovements.length),
+        ...['strengthB0', 'strengthB1', 'strengthB2'].slice(0, strengthMovements.length),
+      ]
+    : ['strength0', 'strength1', 'strength2'].slice(0, strengthMovements.length)
+
+  const fieldErrors = useMemo(() => {
+    const errs = {}
+    strengthFieldKeys.forEach((k) => { errs[k] = validateStrengthField(inputs[k], lang) })
+    errs.endurance = validateEnduranceField(inputs.endurance, lang, enduranceBounds)
+    errs.metcon = validateMetconField(inputs.metcon, lang)
+    return errs
+  }, [inputs, lang, strengthFieldKeys, enduranceBounds])
   const hasErrors = Object.values(fieldErrors).some(Boolean)
+
+  const parseNum = (k) => parseFloat((inputs[k] || '').replace(',', '.')) || 0
+
+  // Valeurs par mouvement, par athlete -- uniquement pertinent en Team (2 coequipiers saisis
+  // separement). athleteMovementValues.A[i]/.B[i] correspond a strengthMovements[i].
+  const athleteMovementValues = useMemo(() => {
+    if (mode !== 'team') return null
+    return {
+      A: ['strengthA0', 'strengthA1', 'strengthA2'].slice(0, strengthMovements.length).map(parseNum),
+      B: ['strengthB0', 'strengthB1', 'strengthB2'].slice(0, strengthMovements.length).map(parseNum),
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode, inputs, strengthMovements.length])
 
   // Une valeur par mouvement de Force (2 ou 3 selon saison/categorie, cf. strengthMovements) --
   // dans le meme ordre que strengthMovements, donc movementValues[i] correspond toujours a
-  // strengthMovements[i].
-  const movementValues = useMemo(
-    () => ['strength0', 'strength1', 'strength2']
-      .slice(0, strengthMovements.length)
-      .map((k) => parseFloat((inputs[k] || '').replace(',', '.')) || 0),
-    [inputs, strengthMovements.length],
-  )
+  // strengthMovements[i]. En Team : somme des 2 coequipiers par mouvement (total d'equipe),
+  // utilise partout ailleurs exactement comme avant (classement, score ATHX...).
+  const movementValues = useMemo(() => {
+    if (mode === 'team') {
+      if (!athleteMovementValues) return []
+      return strengthMovements.map((_, i) => (athleteMovementValues.A[i] || 0) + (athleteMovementValues.B[i] || 0))
+    }
+    return ['strength0', 'strength1', 'strength2'].slice(0, strengthMovements.length).map(parseNum)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode, inputs, strengthMovements.length, athleteMovementValues])
 
   const perf = useMemo(() => {
     const strength = movementValues.reduce((sum, v) => sum + v, 0)
@@ -188,18 +256,39 @@ export default function Simulation() {
   // mais A L'INTERIEUR de la Force : quel mouvement est le plus fort/faible (percentile
   // individuel par mouvement) et lequel, boosté de +3%, rapporte le plus de places au
   // classement general (pas forcement le meme -- s'ameliorer sur son point faible ne paie pas
-  // toujours le plus, demande explicite de l'utilisateur).
+  // toujours le plus, demande explicite de l'utilisateur). SOLO uniquement -- en Team, cette
+  // meme analyse existe mais PAR ATHLETE (cf. athleteAnalyses ci-dessous), pas au niveau equipe.
   const movementRanksByPct = useMemo(() => {
-    if (!field || !submitted || !valid || strengthMovements.length < 2) return []
+    if (mode !== 'individual' || !field || !submitted || !valid || strengthMovements.length < 2) return []
     return rankMovements(field.overall, strengthMovements, movementValues).sort((a, b) => a.pct - b.pct)
-  }, [field, submitted, valid, strengthMovements, movementValues])
+  }, [mode, field, submitted, valid, strengthMovements, movementValues])
   const bestMovement = movementRanksByPct[0]
   const worstMovement = movementRanksByPct[movementRanksByPct.length - 1]
 
   const movementImprovement = useMemo(() => {
-    if (!field || !submitted || !valid || strengthMovements.length < 2) return null
+    if (mode !== 'individual' || !field || !submitted || !valid || strengthMovements.length < 2) return null
     return bestMovementImprovement(field.overall, perf, strengthMovements, movementValues)
-  }, [field, submitted, valid, strengthMovements, movementValues, perf])
+  }, [mode, field, submitted, valid, strengthMovements, movementValues, perf])
+
+  // Version Team de movementRanksByPct/movementImprovement, PAR ATHLETE (demande explicite) :
+  // population de comparaison = strength_by_movement_individual[categorie][genre de CET
+  // athlete] (tous les athletes individuels de ce genre en Team cette annee/categorie, quelle
+  // que soit la composition de leur propre paire -- cf. commentaire de
+  // per_movement_fields_by_athlete_gender cote script). Le classement (gain de +3%) reste
+  // simule contre le champ d'EQUIPE (field.overall) avec totalOverride=perf.strength : booster
+  // le mouvement d'UN SEUL coequipier change le total d'equipe, donc son classement, pas un
+  // classement individuel qui n'existe pas.
+  const athleteAnalyses = useMemo(() => {
+    if (mode !== 'team' || !field || !submitted || !valid || strengthMovements.length < 2
+      || !athleteMovementValues || athleteSlots.length < 2 || !category) return []
+    return athleteSlots.map((slot) => {
+      const values = athleteMovementValues[slot.key]
+      const popField = { strength_by_movement: yearData.strength_by_movement_individual[category][slot.athleteGender] }
+      const ranks = rankMovements(popField, strengthMovements, values).sort((a, b) => a.pct - b.pct)
+      const improvement = bestMovementImprovement(field.overall, perf, strengthMovements, values, IMPROVEMENT_PCT, perf.strength)
+      return { slot, best: ranks[0], worst: ranks[ranks.length - 1], improvement }
+    }).filter((a) => a.best && a.worst)
+  }, [mode, field, submitted, valid, strengthMovements, athleteMovementValues, athleteSlots, category, yearData, perf])
 
   const eventSims = useMemo(() => {
     if (!field || !submitted || !valid) return []
@@ -244,7 +333,7 @@ export default function Simulation() {
     setYear(y)
     setGender(null)
     setCategory(null)
-    setInputs({ strength0: '', strength1: '', strength2: '', endurance: '', metcon: '' })
+    setInputs(EMPTY_INPUTS)
     setSubmitted(false)
   }
 
@@ -252,14 +341,14 @@ export default function Simulation() {
     setMode(m)
     setGender(null)
     setCategory(null)
-    setInputs({ strength0: '', strength1: '', strength2: '', endurance: '', metcon: '' })
+    setInputs(EMPTY_INPUTS)
     setSubmitted(false)
   }
 
   function reset() {
     setGender(null)
     setCategory(null)
-    setInputs({ strength0: '', strength1: '', strength2: '', endurance: '', metcon: '' })
+    setInputs(EMPTY_INPUTS)
     setSubmitted(false)
   }
 
@@ -374,25 +463,52 @@ export default function Simulation() {
               <div className="sim-form">
                 <div className="sim-form-group">
                   <h3>{DISCIPLINE_LABEL.strength} <span className="sim-form-unit">{lang === 'fr' ? `(KG par mouvement, 0 à ${STRENGTH_MAX_KG})` : `(KG per movement, 0 to ${STRENGTH_MAX_KG})`}</span></h3>
-                  <div className="sim-form-row">
-                    {strengthMovements.map((mv, i) => {
-                      const key = `strength${i}`
-                      return (
-                        <Field key={key} label={mv} error={fieldErrors[key]}>
-                          <input
-                            type="text" inputMode="decimal" placeholder={lang === 'fr' ? 'ex : 120' : 'e.g. 120'}
-                            className={fieldErrors[key] ? 'has-error' : ''}
-                            value={inputs[key]}
-                            onChange={(e) => updateInput(key, e.target.value)}
-                          />
-                        </Field>
-                      )
-                    })}
-                  </div>
+                  {mode === 'team' ? (
+                    // Team : un jeu de champs par coequipier (demande explicite -- permet
+                    // ensuite de situer CHAQUE athlete individuellement, pas seulement le
+                    // total d'equipe). Le total par mouvement (somme des 2) reste utilise
+                    // partout ailleurs exactement comme avant.
+                    athleteSlots.map((slot) => (
+                      <div key={slot.key} className="sim-form-athlete">
+                        <p className="sim-form-athlete-label">{slot.label}</p>
+                        <div className="sim-form-row">
+                          {strengthMovements.map((mv, i) => {
+                            const key = `strength${slot.key}${i}`
+                            return (
+                              <Field key={key} label={mv} error={fieldErrors[key]}>
+                                <input
+                                  type="text" inputMode="decimal" placeholder={lang === 'fr' ? 'ex : 120' : 'e.g. 120'}
+                                  className={fieldErrors[key] ? 'has-error' : ''}
+                                  value={inputs[key]}
+                                  onChange={(e) => updateInput(key, e.target.value)}
+                                />
+                              </Field>
+                            )
+                          })}
+                        </div>
+                      </div>
+                    ))
+                  ) : (
+                    <div className="sim-form-row">
+                      {strengthMovements.map((mv, i) => {
+                        const key = `strength${i}`
+                        return (
+                          <Field key={key} label={mv} error={fieldErrors[key]}>
+                            <input
+                              type="text" inputMode="decimal" placeholder={lang === 'fr' ? 'ex : 120' : 'e.g. 120'}
+                              className={fieldErrors[key] ? 'has-error' : ''}
+                              value={inputs[key]}
+                              onChange={(e) => updateInput(key, e.target.value)}
+                            />
+                          </Field>
+                        )
+                      })}
+                    </div>
+                  )}
                 </div>
 
                 <div className="sim-form-group">
-                  <h3>{DISCIPLINE_LABEL.endurance} <span className="sim-form-unit">{lang === 'fr' ? `(distance totale, KM, 0 à ${ENDURANCE_MAX_KM})` : `(total distance, KM, 0 to ${ENDURANCE_MAX_KM})`}</span></h3>
+                  <h3>{DISCIPLINE_LABEL.endurance} <span className="sim-form-unit">{lang === 'fr' ? `(distance totale${mode === 'team' ? ' de la paire' : ''}, KM, ${enduranceBounds.min} à ${enduranceBounds.max})` : `(total distance${mode === 'team' ? ', pair' : ''}, KM, ${enduranceBounds.min} to ${enduranceBounds.max})`}</span></h3>
                   <Field label={lang === 'fr' ? 'Distance totale' : 'Total distance'} error={fieldErrors.endurance}>
                     <input
                       type="text" inputMode="decimal" placeholder="ex : 4.2"
@@ -615,7 +731,7 @@ export default function Simulation() {
               </div>
             )}
 
-            {bestMovement && worstMovement && (
+            {mode === 'individual' && bestMovement && worstMovement && (
               <div className="sim-result-block">
                 <h3>{lang === 'fr' ? 'Mouvement fort / mouvement faible (Force)' : 'Strong / weak movement (Strength)'}</h3>
                 <p className="sim-improve-intro">
@@ -648,7 +764,7 @@ export default function Simulation() {
               </div>
             )}
 
-            {movementImprovement && (
+            {mode === 'individual' && movementImprovement && (
               <div className="sim-result-block">
                 <h3>{lang === 'fr' ? 'Quel mouvement de Force prioriser ?' : 'Which Strength movement should you prioritize?'}</h3>
                 <p className="sim-improve-intro">
@@ -685,6 +801,89 @@ export default function Simulation() {
                 </div>
               </div>
             )}
+
+            {/* Team : meme principe, mais PAR ATHLETE (demande explicite) -- remplace les 2
+                blocs equipe ci-dessus, un fort/faible + une priorite de progression par
+                coequipier, chacun compare a la population de son propre genre (cf.
+                athleteAnalyses). */}
+            {mode === 'team' && athleteAnalyses.map(({ slot, best, worst, improvement }) => (
+              <Fragment key={slot.key}>
+                <div className="sim-result-block">
+                  <h3>
+                    {lang === 'fr' ? `Mouvement fort / mouvement faible — ${slot.label}` : `Strong / weak movement — ${slot.label}`}
+                  </h3>
+                  <p className="sim-improve-intro">
+                    {lang === 'fr' ? (
+                      <>Même principe que les points forts/faibles, mais à l'intérieur de la
+                        Force et pour {slot.label} individuellement : chaque mouvement comparé
+                        à la population des athlètes de son genre en Team (un 1RM Strict Press
+                        ne se compare pas à un 5RM Deadlift en KG bruts).</>
+                    ) : (
+                      <>Same idea as strengths/weaknesses, but inside Strength and for
+                        {' '}{slot.label} individually: each movement compared to the
+                        population of Team athletes of their own gender (a 1RM Strict Press
+                        can't be compared to a 5RM Deadlift in raw KG).</>
+                    )}
+                  </p>
+                  <div className="sim-strength-weakness">
+                    <div className="sim-sw-card sim-sw-good">
+                      <p className="sim-sw-tag">{lang === 'fr' ? 'Mouvement fort' : 'Strong movement'}</p>
+                      <p className="sim-sw-name">{best.label}</p>
+                      <p className="sim-sw-detail">
+                        {topLabel(best.pct)}, {formatDisciplineValue('strength', best.value)}
+                      </p>
+                    </div>
+                    <div className="sim-sw-card sim-sw-bad">
+                      <p className="sim-sw-tag">{lang === 'fr' ? 'Mouvement faible' : 'Weak movement'}</p>
+                      <p className="sim-sw-name">{worst.label}</p>
+                      <p className="sim-sw-detail">
+                        {topLabel(worst.pct)}, {formatDisciplineValue('strength', worst.value)}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {improvement && (
+                  <div className="sim-result-block">
+                    <h3>
+                      {lang === 'fr' ? `Quel mouvement prioriser pour ${slot.label} ?` : `Which movement should ${slot.label} prioritize?`}
+                    </h3>
+                    <p className="sim-improve-intro">
+                      {lang === 'fr' ? (
+                        <>Attention, ce n'est pas forcément son mouvement faible : améliorer un
+                          mouvement de +{IMPROVEMENT_PCT}% (arrondi au KG près) ne fait pas
+                          toujours gagner le plus de KG sur le total Force de l'équipe, donc pas
+                          forcément le plus de places au classement général. Voici le vrai
+                          classement, mouvement par mouvement, pour {slot.label}.</>
+                      ) : (
+                        <>Careful, it's not necessarily their weak movement: a +{IMPROVEMENT_PCT}%
+                          improvement (rounded to the nearest KG) on one movement doesn't always
+                          add the most KG to the team's total Strength score, so not necessarily
+                          the most places in the overall ranking. Here's the real ranking,
+                          movement by movement, for {slot.label}.</>
+                      )}
+                    </p>
+                    <div className="sim-improve-grid">
+                      {improvement.scenarios.map((s, i) => (
+                        <div key={s.key} className={`sim-improve-card${i === 0 ? ' sim-improve-best' : ''}`}>
+                          <p className="sim-improve-label">
+                            {s.label}{i === 0 ? (lang === 'fr' ? ', le plus rentable' : ', the most profitable') : ''}
+                          </p>
+                          <p className="sim-improve-values">
+                            {formatDisciplineValue('strength', s.fromValue)} → {formatDisciplineValue('strength', s.toValue)}
+                          </p>
+                          <p className="sim-improve-gain">
+                            {s.gain > 0
+                              ? `+${fmtInt(s.gain)} ${lang === 'fr' ? `place${s.gain > 1 ? 's' : ''}` : `place${s.gain > 1 ? 's' : ''}`}`
+                              : (lang === 'fr' ? 'aucun gain' : 'no gain')}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </Fragment>
+            ))}
           </div>
         </section>
       )}
