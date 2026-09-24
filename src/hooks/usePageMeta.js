@@ -9,7 +9,7 @@ import { useEffect } from 'react'
 //
 // `path` = fragment apres le "#" de l'URL (ex: '/simulation', '' pour l'accueil) -- coherent
 // avec le HashRouter deja utilise sur tout le site.
-const SITE_ORIGIN = 'https://athx-analysis.github.io'
+const SITE_ORIGIN = 'https://athx-analysis.com'
 
 function setMetaTag(attr, name, content) {
   if (!content) return

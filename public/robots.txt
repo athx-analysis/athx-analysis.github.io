@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://athx-analysis.github.io/sitemap.xml
+Sitemap: https://athx-analysis.com/sitemap.xml
