@@ -440,7 +440,7 @@ export default function Simulation() {
               <p className="section-title">{lang === 'fr' ? 'Étape 4' : 'Step 4'}</p>
               <h2 className="section-heading sim-step-heading">{t('category')}</h2>
               <div className="sim-square-grid">
-                {simData.categories.map((c) => (
+                {simData.categories_by_mode[mode].map((c) => (
                   <button
                     key={c}
                     className={`sim-square${category === c ? ' active' : ''}`}

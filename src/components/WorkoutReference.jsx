@@ -13,7 +13,10 @@ export default function WorkoutReference({ year, mode, gender, category }) {
   const { lang } = useLanguage()
   const yearData = OFFICIAL_WORKOUTS[year]
   if (!yearData) return null
-  const categoryTag = category === 'ATHX Pro' ? 'PRO' : 'ATHX'
+  // "ATHX Lite" (Team uniquement, cf. Simulation.jsx) -> tag "LITE", meme mapping que
+  // Home.jsx. Sans ca, une categorie Lite retombait a tort sur le tag "ATHX" (poids reguliers
+  // au lieu des poids Lite) -- bug potentiel jamais rencontre avant l'ajout de Lite ici.
+  const categoryTag = category === 'ATHX Pro' ? 'PRO' : category === 'ATHX Lite' ? 'LITE' : 'ATHX'
   const cardMode = mode === 'team' ? 'pairs' : 'individual'
 
   return (
