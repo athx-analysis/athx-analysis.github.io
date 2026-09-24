@@ -87,6 +87,12 @@ export default function Home() {
                 tested in a single competition.</>
             )}
           </p>
+          <div className="hero-actions">
+            <Link to="/simulation" className="btn-pill btn-pill-solid">
+              {lang === 'fr' ? 'Faire ma simulation' : 'Run my simulation'}
+              <span className="btn-pill-icon">{ARROW}</span>
+            </Link>
+          </div>
         </div>
       </section>
 

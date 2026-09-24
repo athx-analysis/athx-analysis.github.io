@@ -120,6 +120,23 @@ button {
   color: #ffffff;
 }
 
+/* Variante toujours orange (pas seulement au survol) -- CTA principal du hero d'accueil vers
+   la Simulation, doit se voir immediatement sans interaction. */
+.btn-pill-solid {
+  background: var(--gradient-athx);
+  border-color: transparent;
+  color: var(--ink);
+}
+
+.btn-pill-solid .btn-pill-icon {
+  background: var(--ink);
+  color: #ffffff;
+}
+
+.btn-pill-solid:hover {
+  filter: brightness(1.06);
+}
+
 
 /* ---------- Header ---------- */
 
