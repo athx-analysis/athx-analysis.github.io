@@ -1,4 +1,5 @@
 import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
+import AthxScoreReveal from '../components/AthxScoreReveal'
 import simData from '../data/simulation_data.json'
 import AthxLogo from '../components/AthxLogo'
 import WorkoutReference from '../components/WorkoutReference'
@@ -140,6 +141,10 @@ export default function Simulation() {
   const [category, setCategory] = useState(null)
   const [ageGroup, setAgeGroup] = useState(null)
   const [ageCardFlipped, setAgeCardFlipped] = useState(false)
+  // Toggles "Général / Groupe d'âge" -- evitent de doubler le nombre de blocs/colonnes
+  // affichés en permanence (demande explicite : "ça fait trop de colonnes sinon").
+  const [disciplineShowAge, setDisciplineShowAge] = useState(false)
+  const [competitionShowAge, setCompetitionShowAge] = useState(false)
   const [inputs, setInputs] = useState(EMPTY_INPUTS)
   const [submitted, setSubmitted] = useState(false)
   const [justSubmitted, setJustSubmitted] = useState(false)
@@ -159,7 +164,10 @@ export default function Simulation() {
   function handleSubmit() {
     setSubmitted(true)
     setJustSubmitted(true)
-    setAgeCardFlipped(false) // chaque nouvelle soumission repart sur la face avant (classement general)
+    // Chaque nouvelle soumission repart sur les vues "generales" par defaut.
+    setAgeCardFlipped(false)
+    setDisciplineShowAge(false)
+    setCompetitionShowAge(false)
   }
 
   const yearData = simData.by_year[String(year)][mode]
@@ -620,141 +628,67 @@ export default function Simulation() {
               {modeLabel(mode)} · {genderLabel(gender)} · {category} · {lang === 'fr' ? 'saison' : 'season'} {year}
             </h2>
 
-            <div className="sim-result-block">
-              <h3>{lang === 'fr' ? 'Classement général, toutes compétitions confondues' : 'Overall ranking, all competitions combined'}</h3>
-              <RangeBadge base={overallSim.base} n={field.overall.n} topLabel={topLabel} />
-            </div>
+            <div className="sim-result-row">
+              <div className="sim-result-block">
+                <h3>{lang === 'fr' ? 'Classement général, toutes compétitions confondues' : 'Overall ranking, all competitions combined'}</h3>
+                <RangeBadge base={overallSim.base} n={field.overall.n} topLabel={topLabel} />
+              </div>
 
-            <div className="sim-result-block">
-              <h3>{lang === 'fr' ? "Classement général parmi votre groupe d'âge, toutes compétitions confondues" : 'Overall ranking within your age group, all competitions combined'}</h3>
-              {ageOverallSim?.base ? (
-                <RangeBadge base={ageOverallSim.base} n={ageField.overall.n} topLabel={topLabel} />
-              ) : (
-                <p className="sim-not-enough-data">{t('not_enough_data')}</p>
-              )}
-            </div>
-
-            <div className="sim-result-block">
-              <h3>{lang === 'fr' ? 'Classement général par épreuve' : 'Overall ranking by event'}</h3>
-              <div className="sim-discipline-grid">
-                {[
-                  { key: 'strength', label: DISCIPLINE_LABEL.strength, rank: overallSim.base.subrankStrength, pct: overallSim.base.pctStrength },
-                  { key: 'endurance', label: DISCIPLINE_LABEL.endurance, rank: overallSim.base.subrankEndurance, pct: overallSim.base.pctEndurance },
-                  { key: 'metcon', label: DISCIPLINE_LABEL.metcon, rank: overallSim.base.subrankMetcon, pct: overallSim.base.pctMetcon },
-                ].map((d) => (
-                  <div key={d.key} className="sim-discipline-card">
-                    <p className="sim-discipline-label">{d.label}</p>
-                    <p className="sim-discipline-rank">{fmtInt(d.rank)} <span className="sim-discipline-total">/ {fmtInt(field.overall.n)}</span></p>
-                    <p className="sim-discipline-pct">{topLabel(d.pct)}</p>
-                  </div>
-                ))}
+              <div className="sim-result-block">
+                <h3>{lang === 'fr' ? "Classement général parmi votre groupe d'âge, toutes compétitions confondues" : 'Overall ranking within your age group, all competitions combined'}</h3>
+                {ageOverallSim?.base ? (
+                  <RangeBadge base={ageOverallSim.base} n={ageField.overall.n} topLabel={topLabel} />
+                ) : (
+                  <p className="sim-not-enough-data">{t('not_enough_data')}</p>
+                )}
               </div>
             </div>
 
             <div className="sim-result-block">
-              <h3>{lang === 'fr' ? "Classement général par épreuve parmi votre groupe d'âge" : 'Overall ranking by event within your age group'}</h3>
-              {ageOverallSim?.base ? (
+              <div className="sim-block-head-row">
+                <h3>{lang === 'fr' ? 'Classement général par épreuve' : 'Overall ranking by event'}</h3>
+                <div className="sim-view-toggle">
+                  <button type="button" className={`wof-toggle-btn${!disciplineShowAge ? ' active' : ''}`} onClick={() => setDisciplineShowAge(false)}>
+                    {lang === 'fr' ? 'Général' : 'Overall'}
+                  </button>
+                  <button type="button" className={`wof-toggle-btn${disciplineShowAge ? ' active' : ''}`} onClick={() => setDisciplineShowAge(true)}>
+                    {lang === 'fr' ? "Groupe d'âge" : 'Age group'}
+                  </button>
+                </div>
+              </div>
+              {disciplineShowAge ? (
+                ageOverallSim?.base ? (
+                  <div className="sim-discipline-grid">
+                    {[
+                      { key: 'strength', label: DISCIPLINE_LABEL.strength, rank: ageOverallSim.base.subrankStrength, pct: ageOverallSim.base.pctStrength },
+                      { key: 'endurance', label: DISCIPLINE_LABEL.endurance, rank: ageOverallSim.base.subrankEndurance, pct: ageOverallSim.base.pctEndurance },
+                      { key: 'metcon', label: DISCIPLINE_LABEL.metcon, rank: ageOverallSim.base.subrankMetcon, pct: ageOverallSim.base.pctMetcon },
+                    ].map((d) => (
+                      <div key={d.key} className="sim-discipline-card">
+                        <p className="sim-discipline-label">{d.label}</p>
+                        <p className="sim-discipline-rank">{fmtInt(d.rank)} <span className="sim-discipline-total">/ {fmtInt(ageField.overall.n)}</span></p>
+                        <p className="sim-discipline-pct">{topLabel(d.pct)}</p>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <p className="sim-not-enough-data">{t('not_enough_data')}</p>
+                )
+              ) : (
                 <div className="sim-discipline-grid">
                   {[
-                    { key: 'strength', label: DISCIPLINE_LABEL.strength, rank: ageOverallSim.base.subrankStrength, pct: ageOverallSim.base.pctStrength },
-                    { key: 'endurance', label: DISCIPLINE_LABEL.endurance, rank: ageOverallSim.base.subrankEndurance, pct: ageOverallSim.base.pctEndurance },
-                    { key: 'metcon', label: DISCIPLINE_LABEL.metcon, rank: ageOverallSim.base.subrankMetcon, pct: ageOverallSim.base.pctMetcon },
+                    { key: 'strength', label: DISCIPLINE_LABEL.strength, rank: overallSim.base.subrankStrength, pct: overallSim.base.pctStrength },
+                    { key: 'endurance', label: DISCIPLINE_LABEL.endurance, rank: overallSim.base.subrankEndurance, pct: overallSim.base.pctEndurance },
+                    { key: 'metcon', label: DISCIPLINE_LABEL.metcon, rank: overallSim.base.subrankMetcon, pct: overallSim.base.pctMetcon },
                   ].map((d) => (
                     <div key={d.key} className="sim-discipline-card">
                       <p className="sim-discipline-label">{d.label}</p>
-                      <p className="sim-discipline-rank">{fmtInt(d.rank)} <span className="sim-discipline-total">/ {fmtInt(ageField.overall.n)}</span></p>
+                      <p className="sim-discipline-rank">{fmtInt(d.rank)} <span className="sim-discipline-total">/ {fmtInt(field.overall.n)}</span></p>
                       <p className="sim-discipline-pct">{topLabel(d.pct)}</p>
                     </div>
                   ))}
                 </div>
-              ) : (
-                <p className="sim-not-enough-data">{t('not_enough_data')}</p>
               )}
-            </div>
-
-            <div className="sim-result-block">
-              <h3>{lang === 'fr' ? 'Classement par compétition' : 'Ranking by competition'}</h3>
-              <div className="table-wrap sim-event-table-wrap">
-                <table className="lb-table sim-event-table">
-                  <thead>
-                    <tr>
-                      <th scope="col">{t('event')}</th>
-                      <th scope="col">{t('rank')}</th>
-                      <th scope="col">{lang === 'fr' ? 'Percentile' : 'Percentile'}</th>
-                      <th scope="col">
-                        {lang === 'fr' ? "Marge d'erreur" : 'Margin of error'}
-                        <InfoIconPortal
-                          text={lang === 'fr' ? (
-                            <>Simulation basée sur les résultats réels de la saison {year} scrapés
-                              sur ce site ({modeLabel(mode)}, division {genderLabel(gender)},
-                              catégorie {category}). Le classement est calculé en comparant
-                              directement vos estimations aux performances de
-                              {mode === 'team' ? ' toutes les paires ayant participé' : ' tous les athlètes ayant concouru'}.
-                              La colonne "Marge d'erreur" indique la plage de classement possible
-                              avec une estimation ±{MARGIN_PCT}% plus ou moins optimiste,
-                              l'incertitude habituelle d'une auto-évaluation, pas une garantie de
-                              résultat.</>
-                          ) : (
-                            <>Simulation based on the real results of the {year} season scraped
-                              from this site ({modeLabel(mode)}, division {genderLabel(gender)},
-                              category {category}). The ranking is calculated by directly
-                              comparing your estimates to the performances of
-                              {mode === 'team' ? ' every pair that competed' : ' every athlete who competed'}.
-                              The "Margin of error" column shows the possible ranking range with
-                              an estimate ±{MARGIN_PCT}% more or less optimistic — the usual
-                              uncertainty of a self-assessment, not a guarantee of result.</>
-                          )}
-                        />
-                      </th>
-                      <th scope="col">{lang === 'fr' ? 'Rang (groupe d’âge)' : 'Rank (age group)'}</th>
-                      <th scope="col">{lang === 'fr' ? 'Percentile (groupe d’âge)' : 'Percentile (age group)'}</th>
-                      <th scope="col">
-                        {lang === 'fr' ? 'Marge d’erreur (groupe d’âge)' : 'Margin of error (age group)'}
-                        <InfoIconPortal
-                          text={lang === 'fr' ? (
-                            <>Mêmes principes que la marge d'erreur générale, mais comparé
-                              uniquement aux {mode === 'team' ? 'paires' : 'athlètes'} de votre
-                              groupe d'âge ({ageGroup}) à chaque compétition. Peut afficher "—"
-                              si trop peu de {mode === 'team' ? 'paires' : 'athlètes'} de ce
-                              groupe d'âge ont participé à cette compétition précise pour un
-                              classement significatif.</>
-                          ) : (
-                            <>Same principles as the general margin of error, but compared only
-                              to the {mode === 'team' ? 'pairs' : 'athletes'} in your age group
-                              ({ageGroup}) at each competition. May show "—" if too few
-                              {' '}{mode === 'team' ? 'pairs' : 'athletes'} from this age group
-                              took part in that specific competition for a meaningful ranking.</>
-                          )}
-                        />
-                      </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {eventSims.map((ev) => {
-                      const ageEv = ageEventSims[ev.key]
-                      return (
-                        <tr key={ev.key}>
-                          <td>{ev.label}</td>
-                          <td className="rank-cell">{fmtInt(ev.base.rank)} / {fmtInt(ev.n)}</td>
-                          <td>{topLabel(ev.base.pctOverall)}</td>
-                          <td className="sim-event-margin">
-                            {ev.best.rank !== ev.base.rank || ev.worst.rank !== ev.base.rank
-                              ? `${fmtInt(ev.best.rank)} – ${fmtInt(ev.worst.rank)}`
-                              : '—'}
-                          </td>
-                          <td className="rank-cell">{ageEv ? `${fmtInt(ageEv.base.rank)} / ${fmtInt(ageEv.n)}` : '—'}</td>
-                          <td>{ageEv ? topLabel(ageEv.base.pctOverall) : '—'}</td>
-                          <td className="sim-event-margin">
-                            {ageEv && (ageEv.best.rank !== ageEv.base.rank || ageEv.worst.rank !== ageEv.base.rank)
-                              ? `${fmtInt(ageEv.best.rank)} – ${fmtInt(ageEv.worst.rank)}`
-                              : '—'}
-                          </td>
-                        </tr>
-                      )
-                    })}
-                  </tbody>
-                </table>
-              </div>
             </div>
 
             {overallSim?.base && (
@@ -774,37 +708,41 @@ export default function Simulation() {
                     score au sein du groupe d'age -- le survol/clic sur le bouton anime une
                     rotation complete plutot que de simplement remplacer le contenu, pour
                     accentuer la sensation de "devoiler" l'autre classement (demande
-                    explicite). */}
-                <div className={`athx-flip-wrap${ageCardFlipped ? ' flipped' : ''}`}>
-                  <div className="athx-flip-inner">
-                    <div className="athx-flip-face athx-flip-front">
-                      <AthxCard
-                        division={genderLabel(gender)}
-                        category={category}
-                        scores={{
-                          strength: Math.round(100 - overallSim.base.pctStrength),
-                          endurance: Math.round(100 - overallSim.base.pctEndurance),
-                          metcon: Math.round(100 - overallSim.base.pctMetcon),
-                        }}
-                      />
-                    </div>
-                    <div className="athx-flip-face athx-flip-back">
-                      {ageOverallSim?.base ? (
+                    explicite). AthxScoreReveal : petit effet d'apparition au scroll (echelle +
+                    etincelles orange/jaune) plutot qu'un simple fondu Reveal generique --
+                    demande explicite, "façon ouverture de pack FIFA". */}
+                <AthxScoreReveal>
+                  <div className={`athx-flip-wrap${ageCardFlipped ? ' flipped' : ''}`}>
+                    <div className="athx-flip-inner">
+                      <div className="athx-flip-face athx-flip-front">
                         <AthxCard
                           division={genderLabel(gender)}
-                          category={`${category} · ${ageGroup}`}
+                          category={category}
                           scores={{
-                            strength: Math.round(100 - ageOverallSim.base.pctStrength),
-                            endurance: Math.round(100 - ageOverallSim.base.pctEndurance),
-                            metcon: Math.round(100 - ageOverallSim.base.pctMetcon),
+                            strength: Math.round(100 - overallSim.base.pctStrength),
+                            endurance: Math.round(100 - overallSim.base.pctEndurance),
+                            metcon: Math.round(100 - overallSim.base.pctMetcon),
                           }}
                         />
-                      ) : (
-                        <div className="athx-flip-empty">{t('not_enough_data')}</div>
-                      )}
+                      </div>
+                      <div className="athx-flip-face athx-flip-back">
+                        {ageOverallSim?.base ? (
+                          <AthxCard
+                            division={genderLabel(gender)}
+                            category={`${category} · ${ageGroup}`}
+                            scores={{
+                              strength: Math.round(100 - ageOverallSim.base.pctStrength),
+                              endurance: Math.round(100 - ageOverallSim.base.pctEndurance),
+                              metcon: Math.round(100 - ageOverallSim.base.pctMetcon),
+                            }}
+                          />
+                        ) : (
+                          <div className="athx-flip-empty">{t('not_enough_data')}</div>
+                        )}
+                      </div>
                     </div>
                   </div>
-                </div>
+                </AthxScoreReveal>
                 <button type="button" className="athx-flip-toggle" onClick={() => setAgeCardFlipped((v) => !v)}>
                   {ageCardFlipped
                     ? (lang === 'fr' ? 'Revenir au classement général' : 'Back to overall ranking')
@@ -812,6 +750,100 @@ export default function Simulation() {
                 </button>
               </div>
             )}
+
+            <div className="sim-result-block">
+              <div className="sim-block-head-row">
+                <h3>{lang === 'fr' ? 'Classement par compétition' : 'Ranking by competition'}</h3>
+                <div className="sim-view-toggle">
+                  <button type="button" className={`wof-toggle-btn${!competitionShowAge ? ' active' : ''}`} onClick={() => setCompetitionShowAge(false)}>
+                    {lang === 'fr' ? 'Général' : 'Overall'}
+                  </button>
+                  <button type="button" className={`wof-toggle-btn${competitionShowAge ? ' active' : ''}`} onClick={() => setCompetitionShowAge(true)}>
+                    {lang === 'fr' ? "Groupe d'âge" : 'Age group'}
+                  </button>
+                </div>
+              </div>
+              <div className="table-wrap sim-event-table-wrap">
+                <table className="lb-table sim-event-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">{t('event')}</th>
+                      <th scope="col">{t('rank')}</th>
+                      <th scope="col">{lang === 'fr' ? 'Percentile' : 'Percentile'}</th>
+                      <th scope="col">
+                        {lang === 'fr' ? "Marge d'erreur" : 'Margin of error'}
+                        <InfoIconPortal
+                          text={competitionShowAge ? (
+                            lang === 'fr' ? (
+                              <>Mêmes principes que la marge d'erreur générale, mais comparé
+                                uniquement aux {mode === 'team' ? 'paires' : 'athlètes'} de votre
+                                groupe d'âge ({ageGroup}) à chaque compétition. Peut afficher "—"
+                                si trop peu de {mode === 'team' ? 'paires' : 'athlètes'} de ce
+                                groupe d'âge ont participé à cette compétition précise pour un
+                                classement significatif.</>
+                            ) : (
+                              <>Same principles as the general margin of error, but compared only
+                                to the {mode === 'team' ? 'pairs' : 'athletes'} in your age group
+                                ({ageGroup}) at each competition. May show "—" if too few
+                                {' '}{mode === 'team' ? 'pairs' : 'athletes'} from this age group
+                                took part in that specific competition for a meaningful ranking.</>
+                            )
+                          ) : (
+                            lang === 'fr' ? (
+                              <>Simulation basée sur les résultats réels de la saison {year} scrapés
+                                sur ce site ({modeLabel(mode)}, division {genderLabel(gender)},
+                                catégorie {category}). Le classement est calculé en comparant
+                                directement vos estimations aux performances de
+                                {mode === 'team' ? ' toutes les paires ayant participé' : ' tous les athlètes ayant concouru'}.
+                                La colonne "Marge d'erreur" indique la plage de classement possible
+                                avec une estimation ±{MARGIN_PCT}% plus ou moins optimiste,
+                                l'incertitude habituelle d'une auto-évaluation, pas une garantie de
+                                résultat.</>
+                            ) : (
+                              <>Simulation based on the real results of the {year} season scraped
+                                from this site ({modeLabel(mode)}, division {genderLabel(gender)},
+                                category {category}). The ranking is calculated by directly
+                                comparing your estimates to the performances of
+                                {mode === 'team' ? ' every pair that competed' : ' every athlete who competed'}.
+                                The "Margin of error" column shows the possible ranking range with
+                                an estimate ±{MARGIN_PCT}% more or less optimistic — the usual
+                                uncertainty of a self-assessment, not a guarantee of result.</>
+                            )
+                          )}
+                        />
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {eventSims.map((ev) => {
+                      const row = competitionShowAge ? ageEventSims[ev.key] : ev
+                      return (
+                        <tr key={ev.key}>
+                          <td>{ev.label}</td>
+                          {row ? (
+                            <>
+                              <td className="rank-cell">{fmtInt(row.base.rank)} / {fmtInt(row.n)}</td>
+                              <td>{topLabel(row.base.pctOverall)}</td>
+                              <td className="sim-event-margin">
+                                {row.best.rank !== row.base.rank || row.worst.rank !== row.base.rank
+                                  ? `${fmtInt(row.best.rank)} – ${fmtInt(row.worst.rank)}`
+                                  : '—'}
+                              </td>
+                            </>
+                          ) : (
+                            <>
+                              <td className="muted">—</td>
+                              <td className="muted">—</td>
+                              <td className="muted sim-event-margin">—</td>
+                            </>
+                          )}
+                        </tr>
+                      )
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            </div>
 
             {best && worst && (
               <div className="sim-result-block">

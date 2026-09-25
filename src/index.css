@@ -1310,6 +1310,47 @@ button {
   margin-bottom: 24px;
 }
 
+/* Classement general / classement general dans le groupe d'age, cote a cote (demande
+   explicite) plutot qu'empiles -- pile sur mobile pour rester lisible. */
+.sim-result-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 40px;
+}
+
+.sim-result-row .sim-result-block {
+  margin-bottom: 0;
+}
+
+@media (max-width: 780px) {
+  .sim-result-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Titre de bloc + toggle "Général / Groupe d'âge" cote a cote (ex: "Classement general par
+   epreuve", "Classement par competition") -- pile sur mobile plutot que de forcer une ligne
+   trop etroite. */
+.sim-block-head-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.sim-block-head-row h3 {
+  margin: 0;
+}
+
+.sim-view-toggle {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
 .sim-result-block h3 {
   font-size: 15px;
   font-weight: 700;
@@ -2130,6 +2171,81 @@ button {
 .athx-flip-toggle:hover {
   border-color: var(--accent);
   background: var(--bg-panel);
+}
+
+/* Apparition de la carte ATHX Score au scroll, façon "ouverture de pack" (demande explicite) :
+   la carte pop (echelle + fondu) et une volee d'etincelles orange/jaune eclate depuis son
+   centre -- couleurs de la DA du site (--accent/--accent-2 + un jaune complementaire), rejoue
+   a chaque entree dans le viewport (cf. AthxScoreReveal.jsx). */
+.athx-score-reveal {
+  position: relative;
+}
+
+.athx-score-reveal .athx-flip-wrap {
+  opacity: 0;
+  transform: scale(0.82) translateY(24px);
+  transition: opacity 0.5s cubic-bezier(0.2, 0.8, 0.2, 1), transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.athx-score-reveal.visible .athx-flip-wrap {
+  opacity: 1;
+  transform: scale(1) translateY(0);
+}
+
+.athx-spark-field {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.athx-spark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-2);
+  box-shadow: 0 0 6px 1px rgba(255, 122, 0, 0.7);
+  opacity: 0;
+  transform: translate(-50%, -50%) rotate(var(--angle)) translateX(0) scale(0.4);
+  animation: athx-spark-burst 0.9s cubic-bezier(0.15, 0.7, 0.3, 1) forwards;
+  animation-delay: var(--delay, 0ms);
+}
+
+.athx-spark-b {
+  width: 4px;
+  height: 4px;
+  background: #ffd23f;
+  box-shadow: 0 0 5px 1px rgba(255, 210, 63, 0.7);
+}
+
+@keyframes athx-spark-burst {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) rotate(var(--angle)) translateX(0) scale(0.4);
+  }
+  15% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) rotate(var(--angle)) translateX(170px) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .athx-score-reveal .athx-flip-wrap {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .athx-spark-field {
+    display: none;
+  }
 }
 
 .sim-not-enough-data {
