@@ -7,6 +7,9 @@
 // cette épreuve ; ses Points = somme exacte des 3 sous-classements (Force + Endurance +
 // MetCon) ; son classement général = 1 + le nombre d'athlètes réels dont les Points sont
 // strictement meilleurs (Points plus bas = mieux, comme sur le site).
+//
+// `field.points` contient les Points OFFICIELS du site (pas des points recalcules) : le rang
+// obtenu est donc celui que le site officiel afficherait.
 
 export const MARGIN_PCT = 3
 export const IMPROVEMENT_PCT = 3
@@ -42,13 +45,33 @@ export function countBetter(sortedAsc, value, direction) {
   return lo
 }
 
+// Classement OFFICIEL (10/10/2026) : sur athxgames.com, les Points de certains evenements sont
+// "figes" -- calcules contre une saison arretee a une date passee -- alors que les positions
+// par epreuve affichees sont, elles, recalculees en direct (cf. generate_simulation_data.py,
+// `frozen` / `event_cutoff`). Pour retomber sur le rang officiel d'un athlete ayant participe a
+// un tel evenement, ses Points doivent etre calcules contre cette meme population arretee.
+// Renvoie le champ tel quel si l'evenement n'est pas concerne (ou pas renseigne).
+export function officialField(field, eventKey) {
+  const cutoff = eventKey && field?.event_cutoff?.[eventKey]
+  const pointsField = cutoff ? field.frozen?.[cutoff] : null
+  return pointsField ? { ...field, pointsField } : field
+}
+
 // perf = { strength, endurance, metcon } (valeurs brutes : KG total, KM total, secondes)
 export function simulateField(field, perf) {
   if (!field || field.n === 0) return null
+  // Positions par epreuve : toujours contre la saison entiere (ce que le site affiche).
   const subrankStrength = 1 + countBetter(field.strength_raw, perf.strength, 'higher')
   const subrankEndurance = 1 + countBetter(field.endurance_raw, perf.endurance, 'higher')
   const subrankMetcon = 1 + countBetter(field.metcon_raw, perf.metcon, 'lower')
-  const points = subrankStrength + subrankEndurance + subrankMetcon
+  // Points : contre la population figee de l'evenement quand il y en a une (cf. officialField),
+  // sinon simplement la somme des 3 positions ci-dessus.
+  const pf = field.pointsField
+  const points = pf
+    ? 3 + countBetter(pf.strength_raw, perf.strength, 'higher')
+      + countBetter(pf.endurance_raw, perf.endurance, 'higher')
+      + countBetter(pf.metcon_raw, perf.metcon, 'lower')
+    : subrankStrength + subrankEndurance + subrankMetcon
   const rank = 1 + countBetter(field.points, points, 'lower')
   const n = field.n
   return {

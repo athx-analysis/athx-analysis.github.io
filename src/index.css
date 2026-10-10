@@ -2712,3 +2712,11 @@ button {
 .wof-cards-row-compact .wof-card {
   padding: 16px;
 }
+
+.sim-step-note {
+  margin: -4px 0 16px;
+  max-width: 720px;
+  font-size: 14px;
+  line-height: 1.5;
+  opacity: 0.7;
+}

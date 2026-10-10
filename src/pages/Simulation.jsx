@@ -4,7 +4,7 @@ import simData from '../data/simulation_data.json'
 import AthxLogo from '../components/AthxLogo'
 import WorkoutReference from '../components/WorkoutReference'
 import AthxCard from '../components/charts/AthxCard'
-import { simulateField, simulateWithMargin, bestImprovementTarget, rankMovements, bestMovementImprovement, MARGIN_PCT, IMPROVEMENT_PCT } from '../lib/simulate'
+import { simulateField, simulateWithMargin, officialField, bestImprovementTarget, rankMovements, bestMovementImprovement, MARGIN_PCT, IMPROVEMENT_PCT } from '../lib/simulate'
 import { useLanguage } from '../i18n/LanguageContext'
 import { usePageMeta } from '../hooks/usePageMeta'
 import InfoIconPortal from '../components/InfoIconPortal'
@@ -140,6 +140,10 @@ export default function Simulation() {
   const [gender, setGender] = useState(null)
   const [category, setCategory] = useState(null)
   const [ageGroup, setAgeGroup] = useState(null)
+  // Competition a laquelle l'utilisateur a participe (optionnel, null = aucune) -- sert a
+  // reproduire le classement OFFICIEL : les Points du site dependent de l'evenement (cf.
+  // officialField dans lib/simulate.js).
+  const [eventKey, setEventKey] = useState(null)
   const [ageCardFlipped, setAgeCardFlipped] = useState(false)
   // Toggles "Général / Groupe d'âge" -- evitent de doubler le nombre de blocs/colonnes
   // affichés en permanence (demande explicite : "ça fait trop de colonnes sinon").
@@ -183,6 +187,14 @@ export default function Simulation() {
   // pour ce genre/cette categorie/cette annee precise (cf. MIN_AGE_GROUP_N cote script) ; geree
   // partout comme "pas assez de donnees" plutot que masquee silencieusement.
   const ageField = ageGroup ? field?.by_age_group?.[ageGroup] : null
+  // Champs utilises pour le classement general : identiques a field.overall / ageField.overall,
+  // avec en plus la population "figee" de l'evenement choisi quand le site officiel en utilise
+  // une pour cet evenement.
+  const overallField = useMemo(() => (field ? officialField(field.overall, eventKey) : null), [field, eventKey])
+  const ageOverallField = useMemo(() => (ageField ? officialField(ageField.overall, eventKey) : null), [ageField, eventKey])
+  const eventOptions = useMemo(() => (field
+    ? Object.entries(field.events).map(([key, ev]) => ({ key, label: ev.label }))
+    : []), [field])
 
   // Les 2 "emplacements" coequipier en Team, avec leur libelle et leur PROPRE genre (utile en
   // Mixte, ou les 2 coequipiers n'ont pas le meme genre -- cf. strength_by_movement_individual,
@@ -260,13 +272,13 @@ export default function Simulation() {
 
   const overallSim = useMemo(() => {
     if (!field || !submitted || !valid) return null
-    return simulateWithMargin(field.overall, perf)
-  }, [field, submitted, valid, perf])
+    return simulateWithMargin(overallField, perf)
+  }, [field, overallField, submitted, valid, perf])
 
   const improvement = useMemo(() => {
     if (!field || !submitted || !valid) return null
-    return bestImprovementTarget(field.overall, perf)
-  }, [field, submitted, valid, perf])
+    return bestImprovementTarget(overallField, perf)
+  }, [field, overallField, submitted, valid, perf])
 
   // Meme principe que "Points forts/faibles" et "Sur quelle epreuve travailler en priorite",
   // mais A L'INTERIEUR de la Force : quel mouvement est le plus fort/faible (percentile
@@ -283,8 +295,8 @@ export default function Simulation() {
 
   const movementImprovement = useMemo(() => {
     if (mode !== 'individual' || !field || !submitted || !valid || strengthMovements.length < 2) return null
-    return bestMovementImprovement(field.overall, perf, strengthMovements, movementValues)
-  }, [mode, field, submitted, valid, strengthMovements, movementValues, perf])
+    return bestMovementImprovement(overallField, perf, strengthMovements, movementValues)
+  }, [mode, field, overallField, submitted, valid, strengthMovements, movementValues, perf])
 
   // Version Team de movementRanksByPct/movementImprovement, PAR ATHLETE (demande explicite) :
   // population de comparaison = strength_by_movement_individual[categorie][genre de CET
@@ -301,10 +313,10 @@ export default function Simulation() {
       const values = athleteMovementValues[slot.key]
       const popField = { strength_by_movement: yearData.strength_by_movement_individual[category][slot.athleteGender] }
       const ranks = rankMovements(popField, strengthMovements, values).sort((a, b) => a.pct - b.pct)
-      const improvement = bestMovementImprovement(field.overall, perf, strengthMovements, values, IMPROVEMENT_PCT, perf.strength)
+      const improvement = bestMovementImprovement(overallField, perf, strengthMovements, values, IMPROVEMENT_PCT, perf.strength)
       return { slot, best: ranks[0], worst: ranks[ranks.length - 1], improvement }
     }).filter((a) => a.best && a.worst)
-  }, [mode, field, submitted, valid, strengthMovements, athleteMovementValues, athleteSlots, category, yearData, perf])
+  }, [mode, field, overallField, submitted, valid, strengthMovements, athleteMovementValues, athleteSlots, category, yearData, perf])
 
   const eventSims = useMemo(() => {
     if (!field || !submitted || !valid) return []
@@ -325,8 +337,8 @@ export default function Simulation() {
   // simule exactement comme overallSim, juste contre ageField.overall au lieu de field.overall.
   const ageOverallSim = useMemo(() => {
     if (!ageField || !submitted || !valid) return null
-    return simulateWithMargin(ageField.overall, perf)
-  }, [ageField, submitted, valid, perf])
+    return simulateWithMargin(ageOverallField, perf)
+  }, [ageField, ageOverallField, submitted, valid, perf])
 
   // Classement par competition au sein du groupe d'age -- par cle d'evenement, PEUT etre
   // absent pour certaines competitions precises (trop peu d'athletes de ce groupe d'age a CET
@@ -370,6 +382,7 @@ export default function Simulation() {
     setGender(null)
     setCategory(null)
     setAgeGroup(null)
+    setEventKey(null)
     setAgeCardFlipped(false)
     setInputs(EMPTY_INPUTS)
     setSubmitted(false)
@@ -380,6 +393,7 @@ export default function Simulation() {
     setGender(null)
     setCategory(null)
     setAgeGroup(null)
+    setEventKey(null)
     setAgeCardFlipped(false)
     setInputs(EMPTY_INPUTS)
     setSubmitted(false)
@@ -389,6 +403,7 @@ export default function Simulation() {
     setGender(null)
     setCategory(null)
     setAgeGroup(null)
+    setEventKey(null)
     setAgeCardFlipped(false)
     setInputs(EMPTY_INPUTS)
     setSubmitted(false)
@@ -469,7 +484,7 @@ export default function Simulation() {
                 <button
                   key={g}
                   className={`sim-square${gender === g ? ' active' : ''}`}
-                  onClick={() => { setGender(g); setCategory(null); setAgeGroup(null); setSubmitted(false) }}
+                  onClick={() => { setGender(g); setCategory(null); setAgeGroup(null); setEventKey(null); setSubmitted(false) }}
                 >
                   {genderLabel(g)}
                 </button>
@@ -486,7 +501,7 @@ export default function Simulation() {
                   <button
                     key={c}
                     className={`sim-square${category === c ? ' active' : ''}`}
-                    onClick={() => { setCategory(c); setAgeGroup(null); setSubmitted(false) }}
+                    onClick={() => { setCategory(c); setAgeGroup(null); setEventKey(null); setSubmitted(false) }}
                   >
                     {c}
                   </button>
@@ -516,6 +531,35 @@ export default function Simulation() {
           {gender && category && ageGroup && field && (
             <div className="sim-step">
               <p className="section-title">{lang === 'fr' ? 'Étape 6' : 'Step 6'}</p>
+              <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Compétition à laquelle vous avez participé' : 'Competition you took part in'}</h2>
+              <p className="sim-step-note">
+                {lang === 'fr'
+                  ? "Facultatif. Le classement officiel dépend de la compétition disputée : indiquez-la pour retrouver exactement le rang affiché sur athxgames.com."
+                  : 'Optional. The official ranking depends on the competition entered: select it to get exactly the rank shown on athxgames.com.'}
+              </p>
+              <div className="sim-square-grid sim-age-grid">
+                <button
+                  className={`sim-square${eventKey === null ? ' active' : ''}`}
+                  onClick={() => { setEventKey(null); setSubmitted(false) }}
+                >
+                  {lang === 'fr' ? 'Aucune' : 'None'}
+                </button>
+                {eventOptions.map((ev) => (
+                  <button
+                    key={ev.key}
+                    className={`sim-square${eventKey === ev.key ? ' active' : ''}`}
+                    onClick={() => { setEventKey(ev.key); setSubmitted(false) }}
+                  >
+                    {ev.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {gender && category && ageGroup && field && (
+            <div className="sim-step">
+              <p className="section-title">{lang === 'fr' ? 'Étape 7' : 'Step 7'}</p>
               <h2 className="section-heading sim-step-heading">{lang === 'fr' ? 'Vos estimations de performance' : 'Your performance estimates'}</h2>
 
               <WorkoutReference year={year} mode={mode} gender={gender} category={category} />

@@ -504,7 +504,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 82,Arielle Harvey & Eloise Harvey,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Strength,,,,75KG,140KG,190KG,,,,,,,,,,,,,,,,,,,,82,69 & under
 82,Lea Illing & Lina Schwarz,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Strength,,,,75KG,155KG,175KG,,,,,,,,,,,,,,,,,,,,82,69 & under
 82,Leanne Trimble & Abby Adams,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Strength,,,,75KG,150KG,180KG,,,,,,,,,,,,,,,,,,,,82,80 - 89
-85,Alejandra Ramirez & Lucía Lara,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Female,ATHX Lite,Strength,,,,74KG,140KG,190KG,,,,,,,,,,,,,,,,,,,,85,
+85,Alejandra Ramirez & Lucía Lara,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Female,ATHX Lite,Strength,,,,74KG,140KG,190KG,,,,,,,,,,,,,,,,,,,,85,69 & under
 86,Aine OConnor & Ciara Melia,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Lite,Strength,,,,78KG,140KG,185KG,,,,,,,,,,,,,,,,,,,,86,69 & under
 87,Katie Richards & kellywarwick87 Team,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Strength,,,,66KG,145KG,190KG,,,,,,,,,,,,,,,,,,,,87,70 - 79
 87,Rea robertson & Lisa Edwards,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Strength,,,,71KG,150KG,180KG,,,,,,,,,,,,,,,,,,,,87,69 & under
@@ -918,7 +918,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 74,Helen Fielden & Becky Lennox,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Endurance,,,,,,,2.861KM,4.891KM,,,,,,,,,,,,,,,,,,74,80 - 89
 75,Amanda Perry & Hannah Mcgovern,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Endurance,,,,,,,3.111KM,4.633KM,,,,,,,,,,,,,,,,,,75,80 - 89
 76,Arielle Harvey & Eloise Harvey,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,4.738KM,,,,,,,,,,,,,,,,,,76,69 & under
-77,Tamara Schlecht & Dalel Abdoun-Charef,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.131KM,4.602KM,,,,,,,,,,,,,,,,,,77,
+77,Tamara Schlecht & Dalel Abdoun-Charef,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.131KM,4.602KM,,,,,,,,,,,,,,,,,,77,69 & under
 78,Stephanie Mewse & Chloe Nixon,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Endurance,,,,,,,3.25KM,4.482KM,,,,,,,,,,,,,,,,,,78,69 & under
 79,Lauren Gallagher & Lindsay Duffy,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,Endurance,,,,,,,3.275KM,4.448KM,,,,,,,,,,,,,,,,,,79,70 - 79
 80,Jessica Kourie & Naruna Kamala Viana Guimarães Vierling,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX Lite,Endurance,,,,,,,3.466KM,4.253KM,,,,,,,,,,,,,,,,,,80,69 & under
@@ -1448,7 +1448,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 182,Eloïse Barthelus & Griselda Braho,ATHX PARIS 2026,France 🇫🇷,2026,Female,ATHX Lite,MetCon X,,,17:14,,,,,,,,,,,,,,,,,,,,,,,182,69 & under
 182,Katie Richards & kellywarwick87 Team,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,17:14,,,,,,,,,,,,,,,,,,,,,,,182,70 - 79
 184,Anna-Marie Bichler & Sarah Boinski,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,17:15,,,,,,,,,,,,,,,,,,,,,,,184,69 & under
-185,Alejandra Ramirez & Lucía Lara,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Female,ATHX Lite,MetCon X,,,17:19,,,,,,,,,,,,,,,,,,,,,,,185,
+185,Alejandra Ramirez & Lucía Lara,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Female,ATHX Lite,MetCon X,,,17:19,,,,,,,,,,,,,,,,,,,,,,,185,69 & under
 186,Annabelle Sherwood & Ceri Porteous,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,17:21,,,,,,,,,,,,,,,,,,,,,,,186,69 & under
 186,Kelly Catanzaro & Cindy Johnson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,17:21,,,,,,,,,,,,,,,,,,,,,,,186,90 - 99
 186,Amy Duckworth & Sophia Herne,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,17:21,,,,,,,,,,,,,,,,,,,,,,,186,69 & under
@@ -1664,7 +1664,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 398,Jacqueline Grout & Hannah Dyson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,23:19,,,,,,,,,,,,,,,,,,,,,,,398,100 - 109
 399,Marianna Rozmanowska & Katie Atherton,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,23:24,,,,,,,,,,,,,,,,,,,,,,,399,70 - 79
 400,Nikhila Vangala & Ojas Kapre,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Lite,MetCon X,,,23:25,,,,,,,,,,,,,,,,,,,,,,,400,69 & under
-401,Tamara Schlecht & Dalel Abdoun-Charef,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,23:27,,,,,,,,,,,,,,,,,,,,,,,401,
+401,Tamara Schlecht & Dalel Abdoun-Charef,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX Lite,MetCon X,,,23:27,,,,,,,,,,,,,,,,,,,,,,,401,69 & under
 402,Chloe Madison Gordon & Anna Stitt,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Lite,MetCon X,,,23:30,,,,,,,,,,,,,,,,,,,,,,,402,69 & under
 403,Rachel Kay & Mina Endeley,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,23:33,,,,,,,,,,,,,,,,,,,,,,,403,90 - 99
 404,Erin Murrihy & Aisling Murrihy,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX Lite,MetCon X,,,23:51,,,,,,,,,,,,,,,,,,,,,,,404,70 - 79
@@ -2112,7 +2112,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 39,AUBIN Matthias & Clément Boulet,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX Lite,MetCon X,,,13:15,,,,,,,,,,,,,,,,,,,,,,,39,69 & under
 40,Max Ward & Calvin Kritzinger,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX Lite,MetCon X,,,13:17,,,,,,,,,,,,,,,,,,,,,,,40,70 - 79
 41,Sivesh Kathir Kamarajah & Michael Bahrami-Hessari,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX Lite,MetCon X,,,13:18,,,,,,,,,,,,,,,,,,,,,,,41,70 - 79
-42,Christian Davidis & Heinz Renziehausen,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Male,ATHX Lite,MetCon X,,,13:19,,,,,,,,,,,,,,,,,,,,,,,42,
+42,Christian Davidis & Heinz Renziehausen,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Male,ATHX Lite,MetCon X,,,13:19,,,,,,,,,,,,,,,,,,,,,,,42,Above 110
 42,Christian Leth-Madsen & Poul Leth Lorentsen,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Male,ATHX Lite,MetCon X,,,13:19,,,,,,,,,,,,,,,,,,,,,,,42,70 - 79
 44,Etienne Prost & Nicolas Espinoza,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Male,ATHX Lite,MetCon X,,,13:22,,,,,,,,,,,,,,,,,,,,,,,44,69 & under
 45,Miguel Ángel García Jurado & Alejandro Siles Palencia,ATHX MADRID 2026,Spain 🇪🇸,2026,Male,ATHX Lite,MetCon X,,,13:27,,,,,,,,,,,,,,,,,,,,,,,45,70 - 79
@@ -2589,7 +2589,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 141,Chris Williams & Alysin Boothroyd,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Lite,Strength,,,,95KG,160KG,190KG,,,,,,,,,,,,,,,,,,,,141,80 - 89
 142,Christopher Sullivan & Kirsty Miles,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,89KG,150KG,205KG,,,,,,,,,,,,,,,,,,,,142,80 - 89
 142,Kirsty O'Donnell & James Taylor,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,Strength,,,,85KG,165KG,194KG,,,,,,,,,,,,,,,,,,,,142,69 & under
-144,Adriana Marquez & Aitor Díaz-Cacho Garcia,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,Strength,,,,92KG,160KG,190KG,,,,,,,,,,,,,,,,,,,,144,
+144,Adriana Marquez & Aitor Díaz-Cacho Garcia,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,Strength,,,,92KG,160KG,190KG,,,,,,,,,,,,,,,,,,,,144,69 & under
 144,Veronica Resinovich & Edoardo Trobec,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,Strength,,,,75KG,160KG,207KG,,,,,,,,,,,,,,,,,,,,144,69 & under
 146,Konstantina Marinova & Prabhkaran Singh,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Lite,Strength,,,,83KG,148KG,210KG,,,,,,,,,,,,,,,,,,,,146,69 & under
 147,patricia Moreno sanchez & Eneko Hernandez Valiente,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,Strength,,,,92KG,158KG,190KG,,,,,,,,,,,,,,,,,,,,147,70 - 79
@@ -3033,7 +3033,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 92,Benedikt Lößl & Susan Lößl,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,14:36,,,,,,,,,,,,,,,,,,,,,,,92,80 - 89
 93,Michelle Bøgelund & Nicolaj Kjerstein Overgaard,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX Lite,MetCon X,,,14:40,,,,,,,,,,,,,,,,,,,,,,,93,80 - 89
 94,Kirstin Parker & Andrew Parker,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Lite,MetCon X,,,14:42,,,,,,,,,,,,,,,,,,,,,,,94,80 - 89
-95,Katie Atherton & sion owen,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Lite,MetCon X,,,14:43,,,,,,,,,,,,,,,,,,,,,,,95,
+95,Katie Atherton & sion owen,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Lite,MetCon X,,,14:43,,,,,,,,,,,,,,,,,,,,,,,95,70 - 79
 96,Francesco Tozzi & Marzia Costanzo,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:49,,,,,,,,,,,,,,,,,,,,,,,96,69 & under
 96,Veronica Quaglia & Francesco Fiorese,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,14:49,,,,,,,,,,,,,,,,,,,,,,,96,90 - 99
 98,Miguel Alonso Daganzo & Yanilu Rodriguez-Prieto,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,MetCon X,,,14:50,,,,,,,,,,,,,,,,,,,,,,,98,69 & under
@@ -3058,7 +3058,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 117,Yahya aqar & Lauriane Amathieu,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX Lite,MetCon X,,,15:30,,,,,,,,,,,,,,,,,,,,,,,117,69 & under
 118,Paul-Louis Kuhnke & Josephine Schröder,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,15:32,,,,,,,,,,,,,,,,,,,,,,,118,69 & under
 119,Charlene Besson & Mickael DAGORN,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,MetCon X,,,15:34,,,,,,,,,,,,,,,,,,,,,,,119,90 - 99
-120,Adriana Marquez & Aitor Díaz-Cacho Garcia,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,MetCon X,,,15:38,,,,,,,,,,,,,,,,,,,,,,,120,
+120,Adriana Marquez & Aitor Díaz-Cacho Garcia,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX Lite,MetCon X,,,15:38,,,,,,,,,,,,,,,,,,,,,,,120,69 & under
 121,Anne-Lena Döring & Rochell Balakumar,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX Lite,MetCon X,,,15:41,,,,,,,,,,,,,,,,,,,,,,,121,69 & under
 121,Peter Barnes & Vicky Barnes,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Lite,MetCon X,,,15:41,,,,,,,,,,,,,,,,,,,,,,,121,80 - 89
 123,Andrea Ciolina & Ilaria pia Massaro,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Lite,MetCon X,,,15:43,,,,,,,,,,,,,,,,,,,,,,,123,69 & under
@@ -4933,7 +4933,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 193,Pamela Dickey & Naomi Craig,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Strength,,,,88KG,175KG,226KG,,,,,,,,,,,,,,,,,,,,193,70 - 79
 193,Olivia Kreigenfeld & Pippa Watson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,78KG,180KG,231KG,,,,,,,,,,,,,,,,,,,,193,69 & under
 193,Vanessa OLLIER & Fanny Montserrate,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Female,ATHX,Strength,,,,83KG,195KG,211KG,,,,,,,,,,,,,,,,,,,,193,80 - 89
-193,Kiera Griffiths & Becki Lee,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,87KG,185KG,217KG,,,,,,,,,,,,,,,,,,,,193,
+193,Kiera Griffiths & Becki Lee,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,87KG,185KG,217KG,,,,,,,,,,,,,,,,,,,,193,69 & under
 200,Rose Hardy-Barrett & Kirsty Tippett,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,86KG,175KG,227KG,,,,,,,,,,,,,,,,,,,,200,69 & under
 200,Elena Gaínza & Paola Giraud,ATHX MADRID 2026,Spain 🇪🇸,2026,Female,ATHX,Strength,,,,83KG,175KG,230KG,,,,,,,,,,,,,,,,,,,,200,69 & under
 200,Asrai Soos & Laura Modrich,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,78KG,175KG,235KG,,,,,,,,,,,,,,,,,,,,200,69 & under
@@ -5563,7 +5563,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 820,Felicity Arneaud & Gemma Square,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,83KG,140KG,190KG,,,,,,,,,,,,,,,,,,,,820,80 - 89
 820,Lauren Bowe & Anna Morley,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,68KG,155KG,190KG,,,,,,,,,,,,,,,,,,,,820,69 & under
 820,Alana Love & Holly Prendergast,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,80KG,145KG,188KG,,,,,,,,,,,,,,,,,,,,820,70 - 79
-820,Elle Boorman & Jordan jdwillettpurchase@outlook.com,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,78KG,145KG,190KG,,,,,,,,,,,,,,,,,,,,820,
+820,Elle Boorman & Jordan jdwillettpurchase@outlook.com,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,78KG,145KG,190KG,,,,,,,,,,,,,,,,,,,,820,69 & under
 820,Louise Tagg & Jessica Burbage,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,78KG,150KG,185KG,,,,,,,,,,,,,,,,,,,,820,70 - 79
 831,Kate Forsstrom & Claire Turnbull,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,83KG,149KG,180KG,,,,,,,,,,,,,,,,,,,,831,80 - 89
 831,Manuela Schambeck & Kerstin Schneider,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,82KG,140KG,190KG,,,,,,,,,,,,,,,,,,,,831,90 - 99
@@ -5766,7 +5766,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1027,Jo Collins & Samantha Farr,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,77KG,137KG,177KG,,,,,,,,,,,,,,,,,,,,1027,70 - 79
 1027,Julia Bremken & Carolin Mielke,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX,Strength,,,,69KG,147KG,175KG,,,,,,,,,,,,,,,,,,,,1027,69 & under
 1027,Chloé Lucet & Maria Castellano,ATHX PARIS 2026,France 🇫🇷,2026,Female,ATHX,Strength,,,,81KG,120KG,190KG,,,,,,,,,,,,,,,,,,,,1027,70 - 79
-1027,Shelley Tait & Stephanie Walker,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,78KG,130KG,183KG,,,,,,,,,,,,,,,,,,,,1027,
+1027,Shelley Tait & Stephanie Walker,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,78KG,130KG,183KG,,,,,,,,,,,,,,,,,,,,1027,70 - 79
 1027,Mia Tuik & Katie Cassidy,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,81KG,155KG,155KG,,,,,,,,,,,,,,,,,,,,1027,69 & under
 1027,tanya jerome & Aline Bellardi,ATHX MARSEILLE 2026,France 🇫🇷,2026,Female,ATHX,Strength,,,,71KG,145KG,175KG,,,,,,,,,,,,,,,,,,,,1027,69 & under
 1035,Lucinda Prior & Victoria Dalton,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,72KG,143KG,175KG,,,,,,,,,,,,,,,,,,,,1035,70 - 79
@@ -6273,7 +6273,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1536,Leyla Ari & Juliette Cooper,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,63KG,91KG,120KG,,,,,,,,,,,,,,,,,,,,1536,100 - 109
 1537,Erin Hughes & Lubna Osmani,ATHX MADRID 2026,Spain 🇪🇸,2026,Female,ATHX,Strength,,,,55KG,95KG,122KG,,,,,,,,,,,,,,,,,,,,1537,69 & under
 1538,Lisa Ramsawak & Tara Maguire,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,58KG,98KG,115KG,,,,,,,,,,,,,,,,,,,,1538,70 - 79
-1539,Helen Hogan & Julia Emerson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,55KG,85KG,130KG,,,,,,,,,,,,,,,,,,,,1539,
+1539,Helen Hogan & Julia Emerson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,55KG,85KG,130KG,,,,,,,,,,,,,,,,,,,,1539,100 - 109
 1540,Teresa McShane & Sarah Bottrell,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,60KG,66KG,140KG,,,,,,,,,,,,,,,,,,,,1540,Above 110
 1540,Anna James & Emma Ciclitira,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,80KG,120KG,66KG,,,,,,,,,,,,,,,,,,,,1540,80 - 89
 1540,Natalie Alifuoco-Grace & Francesca Hunter,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Strength,,,,56KG,85KG,125KG,,,,,,,,,,,,,,,,,,,,1540,80 - 89
@@ -7305,7 +7305,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1015,Eva Bourgeois & Léa-Anna AHOURE,ATHX MARSEILLE 2026,France 🇫🇷,2026,Female,ATHX,Endurance,,,,,,,3.111KM,4.763KM,,,,,,,,,,,,,,,,,,1015,70 - 79
 1017,Liz Norris & Aislinn Smith,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.142KM,4.726KM,,,,,,,,,,,,,,,,,,1017,80 - 89
 1017,Hannah Coward & Hazel Carruthers,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.415KM,4.453KM,,,,,,,,,,,,,,,,,,1017,69 & under
-1019,Gillian Boyle & Kam Kaur,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.452KM,4.415KM,,,,,,,,,,,,,,,,,,1019,
+1019,Gillian Boyle & Kam Kaur,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.452KM,4.415KM,,,,,,,,,,,,,,,,,,1019,100 - 109
 1020,Ellie Tennant & Izzy Wright,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.423KM,4.443KM,,,,,,,,,,,,,,,,,,1020,69 & under
 1021,Bethany Mackrell & poppy mcneill,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.364KM,,,,,,,,,,,,,,,,,,1021,69 & under
 1022,Hollie Tobun & rachel Rafiq,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.17KM,4.693KM,,,,,,,,,,,,,,,,,,1022,70 - 79
@@ -7412,7 +7412,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1123,Louise Emmott & Abby Varga,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.524KM,4.226KM,,,,,,,,,,,,,,,,,,1123,80 - 89
 1123,Kirsty Taylor & Georgina Rowley,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.254KM,4.496KM,,,,,,,,,,,,,,,,,,1123,100 - 109
 1125,Alexandra Zavodna & Héloïse Fournier,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.249KM,,,,,,,,,,,,,,,,,,1125,69 & under
-1126,Hollie Stephenson & Mel Strong,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.088KM,4.66KM,,,,,,,,,,,,,,,,,,1126,
+1126,Hollie Stephenson & Mel Strong,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.088KM,4.66KM,,,,,,,,,,,,,,,,,,1126,69 & under
 1127,Rachel Harrison & Julie Millar,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.362KM,4.384KM,,,,,,,,,,,,,,,,,,1127,70 - 79
 1128,Kristen Thompson-Ellis & Lauren McIntosh,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.681KM,4.063KM,,,,,,,,,,,,,,,,,,1128,69 & under
 1128,Emma Turner & Rebecca Hewett,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3.111KM,4.633KM,,,,,,,,,,,,,,,,,,1128,80 - 89
@@ -7781,7 +7781,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1492,Courtney Newbould & Michelle Owens,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.881KM,4.129KM,,,,,,,,,,,,,,,,,,1492,90 - 99
 1493,Orlie Morgan & Mary Grace Dela Cruz,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Female,ATHX,Endurance,,,,,,,3.215KM,3.793KM,,,,,,,,,,,,,,,,,,1493,70 - 79
 1494,Keara O' Brien & Carly Murphy,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,Endurance,,,,,,,3KM,4.003KM,,,,,,,,,,,,,,,,,,1494,70 - 79
-1494,Rosie Kirk & Thea Hopkins,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.798KM,4.205KM,,,,,,,,,,,,,,,,,,1494,
+1494,Rosie Kirk & Thea Hopkins,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.798KM,4.205KM,,,,,,,,,,,,,,,,,,1494,69 & under
 1496,Olaide Akindele & Catherine Fisher,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.765KM,4.237KM,,,,,,,,,,,,,,,,,,1496,69 & under
 1497,Rikke Hansen & Maria Hansen,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,3KM,3.998KM,,,,,,,,,,,,,,,,,,1497,69 & under
 1498,Sej Hindocha-Shah & Ali Kelly,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.96KM,4.036KM,,,,,,,,,,,,,,,,,,1498,80 - 89
@@ -7794,7 +7794,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1505,Jade Aubin & Sian DeCiantis-Richardson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.822KM,4.147KM,,,,,,,,,,,,,,,,,,1505,70 - 79
 1506,Lauren Mollyneaux & Sima Patel,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.923KM,4.037KM,,,,,,,,,,,,,,,,,,1506,80 - 89
 1507,Jo Hindmarch & Gaynor Macaulay,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.963KM,3.994KM,,,,,,,,,,,,,,,,,,1507,100 - 109
-1508,Eleanor Monks & Hollie Hutchison,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.904KM,4.033KM,,,,,,,,,,,,,,,,,,1508,
+1508,Eleanor Monks & Hollie Hutchison,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.904KM,4.033KM,,,,,,,,,,,,,,,,,,1508,69 & under
 1509,Holly McMahon & Sarah McClenn,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.6KM,4.32KM,,,,,,,,,,,,,,,,,,1509,69 & under
 1510,Emma Twitchett & Zoe Gaskell,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.664KM,4.247KM,,,,,,,,,,,,,,,,,,1510,69 & under
 1511,Kate Marr & Ellie Surey,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.614KM,4.288KM,,,,,,,,,,,,,,,,,,1511,80 - 89
@@ -7839,9 +7839,9 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1550,Clodagh Shevlane & Christie McCann,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.867KM,2.954KM,,,,,,,,,,,,,,,,,,1550,69 & under
 1551,Rachael Managh & Lucie Hollis,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,2.25KM,3.426KM,,,,,,,,,,,,,,,,,,1551,69 & under
 1552,Anna Leith & Kerry Abbot,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,Endurance,,,,,,,0.002KM,0.002KM,,,,,,,,,,,,,,,,,,1552,80 - 89
-1,Kiera Griffiths & Becki Lee,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,
-1,Katy Cox & Joanna Grobel,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,
-1,Samantha Butler-Cutts & Kate Marsh,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,
+1,Kiera Griffiths & Becki Lee,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,69 & under
+1,Katy Cox & Joanna Grobel,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,80 - 89
+1,Samantha Butler-Cutts & Kate Marsh,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,70 - 79
 4,Anna Leith & Kerry Abbot,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,08:00,,,,,,,,,,,,,,,,,,,,,,,4,80 - 89
 5,Mélanie Le squeren & Emma MARCELLIN,ATHX PARIS 2026,France 🇫🇷,2026,Female,ATHX,MetCon X,,,11:55,,,,,,,,,,,,,,,,,,,,,,,5,69 & under
 6,Alena Roth & Anna Blank,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX,MetCon X,,,12:41,,,,,,,,,,,,,,,,,,,,,,,6,70 - 79
@@ -8193,7 +8193,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 351,My de Caprétz & Kajsa Svensson,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX,MetCon X,,,16:51,,,,,,,,,,,,,,,,,,,,,,,351,70 - 79
 351,Dounia Boufrioua & Kenza Boufrioua,ATHX MARSEILLE 2026,France 🇫🇷,2026,Female,ATHX,MetCon X,,,16:51,,,,,,,,,,,,,,,,,,,,,,,351,69 & under
 354,Emily Millar & Lauren McKeague,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,16:52,,,,,,,,,,,,,,,,,,,,,,,354,69 & under
-354,Camilla Panduro & Christina Panduro,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX,MetCon X,,,16:52,,,,,,,,,,,,,,,,,,,,,,,354,
+354,Camilla Panduro & Christina Panduro,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX,MetCon X,,,16:52,,,,,,,,,,,,,,,,,,,,,,,354,69 & under
 354,Victoria Hazell & Katy Wicks,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,16:52,,,,,,,,,,,,,,,,,,,,,,,354,80 - 89
 354,Camilla Erlandsen & Lene Thomsen,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX,MetCon X,,,16:52,,,,,,,,,,,,,,,,,,,,,,,354,70 - 79
 358,Wiebke Eggers & Ann-Katrin Hinze,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,16:53,,,,,,,,,,,,,,,,,,,,,,,358,70 - 79
@@ -8439,7 +8439,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 596,Shelagh Jackson & Meg Wilde,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:00,,,,,,,,,,,,,,,,,,,,,,,596,70 - 79
 599,Amy Young & Esther Ruck,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:01,,,,,,,,,,,,,,,,,,,,,,,599,70 - 79
 599,Amy Tyers & Grace Batten,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:01,,,,,,,,,,,,,,,,,,,,,,,599,69 & under
-599,Hollie Stephenson & Mel Strong,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:01,,,,,,,,,,,,,,,,,,,,,,,599,
+599,Hollie Stephenson & Mel Strong,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:01,,,,,,,,,,,,,,,,,,,,,,,599,69 & under
 599,Kirsty Cain & Martine mccleave,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:01,,,,,,,,,,,,,,,,,,,,,,,599,90 - 99
 603,Angelina Larvin & Lucy Pearson,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:02,,,,,,,,,,,,,,,,,,,,,,,603,80 - 89
 603,Liza Smith & MAXINE WOOD,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:02,,,,,,,,,,,,,,,,,,,,,,,603,90 - 99
@@ -8622,7 +8622,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 779,Emily Baker & Poppy Amodio,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:43,,,,,,,,,,,,,,,,,,,,,,,779,69 & under
 779,Irene Sanz & Cristina Cabello,ATHX MADRID 2026,Spain 🇪🇸,2026,Female,ATHX,MetCon X,,,18:43,,,,,,,,,,,,,,,,,,,,,,,779,69 & under
 779,Cayla Vichot & Katherine Gaukroger,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:43,,,,,,,,,,,,,,,,,,,,,,,779,69 & under
-779,Elle Boorman & Jordan jdwillettpurchase@outlook.com,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:43,,,,,,,,,,,,,,,,,,,,,,,779,
+779,Elle Boorman & Jordan jdwillettpurchase@outlook.com,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:43,,,,,,,,,,,,,,,,,,,,,,,779,69 & under
 785,Rebecca Coleman & Bronwyn Slater,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:44,,,,,,,,,,,,,,,,,,,,,,,785,70 - 79
 785,Katherina Krämer & lausi.weber Team,ATHX BERLIN 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,18:44,,,,,,,,,,,,,,,,,,,,,,,785,70 - 79
 785,Alexandra Pope & Heather Fitzsimmons,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,18:44,,,,,,,,,,,,,,,,,,,,,,,785,69 & under
@@ -8853,7 +8853,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1011,Helen Terry & Laura Farmer,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:50,,,,,,,,,,,,,,,,,,,,,,,1011,80 - 89
 1011,Ilona Gavand & Sophia Elarouti,ATHX MARSEILLE 2026,France 🇫🇷,2026,Female,ATHX,MetCon X,,,19:50,,,,,,,,,,,,,,,,,,,,,,,1011,69 & under
 1014,Jo Collins & Samantha Farr,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:51,,,,,,,,,,,,,,,,,,,,,,,1014,70 - 79
-1014,Shelley Tait & Stephanie Walker,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:51,,,,,,,,,,,,,,,,,,,,,,,1014,
+1014,Shelley Tait & Stephanie Walker,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:51,,,,,,,,,,,,,,,,,,,,,,,1014,70 - 79
 1014,Angela Wood & Em Crawford,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:51,,,,,,,,,,,,,,,,,,,,,,,1014,80 - 89
 1017,Georgina Kitenge & Zoe Pompili,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:52,,,,,,,,,,,,,,,,,,,,,,,1017,69 & under
 1017,Mairi McArthur & Jena Kohl,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,19:52,,,,,,,,,,,,,,,,,,,,,,,1017,69 & under
@@ -9047,7 +9047,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1205,TL Mckigen & Julie Lyle,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,1205,80 - 89
 1205,Helen Young & Kelly Knighting-Wykes,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,1205,90 - 99
 1208,Alex alexkarenlord572@gmail.com & Lisa Sweeney,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:01,,,,,,,,,,,,,,,,,,,,,,,1208,70 - 79
-1208,Gillian Boyle & Kam Kaur,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:01,,,,,,,,,,,,,,,,,,,,,,,1208,
+1208,Gillian Boyle & Kam Kaur,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:01,,,,,,,,,,,,,,,,,,,,,,,1208,100 - 109
 1210,Yan Xie & Izzy Wagner,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:02,,,,,,,,,,,,,,,,,,,,,,,1210,69 & under
 1210,Megan Woodcock & Ffion Hooson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:02,,,,,,,,,,,,,,,,,,,,,,,1210,69 & under
 1212,Eirfat Mustafa & Danielle Denholm,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,21:04,,,,,,,,,,,,,,,,,,,,,,,1212,69 & under
@@ -9273,7 +9273,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1432,Kirsten Walker & Davina Toofan,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:26,,,,,,,,,,,,,,,,,,,,,,,1432,69 & under
 1432,Niamh O'Donnell & Maeve O’Donnell,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:26,,,,,,,,,,,,,,,,,,,,,,,1432,69 & under
 1432,Carla Saunders & olivia brown,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:26,,,,,,,,,,,,,,,,,,,,,,,1432,69 & under
-1435,Tamara Schlecht & Dalel Abdoun-Charef,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,23:27,,,,,,,,,,,,,,,,,,,,,,,1435,
+1435,Tamara Schlecht & Dalel Abdoun-Charef,ATHX MUNICH 2026,Germany 🇩🇪,2026,Female,ATHX,MetCon X,,,23:27,,,,,,,,,,,,,,,,,,,,,,,1435,69 & under
 1435,Olivan Vaughan & Aileen O Mahony,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,23:27,,,,,,,,,,,,,,,,,,,,,,,1435,69 & under
 1437,Margaux Tibor & AURELIE CHAPPE,ATHX MARSEILLE 2026,France 🇫🇷,2026,Female,ATHX,MetCon X,,,23:28,,,,,,,,,,,,,,,,,,,,,,,1437,70 - 79
 1438,Megan Dowling & Emma Darling-Cooper,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:30,,,,,,,,,,,,,,,,,,,,,,,1438,80 - 89
@@ -9282,7 +9282,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1440,Courtney Newbould & Michelle Owens,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:32,,,,,,,,,,,,,,,,,,,,,,,1440,90 - 99
 1442,Éireann O Connell & Aine Deay,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,23:33,,,,,,,,,,,,,,,,,,,,,,,1442,80 - 89
 1442,Georgina Arksey & Laura Chappell,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:33,,,,,,,,,,,,,,,,,,,,,,,1442,70 - 79
-1442,Rachael Kelly & Ruth Hankin,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:33,,,,,,,,,,,,,,,,,,,,,,,1442,
+1442,Rachael Kelly & Ruth Hankin,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:33,,,,,,,,,,,,,,,,,,,,,,,1442,70 - 79
 1445,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,23:34,,,,,,,,,,,,,,,,,,,,,,,1445,69 & under
 1445,Jo-Ann Duus-Lund & Natalia Brungaard Kanstrup,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX,MetCon X,,,23:34,,,,,,,,,,,,,,,,,,,,,,,1445,70 - 79
 1447,Louise O’Brien & Ashley Malone,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:35,,,,,,,,,,,,,,,,,,,,,,,1447,70 - 79
@@ -9300,7 +9300,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1457,Cherie Sykes & Evie Sykes,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:48,,,,,,,,,,,,,,,,,,,,,,,1457,69 & under
 1460,Rachel Cheetham & Victoria Myerscough,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:50,,,,,,,,,,,,,,,,,,,,,,,1460,69 & under
 1461,Katrina O’Leary & Natalie Toal,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX,MetCon X,,,23:51,,,,,,,,,,,,,,,,,,,,,,,1461,70 - 79
-1461,Rosie Kirk & Thea Hopkins,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:51,,,,,,,,,,,,,,,,,,,,,,,1461,
+1461,Rosie Kirk & Thea Hopkins,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:51,,,,,,,,,,,,,,,,,,,,,,,1461,69 & under
 1463,Daisy Leatherbarrow & Jasmine Rathyal,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:52,,,,,,,,,,,,,,,,,,,,,,,1463,69 & under
 1464,Karen Maxwell & Alison Ware,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:53,,,,,,,,,,,,,,,,,,,,,,,1464,Above 110
 1464,Charlotte Reilly & Becca Smith,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:53,,,,,,,,,,,,,,,,,,,,,,,1464,69 & under
@@ -9313,7 +9313,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1471,Johanna Smith & Ashleigh Mustard,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,23:57,,,,,,,,,,,,,,,,,,,,,,,1471,80 - 89
 1473,Lise Hassler & Mazimann Camille,ATHX MARSEILLE 2026,France 🇫🇷,2026,Female,ATHX,MetCon X,,,23:58,,,,,,,,,,,,,,,,,,,,,,,1473,69 & under
 1474,Angela Burrani & Ella Dawson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,24:00,,,,,,,,,,,,,,,,,,,,,,,1474,69 & under
-1475,Eleanor Monks & Hollie Hutchison,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,24:06,,,,,,,,,,,,,,,,,,,,,,,1475,
+1475,Eleanor Monks & Hollie Hutchison,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,24:06,,,,,,,,,,,,,,,,,,,,,,,1475,69 & under
 1476,Lucy Joel & Olivia Pritchard,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,24:08,,,,,,,,,,,,,,,,,,,,,,,1476,70 - 79
 1477,Sophia Herne & Amy Duckworth,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,24:09,,,,,,,,,,,,,,,,,,,,,,,1477,69 & under
 1477,Hollie Bass & Sarah Dilkes,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,24:09,,,,,,,,,,,,,,,,,,,,,,,1477,80 - 89
@@ -9361,7 +9361,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1519,Rebecca Hughes & Emma Hulley,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:08,,,,,,,,,,,,,,,,,,,,,,,1519,70 - 79
 1521,Amelia Benz & Rachel Masser,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:09,,,,,,,,,,,,,,,,,,,,,,,1521,69 & under
 1522,Sarah Gray & Gemma Shaw,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:10,,,,,,,,,,,,,,,,,,,,,,,1522,70 - 79
-1522,Helen Hogan & Julia Emerson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:10,,,,,,,,,,,,,,,,,,,,,,,1522,
+1522,Helen Hogan & Julia Emerson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:10,,,,,,,,,,,,,,,,,,,,,,,1522,100 - 109
 1524,Cassie Thornhill & Jenna Stephens,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:14,,,,,,,,,,,,,,,,,,,,,,,1524,80 - 89
 1525,Ifeyinwa Onwualu & Channel Charlery,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:15,,,,,,,,,,,,,,,,,,,,,,,1525,70 - 79
 1525,Charlotte Jones & Patrizia Vitolo,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,25:15,,,,,,,,,,,,,,,,,,,,,,,1525,70 - 79
@@ -9400,7 +9400,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1558,Rachael Managh & Lucie Hollis,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,27:00,,,,,,,,,,,,,,,,,,,,,,,1558,69 & under
 1560,Liz Cummins & Jasmine Verdin,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,28:28,,,,,,,,,,,,,,,,,,,,,,,1560,70 - 79
 1561,Clodagh Shevlane & Christie McCann,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Female,ATHX,MetCon X,,,31:00,,,,,,,,,,,,,,,,,,,,,,,1561,69 & under
-1562,Silvia Agrati & Elisa De Paoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,32:00,,,,,,,,,,,,,,,,,,,,,,,1562,
+1562,Silvia Agrati & Elisa De Paoli,ATHX MILAN 2026,Italy 🇮🇹,2026,Female,ATHX,MetCon X,,,32:00,,,,,,,,,,,,,,,,,,,,,,,1562,70 - 79
 1,David Kelly & Mulley Branch,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Overall,13 (968KG),30 (10.445KM),4 (10:10),,,,,,,,,,,,,,,,,,,,,,,35,69 & under
 2,benjamin barbier & Vincent PRADIÉ,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX,Overall,19 (950KG),20 (10.51KM),7 (10:43),,,,,,,,,,,,,,,,,,,,,,,46,69 & under
 3,Heiarii Tetuanui & Gaetan Escrivant,ATHX MARSEILLE 2026,France 🇫🇷,2026,Male,ATHX,Overall,59 (904KG),22 (10.487KM),16 (11:16),,,,,,,,,,,,,,,,,,,,,,,79,69 & under
@@ -12546,7 +12546,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1106,Tobias Schuster & Sergio Kaiser,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,200KG,340KG,,,,,,,,,,,,,,,,,,,,1106,70 - 79
 1106,Christopher Kovacs & Chris Sun,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,135KG,240KG,300KG,,,,,,,,,,,,,,,,,,,,1106,70 - 79
 1106,Stuart Pannell & Rob Brown,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,125KG,270KG,280KG,,,,,,,,,,,,,,,,,,,,1106,90 - 99
-1106,Kieron Austin & Daniel Colburn,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,125KG,250KG,300KG,,,,,,,,,,,,,,,,,,,,1106,
+1106,Kieron Austin & Daniel Colburn,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,125KG,250KG,300KG,,,,,,,,,,,,,,,,,,,,1106,69 & under
 1106,Miles Caswell & Stuart Rowlands,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,130KG,260KG,285KG,,,,,,,,,,,,,,,,,,,,1106,70 - 79
 1106,Leigh Woodwards & Paul Woolls,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,135KG,240KG,300KG,,,,,,,,,,,,,,,,,,,,1106,90 - 99
 1106,Vincent Oracz & Alexis DURAND,ATHX MARSEILLE 2026,France 🇫🇷,2026,Male,ATHX,Strength,,,,133KG,245KG,297KG,,,,,,,,,,,,,,,,,,,,1106,69 & under
@@ -12775,7 +12775,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1342,Anton Savitsky & Aliaksandr Kochneu,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,125KG,235KG,282KG,,,,,,,,,,,,,,,,,,,,1342,69 & under
 1342,Grant Davidson & Christopher Foulkes,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,151KG,223KG,268KG,,,,,,,,,,,,,,,,,,,,1342,80 - 89
 1342,Marcos Luna & Michael McPhee,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Male,ATHX,Strength,,,,122KG,230KG,290KG,,,,,,,,,,,,,,,,,,,,1342,80 - 89
-1348,Harry Keable & Jordan Payne,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,135KG,240KG,266KG,,,,,,,,,,,,,,,,,,,,1348,
+1348,Harry Keable & Jordan Payne,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,135KG,240KG,266KG,,,,,,,,,,,,,,,,,,,,1348,69 & under
 1348,Alex Young & Patrick Wildin,ATHX MADRID 2026,Spain 🇪🇸,2026,Male,ATHX,Strength,,,,124KG,232KG,285KG,,,,,,,,,,,,,,,,,,,,1348,80 - 89
 1348,fulvio forlin & Saracino Angelo,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,142KG,219KG,280KG,,,,,,,,,,,,,,,,,,,,1348,90 - 99
 1348,Giuseppe Quaresima & Mario Vitiello,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Strength,,,,126KG,236KG,279KG,,,,,,,,,,,,,,,,,,,,1348,69 & under
@@ -13050,7 +13050,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1620,Tom Watson & Bobby Barber,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,140KG,210KG,250KG,,,,,,,,,,,,,,,,,,,,1620,69 & under
 1620,reiss ballard & Jack Wood,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,120KG,215KG,265KG,,,,,,,,,,,,,,,,,,,,1620,69 & under
 1620,Ilija Markovic & Florian Schatz,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,115KG,195KG,290KG,,,,,,,,,,,,,,,,,,,,1620,70 - 79
-1620,Gianluca Mamone & Dennis Humann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,225KG,240KG,,,,,,,,,,,,,,,,,,,,1620,
+1620,Gianluca Mamone & Dennis Humann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,135KG,225KG,240KG,,,,,,,,,,,,,,,,,,,,1620,69 & under
 1620,Kamil Burkhanov & Peter Freundel,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Strength,,,,125KG,215KG,260KG,,,,,,,,,,,,,,,,,,,,1620,69 & under
 1620,Perry Andrews & Laurence Pannell,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,130KG,220KG,250KG,,,,,,,,,,,,,,,,,,,,1620,69 & under
 1620,Paul Simmons & James Wyatt,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Strength,,,,130KG,220KG,250KG,,,,,,,,,,,,,,,,,,,,1620,Above 110
@@ -14172,7 +14172,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 711,Dan Campbell & Pete Reynolds,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Endurance,,,,,,,3.956KM,5.431KM,,,,,,,,,,,,,,,,,,711,80 - 89
 713,Gianluca Cicero & Federico Puricelli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,4.175KM,5.21KM,,,,,,,,,,,,,,,,,,713,69 & under
 714,Roger Mondragón & Pau Gargallo,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Male,ATHX,Endurance,,,,,,,4.248KM,5.134KM,,,,,,,,,,,,,,,,,,714,69 & under
-714,Liam Duff & David King,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Endurance,,,,,,,4KM,5.382KM,,,,,,,,,,,,,,,,,,714,
+714,Liam Duff & David King,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Endurance,,,,,,,4KM,5.382KM,,,,,,,,,,,,,,,,,,714,69 & under
 716,Luis Power & Francisco Alvarez Camacho,ATHX MADRID 2026,Spain 🇪🇸,2026,Male,ATHX,Endurance,,,,,,,4.059KM,5.322KM,,,,,,,,,,,,,,,,,,716,69 & under
 716,Luca Folli & Matteo Bombino,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,Endurance,,,,,,,3.78KM,5.601KM,,,,,,,,,,,,,,,,,,716,69 & under
 716,Jens Nordmeier & Thomas Lau,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,Endurance,,,,,,,4.065KM,5.316KM,,,,,,,,,,,,,,,,,,716,100 - 109
@@ -15486,7 +15486,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 2026,Stephen O’Neill & Mattie Brady,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,0.001KM,5.099KM,,,,,,,,,,,,,,,,,,2026,80 - 89
 2027,Eric Genoe & Shane Askin,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,Endurance,,,,,,,1.94KM,2.444KM,,,,,,,,,,,,,,,,,,2027,70 - 79
 2028,Charles Jones & Myneer Saleh,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,Endurance,,,,,,,3.065KM,0.002KM,,,,,,,,,,,,,,,,,,2028,80 - 89
-1,Rhys jones & Charlie Reboul,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,
+1,Rhys jones & Charlie Reboul,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,07:00,,,,,,,,,,,,,,,,,,,,,,,1,69 & under
 2,Lewys Morgan-Smith & Arran Arogundade,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,09:12,,,,,,,,,,,,,,,,,,,,,,,2,69 & under
 3,Samuel Gleeson & James Tyas,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,10:07,,,,,,,,,,,,,,,,,,,,,,,3,69 & under
 4,David Kelly & Mulley Branch,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,10:10,,,,,,,,,,,,,,,,,,,,,,,4,69 & under
@@ -16347,7 +16347,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 856,Tristan Joary & Florian Galibert,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,69 & under
 856,Thorsten Pfeilschifter & Dischner Korbinian,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,70 - 79
 856,Paul Clancy & Nathan Kerr,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,69 & under
-856,Stuart Cameron & Ronnie Mcfarlane,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,
+856,Stuart Cameron & Ronnie Mcfarlane,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,69 & under
 856,Steven McNeil & Robbie McLaren,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,69 & under
 856,Matthew Smithson & Daniel Day,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:05,,,,,,,,,,,,,,,,,,,,,,,856,69 & under
 865,Ludovic Durier & Pierre Leocadie,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,15:06,,,,,,,,,,,,,,,,,,,,,,,865,80 - 89
@@ -16421,7 +16421,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 928,Mathieu Berger & Rémi Dumont,ATHX MARSEILLE 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,15:18,,,,,,,,,,,,,,,,,,,,,,,928,70 - 79
 928,Mike Smith & Luke Wilson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:18,,,,,,,,,,,,,,,,,,,,,,,928,80 - 89
 928,James Collinge & Lewis Newstead,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:18,,,,,,,,,,,,,,,,,,,,,,,928,69 & under
-936,Gianluca Mamone & Dennis Humann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:19,,,,,,,,,,,,,,,,,,,,,,,936,
+936,Gianluca Mamone & Dennis Humann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,15:19,,,,,,,,,,,,,,,,,,,,,,,936,69 & under
 936,Nino ARNAUD & Antoine Hiesse,ATHX MARSEILLE 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,15:19,,,,,,,,,,,,,,,,,,,,,,,936,70 - 79
 936,Maxime Aoustin & Dylan Barbier,ATHX MARSEILLE 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,15:19,,,,,,,,,,,,,,,,,,,,,,,936,69 & under
 936,Tom Brown & James Wilson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:19,,,,,,,,,,,,,,,,,,,,,,,936,70 - 79
@@ -16482,7 +16482,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 991,William Clarke & Ross Archibald,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:30,,,,,,,,,,,,,,,,,,,,,,,991,69 & under
 991,Joel Lutz & Jan Schoch,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Male,ATHX,MetCon X,,,15:30,,,,,,,,,,,,,,,,,,,,,,,991,69 & under
 991,James Smith & Wesley Kelly,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:30,,,,,,,,,,,,,,,,,,,,,,,991,69 & under
-991,Liam Duff & David King,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:30,,,,,,,,,,,,,,,,,,,,,,,991,
+991,Liam Duff & David King,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:30,,,,,,,,,,,,,,,,,,,,,,,991,69 & under
 998,Flamur Ismailji & Andrew Winstanley,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,15:31,,,,,,,,,,,,,,,,,,,,,,,998,90 - 99
 998,Giuseppe Quaresima & Mario Vitiello,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:31,,,,,,,,,,,,,,,,,,,,,,,998,69 & under
 998,Stefano Minini & Federico Galli,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,15:31,,,,,,,,,,,,,,,,,,,,,,,998,69 & under
@@ -17042,7 +17042,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1552,Brendan Murphy & Dominic Murphy,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:30,,,,,,,,,,,,,,,,,,,,,,,1552,80 - 89
 1555,Mario Nunes & Raphael Meier,ATHX MUNICH 2026,Germany 🇩🇪,2026,Male,ATHX,MetCon X,,,17:31,,,,,,,,,,,,,,,,,,,,,,,1555,70 - 79
 1555,Daniel Griza & Mircea Popoveniuc,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Male,ATHX,MetCon X,,,17:31,,,,,,,,,,,,,,,,,,,,,,,1555,69 & under
-1555,Kieron Austin & Daniel Colburn,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:31,,,,,,,,,,,,,,,,,,,,,,,1555,
+1555,Kieron Austin & Daniel Colburn,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:31,,,,,,,,,,,,,,,,,,,,,,,1555,69 & under
 1555,Kiran Govind & Deepak Sridhar Hegde,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:31,,,,,,,,,,,,,,,,,,,,,,,1555,69 & under
 1559,Declan Holland & jamie ford,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:32,,,,,,,,,,,,,,,,,,,,,,,1559,69 & under
 1559,Andrew Rogers & George Russell,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:32,,,,,,,,,,,,,,,,,,,,,,,1559,80 - 89
@@ -17056,7 +17056,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1568,Kamal Hami-Eddine & David Loiseau,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,17:35,,,,,,,,,,,,,,,,,,,,,,,1568,90 - 99
 1568,Ryan Tomasulo & Fraser Sayers,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:35,,,,,,,,,,,,,,,,,,,,,,,1568,69 & under
 1570,Vincent Percheron & BENOIT LONGUET,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,17:36,,,,,,,,,,,,,,,,,,,,,,,1570,90 - 99
-1571,Harry Keable & Jordan Payne,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1571,
+1571,Harry Keable & Jordan Payne,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1571,69 & under
 1571,Simone Marcato & Luca Veronese,ATHX MILAN 2026,Italy 🇮🇹,2026,Male,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1571,70 - 79
 1571,Christopher LE PONNER & Alban Kergieter,ATHX PARIS 2026,France 🇫🇷,2026,Male,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1571,69 & under
 1571,Sam Lodge & Ben Sugarman,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Male,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1571,69 & under
@@ -19661,7 +19661,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 323,Ethan Running & Suzie Stuart,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,110KG,235KG,285KG,,,,,,,,,,,,,,,,,,,,323,69 & under
 323,Thomas Hamlyn Williams & Kathryn Benjamin,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,115KG,245KG,270KG,,,,,,,,,,,,,,,,,,,,323,70 - 79
 323,Liam Wall & Leah Powell,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,Strength,,,,110KG,220KG,300KG,,,,,,,,,,,,,,,,,,,,323,70 - 79
-323,Nicole Martin & Henry Harris,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,115KG,225KG,290KG,,,,,,,,,,,,,,,,,,,,323,
+323,Nicole Martin & Henry Harris,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,115KG,225KG,290KG,,,,,,,,,,,,,,,,,,,,323,69 & under
 323,Siobhan O'Connor & Edvinas Bartulis,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,115KG,235KG,280KG,,,,,,,,,,,,,,,,,,,,323,69 & under
 331,Christian Binder & Mara Ablinger,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,123KG,226KG,280KG,,,,,,,,,,,,,,,,,,,,331,69 & under
 332,maeve hamill & Adam Johnston,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,103KG,235KG,290KG,,,,,,,,,,,,,,,,,,,,332,69 & under
@@ -20200,7 +20200,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 859,Sonia Esquirol & Sergio Torralba,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,Strength,,,,108KG,200KG,245KG,,,,,,,,,,,,,,,,,,,,859,80 - 89
 866,Laura Magee & Dan Deacon,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,107KG,200KG,245KG,,,,,,,,,,,,,,,,,,,,866,80 - 89
 866,Agullo Séverine & Julien Wavrant,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,102KG,205KG,245KG,,,,,,,,,,,,,,,,,,,,866,90 - 99
-866,Janick Parize & Parize Celine,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,102KG,210KG,240KG,,,,,,,,,,,,,,,,,,,,866,
+866,Janick Parize & Parize Celine,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,102KG,210KG,240KG,,,,,,,,,,,,,,,,,,,,866,80 - 89
 869,Heiko Rutsch & Vanessa Brüggler,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,110KG,187KG,254KG,,,,,,,,,,,,,,,,,,,,869,80 - 89
 869,Andreas Paul & Natalia Brozda,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,101KG,195KG,255KG,,,,,,,,,,,,,,,,,,,,869,80 - 89
 869,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,108KG,198KG,245KG,,,,,,,,,,,,,,,,,,,,869,80 - 89
@@ -20305,7 +20305,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 948,Anna Cavill & Finn Credland,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,105KG,195KG,240KG,,,,,,,,,,,,,,,,,,,,948,69 & under
 948,Jack Longton & Polly Iddon,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,110KG,190KG,240KG,,,,,,,,,,,,,,,,,,,,948,69 & under
 948,Federica Croci & Alberto de Sanctis,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,Strength,,,,110KG,190KG,240KG,,,,,,,,,,,,,,,,,,,,948,70 - 79
-948,laurene calmès & Jordan Carolus,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,105KG,195KG,240KG,,,,,,,,,,,,,,,,,,,,948,
+948,laurene calmès & Jordan Carolus,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,105KG,195KG,240KG,,,,,,,,,,,,,,,,,,,,948,69 & under
 974,Mohamed Sameh & Evmorfia Chrysovalantou Seiti,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,105KG,184KG,250KG,,,,,,,,,,,,,,,,,,,,974,69 & under
 974,Lucinda Prior & Joe Bull,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,120KG,183KG,236KG,,,,,,,,,,,,,,,,,,,,974,70 - 79
 974,Christoph Huber & Melissa Hausladen,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,104KG,195KG,240KG,,,,,,,,,,,,,,,,,,,,974,69 & under
@@ -20785,7 +20785,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1450,Paul Connor & Juliet Brazendale,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,94KG,170KG,210KG,,,,,,,,,,,,,,,,,,,,1450,90 - 99
 1450,Nicolas Reuthal & Carla Beato,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,87KG,185KG,202KG,,,,,,,,,,,,,,,,,,,,1450,69 & under
 1450,Kate Gerhard & Thomas Führer,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,160KG,219KG,,,,,,,,,,,,,,,,,,,,1450,69 & under
-1453,Georgia Keast & Sam Keast,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,100KG,168KG,205KG,,,,,,,,,,,,,,,,,,,,1453,
+1453,Georgia Keast & Sam Keast,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,100KG,168KG,205KG,,,,,,,,,,,,,,,,,,,,1453,69 & under
 1453,Franziska Bartenschlager & Markus Liese,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,98KG,165KG,210KG,,,,,,,,,,,,,,,,,,,,1453,70 - 79
 1453,Robert Richter & Silke Holzmayr,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,91KG,172KG,210KG,,,,,,,,,,,,,,,,,,,,1453,80 - 89
 1453,Andrea Usai & Maria Paola Cordedda,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,99KG,170KG,204KG,,,,,,,,,,,,,,,,,,,,1453,69 & under
@@ -20837,7 +20837,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1499,Alice GUEGNIARD & Mathieu ANDRAULT,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,90KG,140KG,235KG,,,,,,,,,,,,,,,,,,,,1499,69 & under
 1499,Jeanne Nguyen & Alain SOUNDIRARASSOU,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,75KG,180KG,210KG,,,,,,,,,,,,,,,,,,,,1499,70 - 79
 1499,Lea Stein & Nico Küttner,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,95KG,155KG,215KG,,,,,,,,,,,,,,,,,,,,1499,69 & under
-1499,Caroline Bagshaw & Chris Bagshaw,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,95KG,160KG,210KG,,,,,,,,,,,,,,,,,,,,1499,
+1499,Caroline Bagshaw & Chris Bagshaw,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,95KG,160KG,210KG,,,,,,,,,,,,,,,,,,,,1499,69 & under
 1499,Léa Onofri & William Rodrigues,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,87KG,163KG,215KG,,,,,,,,,,,,,,,,,,,,1499,69 & under
 1499,BEATRICE BLANC & Marziac Sébastien,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,Strength,,,,86KG,146KG,233KG,,,,,,,,,,,,,,,,,,,,1499,90 - 99
 1499,Paula Mac & Rich McGonagle,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,115KG,170KG,180KG,,,,,,,,,,,,,,,,,,,,1499,90 - 99
@@ -21034,7 +21034,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1698,Antonio Villani & Nilla Hoppe,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,Strength,,,,86KG,130KG,205KG,,,,,,,,,,,,,,,,,,,,1698,80 - 89
 1698,Emma Thistleton & Larry Wells,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,91KG,150KG,180KG,,,,,,,,,,,,,,,,,,,,1698,70 - 79
 1701,Chris Barker & Shannon Barker,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,Strength,,,,80KG,145KG,195KG,,,,,,,,,,,,,,,,,,,,1701,69 & under
-1701,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,95KG,155KG,170KG,,,,,,,,,,,,,,,,,,,,1701,
+1701,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,95KG,155KG,170KG,,,,,,,,,,,,,,,,,,,,1701,90 - 99
 1701,Eric Cantwell & Deirdre Cantwell,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX,Strength,,,,80KG,135KG,205KG,,,,,,,,,,,,,,,,,,,,1701,90 - 99
 1704,michele bolco & Sara Corvino,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,Strength,,,,78KG,160KG,180KG,,,,,,,,,,,,,,,,,,,,1704,69 & under
 1704,Elaine Cusack & Dermot Cusack,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX,Strength,,,,80KG,150KG,188KG,,,,,,,,,,,,,,,,,,,,1704,90 - 99
@@ -23307,7 +23307,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 334,Adam Minett & Toni Minett,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,MetCon X,,,14:16,,,,,,,,,,,,,,,,,,,,,,,334,69 & under
 334,Kitti Olasz & Mark Laluska,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,MetCon X,,,14:16,,,,,,,,,,,,,,,,,,,,,,,334,69 & under
 334,Amaury Giraud & Valentine PHILIBERT,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,14:16,,,,,,,,,,,,,,,,,,,,,,,334,69 & under
-334,Nicole Martin & Henry Harris,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,14:16,,,,,,,,,,,,,,,,,,,,,,,334,
+334,Nicole Martin & Henry Harris,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,14:16,,,,,,,,,,,,,,,,,,,,,,,334,69 & under
 341,Christof Griebenow & Éloïse LASNET,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,14:17,,,,,,,,,,,,,,,,,,,,,,,341,70 - 79
 341,Marie-Gabrielle Rapatout & Louis-Arthur Meillier,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX,MetCon X,,,14:17,,,,,,,,,,,,,,,,,,,,,,,341,69 & under
 343,Martyn Wright & Niamh Doran,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,14:18,,,,,,,,,,,,,,,,,,,,,,,343,69 & under
@@ -23794,7 +23794,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 820,Margot Desinde & Pierre-Louis BRILLET,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,15:56,,,,,,,,,,,,,,,,,,,,,,,820,69 & under
 825,Ximena Arroyo & Marco Hernandez,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,825,70 - 79
 825,Daniel Fennell & Dannii Bayliss,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,825,70 - 79
-825,Oliver Troup & Anna Troup,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,825,
+825,Oliver Troup & Anna Troup,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,825,80 - 89
 825,Manuel Tiercy & Shaili Clot,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,825,69 & under
 825,Matilde Ribeiro & Miguel Alves,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,825,69 & under
 830,Alex Macklin & Megan Arnott,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,830,69 & under
@@ -24006,7 +24006,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1035,Uli Heimes & Lars Neumann,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:40,,,,,,,,,,,,,,,,,,,,,,,1035,80 - 89
 1035,Roxanne Galloway & Chris Galloway,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:40,,,,,,,,,,,,,,,,,,,,,,,1035,69 & under
 1035,Dylan Fiaavaui & Laurane payrard,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,16:40,,,,,,,,,,,,,,,,,,,,,,,1035,69 & under
-1035,laurene calmès & Jordan Carolus,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,16:40,,,,,,,,,,,,,,,,,,,,,,,1035,
+1035,laurene calmès & Jordan Carolus,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,16:40,,,,,,,,,,,,,,,,,,,,,,,1035,69 & under
 1040,Kevin Schwarz & Franka Knoch,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,16:41,,,,,,,,,,,,,,,,,,,,,,,1040,69 & under
 1040,Rachel Woods & Kieran Greene,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:41,,,,,,,,,,,,,,,,,,,,,,,1040,69 & under
 1040,Charlotte Simm & Kieran Ashdown,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:41,,,,,,,,,,,,,,,,,,,,,,,1040,70 - 79
@@ -24032,7 +24032,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1061,Luigi Nardò & Ila Bignardi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:46,,,,,,,,,,,,,,,,,,,,,,,1061,69 & under
 1061,Anton Hirschauer & Britta Hirschauer,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX,MetCon X,,,16:46,,,,,,,,,,,,,,,,,,,,,,,1061,Above 110
 1064,Marco Fini & Martina Magliozzi,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX,MetCon X,,,16:47,,,,,,,,,,,,,,,,,,,,,,,1064,70 - 79
-1064,Caroline Bagshaw & Chris Bagshaw,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:47,,,,,,,,,,,,,,,,,,,,,,,1064,
+1064,Caroline Bagshaw & Chris Bagshaw,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:47,,,,,,,,,,,,,,,,,,,,,,,1064,69 & under
 1066,Robert Day & Rochana Au,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:48,,,,,,,,,,,,,,,,,,,,,,,1066,70 - 79
 1066,Nadia Katsarska & Marcus Hanvey,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,16:48,,,,,,,,,,,,,,,,,,,,,,,1066,70 - 79
 1066,Paulo Camilo Junior & Sara Örnek,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX,MetCon X,,,16:48,,,,,,,,,,,,,,,,,,,,,,,1066,69 & under
@@ -24243,7 +24243,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1270,Nicolas OTT & Rénate SCHEUER,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1270,69 & under
 1270,Gemma Sinclair & Scott Sinclair,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1270,70 - 79
 1270,Paul Bergeron & Kenza Dumas,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,MetCon X,,,17:38,,,,,,,,,,,,,,,,,,,,,,,1270,69 & under
-1276,Georgia Keast & Sam Keast,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,17:39,,,,,,,,,,,,,,,,,,,,,,,1276,
+1276,Georgia Keast & Sam Keast,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,17:39,,,,,,,,,,,,,,,,,,,,,,,1276,69 & under
 1276,Teo Cotirlan & Clark Christofis,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,17:39,,,,,,,,,,,,,,,,,,,,,,,1276,69 & under
 1276,Victor Mielche Zinck & Louise Mielche Zinck,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX,MetCon X,,,17:39,,,,,,,,,,,,,,,,,,,,,,,1276,70 - 79
 1279,Jérémy POLTEAU & Eva Durao,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,17:40,,,,,,,,,,,,,,,,,,,,,,,1279,70 - 79
@@ -24375,7 +24375,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1405,Ben Cooper & Steph Helps,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,18:17,,,,,,,,,,,,,,,,,,,,,,,1405,70 - 79
 1405,CLEMENCE THOBOIS & Antoine FOUQUET,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,18:17,,,,,,,,,,,,,,,,,,,,,,,1405,69 & under
 1405,Joe Ward & Katie Newton,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,18:17,,,,,,,,,,,,,,,,,,,,,,,1405,69 & under
-1405,Janick Parize & Parize Celine,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,18:17,,,,,,,,,,,,,,,,,,,,,,,1405,
+1405,Janick Parize & Parize Celine,ATHX MARSEILLE 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,18:17,,,,,,,,,,,,,,,,,,,,,,,1405,80 - 89
 1409,Sandra Pugh & Paul Pugh,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX,MetCon X,,,18:18,,,,,,,,,,,,,,,,,,,,,,,1409,70 - 79
 1409,Justine Milne & Brad Stokes,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,18:18,,,,,,,,,,,,,,,,,,,,,,,1409,69 & under
 1409,Ben Whitworth & Lucy Bishop,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,18:18,,,,,,,,,,,,,,,,,,,,,,,1409,69 & under
@@ -24672,7 +24672,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1702,Emma Stacey & Ollie Jackson,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,21:18,,,,,,,,,,,,,,,,,,,,,,,1702,69 & under
 1703,Rodrigo Campo perez & Vanesa Vizuete López,ATHX MADRID 2026,Spain 🇪🇸,2026,Mixed,ATHX,MetCon X,,,21:19,,,,,,,,,,,,,,,,,,,,,,,1703,70 - 79
 1703,Stephen Meehan & Maire Meehan,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX,MetCon X,,,21:19,,,,,,,,,,,,,,,,,,,,,,,1703,80 - 89
-1705,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,21:20,,,,,,,,,,,,,,,,,,,,,,,1705,
+1705,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,21:20,,,,,,,,,,,,,,,,,,,,,,,1705,90 - 99
 1706,Jade Doherty & Ray Doherty,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX,MetCon X,,,21:22,,,,,,,,,,,,,,,,,,,,,,,1706,80 - 89
 1706,Adam Duncan-Rusk & Laura Pitt,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,21:22,,,,,,,,,,,,,,,,,,,,,,,1706,69 & under
 1708,Andrew Kings & Frances Kings-Thompson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,21:23,,,,,,,,,,,,,,,,,,,,,,,1708,70 - 79
@@ -24775,7 +24775,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1804,Adam O’Reilly & Sophia Kelleher,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,24:59,,,,,,,,,,,,,,,,,,,,,,,1804,69 & under
 1804,Nick Di Giampasquale & Jodie Slade,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,24:59,,,,,,,,,,,,,,,,,,,,,,,1804,70 - 79
 1804,Lesley Nolan & Aaron Elliott,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,24:59,,,,,,,,,,,,,,,,,,,,,,,1804,70 - 79
-1808,Pierre Sabbagh & Gaétane Goumet,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,25:00,,,,,,,,,,,,,,,,,,,,,,,1808,
+1808,Pierre Sabbagh & Gaétane Goumet,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,25:00,,,,,,,,,,,,,,,,,,,,,,,1808,80 - 89
 1808,Dougie Whiteford & Erin Howieson,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,25:00,,,,,,,,,,,,,,,,,,,,,,,1808,70 - 79
 1810,Brad Atwill & Ella McFall,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,25:03,,,,,,,,,,,,,,,,,,,,,,,1810,69 & under
 1811,Bhavin Shah & Nicola Poulton,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,25:04,,,,,,,,,,,,,,,,,,,,,,,1811,90 - 99
@@ -24791,7 +24791,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 1821,Bárbara Duarte & Sylvestre LOUIS,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX,MetCon X,,,26:00,,,,,,,,,,,,,,,,,,,,,,,1821,80 - 89
 1821,Anna Claret & Fernando Moreno,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX,MetCon X,,,26:00,,,,,,,,,,,,,,,,,,,,,,,1821,80 - 89
 1823,Lisa Pearson & FRANCIS PEARSON,ATHX LIVERPOOL 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,29:30,,,,,,,,,,,,,,,,,,,,,,,1823,80 - 89
-1824,Yasmin Crehan & Joe Sagoe,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,32:00,,,,,,,,,,,,,,,,,,,,,,,1824,
+1824,Yasmin Crehan & Joe Sagoe,ATHX LONDON 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX,MetCon X,,,32:00,,,,,,,,,,,,,,,,,,,,,,,1824,69 & under
 1,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,1 (721KG),12 (9.625KM),6 (14:27),,,,,,,,,,,,,,,,,,,,,,,19,69 & under
 2,Katie Healy & Larragh Mann,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Female,ATHX Pro,Overall,11 (596KG),8 (9.712KM),1 (14:11),,,,,,,,,,,,,,,,,,,,,,,20,69 & under
 3,Anna Nissen & Line Christiansen,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Female,ATHX Pro,Overall,7 (616KG),13 (9.569KM),4 (14:20),,,,,,,,,,,,,,,,,,,,,,,22,69 & under
@@ -26843,7 +26843,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 68,Mickael Champin & Lea Cosson,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX Pro,Strength,,,,118KG,260KG,315KG,,,,,,,,,,,,,,,,,,,,68,69 & under
 68,Aileen McCann & Baz gouldsbury,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX Pro,Strength,,,,128KG,265KG,300KG,,,,,,,,,,,,,,,,,,,,68,69 & under
 68,Mitchell Greer & Grace Black,ATHX DUBLIN 2026,Ireland 🇮🇪,2026,Mixed,ATHX Pro,Strength,,,,123KG,265KG,305KG,,,,,,,,,,,,,,,,,,,,68,69 & under
-71,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,115KG,290KG,285KG,,,,,,,,,,,,,,,,,,,,71,
+71,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,115KG,290KG,285KG,,,,,,,,,,,,,,,,,,,,71,80 - 89
 71,Morgane Eckert & JECHOUX TOMMY,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX Pro,Strength,,,,123KG,252KG,315KG,,,,,,,,,,,,,,,,,,,,71,69 & under
 71,Eleanor Shaw & Danny Williamson,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Pro,Strength,,,,120KG,260KG,310KG,,,,,,,,,,,,,,,,,,,,71,69 & under
 74,Berta Prat & Ot Montplet Sala,ATHX BARCELONA 2026,Spain 🇪🇸,2026,Mixed,ATHX Pro,Strength,,,,136KG,255KG,295KG,,,,,,,,,,,,,,,,,,,,74,69 & under
@@ -27378,7 +27378,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 152,Josef Buechele & Isabelle Sinz,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,17:52,,,,,,,,,,,,,,,,,,,,,,,152,69 & under
 153,Akeem Halimi & Natalie Halimi,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Pro,MetCon X,,,17:55,,,,,,,,,,,,,,,,,,,,,,,153,69 & under
 154,Niklas Schmid & Judith Schmid,ATHX MUNICH 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,17:57,,,,,,,,,,,,,,,,,,,,,,,154,69 & under
-154,Emily Grimmett & Louis Morris,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,17:57,,,,,,,,,,,,,,,,,,,,,,,154,
+154,Emily Grimmett & Louis Morris,ATHX MILAN 2026,Italy 🇮🇹,2026,Mixed,ATHX Pro,MetCon X,,,17:57,,,,,,,,,,,,,,,,,,,,,,,154,69 & under
 156,Leigha Baxter & robert turner,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Pro,MetCon X,,,18:02,,,,,,,,,,,,,,,,,,,,,,,156,80 - 89
 157,Brian Høier Andersen & Ditte Marie Høier Andersen,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX Pro,MetCon X,,,18:05,,,,,,,,,,,,,,,,,,,,,,,157,70 - 79
 157,Lukas Ksoll & Johanna Baganz,ATHX COPENHAGEN 2026,Denmark 🇩🇰,2026,Mixed,ATHX Pro,MetCon X,,,18:05,,,,,,,,,,,,,,,,,,,,,,,157,80 - 89
@@ -27433,7 +27433,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 207,Marcel Knäblein & Vanessa Mazzarella,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,20:20,,,,,,,,,,,,,,,,,,,,,,,207,69 & under
 208,Quentin Laffargue & Loréna Madaschi,ATHX PARIS 2026,France 🇫🇷,2026,Mixed,ATHX Pro,MetCon X,,,20:35,,,,,,,,,,,,,,,,,,,,,,,208,69 & under
 209,charlie menter & Lauren Evans,ATHX BIRMINGHAM 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Pro,MetCon X,,,20:38,,,,,,,,,,,,,,,,,,,,,,,209,70 - 79
-210,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,20:39,,,,,,,,,,,,,,,,,,,,,,,210,
+210,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,20:39,,,,,,,,,,,,,,,,,,,,,,,210,80 - 89
 211,Sophia Perez Monzon & Gennaro Rossi,ATHX GLASGOW 2026,United Kingdom 🇬🇧,2026,Mixed,ATHX Pro,MetCon X,,,20:58,,,,,,,,,,,,,,,,,,,,,,,211,70 - 79
 212,Fina Lale Kutz & Björn Wittig,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,212,70 - 79
 213,Maciek Dzięcioł & Justyna Dzieciol,ATHX BERLIN 2026,Germany 🇩🇪,2026,Mixed,ATHX Pro,MetCon X,,,21:01,,,,,,,,,,,,,,,,,,,,,,,213,69 & under
@@ -28814,7 +28814,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 592,Nicola Fairbrother & Natalia Cross,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,128KG,45KG,,,,,,,,,,,,,,,,592,69 & under
 592,Celine Voß & Jule Paulsen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,Strength,,,,,,,,,123KG,50KG,,,,,,,,,,,,,,,,592,69 & under
 597,Karen Chalmers & Louise Melliss,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,120KG,52KG,,,,,,,,,,,,,,,,597,80 - 89
-597,Meghan Campbell & Laura Blake,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,145KG,27KG,,,,,,,,,,,,,,,,597,
+597,Meghan Campbell & Laura Blake,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,145KG,27KG,,,,,,,,,,,,,,,,597,69 & under
 597,Laura Wright & Jenny Andrew,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,119KG,53KG,,,,,,,,,,,,,,,,597,80 - 89
 597,Mandy Rooney & Lucinda O Neill,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,124KG,48KG,,,,,,,,,,,,,,,,597,70 - 79
 597,Laura Edwards & Tati Richards,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,115KG,57KG,,,,,,,,,,,,,,,,597,69 & under
@@ -28916,7 +28916,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 697,Francesca Jackson & Siama Rafiq,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,110KG,46KG,,,,,,,,,,,,,,,,697,70 - 79
 697,Vicki Whelband & Lydia Hunt,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,110KG,46KG,,,,,,,,,,,,,,,,697,70 - 79
 699,Jo Down & Kasae Fraser,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,115KG,40KG,,,,,,,,,,,,,,,,699,70 - 79
-699,Emma Lax & Suki Lekkas,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,133KG,22KG,,,,,,,,,,,,,,,,699,
+699,Emma Lax & Suki Lekkas,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,133KG,22KG,,,,,,,,,,,,,,,,699,70 - 79
 699,Emma Regan & Emily Hibberd,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,133KG,22KG,,,,,,,,,,,,,,,,699,69 & under
 699,Sonia Tutt & Louise KIRK,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,110KG,45KG,,,,,,,,,,,,,,,,699,80 - 89
 699,Ashley Killick & Lara Jane Hedgecock,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Strength,,,,,,,,,105KG,50KG,,,,,,,,,,,,,,,,699,80 - 89
@@ -29619,7 +29619,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 630,Gemma Yates & Sarah Fowler,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,4.25KM,10.234KM,,,,,,,,,,,,,,630,69 & under
 630,Kellyanne Rimmer & Molly Hardy,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,4.55KM,9.934KM,,,,,,,,,,,,,,630,69 & under
 632,Abi Lee & Zoe Bennfors,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,3.925KM,10.548KM,,,,,,,,,,,,,,632,69 & under
-633,Sarah McNee & Sara Shaw,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,4KM,10.46KM,,,,,,,,,,,,,,633,
+633,Sarah McNee & Sara Shaw,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,4KM,10.46KM,,,,,,,,,,,,,,633,90 - 99
 634,Andrea Johnson & Leah Sheldon,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,4.225KM,10.224KM,,,,,,,,,,,,,,634,90 - 99
 635,Emma Gregory & Stepheny Kau,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,4.125KM,10.323KM,,,,,,,,,,,,,,635,80 - 89
 636,Jay Tank & Miroslava Molinero,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,3.75KM,10.689KM,,,,,,,,,,,,,,636,80 - 89
@@ -29754,8 +29754,8 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 765,Emily Carter & Christina Bishop,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,3.575KM,8.94KM,,,,,,,,,,,,,,765,70 - 79
 766,Liz Keech & Mary Keech,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,3.525KM,8.978KM,,,,,,,,,,,,,,766,69 & under
 767,Mazvita Madafi & Miriam Madafi,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,Endurance,,,,,,,,,,,2.575KM,9.2KM,,,,,,,,,,,,,,767,80 - 89
-1,Charlotte McAusland & Carly O'Shea,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,04:50,,,,,,,,,,,,,,,,,,,,,,,1,
-1,Franka Arendt & Svenja Herbert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,04:50,,,,,,,,,,,,,,,,,,,,,,,1,
+1,Charlotte McAusland & Carly O'Shea,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,04:50,,,,,,,,,,,,,,,,,,,,,,,1,70 - 79
+1,Franka Arendt & Svenja Herbert,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,04:50,,,,,,,,,,,,,,,,,,,,,,,1,69 & under
 3,Hannah Brown & Alice Hardy,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:36,,,,,,,,,,,,,,,,,,,,,,,3,69 & under
 4,Hannah Brown & Alice Hardy,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,11:45,,,,,,,,,,,,,,,,,,,,,,,4,69 & under
 5,Jayne Lo & Elise Davis,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,12:11,,,,,,,,,,,,,,,,,,,,,,,5,69 & under
@@ -30053,7 +30053,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 296,Molly Napier & Lucy Dawson,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:15,,,,,,,,,,,,,,,,,,,,,,,296,69 & under
 296,Katy Djaelani & Poppy Green,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:15,,,,,,,,,,,,,,,,,,,,,,,296,70 - 79
 296,Hannah Ribbans & Denise Bunn,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:15,,,,,,,,,,,,,,,,,,,,,,,296,100 - 109
-300,Emma Herlihy & Clare Wallace-Hadrill,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:16,,,,,,,,,,,,,,,,,,,,,,,300,
+300,Emma Herlihy & Clare Wallace-Hadrill,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:16,,,,,,,,,,,,,,,,,,,,,,,300,80 - 89
 301,Michelle Ramirez & fay jagger,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:17,,,,,,,,,,,,,,,,,,,,,,,301,69 & under
 301,Rayner Croft & Isabelle Livesley,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:17,,,,,,,,,,,,,,,,,,,,,,,301,69 & under
 303,Suzanne Robinson & Ashley Webb,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,17:18,,,,,,,,,,,,,,,,,,,,,,,303,80 - 89
@@ -30340,7 +30340,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 584,Andrea Johnson & Leah Sheldon,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,20:59,,,,,,,,,,,,,,,,,,,,,,,584,90 - 99
 584,Alanna Scarle & Felicity Glover,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,20:59,,,,,,,,,,,,,,,,,,,,,,,584,69 & under
 586,Holly McMahon & Sarah McClenn,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,586,69 & under
-586,Amy Pepper & Lauren Hope,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,586,
+586,Amy Pepper & Lauren Hope,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,586,69 & under
 586,Amy Short & Kirsty Newman,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:00,,,,,,,,,,,,,,,,,,,,,,,586,69 & under
 589,Eloise Barnes & Rebecca Jackson,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:01,,,,,,,,,,,,,,,,,,,,,,,589,90 - 99
 590,Sadie Levesconte & Felicity Sherwin,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:02,,,,,,,,,,,,,,,,,,,,,,,590,70 - 79
@@ -30387,7 +30387,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 631,Dominique Childs & Sam Clarke,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:39,,,,,,,,,,,,,,,,,,,,,,,631,90 - 99
 631,Cristina Ferreira & Kimberley Barnes,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:39,,,,,,,,,,,,,,,,,,,,,,,631,70 - 79
 633,Angela Wood & Natalie Coates,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:41,,,,,,,,,,,,,,,,,,,,,,,633,70 - 79
-634,Emma Lax & Suki Lekkas,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:44,,,,,,,,,,,,,,,,,,,,,,,634,
+634,Emma Lax & Suki Lekkas,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:44,,,,,,,,,,,,,,,,,,,,,,,634,70 - 79
 634,Nicola Davidson & Sarah Watson,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:44,,,,,,,,,,,,,,,,,,,,,,,634,80 - 89
 634,Olivan Vaughan & Denise Vaughan,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Female,ATHX,MetCon X,,,21:44,,,,,,,,,,,,,,,,,,,,,,,634,80 - 89
 637,Emma Regan & Emily Hibberd,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,21:45,,,,,,,,,,,,,,,,,,,,,,,637,69 & under
@@ -30420,7 +30420,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 664,jade austin & Breesha Osbaldeston,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:33,,,,,,,,,,,,,,,,,,,,,,,664,69 & under
 665,Steph Wall & Chantelle Macneil,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:36,,,,,,,,,,,,,,,,,,,,,,,665,69 & under
 665,Charlotte Burmby & Rachel Redman,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:36,,,,,,,,,,,,,,,,,,,,,,,665,69 & under
-665,Marianna Benn & Nicola Cuthbert,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:36,,,,,,,,,,,,,,,,,,,,,,,665,
+665,Marianna Benn & Nicola Cuthbert,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:36,,,,,,,,,,,,,,,,,,,,,,,665,70 - 79
 668,Kate Corfield & Melanie Willoughby,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:38,,,,,,,,,,,,,,,,,,,,,,,668,69 & under
 668,Martha Eason & Chloe Coombs,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:38,,,,,,,,,,,,,,,,,,,,,,,668,69 & under
 668,Lyndsey Robinson & Amelia Barnett,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,22:38,,,,,,,,,,,,,,,,,,,,,,,668,69 & under
@@ -30464,7 +30464,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 708,Natalie Daley & johanne.sturridge Team,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,23:58,,,,,,,,,,,,,,,,,,,,,,,708,80 - 89
 709,Holly Mulberry & Kirsty Mulberry,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,23:59,,,,,,,,,,,,,,,,,,,,,,,709,70 - 79
 710,paola collins & Rachael Castleton,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:01,,,,,,,,,,,,,,,,,,,,,,,710,90 - 99
-710,Meghan Campbell & Laura Blake,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:01,,,,,,,,,,,,,,,,,,,,,,,710,
+710,Meghan Campbell & Laura Blake,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:01,,,,,,,,,,,,,,,,,,,,,,,710,69 & under
 710,Roxanne Cowan & Anne Hopkinson,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:01,,,,,,,,,,,,,,,,,,,,,,,710,70 - 79
 713,Emma Gregory & Stepheny Kau,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:05,,,,,,,,,,,,,,,,,,,,,,,713,80 - 89
 714,Polina Dmitrovskaya & Mia Schütt,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX,MetCon X,,,24:06,,,,,,,,,,,,,,,,,,,,,,,714,69 & under
@@ -30482,7 +30482,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 726,Jacqueline Grout & Hannah Dyson,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:38,,,,,,,,,,,,,,,,,,,,,,,726,100 - 109
 727,Alannah Tancock & Laura Afflecj,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:40,,,,,,,,,,,,,,,,,,,,,,,727,69 & under
 727,Hollie Cowie & Bex Andrews,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:40,,,,,,,,,,,,,,,,,,,,,,,727,69 & under
-729,Sarah McNee & Sara Shaw,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:42,,,,,,,,,,,,,,,,,,,,,,,729,
+729,Sarah McNee & Sara Shaw,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:42,,,,,,,,,,,,,,,,,,,,,,,729,90 - 99
 729,Kellie Searle & Juliet Wedderburn,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:42,,,,,,,,,,,,,,,,,,,,,,,729,100 - 109
 731,Carolina Luna & Nonhlanhla Dube,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:43,,,,,,,,,,,,,,,,,,,,,,,731,80 - 89
 732,Bina Savla & Hannah Dempsey,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Female,ATHX,MetCon X,,,24:45,,,,,,,,,,,,,,,,,,,,,,,732,90 - 99
@@ -31557,7 +31557,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 145,Miles Caswell & Keagan Taylor,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,285KG,113KG,,,,,,,,,,,,,,,,145,69 & under
 147,jack bradstreet & Harry Bradstreet,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,285KG,112KG,,,,,,,,,,,,,,,,147,69 & under
 148,William Birtwell & Alex Marriott,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,280KG,116KG,,,,,,,,,,,,,,,,148,70 - 79
-148,jack bradstreet & Harry Bradstreet,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,287KG,109KG,,,,,,,,,,,,,,,,148,
+148,jack bradstreet & Harry Bradstreet,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,287KG,109KG,,,,,,,,,,,,,,,,148,69 & under
 150,Ethan Greene & Cameron Sayer,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,290KG,105KG,,,,,,,,,,,,,,,,150,69 & under
 150,Robert Paterson & George Turner,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,280KG,115KG,,,,,,,,,,,,,,,,150,90 - 99
 150,Matthew Belot & Joe McKillion,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,290KG,105KG,,,,,,,,,,,,,,,,150,69 & under
@@ -32000,7 +32000,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 581,Alex Markham & Jamie Markham,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,230KG,85KG,,,,,,,,,,,,,,,,581,69 & under
 581,Rhys Betts & Chris Brady,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,255KG,60KG,,,,,,,,,,,,,,,,581,69 & under
 581,Nathan Morrison & Curtis Brown,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,220KG,95KG,,,,,,,,,,,,,,,,581,69 & under
-581,Abdi Ahmed & Saamir AL Naamani,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,230KG,85KG,,,,,,,,,,,,,,,,581,
+581,Abdi Ahmed & Saamir AL Naamani,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,230KG,85KG,,,,,,,,,,,,,,,,581,69 & under
 581,Jerome Vorster & Marc McClure,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,220KG,95KG,,,,,,,,,,,,,,,,581,80 - 89
 581,Luke Allwood & Paul Redman,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,215KG,100KG,,,,,,,,,,,,,,,,581,90 - 99
 581,Jonathan Mossop & Chris Lowe,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,240KG,75KG,,,,,,,,,,,,,,,,581,70 - 79
@@ -32067,7 +32067,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 655,Sam Holt & James Cullen,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,206KG,95KG,,,,,,,,,,,,,,,,655,70 - 79
 657,Mike Linger & William Brown,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,240KG,60KG,,,,,,,,,,,,,,,,657,70 - 79
 657,Jon Kay & Christian McCaffery,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,210KG,90KG,,,,,,,,,,,,,,,,657,69 & under
-657,Pete Berrett & Nathan Parkin,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,205KG,95KG,,,,,,,,,,,,,,,,657,
+657,Pete Berrett & Nathan Parkin,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,205KG,95KG,,,,,,,,,,,,,,,,657,69 & under
 657,Andrew Stephen & Ross Johnston,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,265KG,35KG,,,,,,,,,,,,,,,,657,69 & under
 657,Colin Young & Daniel Mitchell,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,220KG,80KG,,,,,,,,,,,,,,,,657,70 - 79
 657,Marlon Pinto & Brandon Sanchez,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,250KG,50KG,,,,,,,,,,,,,,,,657,69 & under
@@ -32202,7 +32202,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 785,Fin Girvan-Bryan & Andy Morfill,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,190KG,80KG,,,,,,,,,,,,,,,,785,69 & under
 785,Luke Cragg & Phillip Morton,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,230KG,40KG,,,,,,,,,,,,,,,,785,70 - 79
 785,Patrick O'Boyle & Brian Gordon,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX,Strength,,,,,,,,,200KG,70KG,,,,,,,,,,,,,,,,785,80 - 89
-785,Bob Gijsberts & Jonathan McKeith,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,200KG,70KG,,,,,,,,,,,,,,,,785,
+785,Bob Gijsberts & Jonathan McKeith,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,200KG,70KG,,,,,,,,,,,,,,,,785,90 - 99
 785,Ed Butler & Michael Butler,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,215KG,55KG,,,,,,,,,,,,,,,,785,70 - 79
 785,Adnan Taib & Christopher Wall,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,180KG,90KG,,,,,,,,,,,,,,,,785,69 & under
 785,Tobie kottman & Glyn Loveday,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,200KG,70KG,,,,,,,,,,,,,,,,785,100 - 109
@@ -32259,7 +32259,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 847,Stuart Murray & Angus Johnstone,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,240KG,1KG,,,,,,,,,,,,,,,,847,69 & under
 847,Arun Karra & Lampros Flouris,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,164KG,77KG,,,,,,,,,,,,,,,,847,70 - 79
 850,Mina Gadulla & Aaron Houlihan,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,180KG,60KG,,,,,,,,,,,,,,,,850,69 & under
-850,Tom Roundhill & Sam Fenton,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,170KG,70KG,,,,,,,,,,,,,,,,850,
+850,Tom Roundhill & Sam Fenton,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,170KG,70KG,,,,,,,,,,,,,,,,850,69 & under
 850,Leon Bell & william hodgkinson,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,180KG,60KG,,,,,,,,,,,,,,,,850,69 & under
 850,Paul Simmons & Craig Windsor,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,160KG,80KG,,,,,,,,,,,,,,,,850,100 - 109
 850,Jak Heer & Reece Pawsey,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,Strength,,,,,,,,,180KG,60KG,,,,,,,,,,,,,,,,850,69 & under
@@ -33426,7 +33426,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 254,Jake Wood & Matthew Armstrong,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:27,,,,,,,,,,,,,,,,,,,,,,,254,70 - 79
 254,Jake Wood & Brett Peel,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:27,,,,,,,,,,,,,,,,,,,,,,,254,70 - 79
 256,Jon Kay & Christian McCaffery,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:28,,,,,,,,,,,,,,,,,,,,,,,256,69 & under
-256,Pete Berrett & Nathan Parkin,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:28,,,,,,,,,,,,,,,,,,,,,,,256,
+256,Pete Berrett & Nathan Parkin,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:28,,,,,,,,,,,,,,,,,,,,,,,256,69 & under
 256,Sean McKirdy & Nathan Donnelly-Kay,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:28,,,,,,,,,,,,,,,,,,,,,,,256,69 & under
 256,Grant Bryant & Robert Evans,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:28,,,,,,,,,,,,,,,,,,,,,,,256,70 - 79
 256,David Long & Christian Lester,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:28,,,,,,,,,,,,,,,,,,,,,,,256,90 - 99
@@ -33445,12 +33445,12 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 273,Matthew Belot & Joe McKillion,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:38,,,,,,,,,,,,,,,,,,,,,,,273,69 & under
 274,James Exley & Euan McPherson,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:39,,,,,,,,,,,,,,,,,,,,,,,274,69 & under
 274,Joe Raymond & Daniel Raymond,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:39,,,,,,,,,,,,,,,,,,,,,,,274,69 & under
-276,Rob Beale & Joe Thornton,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:40,,,,,,,,,,,,,,,,,,,,,,,276,
+276,Rob Beale & Joe Thornton,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:40,,,,,,,,,,,,,,,,,,,,,,,276,90 - 99
 276,Ryan Byrne & Richard Daniels,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:40,,,,,,,,,,,,,,,,,,,,,,,276,69 & under
 276,richard wild & Scott Firth,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:40,,,,,,,,,,,,,,,,,,,,,,,276,70 - 79
 279,Gary Sharlott & Keith Garner,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:41,,,,,,,,,,,,,,,,,,,,,,,279,90 - 99
 280,Richard Bennett & Ross Baker,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:42,,,,,,,,,,,,,,,,,,,,,,,280,70 - 79
-280,jack bradstreet & Harry Bradstreet,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:42,,,,,,,,,,,,,,,,,,,,,,,280,
+280,jack bradstreet & Harry Bradstreet,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:42,,,,,,,,,,,,,,,,,,,,,,,280,69 & under
 282,Richard Moore & Trevor Draper,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:43,,,,,,,,,,,,,,,,,,,,,,,282,70 - 79
 282,Joshua Janes & Donald Mandebvu,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:43,,,,,,,,,,,,,,,,,,,,,,,282,69 & under
 284,Will Francis & Dan Ayre,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,14:45,,,,,,,,,,,,,,,,,,,,,,,284,69 & under
@@ -33582,7 +33582,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 410,Jamie Russell & Jon Hammerman,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:56,,,,,,,,,,,,,,,,,,,,,,,410,80 - 89
 411,Jack Duff & Daniel Gilchrist,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:57,,,,,,,,,,,,,,,,,,,,,,,411,69 & under
 412,Callum Davies & nathan john,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,412,69 & under
-412,Abdi Ahmed & Saamir AL Naamani,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,412,
+412,Abdi Ahmed & Saamir AL Naamani,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,412,69 & under
 412,Ryan coyle & Jake Butler,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,412,69 & under
 415,matt canavan & Sean Louw,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:00,,,,,,,,,,,,,,,,,,,,,,,415,80 - 89
 415,Tristan King & Tom Rees,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,16:00,,,,,,,,,,,,,,,,,,,,,,,415,69 & under
@@ -33981,7 +33981,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 809,James Williams & Kio Apaloo,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:22,,,,,,,,,,,,,,,,,,,,,,,809,70 - 79
 809,Matias Sanchez & Tomas Arruabarrena,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:22,,,,,,,,,,,,,,,,,,,,,,,809,69 & under
 811,Thomas Willetts & Hardip Rindi,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:25,,,,,,,,,,,,,,,,,,,,,,,811,69 & under
-811,Billy Anderson & Dean Muir,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:25,,,,,,,,,,,,,,,,,,,,,,,811,
+811,Billy Anderson & Dean Muir,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:25,,,,,,,,,,,,,,,,,,,,,,,811,69 & under
 811,Callum Gee & Alex Shaw,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:25,,,,,,,,,,,,,,,,,,,,,,,811,69 & under
 814,junaid dar & Jason Holder,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:31,,,,,,,,,,,,,,,,,,,,,,,814,69 & under
 815,Michael Lees & Kyle Lees,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,22:39,,,,,,,,,,,,,,,,,,,,,,,815,69 & under
@@ -34027,7 +34027,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 855,Darren Canavan & Jordan Sterling,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:31,,,,,,,,,,,,,,,,,,,,,,,855,70 - 79
 856,Paul Simmons & Craig Windsor,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:32,,,,,,,,,,,,,,,,,,,,,,,856,100 - 109
 857,Simon Nash & Lewis Smith,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:33,,,,,,,,,,,,,,,,,,,,,,,857,90 - 99
-858,Tom Roundhill & Sam Fenton,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:37,,,,,,,,,,,,,,,,,,,,,,,858,
+858,Tom Roundhill & Sam Fenton,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:37,,,,,,,,,,,,,,,,,,,,,,,858,69 & under
 859,David Wallis & Anthony Reardon,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:38,,,,,,,,,,,,,,,,,,,,,,,859,Above 110
 860,Gage Cooper & Jordan Ede,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:39,,,,,,,,,,,,,,,,,,,,,,,860,69 & under
 861,Shaun Alley & Callum Mackenzie,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,25:49,,,,,,,,,,,,,,,,,,,,,,,861,69 & under
@@ -34039,7 +34039,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 867,Ben Lenehan & Matthew Shaw,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:02,,,,,,,,,,,,,,,,,,,,,,,867,70 - 79
 867,Daniel McCourt & Christian Greenlee,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:02,,,,,,,,,,,,,,,,,,,,,,,867,69 & under
 869,Tom Fuller & Todd Flanagan-jones,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:03,,,,,,,,,,,,,,,,,,,,,,,869,70 - 79
-870,Bob Gijsberts & Jonathan McKeith,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:05,,,,,,,,,,,,,,,,,,,,,,,870,
+870,Bob Gijsberts & Jonathan McKeith,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:05,,,,,,,,,,,,,,,,,,,,,,,870,90 - 99
 870,Adnan Taib & Christopher Wall,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:05,,,,,,,,,,,,,,,,,,,,,,,870,69 & under
 872,James Green & Martin Bateman,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:07,,,,,,,,,,,,,,,,,,,,,,,872,70 - 79
 873,Andy Peck & Dominic Peck,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX,MetCon X,,,26:08,,,,,,,,,,,,,,,,,,,,,,,873,70 - 79
@@ -35191,7 +35191,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 383,Amy Taggart & Jamie James,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,195KG,70KG,,,,,,,,,,,,,,,,383,80 - 89
 383,John Woollard & Layla Woollard,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,220KG,45KG,,,,,,,,,,,,,,,,383,70 - 79
 383,Georgia georgia.flynn12@hotmail.co.uk & Dean Gledhill,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,190KG,75KG,,,,,,,,,,,,,,,,383,69 & under
-383,Lauren Owen & Henry Cordall,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,195KG,70KG,,,,,,,,,,,,,,,,383,
+383,Lauren Owen & Henry Cordall,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,195KG,70KG,,,,,,,,,,,,,,,,383,69 & under
 383,Prash Amin & Katie Driver,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,195KG,70KG,,,,,,,,,,,,,,,,383,69 & under
 396,Bruno Offner & Joss Rein,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,180KG,84KG,,,,,,,,,,,,,,,,396,70 - 79
 396,Rebecca Green & Josh Moor,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,194KG,70KG,,,,,,,,,,,,,,,,396,69 & under
@@ -35344,7 +35344,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 532,Leanne Earlam & Mark Earlam,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,172KG,68KG,,,,,,,,,,,,,,,,532,80 - 89
 532,Max Cotterell-East & Andy Hancox,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,169KG,71KG,,,,,,,,,,,,,,,,532,Above 110
 532,Sara Smith & Paul Richards,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,170KG,70KG,,,,,,,,,,,,,,,,532,80 - 89
-547,Megan Harvey & Jonathan Evans,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,165KG,74KG,,,,,,,,,,,,,,,,547,
+547,Megan Harvey & Jonathan Evans,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,165KG,74KG,,,,,,,,,,,,,,,,547,69 & under
 547,sarah Bayley & Sam Powell,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,169KG,70KG,,,,,,,,,,,,,,,,547,70 - 79
 547,Zoe Garnham & Marius Chifan,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,157KG,82KG,,,,,,,,,,,,,,,,547,69 & under
 550,Lauren Ashdown & Jake Woolner,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,175KG,63KG,,,,,,,,,,,,,,,,550,70 - 79
@@ -35544,7 +35544,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 744,Barbara Jimenez & Jorge Garcia,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,106KG,46KG,,,,,,,,,,,,,,,,744,69 & under
 745,Lisa Ramsawak & Justin Adams,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,120KG,15KG,,,,,,,,,,,,,,,,745,90 - 99
 746,Mandy Cully & Cian Hyland,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Mixed,ATHX,Strength,,,,,,,,,85KG,40KG,,,,,,,,,,,,,,,,746,69 & under
-747,Andrew Holmes & Lianne Fletcher,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,0KG,0KG,,,,,,,,,,,,,,,,747,
+747,Andrew Holmes & Lianne Fletcher,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Strength,,,,,,,,,0KG,0KG,,,,,,,,,,,,,,,,747,80 - 89
 1,Fabian Eisenlauer & Jennifer Nikolaus,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX,Endurance,,,,,,,,,,,6.9KM,12.793KM,,,,,,,,,,,,,,1,69 & under
 2,Greg Foot & Katrin Hulme,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,5.975KM,13.263KM,,,,,,,,,,,,,,2,70 - 79
 3,Ray Bath & Jordan Bath,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,6.75KM,12.459KM,,,,,,,,,,,,,,3,69 & under
@@ -36153,7 +36153,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 606,Wendy Shepherd & Alan Jones,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.025KM,11.712KM,,,,,,,,,,,,,,606,90 - 99
 607,Adam O’Reilly & Sophia Kelleher,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.525KM,11.207KM,,,,,,,,,,,,,,607,69 & under
 608,Rebecca Green & Josh Moor,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.125KM,11.6KM,,,,,,,,,,,,,,608,69 & under
-609,Ross Farquhar & Courtney Cole Loconto,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.125KM,11.597KM,,,,,,,,,,,,,,609,
+609,Ross Farquhar & Courtney Cole Loconto,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.125KM,11.597KM,,,,,,,,,,,,,,609,80 - 89
 610,Chris Link & Jessica Link,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.15KM,11.565KM,,,,,,,,,,,,,,610,69 & under
 611,Carl Fisher & Anna Fisher,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.325KM,11.388KM,,,,,,,,,,,,,,611,90 - 99
 612,Zack Beattie & Anya anyatilley1110@gmail.com,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,Endurance,,,,,,,,,,,4.2KM,11.508KM,,,,,,,,,,,,,,612,69 & under
@@ -36296,7 +36296,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 5,Liz Morgan & Matt Williamson,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:11,,,,,,,,,,,,,,,,,,,,,,,5,69 & under
 5,Alix Andrews & Jerome Anyata,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:11,,,,,,,,,,,,,,,,,,,,,,,5,69 & under
 7,Lloyd d’Hotman de Villiers & Hannah Ledwold,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:15,,,,,,,,,,,,,,,,,,,,,,,7,69 & under
-7,Andrew Holmes & Lianne Fletcher,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:15,,,,,,,,,,,,,,,,,,,,,,,7,
+7,Andrew Holmes & Lianne Fletcher,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:15,,,,,,,,,,,,,,,,,,,,,,,7,80 - 89
 7,Andy Griffiths & Eva Carroll,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:15,,,,,,,,,,,,,,,,,,,,,,,7,69 & under
 10,Ilina Slaveykova & Sam Sterling,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:19,,,,,,,,,,,,,,,,,,,,,,,10,69 & under
 11,Claire Small & Ethan Greene,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,11:24,,,,,,,,,,,,,,,,,,,,,,,11,69 & under
@@ -36538,7 +36538,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 246,SILVIO MOLINARI & Carolina Iraci,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:11,,,,,,,,,,,,,,,,,,,,,,,246,80 - 89
 246,Kim Mansell & Courtney Smith,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:11,,,,,,,,,,,,,,,,,,,,,,,246,69 & under
 249,Chris Sumner-Smith & Jess Allen,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:12,,,,,,,,,,,,,,,,,,,,,,,249,69 & under
-249,Megan Harvey & Jonathan Evans,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:12,,,,,,,,,,,,,,,,,,,,,,,249,
+249,Megan Harvey & Jonathan Evans,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:12,,,,,,,,,,,,,,,,,,,,,,,249,69 & under
 251,Steven Jones & Alicia Adamson,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:14,,,,,,,,,,,,,,,,,,,,,,,251,69 & under
 251,Alex Board & Tarryn McKean,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:14,,,,,,,,,,,,,,,,,,,,,,,251,69 & under
 251,Steve Allison & Jodie Allison,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,15:14,,,,,,,,,,,,,,,,,,,,,,,251,70 - 79
@@ -36777,7 +36777,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 485,Callum McPartlin & Emily McPartlin,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:41,,,,,,,,,,,,,,,,,,,,,,,485,69 & under
 485,Helen Boffy & Tristan Hart,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:41,,,,,,,,,,,,,,,,,,,,,,,485,70 - 79
 488,James Mercer & Sapphire Smith,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:42,,,,,,,,,,,,,,,,,,,,,,,488,69 & under
-489,Lauren Owen & Henry Cordall,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:43,,,,,,,,,,,,,,,,,,,,,,,489,
+489,Lauren Owen & Henry Cordall,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:43,,,,,,,,,,,,,,,,,,,,,,,489,69 & under
 490,Frances Bingham & Tom Palin,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:44,,,,,,,,,,,,,,,,,,,,,,,490,69 & under
 490,Shannen Lois Thompson & Darren James,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:44,,,,,,,,,,,,,,,,,,,,,,,490,69 & under
 492,Steph Harber & Harvey Coombes,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,17:45,,,,,,,,,,,,,,,,,,,,,,,492,69 & under
@@ -36802,7 +36802,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 510,Anna Greco & Chris Williams,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:03,,,,,,,,,,,,,,,,,,,,,,,510,80 - 89
 512,Erin Grant & Robbie Siegel,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:04,,,,,,,,,,,,,,,,,,,,,,,512,69 & under
 513,Nasmeen Imran & Jordan McCabe,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:05,,,,,,,,,,,,,,,,,,,,,,,513,70 - 79
-513,Ross Farquhar & Courtney Cole Loconto,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:05,,,,,,,,,,,,,,,,,,,,,,,513,
+513,Ross Farquhar & Courtney Cole Loconto,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:05,,,,,,,,,,,,,,,,,,,,,,,513,80 - 89
 513,Kizzy Hunt & Leo McCourt,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:05,,,,,,,,,,,,,,,,,,,,,,,513,69 & under
 516,Alan Lee & Aldona Lee,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:06,,,,,,,,,,,,,,,,,,,,,,,516,80 - 89
 516,Josh Hutchinson & Abbie Randall,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX,MetCon X,,,18:06,,,,,,,,,,,,,,,,,,,,,,,516,69 & under
@@ -37428,7 +37428,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 96,Massimo De Lieto & Renato La Rana,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,250KG,110KG,,,70KG,,,,,,,,,,,,,96,80 - 89
 96,Maurits Schön & Chase Frankenfeld,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,250KG,110KG,,,70KG,,,,,,,,,,,,,96,69 & under
 96,Aaron OBrien & Erlandas Sablinskas,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,242KG,114KG,,,74KG,,,,,,,,,,,,,96,69 & under
-102,Julian Wienecke & Glen Faulconbridge,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,266KG,110KG,,,51KG,,,,,,,,,,,,,102,
+102,Julian Wienecke & Glen Faulconbridge,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,266KG,110KG,,,51KG,,,,,,,,,,,,,102,80 - 89
 102,Brendan Pearson & Tom Smith,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,Strength,,,,,,,,,265KG,100KG,,,62KG,,,,,,,,,,,,,102,69 & under
 104,Jacob Overgaard & Jesper Skov Christensen,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,245KG,108KG,,,73KG,,,,,,,,,,,,,104,70 - 79
 104,Cooper Marsh & Kevin Roevens,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,Strength,,,,,,,,,245KG,111KG,,,70KG,,,,,,,,,,,,,104,69 & under
@@ -37728,7 +37728,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 81,Tony Murphy & Connor Martin,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:48,,,,,,,,,,,,,,,,,,,,,,,81,69 & under
 83,Luka Špik & Windson Almeida Santos,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:51,,,,,,,,,,,,,,,,,,,,,,,83,80 - 89
 84,James McMillian & Keith Lawrence,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Pro,MetCon X,,,15:54,,,,,,,,,,,,,,,,,,,,,,,84,80 - 89
-85,Julian Wienecke & Glen Faulconbridge,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,85,
+85,Julian Wienecke & Glen Faulconbridge,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,85,80 - 89
 86,Mitchell Gates & Daniel Edmondson,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,16:00,,,,,,,,,,,,,,,,,,,,,,,86,70 - 79
 87,Chris Heron & Dean Walker,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,16:02,,,,,,,,,,,,,,,,,,,,,,,87,69 & under
 88,Barry Coombs & Rob Haselgrove,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Pro,MetCon X,,,16:07,,,,,,,,,,,,,,,,,,,,,,,88,80 - 89
@@ -38060,7 +38060,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 79,Scott Duncan & Keira Duncan,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.825KM,11.182KM,,,,,,,,,,,,,,79,70 - 79
 80,Ariane Vanco & Mohammad Haiqal,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.925KM,11.051KM,,,,,,,,,,,,,,80,69 & under
 81,Tracy Rider & Martyn Fallon,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.325KM,11.612KM,,,,,,,,,,,,,,81,70 - 79
-82,Claudia bickers & Mason Greig,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.925KM,10.952KM,,,,,,,,,,,,,,82,
+82,Claudia bickers & Mason Greig,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.925KM,10.952KM,,,,,,,,,,,,,,82,69 & under
 83,Dan Foreman & Danielle Sargent,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.55KM,11.272KM,,,,,,,,,,,,,,83,70 - 79
 84,Hannah Burns & Antoin Penrose,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.675KM,11.101KM,,,,,,,,,,,,,,84,69 & under
 85,Dana Manco Pau & Daniel Dacosta,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.975KM,10.78KM,,,,,,,,,,,,,,85,70 - 79
@@ -38068,8 +38068,8 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 87,Leroy Abrahams & pippa sparsis,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.25KM,11.321KM,,,,,,,,,,,,,,87,70 - 79
 88,Vanessa Herder & Robert Oneill,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.225KM,11.299KM,,,,,,,,,,,,,,88,80 - 89
 89,Luis Queiros & Maria José Silva,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,4.45KM,10.977KM,,,,,,,,,,,,,,89,80 - 89
-90,Aileen McCann & Baz gouldsbury,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,0KM,0KM,,,,,,,,,,,,,,90,
-1,Aileen McCann & Baz gouldsbury,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,04:50,,,,,,,,,,,,,,,,,,,,,,,1,
+90,Aileen McCann & Baz gouldsbury,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,Endurance,,,,,,,,,,,0KM,0KM,,,,,,,,,,,,,,90,69 & under
+1,Aileen McCann & Baz gouldsbury,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,04:50,,,,,,,,,,,,,,,,,,,,,,,1,69 & under
 2,Chandler Smith & Jessie Smith,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,10:13,,,,,,,,,,,,,,,,,,,,,,,2,69 & under
 3,Chandler Smith & Jessie Smith,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,10:18,,,,,,,,,,,,,,,,,,,,,,,3,69 & under
 4,Reece Mitchell & Jade Mellor,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,10:52,,,,,,,,,,,,,,,,,,,,,,,4,69 & under
@@ -38130,7 +38130,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 59,Lisa Becker & Tilman Becker,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:35,,,,,,,,,,,,,,,,,,,,,,,59,69 & under
 60,Michael Stonley & Holly Richards,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,15:39,,,,,,,,,,,,,,,,,,,,,,,60,69 & under
 61,Matt Dewhurst & Charlie Dewhurst,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,15:40,,,,,,,,,,,,,,,,,,,,,,,61,69 & under
-62,Claudia bickers & Mason Greig,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,15:49,,,,,,,,,,,,,,,,,,,,,,,62,
+62,Claudia bickers & Mason Greig,ATHX LONDON 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,15:49,,,,,,,,,,,,,,,,,,,,,,,62,69 & under
 62,Reuben Fon-Lowe & Jacinda Brass,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:49,,,,,,,,,,,,,,,,,,,,,,,62,69 & under
 64,Vanessa Herder & Robert Oneill,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Mixed,ATHX Pro,MetCon X,,,15:54,,,,,,,,,,,,,,,,,,,,,,,64,80 - 89
 65,Carolin Sonnenschein & Gerrit Pfeil,ATHX BERLIN 2025,Germany 🇩🇪,2025,Mixed,ATHX Pro,MetCon X,,,15:58,,,,,,,,,,,,,,,,,,,,,,,65,69 & under
@@ -38473,7 +38473,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 155,Lauren Workman & Zoe Stevenson,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,Strength,,,,,,,,,70KG,20KG,,,,,,,,,,,,,,,,155,69 & under
 156,Maryna Werner & Ilona Lipovska,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Strength,,,,,,,,,38KG,30KG,,,,,,,,,,,,,,,,156,70 - 79
 157,Shelly Harrison & Sophie Harrison,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,Strength,,,,,,,,,25KG,35KG,,,,,,,,,,,,,,,,157,69 & under
-158,Caroline Freeman & Rowan Murphy,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,Strength,,,,,,,,,0KG,0KG,,,,,,,,,,,,,,,,158,
+158,Caroline Freeman & Rowan Murphy,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,Strength,,,,,,,,,0KG,0KG,,,,,,,,,,,,,,,,158,90 - 99
 1,Isa Braun & Vera Pöhl,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,Endurance,,,,,,,,,,,5.675KM,12.226KM,,,,,,,,,,,,,,1,70 - 79
 2,Isa Braun & Vera Pöhl,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,Endurance,,,,,,,,,,,5.775KM,11.913KM,,,,,,,,,,,,,,2,70 - 79
 3,Leah Hopton & Georgia Gray,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,Endurance,,,,,,,,,,,5.375KM,11.699KM,,,,,,,,,,,,,,3,69 & under
@@ -38655,7 +38655,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 21,Victoria Melluish & Jackie Price,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:00,,,,,,,,,,,,,,,,,,,,,,,21,80 - 89
 22,Victoria Crisp & Hazel Hartley,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:02,,,,,,,,,,,,,,,,,,,,,,,22,80 - 89
 23,Laura Berger & Andrea Sommer,ATHX BERLIN 2025,Germany 🇩🇪,2025,Female,ATHX Lite,MetCon X,,,16:06,,,,,,,,,,,,,,,,,,,,,,,23,69 & under
-24,Caroline Freeman & Rowan Murphy,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:07,,,,,,,,,,,,,,,,,,,,,,,24,
+24,Caroline Freeman & Rowan Murphy,ATHX CARDIFF 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:07,,,,,,,,,,,,,,,,,,,,,,,24,90 - 99
 25,Natalija Zake & Olivia Matthewson,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:08,,,,,,,,,,,,,,,,,,,,,,,25,70 - 79
 26,Jo McCULLOCH & Amanda Ayton,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:09,,,,,,,,,,,,,,,,,,,,,,,26,90 - 99
 27,Lara Squires & Cherie Sykes,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Female,ATHX Lite,MetCon X,,,16:13,,,,,,,,,,,,,,,,,,,,,,,27,80 - 89
@@ -38882,7 +38882,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 25,Daniel Fearn & Robert Balogh,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,200KG,83KG,,,,,,,,,,,,,,,,25,80 - 89
 26,Craig Munro & David Rascoe,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,190KG,90KG,,,,,,,,,,,,,,,,26,80 - 89
 27,Simon Stanaway & Matthew Buckley,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,205KG,73KG,,,,,,,,,,,,,,,,27,70 - 79
-28,Charlie Sparks & William McDonagh,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,230KG,47KG,,,,,,,,,,,,,,,,28,
+28,Charlie Sparks & William McDonagh,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,230KG,47KG,,,,,,,,,,,,,,,,28,69 & under
 29,Cameron Robinson & Liam Robinson,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,185KG,90KG,,,,,,,,,,,,,,,,29,69 & under
 30,Jim Downing & Liam Betney,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,195KG,78KG,,,,,,,,,,,,,,,,30,80 - 89
 31,Sean Brown & Adam Garioch,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,Strength,,,,,,,,,180KG,90KG,,,,,,,,,,,,,,,,31,70 - 79
@@ -39040,7 +39040,7 @@ rank,team_name,event,country,year,division,event_category,workout_filter,Strengt
 53,Devin Aksu & Daniel Galas,ATHX BERLIN 2025,Germany 🇩🇪,2025,Male,ATHX Lite,MetCon X,,,22:00,,,,,,,,,,,,,,,,,,,,,,,53,69 & under
 54,Martin Hurley & Marcus Lynch,ATHX DUBLIN 2025,Ireland 🇮🇪,2025,Male,ATHX Lite,MetCon X,,,22:12,,,,,,,,,,,,,,,,,,,,,,,54,100 - 109
 55,Hiten Joshi & Patrick Mcconnell,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,MetCon X,,,22:18,,,,,,,,,,,,,,,,,,,,,,,55,100 - 109
-56,Charlie Sparks & William McDonagh,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,MetCon X,,,22:27,,,,,,,,,,,,,,,,,,,,,,,56,
+56,Charlie Sparks & William McDonagh,ATHX BIRMINGHAM 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,MetCon X,,,22:27,,,,,,,,,,,,,,,,,,,,,,,56,69 & under
 57,David Lonsdale & Thomas Lonsdale,ATHX LIVERPOOL 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,MetCon X,,,22:47,,,,,,,,,,,,,,,,,,,,,,,57,100 - 109
 58,Lukas Matuzevicius & Daniel Tarbuck,ATHX FINALS 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,MetCon X,,,23:14,,,,,,,,,,,,,,,,,,,,,,,58,69 & under
 59,Craig Munro & David Rascoe,ATHX GLASGOW 2025,United Kingdom 🇬🇧,2025,Male,ATHX Lite,MetCon X,,,23:15,,,,,,,,,,,,,,,,,,,,,,,59,80 - 89
