@@ -21,7 +21,7 @@
     },
     {
       "year": 2026,
-      "events": 13
+      "events": 14
     }
   ],
   "countries_per_year": [
@@ -87,10 +87,10 @@
     },
     {
       "year": 2026,
-      "solo": 2903,
-      "team": 11048,
-      "both": 275,
-      "total": 13676
+      "solo": 3211,
+      "team": 12624,
+      "both": 358,
+      "total": 15477
     }
   ],
   "current_footprint": {
@@ -99,7 +99,7 @@
       {
         "country": "United Kingdom",
         "map_name": "United Kingdom",
-        "events": 3,
+        "events": 4,
         "cities": [
           {
             "name": "Birmingham",
@@ -110,12 +110,12 @@
             "status": "completed"
           },
           {
-            "name": "London",
+            "name": "Liverpool",
             "status": "completed"
           },
           {
-            "name": "Liverpool",
-            "status": "upcoming"
+            "name": "London",
+            "status": "completed"
           }
         ]
       },
@@ -263,10 +263,10 @@
   "comparison": {
     "athx": {
       "year": 2026,
-      "events": 13,
+      "events": 14,
       "countries": 8,
-      "participants": 13676,
-      "avg_participants_per_event": 1215.8
+      "participants": 15477,
+      "avg_participants_per_event": 1295.2
     },
     "hyrox": {
       "season_label": "2025-2026",
@@ -300,6 +300,10 @@
           "participants": 2410
         },
         {
+          "event": "ATHX LIVERPOOL 2026",
+          "participants": 2185
+        },
+        {
           "event": "ATHX LONDON 2026",
           "participants": 2048
         },
@@ -309,7 +313,7 @@
         },
         {
           "event": "ATHX MARSEILLE 2026",
-          "participants": 1131
+          "participants": 1194
         },
         {
           "event": "ATHX MUNICH 2026",
@@ -344,8 +348,8 @@
           "participants": 751
         }
       ],
-      "average": 1215.8,
-      "n_events": 12
+      "average": 1295.2,
+      "n_events": 13
     }
   }
 }
