@@ -45,33 +45,32 @@ export function countBetter(sortedAsc, value, direction) {
   return lo
 }
 
-// Classement OFFICIEL (10/10/2026) : sur athxgames.com, les Points de certains evenements sont
-// "figes" -- calcules contre une saison arretee a une date passee -- alors que les positions
-// par epreuve affichees sont, elles, recalculees en direct (cf. generate_simulation_data.py,
-// `frozen` / `event_cutoff`). Pour retomber sur le rang officiel d'un athlete ayant participe a
-// un tel evenement, ses Points doivent etre calcules contre cette meme population arretee.
-// Renvoie le champ tel quel si l'evenement n'est pas concerne (ou pas renseigne).
-export function officialField(field, eventKey) {
-  const cutoff = eventKey && field?.event_cutoff?.[eventKey]
-  const pointsField = cutoff ? field.frozen?.[cutoff] : null
-  return pointsField ? { ...field, pointsField } : field
+// Classement OFFICIEL (10-12/10/2026) : sur athxgames.com, les Points de certains evenements
+// sont "figes" -- calcules sur un etat passe de la saison -- alors que les positions par epreuve
+// affichees sont, elles, recalculees en direct. Les Points officiels d'un resultat reel ne sont
+// donc pas toujours la somme de ses 3 positions (cf. generate_simulation_data.py,
+// `official_rows` : [force, endurance, metcon, ecart de points]).
+// Plutot que de demander a l'utilisateur a quelle competition il a participe, on regarde si
+// ses 3 performances sont EXACTEMENT celles d'un resultat reel concerne : si oui, on applique
+// le meme ecart de points que le site (pointsOffset) et on retombe sur son rang officiel ;
+// sinon (performance hypothetique) le champ est renvoye tel quel.
+export function officialField(field, perf) {
+  const rows = field?.official_rows
+  if (!rows || !perf) return field
+  const hit = rows.find((r) => r[0] === perf.strength && Math.abs(r[1] - perf.endurance) < 1e-6 && r[2] === perf.metcon)
+  return hit ? { ...field, pointsOffset: hit[3] } : field
 }
 
 // perf = { strength, endurance, metcon } (valeurs brutes : KG total, KM total, secondes)
 export function simulateField(field, perf) {
   if (!field || field.n === 0) return null
-  // Positions par epreuve : toujours contre la saison entiere (ce que le site affiche).
+  // Positions par epreuve : contre la saison entiere (ce que le site affiche).
   const subrankStrength = 1 + countBetter(field.strength_raw, perf.strength, 'higher')
   const subrankEndurance = 1 + countBetter(field.endurance_raw, perf.endurance, 'higher')
   const subrankMetcon = 1 + countBetter(field.metcon_raw, perf.metcon, 'lower')
-  // Points : contre la population figee de l'evenement quand il y en a une (cf. officialField),
-  // sinon simplement la somme des 3 positions ci-dessus.
-  const pf = field.pointsField
-  const points = pf
-    ? 3 + countBetter(pf.strength_raw, perf.strength, 'higher')
-      + countBetter(pf.endurance_raw, perf.endurance, 'higher')
-      + countBetter(pf.metcon_raw, perf.metcon, 'lower')
-    : subrankStrength + subrankEndurance + subrankMetcon
+  // Points : somme des 3 positions, corrigee de l'ecart officiel quand il y en a un (cf.
+  // officialField). L'ecart est conserve tel quel dans les scenarios (+3%, marge d'erreur).
+  const points = subrankStrength + subrankEndurance + subrankMetcon + (field.pointsOffset || 0)
   const rank = 1 + countBetter(field.points, points, 'lower')
   const n = field.n
   return {

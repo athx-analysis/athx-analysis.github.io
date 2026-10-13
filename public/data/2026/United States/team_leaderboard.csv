@@ -1,277 +1,1145 @@
-rank,team_name,event,country,year,division,event_category,workout_filter,Strength,Endurance,MetCon X,1RM Strict Press,3RM Back Squat,5RM Deadlift,Run,Row,Points
-1,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,4 (440KG),2 (8.411KM),1 (15:14),,,,,,7
-1,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,1 (485KG),4 (8.208KM),2 (18:25),,,,,,7
-3,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,5 (413KG),1 (8.499KM),6 (20:00),,,,,,12
-4,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,3 (441KG),5 (8.129KM),4 (19:06),,,,,,12
-4,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,6 (379KG),3 (8.38KM),3 (18:33),,,,,,12
-6,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,2 (458KG),8 (7.766KM),8 (23:34),,,,,,18
-7,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,8 (329KG),6 (8.123KM),5 (19:45),,,,,,19
-8,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,7 (340KG),7 (7.818KM),7 (23:25),,,,,,21
-1,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,75KG,190KG,220KG,,,1
-2,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,75KG,163KG,220KG,,,2
-3,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,73KG,173KG,195KG,,,3
-4,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,90KG,155KG,195KG,,,4
-5,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,73KG,150KG,190KG,,,5
-6,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,83KG,128KG,168KG,,,6
-7,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,70KG,110KG,160KG,,,7
-8,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,,,,80KG,105KG,144KG,,,8
-1,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.262KM,4.237KM,1
-2,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.661KM,2
-3,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.046KM,4.334KM,3
-4,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.768KM,4.44KM,4
-5,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.379KM,5
-6,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.919KM,4.204KM,6
-7,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.068KM,7
-8,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.517KM,4.249KM,8
-1,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,15:14,,,,,,1
-2,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,18:25,,,,,,2
-3,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,18:33,,,,,,3
-4,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,19:06,,,,,,4
-5,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,19:45,,,,,,5
-6,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,20:00,,,,,,6
-7,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,23:25,,,,,,7
-8,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,23:34,,,,,,8
-1,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,1 (721KG),2 (9.625KM),1 (14:27),,,,,,4
-2,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,2 (660KG),1 (9.727KM),2 (16:29),,,,,,5
-3,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,3 (643KG),3 (9.164KM),3 (16:34),,,,,,9
-4,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,5 (546KG),4 (9.137KM),4 (17:30),,,,,,13
-5,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,4 (585KG),5 (9.081KM),5 (17:57),,,,,,14
-6,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,7 (446KG),8 (7.778KM),6 (18:20),,,,,,21
-6,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,8 (359KG),6 (8.607KM),7 (20:20),,,,,,21
-6,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,6 (522KG),7 (8.315KM),8 (25:12),,,,,,21
-1,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,130KG,253KG,338KG,,,1
-2,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,130KG,230KG,300KG,,,2
-3,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,113KG,230KG,300KG,,,3
-4,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,110KG,225KG,250KG,,,4
-5,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,98KG,195KG,253KG,,,5
-6,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,84KG,188KG,250KG,,,6
-7,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,66KG,160KG,220KG,,,7
-8,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,,,,68KG,138KG,153KG,,,8
-1,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.464KM,5.263KM,1
-2,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.161KM,5.464KM,2
-3,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4KM,5.164KM,3
-4,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.012KM,5.125KM,4
-5,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.259KM,4.822KM,5
-6,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.25KM,4.357KM,6
-7,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.297KM,5.018KM,7
-8,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.85KM,3.928KM,8
-1,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,1 (995KG),2 (9.982KM),1 (13:30),,,,,,4
-2,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,2 (890KG),4 (9.719KM),4 (14:03),,,,,,10
-3,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,8 (650KG),1 (9.995KM),6 (14:31),,,,,,15
-4,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,3 (822KG),10 (9.394KM),2 (13:47),,,,,,15
-5,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,6 (710KG),6 (9.55KM),3 (13:48),,,,,,15
-6,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,7 (675KG),5 (9.715KM),8 (16:05),,,,,,20
-7,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,11 (625KG),3 (9.802KM),11 (18:21),,,,,,25
-7,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,9 (645KG),9 (9.465KM),7 (15:46),,,,,,25
-9,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,4 (790KG),12 (9.073KM),10 (17:12),,,,,,26
-10,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,14 (610KG),7 (9.513KM),9 (16:07),,,,,,30
-11,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,15 (598KG),14 (9.059KM),5 (14:08),,,,,,34
-11,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,5 (725KG),16 (8.25KM),13 (18:54),,,,,,34
-13,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,17 (540KG),8 (9.487KM),12 (18:32),,,,,,37
-14,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,12 (620KG),11 (9.155KM),15 (19:54),,,,,,38
-15,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,12 (620KG),15 (8.588KM),14 (19:19),,,,,,41
-16,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,10 (635KG),17 (7.907KM),17 (25:13),,,,,,44
-17,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,16 (565KG),13 (9.063KM),16 (20:04),,,,,,45
-1,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,14:27,,,,,,1
-2,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,16:29,,,,,,2
-3,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,16:34,,,,,,3
-4,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,17:30,,,,,,4
-5,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,17:57,,,,,,5
-6,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,18:20,,,,,,6
-7,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,20:20,,,,,,7
-8,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,25:12,,,,,,8
-1,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,195KG,380KG,420KG,,,1
-2,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,170KG,340KG,380KG,,,2
-3,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,120KG,320KG,382KG,,,3
-4,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,150KG,300KG,340KG,,,4
-5,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,80KG,305KG,340KG,,,5
-6,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,135KG,250KG,325KG,,,6
-7,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,160KG,220KG,295KG,,,7
-8,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,120KG,240KG,290KG,,,8
-9,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,130KG,205KG,310KG,,,9
-10,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,135KG,240KG,260KG,,,10
-11,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,125KG,200KG,300KG,,,11
-12,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,120KG,220KG,280KG,,,12
-12,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,120KG,220KG,280KG,,,12
-14,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,130KG,220KG,260KG,,,14
-15,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,153KG,145KG,300KG,,,15
-16,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,125KG,240KG,200KG,,,16
-17,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,,,,120KG,220KG,200KG,,,17
-1,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.495KM,1
-2,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.264KM,5.718KM,2
-3,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.538KM,5.264KM,3
-4,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.096KM,5.623KM,4
-5,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.105KM,5.61KM,5
-6,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.283KM,5.267KM,6
-7,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.136KM,5.377KM,7
-8,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.25KM,5.237KM,8
-9,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.335KM,5.13KM,9
-10,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.87KM,5.524KM,10
-11,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.306KM,4.849KM,11
-12,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.12KM,4.953KM,12
-13,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.365KM,4.698KM,13
-14,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.965KM,5.094KM,14
-15,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.048KM,4.54KM,15
-16,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.646KM,4.604KM,16
-17,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.825KM,4.082KM,17
-1,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,13:30,,,,,,1
-2,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,13:47,,,,,,2
-3,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,13:48,,,,,,3
-4,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,14:03,,,,,,4
-5,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,14:08,,,,,,5
-6,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,14:31,,,,,,6
-7,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,15:46,,,,,,7
-8,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,16:05,,,,,,8
-9,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,16:07,,,,,,9
-10,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,17:12,,,,,,10
-11,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,18:21,,,,,,11
-12,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,18:32,,,,,,12
-13,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,18:54,,,,,,13
-14,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,19:19,,,,,,14
-15,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,19:54,,,,,,15
-16,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,20:04,,,,,,16
-17,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,25:13,,,,,,17
-1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,1 (970KG),1 (11.115KM),1 (12:04),,,,,,3
-2,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,3 (905KG),2 (10.652KM),3 (15:27),,,,,,8
-3,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,2 (960KG),5 (10.211KM),2 (13:25),,,,,,9
-4,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,7 (760KG),3 (10.65KM),4 (16:03),,,,,,14
-5,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,6 (831KG),4 (10.289KM),5 (16:24),,,,,,15
-6,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,5 (835KG),6 (9.53KM),6 (17:59),,,,,,17
-7,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,4 (890KG),7 (9.337KM),7 (19:53),,,,,,18
-8,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,8 (690KG),8 (8.599KM),8 (25:57),,,,,,24
-1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,170KG,370KG,430KG,,,1
-2,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,200KG,340KG,420KG,,,2
-3,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,185KG,320KG,400KG,,,3
-4,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,160KG,340KG,390KG,,,4
-5,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,165KG,310KG,360KG,,,5
-6,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,165KG,313KG,353KG,,,6
-7,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,160KG,280KG,320KG,,,7
-8,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,,,,130KG,270KG,290KG,,,8
-1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,12:04,,,,,,1
-2,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,13:25,,,,,,2
-3,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,15:27,,,,,,3
-4,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,16:03,,,,,,4
-5,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,16:24,,,,,,5
-6,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,17:59,,,,,,6
-7,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,19:53,,,,,,7
-8,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,25:57,,,,,,8
-1,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,1 (812KG),1 (11.082KM),1 (12:26),,,,,,3
-2,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,4 (665KG),2 (10.584KM),2 (13:15),,,,,,8
-3,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,2 (705KG),4 (9.626KM),4 (15:47),,,,,,10
-4,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,5 (625KG),3 (10.296KM),3 (15:41),,,,,,11
-5,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,6 (563KG),5 (9.184KM),5 (17:49),,,,,,16
-1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,5KM,6.115KM,1
-2,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.947KM,5.705KM,2
-3,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,5.02KM,5.63KM,3
-4,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.64KM,5.649KM,4
-5,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.488KM,5.723KM,5
-6,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.168KM,5.362KM,6
-7,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.128KM,5.209KM,7
-8,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,4.599KM,8
-1,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,2 (735KG),5 (8.985KM),4 (14:46),,,,,,11
-2,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,4 (668KG),4 (8.988KM),7 (15:34),,,,,,15
-3,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,12 (550KG),7 (8.804KM),3 (14:27),,,,,,22
-4,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,15 (542KG),3 (9.547KM),5 (14:55),,,,,,23
-4,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,3 (670KG),8 (8.767KM),12 (16:29),,,,,,23
-6,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,13 (546KG),6 (8.813KM),6 (15:26),,,,,,25
-7,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,9 (560KG),16 (8.321KM),2 (13:39),,,,,,27
-8,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,19 (434KG),2 (9.677KM),8 (15:37),,,,,,29
-9,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,8 (563KG),9 (8.695KM),13 (16:30),,,,,,30
-10,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,10 (555KG),21 (7KM),1 (13:20),,,,,,32
-11,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,23 (287KG),1 (9.685KM),9 (16:15),,,,,,33
-12,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,5 (651KG),12 (8.525KM),17 (17:48),,,,,,34
-13,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,11 (551KG),10 (8.665KM),14 (16:46),,,,,,35
-14,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,1 (770KG),17 (7.943KM),20 (21:58),,,,,,38
-15,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,6 (588KG),15 (8.393KM),18 (20:16),,,,,,39
-15,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,17 (513KG),11 (8.615KM),11 (16:19),,,,,,39
-17,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,14 (543KG),13 (8.492KM),16 (17:27),,,,,,43
-18,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,16 (540KG),14 (8.464KM),15 (16:51),,,,,,45
-19,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,18 (510KG),18 (7.887KM),10 (16:16),,,,,,46
-20,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,7 (570KG),19 (7.542KM),21 (24:32),,,,,,47
-21,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,20 (425KG),20 (7.429KM),22 (24:53),,,,,,62
-22,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,22 (345KG),22 (6.423KM),23 (25:48),,,,,,67
-1,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,5.285KM,5.797KM,1
-2,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,5.28KM,5.304KM,2
-3,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.589KM,5.707KM,3
-4,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.421KM,5.205KM,4
-5,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.419KM,4.765KM,5
-1,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,152KG,320KG,340KG,,,1
-2,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,125KG,270KG,310KG,,,2
-3,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,115KG,290KG,285KG,,,3
-4,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,135KG,220KG,310KG,,,4
-5,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,115KG,240KG,270KG,,,5
-6,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,,,,108KG,205KG,250KG,,,6
-1,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,12:26,,,,,,1
-2,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,13:15,,,,,,2
-3,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,15:41,,,,,,3
-4,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,15:47,,,,,,4
-5,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,17:49,,,,,,5
-6,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,20:39,,,,,,6
-1,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,150KG,280KG,340KG,,,1
-2,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,135KG,260KG,340KG,,,2
-3,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,120KG,260KG,290KG,,,3
-4,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,138KG,250KG,280KG,,,4
-5,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,115KG,240KG,296KG,,,5
-6,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,110KG,203KG,275KG,,,6
-7,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,120KG,210KG,240KG,,,7
-8,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,108KG,190KG,265KG,,,8
-9,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,110KG,200KG,250KG,,,9
-10,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,110KG,195KG,250KG,,,10
-11,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,108KG,198KG,245KG,,,11
-12,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,90KG,230KG,230KG,,,12
-13,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,101KG,205KG,240KG,,,13
-14,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,93KG,200KG,250KG,,,14
-15,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,92KG,200KG,250KG,,,15
-16,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,105KG,190KG,245KG,,,16
-17,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,113KG,190KG,210KG,,,17
-18,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,120KG,160KG,230KG,,,18
-19,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,85KG,173KG,176KG,,,19
-20,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,85KG,170KG,170KG,,,20
-21,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,95KG,155KG,170KG,,,21
-22,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,75KG,130KG,140KG,,,22
-23,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,,,,67KG,95KG,125KG,,,23
+rank,team_name,event,country,year,division,event_category,workout_filter,1RM Strict Press,3RM Back Squat,5RM Deadlift,MetCon X,Strength,Endurance,Run,Row,Points
+1,Norma Arias & Hazel Rodriguez-Vazquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,67KG,165KG,200KG,,,,,,1
+2,Vianny Ramirez & Wendy Robles,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,77KG,145KG,187KG,,,,,,2
+3,Soshill Gonzalez & Chrissie Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,68KG,152KG,172KG,,,,,,3
+4,Stephany Gonzales & Alejandra Tejeda,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,69KG,138KG,182KG,,,,,,4
+5,Patricia Canchica & Jennifer Garces,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,62KG,155KG,165KG,,,,,,5
+6,Adriana Santizo & Ana Santizo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,70KG,137KG,173KG,,,,,,6
+7,ingrid Troche & Jany Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,65KG,145KG,165KG,,,,,,7
+8,Astrid Alonzo & Andrea Marroquin,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,56KG,140KG,164KG,,,,,,8
+9,Carla Magallanes & Desiree Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,70KG,120KG,165KG,,,,,,9
+10,Camila Jimenez & Andreina Gallardo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,70KG,142KG,142KG,,,,,,10
+11,Giuliana Orihuela & Lucy Grillet,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,81KG,121KG,151KG,,,,,,11
+11,Trisha Lampi & Amanda Tippett,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,65KG,133KG,155KG,,,,,,11
+13,Dachel Carreno & Magaly Estupinan,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,60KG,140KG,150KG,,,,,,13
+14,Francesca D'Orso & Massiel Farinas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,67KG,130KG,147KG,,,,,,14
+15,stephanie guevara & Milagro Moreno,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,57KG,120KG,165KG,,,,,,15
+16,Angela Fonseca & melanie ramirez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,67KG,131KG,142KG,,,,,,16
+17,Keyberling  Sanoja  & Yuxiana Soto,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,46KG,143KG,143KG,,,,,,17
+18,Sarah Nissim & Veronica Laguna,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,61KG,96KG,163KG,,,,,,18
+19,Alessandra Gutierrez & Lisette Montoya,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,63KG,115KG,128KG,,,,,,19
+20,Tina Dale & Amanda Wendel,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,63KG,95KG,147KG,,,,,,20
+20,Karellys Araque  & Cami Hadden,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,63KG,87KG,155KG,,,,,,20
+22,Selva Portales & Samantha Daher,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,46KG,118KG,118KG,,,,,,22
+23,Patricia Bavaresco & Brenda Diez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,62KG,90KG,115KG,,,,,,23
+24,Erika Ruiz & Margarita Franco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Strength,56KG,90KG,104KG,,,,,,24
+1,Patricia Canchica & Jennifer Garces,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,13:36,,,,,1
+2,Trisha Lampi & Amanda Tippett,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,13:42,,,,,2
+3,Vianny Ramirez & Wendy Robles,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,15:11,,,,,3
+4,Francesca D'Orso & Massiel Farinas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,15:26,,,,,4
+5,Angela Fonseca & melanie ramirez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,15:34,,,,,5
+6,Giuliana Orihuela & Lucy Grillet,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,17:03,,,,,6
+7,Norma Arias & Hazel Rodriguez-Vazquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,17:05,,,,,7
+8,Carla Magallanes & Desiree Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,17:13,,,,,8
+8,Sarah Nissim & Veronica Laguna,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,17:13,,,,,8
+10,Karellys Araque  & Cami Hadden,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,17:30,,,,,10
+11,Tina Dale & Amanda Wendel,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,17:47,,,,,11
+12,Stephany Gonzales & Alejandra Tejeda,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,18:09,,,,,12
+13,Astrid Alonzo & Andrea Marroquin,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,18:17,,,,,13
+14,Soshill Gonzalez & Chrissie Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,18:25,,,,,14
+15,stephanie guevara & Milagro Moreno,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,18:32,,,,,15
+16,Erika Ruiz & Margarita Franco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,19:06,,,,,16
+17,Camila Jimenez & Andreina Gallardo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,19:54,,,,,17
+18,Dachel Carreno & Magaly Estupinan,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,20:04,,,,,18
+19,Adriana Santizo & Ana Santizo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,20:16,,,,,19
+20,ingrid Troche & Jany Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,21:13,,,,,20
+21,Patricia Bavaresco & Brenda Diez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,21:17,,,,,21
+22,Alessandra Gutierrez & Lisette Montoya,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,22:07,,,,,22
+23,Selva Portales & Samantha Daher,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,23:31,,,,,23
+24,Keyberling  Sanoja  & Yuxiana Soto,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,MetCon X,,,,25:02,,,,,24
+1,Humberto Vargas & Ruperto Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,200KG,380KG,400KG,,,,,,1
+2,Tochukwu Ezeaba & malek aladi,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,145KG,270KG,330KG,,,,,,2
+3,Olis Angulo & Gianfranco Renzulli,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,150KG,240KG,320KG,,,,,,3
+4,Juan Lozano & Roque Cedeno,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,130KG,220KG,340KG,,,,,,4
+5,Douglas Sierra & David Graffe,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,145KG,220KG,320KG,,,,,,5
+6,Mark Hartnett-Morgan & Daniel Ecarri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,125KG,220KG,295KG,,,,,,6
+7,Matthias Mora & Nickolas Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,112KG,240KG,250KG,,,,,,7
+8,Mario Gomez & Victor Machado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,120KG,200KG,250KG,,,,,,8
+8,Luis Delgado & Andrei   Traian Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,140KG,210KG,220KG,,,,,,8
+10,Carlos Herrera III & Adrian Herrera,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,125KG,200KG,230KG,,,,,,10
+11,Carlos Ferrer & Jasser Dorado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,115KG,205KG,220KG,,,,,,11
+12,Pablo Garcia & Andres Tejada,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,110KG,185KG,210KG,,,,,,12
+13,Kevin Krueger & Ronnie G Eith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Strength,60KG,80KG,80KG,,,,,,13
+1,pablo medeiros & Joey Medeiros,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,125KG,293KG,250KG,,,,,,1
+2,Marco Ollarves & Valeria De Sousa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,94KG,220KG,278KG,,,,,,2
+3,Alex Carrion & Shannon Laughlin,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,104KG,197KG,240KG,,,,,,3
+4,Kimberly Jung & Alex Wiltschko,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,98KG,192KG,227KG,,,,,,4
+5,Marissa Kobayashi & Ben Widlanski,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,122KG,177KG,210KG,,,,,,5
+6,Hannah Abraham & Joshua Abraham,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,102KG,185KG,200KG,,,,,,6
+7,Katharina Karolina Bissoon & Stephen Bissoon,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,92KG,170KG,190KG,,,,,,7
+8,paula vargas & Emanuel Barrientos,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,82KG,160KG,197KG,,,,,,8
+9,Melissa Gutierrez & Jason Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,100KG,125KG,175KG,,,,,,9
+10,Kenneth Stephens & Khadijah Nicole Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Strength,31KG,150KG,205KG,,,,,,10
+1,Juan Lozano & Roque Cedeno,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,11:23,,,,,1
+2,Mark Hartnett-Morgan & Daniel Ecarri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,11:32,,,,,2
+3,Matthias Mora & Nickolas Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,11:37,,,,,3
+4,Humberto Vargas & Ruperto Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,11:51,,,,,4
+5,Carlos Herrera III & Adrian Herrera,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,12:23,,,,,5
+6,Tochukwu Ezeaba & malek aladi,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,12:42,,,,,6
+7,Mario Gomez & Victor Machado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,13:19,,,,,7
+8,Pablo Garcia & Andres Tejada,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,13:54,,,,,8
+9,Carlos Ferrer & Jasser Dorado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,14:08,,,,,9
+10,Olis Angulo & Gianfranco Renzulli,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,14:26,,,,,10
+11,Luis Delgado & Andrei   Traian Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,14:58,,,,,11
+12,Douglas Sierra & David Graffe,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,19:12,,,,,12
+13,Kevin Krueger & Ronnie G Eith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,MetCon X,,,,24:14,,,,,13
+1,Marco Ollarves & Valeria De Sousa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,12:33,,,,,1
+2,pablo medeiros & Joey Medeiros,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,13:38,,,,,2
+3,Marissa Kobayashi & Ben Widlanski,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,14:20,,,,,3
+4,Alex Carrion & Shannon Laughlin,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,14:34,,,,,4
+5,Kimberly Jung & Alex Wiltschko,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,14:52,,,,,5
+6,Melissa Gutierrez & Jason Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,16:38,,,,,6
+7,Katharina Karolina Bissoon & Stephen Bissoon,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,16:50,,,,,7
+8,paula vargas & Emanuel Barrientos,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,17:00,,,,,8
+9,Hannah Abraham & Joshua Abraham,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,19:54,,,,,9
+10,Kenneth Stephens & Khadijah Nicole Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,MetCon X,,,,25:00,,,,,10
+1,Kayleigh Walsh & Jamie McElwain,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,92KG,229KG,264KG,,,,,,1
+2,Patricia Gutierrez & Angelina Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,98KG,225KG,252KG,,,,,,2
+3,Lulu Ruiz & Alejandra Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,96KG,195KG,252KG,,,,,,3
+4,Monica Wu & Yin C.,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,82KG,220KG,236KG,,,,,,4
+5,Jaclyn Joyce & devin leishman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,89KG,175KG,272KG,,,,,,5
+6,Chloeane Vico & Alyssa Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,97KG,175KG,255KG,,,,,,6
+7,Alexis Pérez & Angie Escalona,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,110KG,180KG,220KG,,,,,,7
+8,Lindsay Jordan & Noah Duff,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,92KG,189KG,225KG,,,,,,8
+9,Marissa Dietz & Yams Gorrie,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,77KG,190KG,225KG,,,,,,9
+10,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,75KG,190KG,220KG,,,,,,10
+11,Amanda Carvajal & Jessica Alimena,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,90KG,180KG,210KG,,,,,,11
+12,Sara Sullivan & Veruschka Zachtshinsky,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,84KG,184KG,200KG,,,,,,12
+13,Mariah Monahan & Lucie Castagne,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,100KG,170KG,195KG,,,,,,13
+14,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,75KG,163KG,220KG,,,,,,14
+15,Luciana Cantor & Fabianna Cova,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,83KG,182KG,190KG,,,,,,15
+15,Maria Manrique & Marcela Munoz,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,80KG,167KG,208KG,,,,,,15
+17,Ana Maria Kausel & Edith Cuevas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,68KG,157KG,220KG,,,,,,17
+18,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,73KG,173KG,195KG,,,,,,18
+19,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,90KG,155KG,195KG,,,,,,19
+19,Caitlin Donahue & Kaya Barker,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,70KG,160KG,210KG,,,,,,19
+21,Katherine Ramirez & Natalia Castano,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,77KG,145KG,217KG,,,,,,21
+22,Tania Rivera & Stephanie Greco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,81KG,165KG,190KG,,,,,,22
+23,Ritzabeth Castillo & Rosario Sagastizado,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,75KG,170KG,190KG,,,,,,23
+24,Jaedyn Carty & Amy White,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,79KG,167KG,185KG,,,,,,24
+25,Kumiko Takada & Francys Quintanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,74KG,170KG,175KG,,,,,,25
+26,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,73KG,150KG,190KG,,,,,,26
+27,Maite Chirino & Sandra Aboulhosn,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,56KG,175KG,180KG,,,,,,27
+28,Shelsie Amargos & Naifer Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,75KG,150KG,185KG,,,,,,28
+29,Pamella Domingues & Andreza Ribeiro,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,80KG,130KG,183KG,,,,,,29
+30,Abby Adams & Cassie Peppe,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,72KG,150KG,169KG,,,,,,30
+31,SAM ORTIZ & Marcy Fontora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,84KG,120KG,184KG,,,,,,31
+32,Chloe Foley & Paris Ammari,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,72KG,120KG,188KG,,,,,,32
+32,Martina Mainini & micaela montarce,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,75KG,140KG,165KG,,,,,,32
+34,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,83KG,128KG,168KG,,,,,,34
+34,Jessica Palomeque & Maria Gabriela Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,69KG,150KG,160KG,,,,,,34
+36,Caroline Yepes & Valentina Guzman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,66KG,140KG,165KG,,,,,,36
+37,Pretika Randhawa & Nikesha Worrell,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,78KG,125KG,155KG,,,,,,37
+38,Ariana Alvarez & Natalia Pinzon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,61KG,130KG,160KG,,,,,,38
+39,Natalia Duran & Valeria Jiménez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,71KG,113KG,165KG,,,,,,39
+40,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,70KG,110KG,160KG,,,,,,40
+41,Eleonora Marquez & Sabrina Musso,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,97KG,100KG,140KG,,,,,,41
+42,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Strength,80KG,105KG,144KG,,,,,,42
+43,Nicole Gutierrez & Maria Alvarez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Strength,54KG,120KG,137KG,,,,,,43
+1,Kayleigh Walsh & Jamie McElwain,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,13:25,,,,,1
+2,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,15:14,,,,,2
+3,Mariah Monahan & Lucie Castagne,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:02,,,,,3
+4,Marissa Dietz & Yams Gorrie,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:04,,,,,4
+5,Lulu Ruiz & Alejandra Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:08,,,,,5
+6,Monica Wu & Yin C.,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:11,,,,,6
+7,Chloeane Vico & Alyssa Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:29,,,,,7
+8,Luciana Cantor & Fabianna Cova,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:33,,,,,8
+9,Patricia Gutierrez & Angelina Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:38,,,,,9
+10,Jaclyn Joyce & devin leishman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:51,,,,,10
+10,Lindsay Jordan & Noah Duff,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:51,,,,,10
+12,Abby Adams & Cassie Peppe,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,16:57,,,,,12
+13,Caitlin Donahue & Kaya Barker,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,17:00,,,,,13
+14,Sara Sullivan & Veruschka Zachtshinsky,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,17:35,,,,,14
+15,Maria Manrique & Marcela Munoz,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:19,,,,,15
+16,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:25,,,,,16
+17,Chloe Foley & Paris Ammari,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:27,,,,,17
+18,Alexis Pérez & Angie Escalona,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:29,,,,,18
+19,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:33,,,,,19
+20,Martina Mainini & micaela montarce,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:34,,,,,20
+21,Maite Chirino & Sandra Aboulhosn,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:47,,,,,21
+22,Pamella Domingues & Andreza Ribeiro,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,18:57,,,,,22
+23,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:06,,,,,23
+24,Tania Rivera & Stephanie Greco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:15,,,,,24
+25,Natalia Duran & Valeria Jiménez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:26,,,,,25
+26,Jessica Palomeque & Maria Gabriela Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:37,,,,,26
+27,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:45,,,,,27
+28,Kumiko Takada & Francys Quintanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:51,,,,,28
+29,Shelsie Amargos & Naifer Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,19:56,,,,,29
+30,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,20:00,,,,,30
+31,Pretika Randhawa & Nikesha Worrell,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,20:11,,,,,31
+32,Amanda Carvajal & Jessica Alimena,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,20:53,,,,,32
+33,Ana Maria Kausel & Edith Cuevas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,21:06,,,,,33
+34,Nicole Gutierrez & Maria Alvarez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,21:13,,,,,34
+35,Eleonora Marquez & Sabrina Musso,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,21:26,,,,,35
+36,Katherine Ramirez & Natalia Castano,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,21:43,,,,,36
+37,Jaedyn Carty & Amy White,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,21:44,,,,,37
+38,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,23:25,,,,,38
+39,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,23:34,,,,,39
+40,Ariana Alvarez & Natalia Pinzon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,24:02,,,,,40
+41,Caroline Yepes & Valentina Guzman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,25:03,,,,,41
+42,Ritzabeth Castillo & Rosario Sagastizado,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,25:05,,,,,42
+43,SAM ORTIZ & Marcy Fontora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,MetCon X,,,,25:28,,,,,43
+1,Vianny Ramirez & Wendy Robles,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,3 (15:11),2 (409KG),3 (8.078KM),,,8
+2,Patricia Canchica & Jennifer Garces,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,1 (13:36),5 (382KG),5 (7.769KM),,,11
+3,Trisha Lampi & Amanda Tippett,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,2 (13:42),11 (353KG),2 (8.109KM),,,15
+4,Carla Magallanes & Desiree Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,8 (17:13),9 (355KG),4 (7.936KM),,,21
+5,Angela Fonseca & melanie ramirez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,5 (15:34),16 (340KG),1 (8.155KM),,,22
+6,Norma Arias & Hazel Rodriguez-Vazquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,7 (17:05),1 (432KG),15 (7.109KM),,,23
+7,Stephany Gonzales & Alejandra Tejeda,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,12 (18:09),4 (389KG),9 (7.466KM),,,25
+7,Giuliana Orihuela & Lucy Grillet,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,6 (17:03),11 (353KG),8 (7.502KM),,,25
+7,Francesca D'Orso & Massiel Farinas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,4 (15:26),14 (344KG),7 (7.698KM),,,25
+10,Soshill Gonzalez & Chrissie Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,14 (18:25),3 (392KG),11 (7.405KM),,,28
+11,Astrid Alonzo & Andrea Marroquin,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,13 (18:17),8 (360KG),10 (7.434KM),,,31
+12,Karellys Araque  & Cami Hadden,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,10 (17:30),20 (305KG),6 (7.742KM),,,36
+13,Sarah Nissim & Veronica Laguna,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,8 (17:13),18 (320KG),12 (7.28KM),,,38
+14,Camila Jimenez & Andreina Gallardo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,17 (19:54),10 (354KG),13 (7.13KM),,,40
+15,Adriana Santizo & Ana Santizo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,19 (20:16),6 (380KG),16 (7.056KM),,,41
+16,ingrid Troche & Jany Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,20 (21:13),7 (375KG),17 (6.93KM),,,44
+17,Dachel Carreno & Magaly Estupinan,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,18 (20:04),13 (350KG),14 (7.111KM),,,45
+18,Tina Dale & Amanda Wendel,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,11 (17:47),20 (305KG),18 (6.855KM),,,49
+19,stephanie guevara & Milagro Moreno,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,15 (18:32),15 (342KG),21 (6.557KM),,,51
+20,Erika Ruiz & Margarita Franco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,16 (19:06),24 (250KG),20 (6.694KM),,,60
+21,Alessandra Gutierrez & Lisette Montoya,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,22 (22:07),19 (306KG),23 (6.374KM),,,64
+21,Selva Portales & Samantha Daher,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,23 (23:31),22 (282KG),19 (6.755KM),,,64
+23,Keyberling  Sanoja  & Yuxiana Soto,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,24 (25:02),17 (332KG),24 (6.365KM),,,65
+24,Patricia Bavaresco & Brenda Diez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Overall,,,,21 (21:17),23 (267KG),22 (6.553KM),,,66
+1,Angela Fonseca & melanie ramirez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.775KM,4.38KM,1
+2,Trisha Lampi & Amanda Tippett,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,4.609KM,2
+3,Vianny Ramirez & Wendy Robles,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,4.578KM,3
+4,Carla Magallanes & Desiree Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.418KM,4.518KM,4
+5,Patricia Canchica & Jennifer Garces,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,4.269KM,5
+6,Karellys Araque  & Cami Hadden,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.374KM,4.368KM,6
+7,Francesca D'Orso & Massiel Farinas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.438KM,4.26KM,7
+8,Giuliana Orihuela & Lucy Grillet,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.25KM,4.252KM,8
+9,Stephany Gonzales & Alejandra Tejeda,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,3.966KM,9
+10,Astrid Alonzo & Andrea Marroquin,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.5KM,3.934KM,10
+11,Soshill Gonzalez & Chrissie Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.609KM,3.796KM,11
+12,Sarah Nissim & Veronica Laguna,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.94KM,4.34KM,12
+13,Camila Jimenez & Andreina Gallardo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.909KM,4.221KM,13
+14,Dachel Carreno & Magaly Estupinan,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.162KM,3.949KM,14
+15,Norma Arias & Hazel Rodriguez-Vazquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.645KM,4.464KM,15
+16,Adriana Santizo & Ana Santizo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.114KM,3.942KM,16
+17,ingrid Troche & Jany Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.029KM,3.901KM,17
+18,Tina Dale & Amanda Wendel,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.16KM,3.695KM,18
+19,Selva Portales & Samantha Daher,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3KM,3.755KM,19
+20,Erika Ruiz & Margarita Franco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,3.039KM,3.655KM,20
+21,stephanie guevara & Milagro Moreno,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.931KM,3.626KM,21
+22,Patricia Bavaresco & Brenda Diez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.948KM,3.605KM,22
+23,Alessandra Gutierrez & Lisette Montoya,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.495KM,3.879KM,23
+24,Keyberling  Sanoja  & Yuxiana Soto,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Lite,Endurance,,,,,,,2.471KM,3.894KM,24
+1,Tochukwu Ezeaba & malek aladi,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,6 (12:42),2 (745KG),2 (8.798KM),,,10
+2,Juan Lozano & Roque Cedeno,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,1 (11:23),4 (690KG),8 (8.284KM),,,13
+3,Humberto Vargas & Ruperto Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,4 (11:51),1 (980KG),9 (8.191KM),,,14
+4,Mark Hartnett-Morgan & Daniel Ecarri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,2 (11:32),6 (640KG),6 (8.517KM),,,14
+5,Matthias Mora & Nickolas Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,3 (11:37),7 (602KG),4 (8.562KM),,,14
+6,Carlos Herrera III & Adrian Herrera,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,5 (12:23),10 (555KG),1 (9.185KM),,,16
+7,Mario Gomez & Victor Machado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,7 (13:19),8 (570KG),3 (8.777KM),,,18
+8,Olis Angulo & Gianfranco Renzulli,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,10 (14:26),3 (710KG),12 (7.19KM),,,25
+8,Carlos Ferrer & Jasser Dorado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,9 (14:08),11 (540KG),5 (8.524KM),,,25
+10,Pablo Garcia & Andres Tejada,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,8 (13:54),12 (505KG),7 (8.432KM),,,27
+11,Douglas Sierra & David Graffe,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,12 (19:12),5 (685KG),11 (7.631KM),,,28
+12,Luis Delgado & Andrei   Traian Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,11 (14:58),8 (570KG),10 (8.121KM),,,29
+13,Kevin Krueger & Ronnie G Eith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Overall,,,,13 (24:14),13 (220KG),13 (6.61KM),,,39
+1,Marco Ollarves & Valeria De Sousa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,1 (12:33),2 (592KG),1 (9.126KM),,,4
+2,pablo medeiros & Joey Medeiros,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,2 (13:38),1 (668KG),4 (8.144KM),,,7
+3,Alex Carrion & Shannon Laughlin,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,4 (14:34),3 (541KG),2 (8.295KM),,,9
+4,Kimberly Jung & Alex Wiltschko,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,5 (14:52),4 (517KG),5 (7.955KM),,,14
+5,Marissa Kobayashi & Ben Widlanski,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,3 (14:20),5 (509KG),7 (7.678KM),,,15
+6,Melissa Gutierrez & Jason Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,6 (16:38),9 (400KG),3 (8.228KM),,,18
+7,Katharina Karolina Bissoon & Stephen Bissoon,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,7 (16:50),7 (452KG),6 (7.739KM),,,20
+8,Hannah Abraham & Joshua Abraham,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,9 (19:54),6 (487KG),9 (6.764KM),,,24
+8,paula vargas & Emanuel Barrientos,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,8 (17:00),8 (439KG),8 (7.544KM),,,24
+10,Kenneth Stephens & Khadijah Nicole Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Overall,,,,10 (25:00),10 (386KG),10 (5.834KM),,,30
+1,Carlos Herrera III & Adrian Herrera,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,4KM,5.185KM,1
+2,Tochukwu Ezeaba & malek aladi,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.75KM,5.048KM,2
+3,Mario Gomez & Victor Machado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.41KM,5.367KM,3
+4,Matthias Mora & Nickolas Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.5KM,5.062KM,4
+5,Carlos Ferrer & Jasser Dorado,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.75KM,4.774KM,5
+6,Mark Hartnett-Morgan & Daniel Ecarri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.5KM,5.017KM,6
+7,Pablo Garcia & Andres Tejada,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.564KM,4.868KM,7
+8,Juan Lozano & Roque Cedeno,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3.177KM,5.107KM,8
+9,Humberto Vargas & Ruperto Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,2.965KM,5.226KM,9
+10,Luis Delgado & Andrei   Traian Lungu,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3KM,5.121KM,10
+11,Douglas Sierra & David Graffe,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3KM,4.631KM,11
+12,Olis Angulo & Gianfranco Renzulli,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,3KM,4.19KM,12
+13,Kevin Krueger & Ronnie G Eith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Lite,Endurance,,,,,,,2.754KM,3.856KM,13
+1,Marco Ollarves & Valeria De Sousa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.927KM,5.199KM,1
+2,Alex Carrion & Shannon Laughlin,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.573KM,4.722KM,2
+3,Melissa Gutierrez & Jason Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.679KM,4.549KM,3
+4,pablo medeiros & Joey Medeiros,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.649KM,4.495KM,4
+5,Kimberly Jung & Alex Wiltschko,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.5KM,4.455KM,5
+6,Katharina Karolina Bissoon & Stephen Bissoon,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3.435KM,4.304KM,6
+7,Marissa Kobayashi & Ben Widlanski,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.678KM,7
+8,paula vargas & Emanuel Barrientos,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,3KM,4.544KM,8
+9,Hannah Abraham & Joshua Abraham,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.876KM,3.888KM,9
+10,Kenneth Stephens & Khadijah Nicole Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Lite,Endurance,,,,,,,2.543KM,3.291KM,10
+1,Kayleigh Walsh & Jamie McElwain,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,1 (13:25),1 (585KG),2 (8.934KM),,,4
+2,Marissa Dietz & Yams Gorrie,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,4 (16:04),9 (492KG),3 (8.896KM),,,16
+2,Lulu Ruiz & Alejandra Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,5 (16:08),3 (543KG),8 (8.528KM),,,16
+4,Mariah Monahan & Lucie Castagne,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,3 (16:02),13 (465KG),1 (9.171KM),,,17
+5,Jaclyn Joyce & devin leishman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,10 (16:51),5 (536KG),4 (8.889KM),,,19
+5,Monica Wu & Yin C.,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,6 (16:11),4 (538KG),9 (8.513KM),,,19
+7,Lindsay Jordan & Noah Duff,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,10 (16:51),8 (506KG),6 (8.706KM),,,24
+8,Patricia Gutierrez & Angelina Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,9 (16:38),2 (575KG),14 (8.237KM),,,25
+9,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,2 (15:14),19 (440KG),12 (8.411KM),,,33
+10,Maria Manrique & Marcela Munoz,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,15 (18:19),15 (455KG),7 (8.556KM),,,37
+11,Alexis Pérez & Angie Escalona,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,18 (18:29),7 (510KG),17 (8.212KM),,,42
+12,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,16 (18:25),10 (485KG),18 (8.208KM),,,44
+12,Luciana Cantor & Fabianna Cova,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,8 (16:33),15 (455KG),21 (8.127KM),,,44
+14,Abby Adams & Cassie Peppe,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,12 (16:57),30 (391KG),5 (8.836KM),,,47
+14,Caitlin Donahue & Kaya Barker,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,13 (17:00),19 (440KG),15 (8.224KM),,,47
+16,Chloeane Vico & Alyssa Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,7 (16:29),6 (527KG),39 (7.323KM),,,52
+17,Sara Sullivan & Veruschka Zachtshinsky,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,14 (17:35),12 (468KG),32 (7.804KM),,,58
+18,Chloe Foley & Paris Ammari,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,17 (18:27),32 (380KG),11 (8.496KM),,,60
+19,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,23 (19:06),18 (441KG),20 (8.129KM),,,61
+20,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,30 (20:00),26 (413KG),10 (8.499KM),,,66
+20,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,19 (18:33),34 (379KG),13 (8.38KM),,,66
+22,Tania Rivera & Stephanie Greco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,24 (19:15),22 (436KG),21 (8.127KM),,,67
+23,Pamella Domingues & Andreza Ribeiro,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,22 (18:57),29 (393KG),19 (8.148KM),,,70
+23,Amanda Carvajal & Jessica Alimena,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,32 (20:53),11 (480KG),27 (8.006KM),,,70
+25,Maite Chirino & Sandra Aboulhosn,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,21 (18:47),27 (411KG),28 (7.951KM),,,76
+25,Jessica Palomeque & Maria Gabriela Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,26 (19:37),34 (379KG),16 (8.213KM),,,76
+27,Kumiko Takada & Francys Quintanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,28 (19:51),25 (419KG),24 (8.114KM),,,77
+28,Martina Mainini & micaela montarce,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,20 (18:34),32 (380KG),29 (7.881KM),,,81
+29,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,39 (23:34),14 (458KG),34 (7.766KM),,,87
+30,Ana Maria Kausel & Edith Cuevas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,33 (21:06),17 (445KG),38 (7.595KM),,,88
+31,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,27 (19:45),42 (329KG),23 (8.123KM),,,92
+32,Shelsie Amargos & Naifer Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,29 (19:56),28 (410KG),37 (7.713KM),,,94
+32,Natalia Duran & Valeria Jiménez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,25 (19:26),39 (349KG),30 (7.867KM),,,94
+34,Jaedyn Carty & Amy White,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,37 (21:44),24 (431KG),36 (7.747KM),,,97
+35,Katherine Ramirez & Natalia Castano,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,36 (21:43),21 (439KG),41 (7.163KM),,,98
+36,Pretika Randhawa & Nikesha Worrell,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,31 (20:11),37 (358KG),33 (7.802KM),,,101
+37,Eleonora Marquez & Sabrina Musso,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,35 (21:26),41 (337KG),26 (8.01KM),,,102
+37,Nicole Gutierrez & Maria Alvarez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,34 (21:13),43 (311KG),25 (8.094KM),,,102
+39,Ritzabeth Castillo & Rosario Sagastizado,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,42 (25:05),23 (435KG),43 (6.511KM),,,108
+40,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Overall,,,,38 (23:25),40 (340KG),31 (7.818KM),,,109
+41,Caroline Yepes & Valentina Guzman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,41 (25:03),36 (371KG),35 (7.749KM),,,112
+42,SAM ORTIZ & Marcy Fontora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,43 (25:28),31 (388KG),42 (6.995KM),,,116
+43,Ariana Alvarez & Natalia Pinzon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Overall,,,,40 (24:02),38 (351KG),40 (7.26KM),,,118
+1,Mariah Monahan & Lucie Castagne,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.5KM,4.671KM,1
+2,Kayleigh Walsh & Jamie McElwain,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.605KM,5.329KM,2
+3,Marissa Dietz & Yams Gorrie,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.048KM,4.848KM,3
+4,Jaclyn Joyce & devin leishman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.027KM,4.862KM,4
+5,Abby Adams & Cassie Peppe,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.911KM,4.925KM,5
+6,Lindsay Jordan & Noah Duff,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.956KM,6
+7,Maria Manrique & Marcela Munoz,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.28KM,4.276KM,7
+8,Lulu Ruiz & Alejandra Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.147KM,4.381KM,8
+9,Monica Wu & Yin C.,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.763KM,9
+10,Taylor Lane & Samantha Lacayo,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.262KM,4.237KM,10
+11,Chloe Foley & Paris Ammari,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.746KM,11
+12,Kristie Muller & Sophia Umphress,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.661KM,12
+13,Maria Gabriela Meyer & Valeria Jiménez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,4.046KM,4.334KM,13
+14,Patricia Gutierrez & Angelina Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.487KM,14
+15,Caitlin Donahue & Kaya Barker,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.474KM,15
+16,Jessica Palomeque & Maria Gabriela Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.463KM,16
+17,Alexis Pérez & Angie Escalona,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.792KM,4.42KM,17
+18,Laura Dias & Meghan Travis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.768KM,4.44KM,18
+19,Pamella Domingues & Andreza Ribeiro,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.591KM,4.557KM,19
+20,Sandra Aboulhosn & Mackenzie Pace,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.379KM,20
+21,Tania Rivera & Stephanie Greco,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.641KM,4.486KM,21
+21,Luciana Cantor & Fabianna Cova,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.627KM,21
+23,Cassandra Bosley & Megan Dimka,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.919KM,4.204KM,23
+24,Kumiko Takada & Francys Quintanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.797KM,4.317KM,24
+25,Nicole Gutierrez & Maria Alvarez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.344KM,25
+26,Eleonora Marquez & Sabrina Musso,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.816KM,4.194KM,26
+27,Amanda Carvajal & Jessica Alimena,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.614KM,4.392KM,27
+28,Maite Chirino & Sandra Aboulhosn,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.4KM,4.551KM,28
+29,Martina Mainini & micaela montarce,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.615KM,4.266KM,29
+30,Natalia Duran & Valeria Jiménez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.552KM,4.315KM,30
+31,Kimberly Sawyer & Tamina Sheikh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.75KM,4.068KM,31
+32,Sara Sullivan & Veruschka Zachtshinsky,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.647KM,4.157KM,32
+33,Pretika Randhawa & Nikesha Worrell,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.507KM,4.295KM,33
+34,Valentina Nunez & Linda Taveras,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.517KM,4.249KM,34
+35,Caroline Yepes & Valentina Guzman,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.5KM,4.249KM,35
+36,Jaedyn Carty & Amy White,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.405KM,4.342KM,36
+37,Shelsie Amargos & Naifer Mora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.168KM,4.545KM,37
+38,Ana Maria Kausel & Edith Cuevas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.371KM,4.224KM,38
+39,Chloeane Vico & Alyssa Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.042KM,4.281KM,39
+40,Ariana Alvarez & Natalia Pinzon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,3.336KM,3.924KM,40
+41,Katherine Ramirez & Natalia Castano,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,2.784KM,4.379KM,41
+42,SAM ORTIZ & Marcy Fontora,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,2.765KM,4.23KM,42
+43,Ritzabeth Castillo & Rosario Sagastizado,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX,Endurance,,,,,,,2.81KM,3.701KM,43
+1,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,7 (13:30),2 (995KG),3 (9.982KM),,,12
+2,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,13 (14:03),3 (890KG),5 (9.719KM),,,21
+3,Michael Gonzalez & Jiri Iglesias,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,2 (12:31),4 (867KG),17 (9.388KM),,,23
+4,Jesus Cardozo & Giovanni Perez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,4 (12:59),7 (840KG),18 (9.341KM),,,29
+5,Joshua Henderson & Juan Diego Henderson,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,9 (13:44),16 (780KG),7 (9.575KM),,,32
+6,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,11 (13:47),8 (822KG),16 (9.394KM),,,35
+7,Guillermo Salazar & Austin Ronek,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,4 (12:59),13 (803KG),19 (9.32KM),,,36
+8,Guillermo Pons & Michele Villanova,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,6 (13:12),32 (680KG),1 (10.682KM),,,39
+9,Aaron Underhill & Matt Kornak,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,26 (15:14),1 (1155KG),15 (9.411KM),,,42
+10,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,12 (13:48),27 (710KG),9 (9.55KM),,,48
+10,Joseph Garcia & Alonzo Trivino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,8 (13:33),19 (752KG),21 (9.277KM),,,48
+12,Eric Bloch & Clay Edwards,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,20 (14:41),18 (757KG),12 (9.476KM),,,50
+13,Chris Reyes & Cesar Guzman Cruz,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,1 (12:11),29 (707KG),23 (9.243KM),,,53
+14,Mauricio Martinez & Ricardo Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,22 (14:44),12 (808KG),24 (9.218KM),,,58
+14,Luca Rainò & Marco Martino Timo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,10 (13:45),20 (740KG),28 (9.085KM),,,58
+16,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,19 (14:31),41 (650KG),2 (9.995KM),,,62
+17,Shiloh  Bethell  & Merick Evans,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,23 (14:57),4 (867KG),44 (8.872KM),,,71
+18,Andres Escalante & DIEGO MESA,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,14 (14:07),46 (632KG),14 (9.457KM),,,74
+19,Pablo Cuello & Andres Mendez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,17 (14:11),25 (718KG),37 (8.993KM),,,79
+19,Samuel Lugo & joel amaya,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,25 (15:11),15 (788KG),39 (8.958KM),,,79
+21,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,41 (16:05),35 (675KG),6 (9.715KM),,,82
+22,Gonzalo  Marino & Nayid Abeu-Saleh,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,30 (15:23),26 (713KG),29 (9.08KM),,,85
+23,Bryan Quintanilla & Jorge Fernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,29 (15:20),49 (622KG),8 (9.553KM),,,86
+24,Marco Melone & David Stranieri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,33 (15:45),30 (703KG),25 (9.185KM),,,88
+25,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,34 (15:46),42 (645KG),13 (9.465KM),,,89
+26,Moises Parra & Jorge Penalver Leon,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,18 (14:30),31 (690KG),41 (8.908KM),,,90
+26,Nate Camara & John DeTorres,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,37 (15:55),11 (810KG),42 (8.904KM),,,90
+28,Armando Escarra & Julio Ochoa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,3 (12:32),34 (677KG),58 (8.578KM),,,95
+29,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,53 (17:12),14 (790KG),30 (9.073KM),,,97
+30,Easton Smith & Sam Mishnev,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,45 (16:18),6 (852KG),47 (8.818KM),,,98
+30,kelvin urbaez & Dylan Sarentino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,20 (14:41),23 (735KG),55 (8.612KM),,,98
+32,Jose Manjarres & Juan Carlos Silva,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,39 (15:58),17 (765KG),45 (8.843KM),,,101
+33,Dylan Poler & Nicolas Cea,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,23 (14:57),20 (740KG),62 (8.45KM),,,105
+34,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,15 (14:08),59 (598KG),32 (9.059KM),,,106
+34,Raul Fuentes & Andrés Tinoco,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,16 (14:09),55 (610KG),35 (9.022KM),,,106
+36,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,42 (16:07),55 (610KG),10 (9.513KM),,,107
+36,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,56 (18:21),47 (625KG),4 (9.802KM),,,107
+38,Alejandra  Romero  & Juan Castellanos,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,27 (15:15),48 (624KG),33 (9.034KM),,,108
+39,Paolo Longo & Ivan Resciniti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,38 (15:57),40 (657KG),34 (9.027KM),,,112
+39,Sage chen-young & Coby Golden,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,43 (16:16),10 (812KG),59 (8.574KM),,,112
+41,Jorge Arana & MAKO Guillen,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,51 (17:04),9 (820KG),56 (8.603KM),,,116
+42,Bryan Reyner & Rene Piedra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,28 (15:17),38 (662KG),51 (8.728KM),,,117
+43,Tomas Rodriguez & Martin Grandes,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,52 (17:05),32 (680KG),36 (9.018KM),,,120
+44,Alonso Chaupis & Eduardo Caucho,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,46 (16:23),55 (610KG),20 (9.316KM),,,121
+45,Andres Mejia & Edgar Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,43 (16:16),39 (660KG),40 (8.934KM),,,122
+45,Felix Rivero & Felipe Pires,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,35 (15:49),22 (737KG),65 (8.421KM),,,122
+47,Carlos Carvajalino & MARIANO PAOLINO,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,32 (15:39),43 (639KG),54 (8.67KM),,,129
+48,Gian Meza & Juan Sierra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,50 (17:02),55 (610KG),27 (9.124KM),,,132
+49,jesus emilio noguera montes & Camilo manzanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,39 (15:58),72 (385KG),22 (9.247KM),,,133
+50,Ricardo  Sasson & Carlos Gonzalez Madrid,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,31 (15:35),54 (614KG),52 (8.706KM),,,137
+51,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,59 (18:32),68 (540KG),11 (9.487KM),,,138
+52,Niccolo Santocchini & Giorgio Gioia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,47 (16:28),44 (637KG),48 (8.769KM),,,139
+52,Said Abou & Hector Rojas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,36 (15:50),60 (591KG),43 (8.888KM),,,139
+54,Jacob Chernov & Ernesto Ocampo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,54 (17:56),27 (710KG),60 (8.509KM),,,141
+55,carlos shortt & Leonardo Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,57 (18:22),35 (675KG),50 (8.738KM),,,142
+56,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,66 (19:54),51 (620KG),26 (9.155KM),,,143
+57,Emilio Salas & José Manuel Cárdenas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,48 (16:40),37 (670KG),66 (8.399KM),,,151
+58,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,61 (18:54),24 (725KG),67 (8.25KM),,,152
+59,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,67 (20:04),64 (565KG),31 (9.063KM),,,162
+60,Andres Moreno & Fernando Fuenmayor,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,63 (19:07),62 (577KG),38 (8.961KM),,,163
+61,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,64 (19:19),51 (620KG),57 (8.588KM),,,172
+62,Hernan Gonzalez & Jose Leonardo Martinez Carrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,55 (17:59),49 (622KG),69 (7.914KM),,,173
+63,Christophe Abadie & Andres Jaramillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,49 (16:42),66 (554KG),63 (8.442KM),,,178
+64,Alexander Rios & Andres Espinosa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,58 (18:27),70 (502KG),53 (8.674KM),,,181
+65,Angelo Fleurimond & Ryan Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,65 (19:28),69 (515KG),49 (8.743KM),,,183
+66,Brody Clarke & Hunter Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,60 (18:39),65 (559KG),61 (8.494KM),,,186
+67,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Overall,,,,72 (25:13),45 (635KG),70 (7.907KM),,,187
+67,Yesid Guatame Lopez & Gustavo Salamanca,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,70 (22:12),71 (465KG),46 (8.838KM),,,187
+69,Kamal  Salomon & Deivit Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,69 (21:09),61 (585KG),63 (8.442KM),,,193
+70,Ilan Ben-Brith & Oren Ben-Brith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,68 (20:51),63 (566KG),68 (8.242KM),,,199
+71,Horacio Meneses & Gustavo Canizalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Overall,,,,71 (24:07),67 (542KG),71 (7.471KM),,,209
+1,Aaron Underhill & Matt Kornak,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,170KG,620KG,365KG,,,,,,1
+2,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,195KG,380KG,420KG,,,,,,2
+3,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,170KG,340KG,380KG,,,,,,3
+4,Michael Gonzalez & Jiri Iglesias,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,165KG,332KG,370KG,,,,,,4
+4,Shiloh  Bethell  & Merick Evans,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,152KG,340KG,375KG,,,,,,4
+6,Easton Smith & Sam Mishnev,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,142KG,323KG,387KG,,,,,,6
+7,Jesus Cardozo & Giovanni Perez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,175KG,295KG,370KG,,,,,,7
+8,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,320KG,382KG,,,,,,8
+9,Jorge Arana & MAKO Guillen,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,170KG,290KG,360KG,,,,,,9
+10,Sage chen-young & Coby Golden,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,165KG,297KG,350KG,,,,,,10
+11,Nate Camara & John DeTorres,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,165KG,275KG,370KG,,,,,,11
+12,Mauricio Martinez & Ricardo Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,164KG,294KG,350KG,,,,,,12
+13,Guillermo Salazar & Austin Ronek,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,141KG,316KG,346KG,,,,,,13
+14,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,150KG,300KG,340KG,,,,,,14
+15,Samuel Lugo & joel amaya,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,164KG,295KG,329KG,,,,,,15
+16,Joshua Henderson & Juan Diego Henderson,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,140KG,305KG,335KG,,,,,,16
+17,Jose Manjarres & Juan Carlos Silva,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,155KG,280KG,330KG,,,,,,17
+18,Eric Bloch & Clay Edwards,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,140KG,277KG,340KG,,,,,,18
+19,Joseph Garcia & Alonzo Trivino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,147KG,275KG,330KG,,,,,,19
+20,Luca Rainò & Marco Martino Timo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,140KG,245KG,355KG,,,,,,20
+20,Dylan Poler & Nicolas Cea,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,145KG,275KG,320KG,,,,,,20
+22,Felix Rivero & Felipe Pires,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,122KG,283KG,332KG,,,,,,22
+23,kelvin urbaez & Dylan Sarentino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,175KG,290KG,270KG,,,,,,23
+24,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,80KG,305KG,340KG,,,,,,24
+25,Pablo Cuello & Andres Mendez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,132KG,292KG,294KG,,,,,,25
+26,Gonzalo  Marino & Nayid Abeu-Saleh,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,144KG,266KG,303KG,,,,,,26
+27,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,135KG,250KG,325KG,,,,,,27
+27,Jacob Chernov & Ernesto Ocampo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,150KG,240KG,320KG,,,,,,27
+29,Chris Reyes & Cesar Guzman Cruz,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,145KG,252KG,310KG,,,,,,29
+30,Marco Melone & David Stranieri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,151KG,270KG,282KG,,,,,,30
+31,Moises Parra & Jorge Penalver Leon,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,115KG,270KG,305KG,,,,,,31
+32,Tomas Rodriguez & Martin Grandes,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,130KG,230KG,320KG,,,,,,32
+32,Guillermo Pons & Michele Villanova,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,135KG,240KG,305KG,,,,,,32
+34,Armando Escarra & Julio Ochoa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,135KG,240KG,302KG,,,,,,34
+35,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,160KG,220KG,295KG,,,,,,35
+35,carlos shortt & Leonardo Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,105KG,305KG,265KG,,,,,,35
+37,Emilio Salas & José Manuel Cárdenas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,260KG,290KG,,,,,,37
+38,Bryan Reyner & Rene Piedra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,137KG,230KG,295KG,,,,,,38
+39,Andres Mejia & Edgar Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,135KG,230KG,295KG,,,,,,39
+40,Paolo Longo & Ivan Resciniti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,137KG,240KG,280KG,,,,,,40
+41,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,240KG,290KG,,,,,,41
+42,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,130KG,205KG,310KG,,,,,,42
+43,Carlos Carvajalino & MARIANO PAOLINO,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,129KG,230KG,280KG,,,,,,43
+44,Niccolo Santocchini & Giorgio Gioia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,112KG,210KG,315KG,,,,,,44
+45,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,135KG,240KG,260KG,,,,,,45
+46,Andres Escalante & DIEGO MESA,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,122KG,240KG,270KG,,,,,,46
+47,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,125KG,200KG,300KG,,,,,,47
+48,Alejandra  Romero  & Juan Castellanos,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,119KG,225KG,280KG,,,,,,48
+49,Hernan Gonzalez & Jose Leonardo Martinez Carrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,125KG,242KG,255KG,,,,,,49
+49,Bryan Quintanilla & Jorge Fernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,132KG,220KG,270KG,,,,,,49
+51,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,220KG,280KG,,,,,,51
+51,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,220KG,280KG,,,,,,51
+51,Chris Smith & Stratton Spirou,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,230KG,270KG,,,,,,51
+54,Ricardo  Sasson & Carlos Gonzalez Madrid,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,125KG,222KG,267KG,,,,,,54
+55,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,130KG,220KG,260KG,,,,,,55
+55,Alonso Chaupis & Eduardo Caucho,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,210KG,280KG,,,,,,55
+55,Gian Meza & Juan Sierra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,110KG,230KG,270KG,,,,,,55
+55,Raul Fuentes & Andrés Tinoco,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,119KG,231KG,260KG,,,,,,55
+59,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,153KG,145KG,300KG,,,,,,59
+60,Said Abou & Hector Rojas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,121KG,210KG,260KG,,,,,,60
+61,Kamal  Salomon & Deivit Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,135KG,210KG,240KG,,,,,,61
+62,Andres Moreno & Fernando Fuenmayor,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,125KG,210KG,242KG,,,,,,62
+63,Ilan Ben-Brith & Oren Ben-Brith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,125KG,206KG,235KG,,,,,,63
+64,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,125KG,240KG,200KG,,,,,,64
+65,Brody Clarke & Hunter Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,112KG,215KG,232KG,,,,,,65
+66,Christophe Abadie & Andres Jaramillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,124KG,190KG,240KG,,,,,,66
+67,Horacio Meneses & Gustavo Canizalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,126KG,190KG,226KG,,,,,,67
+68,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,220KG,200KG,,,,,,68
+69,Angelo Fleurimond & Ryan Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,105KG,170KG,240KG,,,,,,69
+70,Alexander Rios & Andres Espinosa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,112KG,185KG,205KG,,,,,,70
+71,Yesid Guatame Lopez & Gustavo Salamanca,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,105KG,180KG,180KG,,,,,,71
+72,jesus emilio noguera montes & Camilo manzanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Strength,120KG,125KG,140KG,,,,,,72
+1,Chris Reyes & Cesar Guzman Cruz,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,12:11,,,,,1
+2,Michael Gonzalez & Jiri Iglesias,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,12:31,,,,,2
+3,Armando Escarra & Julio Ochoa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,12:32,,,,,3
+4,Jesus Cardozo & Giovanni Perez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,12:59,,,,,4
+4,Guillermo Salazar & Austin Ronek,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,12:59,,,,,4
+6,Guillermo Pons & Michele Villanova,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:12,,,,,6
+7,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:30,,,,,7
+8,Joseph Garcia & Alonzo Trivino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:33,,,,,8
+9,Joshua Henderson & Juan Diego Henderson,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:44,,,,,9
+10,Luca Rainò & Marco Martino Timo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:45,,,,,10
+11,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:47,,,,,11
+12,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,13:48,,,,,12
+13,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:03,,,,,13
+14,Andres Escalante & DIEGO MESA,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:07,,,,,14
+15,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:08,,,,,15
+16,Raul Fuentes & Andrés Tinoco,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:09,,,,,16
+17,Pablo Cuello & Andres Mendez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:11,,,,,17
+18,Moises Parra & Jorge Penalver Leon,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:30,,,,,18
+19,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:31,,,,,19
+20,Eric Bloch & Clay Edwards,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:41,,,,,20
+20,kelvin urbaez & Dylan Sarentino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:41,,,,,20
+22,Mauricio Martinez & Ricardo Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:44,,,,,22
+23,Shiloh  Bethell  & Merick Evans,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:57,,,,,23
+23,Dylan Poler & Nicolas Cea,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,14:57,,,,,23
+25,Samuel Lugo & joel amaya,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:11,,,,,25
+26,Aaron Underhill & Matt Kornak,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:14,,,,,26
+27,Alejandra  Romero  & Juan Castellanos,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:15,,,,,27
+28,Bryan Reyner & Rene Piedra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:17,,,,,28
+29,Bryan Quintanilla & Jorge Fernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:20,,,,,29
+30,Gonzalo  Marino & Nayid Abeu-Saleh,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:23,,,,,30
+31,Ricardo  Sasson & Carlos Gonzalez Madrid,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:35,,,,,31
+32,Carlos Carvajalino & MARIANO PAOLINO,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:39,,,,,32
+33,Marco Melone & David Stranieri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:45,,,,,33
+34,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:46,,,,,34
+35,Felix Rivero & Felipe Pires,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:49,,,,,35
+36,Said Abou & Hector Rojas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:50,,,,,36
+37,Nate Camara & John DeTorres,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:55,,,,,37
+38,Paolo Longo & Ivan Resciniti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:57,,,,,38
+39,jesus emilio noguera montes & Camilo manzanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:58,,,,,39
+39,Jose Manjarres & Juan Carlos Silva,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,15:58,,,,,39
+41,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:05,,,,,41
+42,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:07,,,,,42
+43,Andres Mejia & Edgar Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:16,,,,,43
+43,Sage chen-young & Coby Golden,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:16,,,,,43
+45,Easton Smith & Sam Mishnev,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:18,,,,,45
+46,Alonso Chaupis & Eduardo Caucho,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:23,,,,,46
+47,Niccolo Santocchini & Giorgio Gioia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:28,,,,,47
+48,Emilio Salas & José Manuel Cárdenas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:40,,,,,48
+49,Christophe Abadie & Andres Jaramillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,16:42,,,,,49
+50,Gian Meza & Juan Sierra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,17:02,,,,,50
+51,Jorge Arana & MAKO Guillen,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,17:04,,,,,51
+52,Tomas Rodriguez & Martin Grandes,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,17:05,,,,,52
+53,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,17:12,,,,,53
+54,Jacob Chernov & Ernesto Ocampo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,17:56,,,,,54
+55,Hernan Gonzalez & Jose Leonardo Martinez Carrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,17:59,,,,,55
+56,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,18:21,,,,,56
+57,carlos shortt & Leonardo Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,18:22,,,,,57
+58,Alexander Rios & Andres Espinosa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,18:27,,,,,58
+59,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,18:32,,,,,59
+60,Brody Clarke & Hunter Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,18:39,,,,,60
+61,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,18:54,,,,,61
+62,Chris Smith & Stratton Spirou,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,19:00,,,,,62
+63,Andres Moreno & Fernando Fuenmayor,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,19:07,,,,,63
+64,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,19:19,,,,,64
+65,Angelo Fleurimond & Ryan Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,19:28,,,,,65
+66,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,19:54,,,,,66
+67,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,20:04,,,,,67
+68,Ilan Ben-Brith & Oren Ben-Brith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,20:51,,,,,68
+69,Kamal  Salomon & Deivit Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,21:09,,,,,69
+70,Yesid Guatame Lopez & Gustavo Salamanca,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,22:12,,,,,70
+71,Horacio Meneses & Gustavo Canizalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,24:07,,,,,71
+72,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,MetCon X,,,,25:13,,,,,72
+1,Guillermo Pons & Michele Villanova,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.954KM,5.728KM,1
+2,Marco Maraschin & Guillermo Pons,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.5KM,5.495KM,2
+3,Justin Tapper & Bryan Stewart,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.264KM,5.718KM,3
+4,Bryan Quintanilla & Alejandro Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.538KM,5.264KM,4
+5,Danny Tuckerman & Eddy Rivero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.096KM,5.623KM,5
+6,Simon Bratke & lauri.schwitalla Team,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.105KM,5.61KM,6
+7,Joshua Henderson & Juan Diego Henderson,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.009KM,5.566KM,7
+8,Bryan Quintanilla & Jorge Fernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.363KM,5.19KM,8
+9,Anthony Rice & Kenny Santucci,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.283KM,5.267KM,9
+10,Armando Rey & Ani Pendurthi,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.136KM,5.377KM,10
+11,Garrett Lynn & Zachary Grimsdale,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.25KM,5.237KM,11
+12,Eric Bloch & Clay Edwards,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.918KM,5.558KM,12
+13,Simon Serna & Edgar Guerrero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.335KM,5.13KM,13
+14,Andres Escalante & DIEGO MESA,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.272KM,5.185KM,14
+15,Aaron Underhill & Matt Kornak,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.809KM,5.602KM,15
+16,Patrick Sprague & Kevin Koester,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.87KM,5.524KM,16
+17,Michael Gonzalez & Jiri Iglesias,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.851KM,5.537KM,17
+18,Jesus Cardozo & Giovanni Perez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.907KM,5.434KM,18
+19,Guillermo Salazar & Austin Ronek,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.675KM,5.645KM,19
+20,Alonso Chaupis & Eduardo Caucho,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.327KM,4.989KM,20
+21,Joseph Garcia & Alonzo Trivino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.086KM,5.191KM,21
+22,jesus emilio noguera montes & Camilo manzanilla,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.017KM,5.23KM,22
+23,Chris Reyes & Cesar Guzman Cruz,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.05KM,5.193KM,23
+24,Mauricio Martinez & Ricardo Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.697KM,5.521KM,24
+25,Marco Melone & David Stranieri,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.239KM,4.946KM,25
+26,Carlos Orozco & Juan m Galvis,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.306KM,4.849KM,26
+27,Gian Meza & Juan Sierra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.286KM,4.838KM,27
+28,Luca Rainò & Marco Martino Timo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.774KM,5.311KM,28
+29,Gonzalo  Marino & Nayid Abeu-Saleh,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.588KM,5.492KM,29
+30,Leandro Ferrari & Levi Cox,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.12KM,4.953KM,30
+31,Fede Sandoval & Alejandro Alba,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.365KM,4.698KM,31
+32,Sean Velas & Michael Oyarzun,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.965KM,5.094KM,32
+33,Alejandra  Romero  & Juan Castellanos,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.284KM,33
+34,Paolo Longo & Ivan Resciniti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.892KM,5.135KM,34
+35,Raul Fuentes & Andrés Tinoco,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.224KM,4.798KM,35
+36,Tomas Rodriguez & Martin Grandes,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.268KM,36
+37,Pablo Cuello & Andres Mendez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.655KM,5.338KM,37
+38,Andres Moreno & Fernando Fuenmayor,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.25KM,4.711KM,38
+39,Samuel Lugo & joel amaya,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.75KM,5.208KM,39
+40,Andres Mejia & Edgar Guerrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.852KM,5.082KM,40
+41,Moises Parra & Jorge Penalver Leon,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.65KM,5.258KM,41
+42,Nate Camara & John DeTorres,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.681KM,5.223KM,42
+43,Said Abou & Hector Rojas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.704KM,5.184KM,43
+44,Shiloh  Bethell  & Merick Evans,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.925KM,4.947KM,44
+45,Jose Manjarres & Juan Carlos Silva,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.681KM,5.162KM,45
+46,Yesid Guatame Lopez & Gustavo Salamanca,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.29KM,4.548KM,46
+47,Easton Smith & Sam Mishnev,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.272KM,5.546KM,47
+48,Niccolo Santocchini & Giorgio Gioia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.828KM,4.941KM,48
+49,Angelo Fleurimond & Ryan Gutierrez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.339KM,4.404KM,49
+50,carlos shortt & Leonardo Castillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.805KM,4.933KM,50
+51,Bryan Reyner & Rene Piedra,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.978KM,51
+52,Ricardo  Sasson & Carlos Gonzalez Madrid,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.829KM,4.877KM,52
+53,Alexander Rios & Andres Espinosa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.65KM,5.024KM,53
+54,Carlos Carvajalino & MARIANO PAOLINO,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.514KM,5.156KM,54
+55,kelvin urbaez & Dylan Sarentino,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.689KM,4.923KM,55
+56,Jorge Arana & MAKO Guillen,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.286KM,5.317KM,56
+57,Alonso Chaupis & Eduardo Caucho,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4.048KM,4.54KM,57
+58,Armando Escarra & Julio Ochoa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.665KM,4.913KM,58
+59,Sage chen-young & Coby Golden,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,4KM,4.574KM,59
+60,Jacob Chernov & Ernesto Ocampo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.359KM,5.15KM,60
+61,Brody Clarke & Hunter Stephens,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.68KM,4.814KM,61
+62,Dylan Poler & Nicolas Cea,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3KM,5.45KM,62
+63,Christophe Abadie & Andres Jaramillo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3KM,5.442KM,63
+63,Kamal  Salomon & Deivit Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.692KM,63
+65,Felix Rivero & Felipe Pires,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.437KM,4.984KM,65
+66,Emilio Salas & José Manuel Cárdenas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.565KM,4.834KM,66
+67,Corbin Mims & Sean schieppati,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.646KM,4.604KM,67
+68,Ilan Ben-Brith & Oren Ben-Brith,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.641KM,4.601KM,68
+69,Hernan Gonzalez & Jose Leonardo Martinez Carrero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.75KM,4.164KM,69
+70,Pedro Leyva & Leandro Boucourt,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,3.825KM,4.082KM,70
+71,Horacio Meneses & Gustavo Canizalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX,Endurance,,,,,,,2.832KM,4.639KM,71
+1,Merissa Carpenito & Michael Tonry,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,1 (12:30),2 (754KG),12 (9.034KM),,,15
+2,Kailynn Violette & Antonio Mujica,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,2 (13:20),9 (671KG),4 (9.46KM),,,15
+3,Jordan Devereaux & Joseph Walmsley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,6 (13:52),7 (685KG),10 (9.066KM),,,23
+4,Marte Eilertsen & Alex Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,4 (13:35),16 (635KG),7 (9.161KM),,,27
+5,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,11 (14:46),3 (735KG),14 (8.985KM),,,28
+6,Lucas Vinheiros & Doreen Sharkey,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,9 (14:15),13 (654KG),18 (8.933KM),,,40
+7,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,22 (15:34),11 (668KG),13 (8.988KM),,,46
+8,Alisson Mona & Tucker Kistner,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,13 (14:57),29 (566KG),6 (9.166KM),,,48
+9,Vicente Chiariello & Andrea Negrette,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,15 (14:59),19 (634KG),16 (8.965KM),,,50
+10,Sthefany Azevedo & Yamil Issa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,26 (15:53),6 (695KG),22 (8.765KM),,,54
+11,Kurt Keiser & Julia Chorak,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,15 (14:59),15 (639KG),26 (8.707KM),,,56
+12,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,12 (14:55),42 (542KG),3 (9.547KM),,,57
+12,Victor Saballo & Rossana Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,17 (15:05),16 (635KG),24 (8.749KM),,,57
+14,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,32 (16:29),10 (670KG),21 (8.767KM),,,63
+14,Jamile Velazquez Perez & Alenka Simancas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,7 (14:05),45 (525KG),11 (9.065KM),,,63
+16,Nevaya Warfel & Graham McColgan,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,13 (14:57),32 (564KG),23 (8.756KM),,,68
+17,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,10 (14:27),39 (550KG),20 (8.804KM),,,69
+17,Hamlet Aleman & Juli Carazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,28 (16:15),26 (580KG),15 (8.972KM),,,69
+19,Lisa Abadie & Eliot Abadie,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,39 (17:16),23 (589KG),8 (9.123KM),,,70
+20,Maddie Reasoner & Miguel Calcaneo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,25 (15:51),44 (527KG),5 (9.397KM),,,74
+21,Ricardo Videtta & Maria Ignacia Scharffenorth,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,18 (15:24),50 (510KG),9 (9.114KM),,,77
+21,Paxton Brantley & Abel Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,38 (17:12),8 (672KG),31 (8.614KM),,,77
+23,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,20 (15:26),40 (546KG),19 (8.813KM),,,79
+23,yuri antonelli & Genesis Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,19 (15:25),21 (627KG),39 (8.429KM),,,79
+25,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,5 (13:39),35 (560KG),46 (8.321KM),,,86
+25,Ivanna Maggiolo & Carlos Zabaleta,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,22 (15:34),4 (705KG),60 (7.928KM),,,86
+27,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,24 (15:37),63 (434KG),2 (9.677KM),,,89
+28,Ivan Carlo Cardani & Jessica Corcino,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,27 (15:59),36 (558KG),28 (8.685KM),,,91
+29,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,44 (17:48),14 (651KG),34 (8.525KM),,,92
+30,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,34 (16:30),33 (563KG),27 (8.695KM),,,94
+31,Joey Welu & CHARITY WELU,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,49 (18:41),22 (602KG),24 (8.749KM),,,95
+32,Fady Issa & Romina DAddio,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,21 (15:30),29 (566KG),48 (8.254KM),,,98
+33,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,28 (16:15),70 (287KG),1 (9.685KM),,,99
+34,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,36 (16:46),38 (551KG),29 (8.665KM),,,103
+35,Connie Amador & Angel Amador,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,48 (18:35),12 (664KG),44 (8.328KM),,,104
+36,Salman Abouzied & yara abouzied,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,32 (16:29),16 (635KG),58 (7.947KM),,,106
+37,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,2 (13:20),37 (555KG),70 (7KM),,,109
+38,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,31 (16:19),49 (513KG),30 (8.615KM),,,110
+39,Zoe Matthew & Lamar Newbill,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,46 (18:20),25 (585KG),41 (8.384KM),,,112
+40,Steffi BARREDA & Erwin Jacobo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,52 (19:00),20 (632KG),43 (8.338KM),,,115
+41,orlando rodriguez & Loren Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,35 (16:35),27 (577KG),54 (8.118KM),,,116
+42,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,40 (17:27),41 (543KG),36 (8.492KM),,,117
+43,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,37 (16:51),43 (540KG),38 (8.464KM),,,118
+44,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,57 (20:16),24 (588KG),40 (8.393KM),,,121
+45,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,65 (21:58),1 (770KG),59 (7.943KM),,,125
+46,Yves Laventure & Christina Francois,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,60 (21:13),5 (696KG),62 (7.862KM),,,127
+47,Cesar Izaguirre & Alix Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,51 (18:56),31 (565KG),47 (8.279KM),,,129
+48,Sean Velas & Hannah Millard,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,45 (17:50),56 (499KG),37 (8.48KM),,,138
+49,Desiree Melo & Carlos Requena,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,41 (17:30),46 (522KG),53 (8.197KM),,,140
+50,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,30 (16:16),50 (510KG),61 (7.887KM),,,141
+50,Andy Mendler & Shaun Hunley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,47 (18:22),61 (453KG),33 (8.572KM),,,141
+52,Natalie Quevedo & Nicholas Quevedo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,42 (17:36),60 (462KG),42 (8.372KM),,,144
+53,Devin Kane  Perger & Alejandra Piedrahita,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,58 (20:32),46 (522KG),44 (8.328KM),,,148
+54,Rafael Assayag & Luciana Assayag,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,53 (19:01),64 (430KG),32 (8.578KM),,,149
+54,Ivan Blanco & Fernanda Marquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,43 (17:44),71 (221KG),35 (8.498KM),,,149
+56,Bradley Vilsaint & Estrella Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,56 (20:00),34 (562KG),64 (7.657KM),,,154
+57,Marisol Fernandez & Simon Castellano,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,50 (18:45),46 (522KG),63 (7.762KM),,,159
+58,Pauline Tran & Louis Grayson,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,55 (19:17),54 (500KG),51 (8.207KM),,,160
+59,Pedro Leyva & Claudia De Armas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,54 (19:05),57 (486KG),52 (8.2KM),,,163
+60,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,70 (24:32),28 (570KG),66 (7.542KM),,,164
+61,Simone Eccles & Phillip Eccles,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,62 (21:25),53 (501KG),50 (8.221KM),,,165
+62,Valentina  Salcedo  & Jean Nadal,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,63 (21:28),59 (477KG),49 (8.251KM),,,171
+63,Brave Society & Julian Sastoque,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,59 (20:38),58 (478KG),57 (7.983KM),,,174
+64,Andre Morales & Daniela Quintero,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,66 (22:35),54 (500KG),56 (8.014KM),,,176
+65,Olvin Otero & Tia Coleman,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,64 (21:41),52 (508KG),67 (7.459KM),,,183
+66,Pia Echenique & Rodrigo Börgel,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,67 (23:40),68 (349KG),55 (8.065KM),,,190
+67,Alex Labrada & Paola Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,69 (24:10),62 (450KG),69 (7.25KM),,,200
+67,Andreina Carvallo & Lino Borrelli,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,68 (23:53),67 (403KG),65 (7.63KM),,,200
+69,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,71 (24:53),65 (425KG),68 (7.429KM),,,204
+70,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Overall,,,,72 (25:48),69 (345KG),71 (6.423KM),,,212
+1,Kristine Best & Danielle Brandon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,1 (13:57),3 (644KG),1 (10.145KM),,,5
+2,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,2 (14:27),1 (721KG),3 (9.625KM),,,6
+3,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,4 (16:29),2 (660KG),2 (9.727KM),,,8
+4,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,5 (16:34),4 (643KG),4 (9.164KM),,,13
+5,Ana Valladares & Maria Jose Vargas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,3 (15:10),5 (620KG),7 (9.044KM),,,15
+6,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,8 (17:57),6 (585KG),6 (9.081KM),,,20
+7,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,7 (17:30),9 (546KG),5 (9.137KM),,,21
+8,Bryleigh Hansen & Heather Hudson,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,6 (17:04),8 (571KG),10 (8.398KM),,,24
+9,Kimberly Miller & Elizabeth Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,10 (20:12),7 (576KG),8 (8.908KM),,,25
+10,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,11 (20:20),13 (359KG),9 (8.607KM),,,33
+11,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,9 (18:20),12 (446KG),13 (7.778KM),,,34
+11,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,13 (25:12),10 (522KG),11 (8.315KM),,,34
+13,Valentina Nunez & Linda Taveras,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Overall,,,,12 (22:43),11 (460KG),12 (7.823KM),,,35
+1,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,130KG,253KG,338KG,,,,,,1
+2,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,130KG,230KG,300KG,,,,,,2
+3,Kristine Best & Danielle Brandon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Strength,127KG,237KG,280KG,,,,,,3
+4,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,113KG,230KG,300KG,,,,,,4
+5,Ana Valladares & Maria Jose Vargas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Strength,110KG,240KG,270KG,,,,,,5
+6,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,110KG,225KG,250KG,,,,,,6
+7,Kimberly Miller & Elizabeth Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Strength,88KG,221KG,267KG,,,,,,7
+8,Bryleigh Hansen & Heather Hudson,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Strength,104KG,217KG,250KG,,,,,,8
+9,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,98KG,195KG,253KG,,,,,,9
+10,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,84KG,188KG,250KG,,,,,,10
+11,Valentina Nunez & Linda Taveras,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Strength,80KG,170KG,210KG,,,,,,11
+12,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,66KG,160KG,220KG,,,,,,12
+13,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Strength,68KG,138KG,153KG,,,,,,13
+1,Kristine Best & Danielle Brandon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.716KM,5.429KM,1
+2,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.464KM,5.263KM,2
+3,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.161KM,5.464KM,3
+4,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4KM,5.164KM,4
+5,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.012KM,5.125KM,5
+6,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.259KM,4.822KM,6
+7,Ana Valladares & Maria Jose Vargas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4KM,5.044KM,7
+8,Kimberly Miller & Elizabeth Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.786KM,5.122KM,8
+9,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,4.25KM,4.357KM,9
+10,Bryleigh Hansen & Heather Hudson,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.522KM,4.876KM,10
+11,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.297KM,5.018KM,11
+12,Valentina Nunez & Linda Taveras,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.588KM,4.235KM,12
+13,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,Endurance,,,,,,,3.85KM,3.928KM,13
+1,Kristine Best & Danielle Brandon,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,13:57,,,,,1
+2,Hannah Hardy & Sydney Witter,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,14:27,,,,,2
+3,Ana Valladares & Maria Jose Vargas,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,15:10,,,,,3
+4,natalie OrtiZ & Winter Rodriguez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,16:29,,,,,4
+5,Jessi Kuhlman & Jacy Kuhlman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,16:34,,,,,5
+6,Bryleigh Hansen & Heather Hudson,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,17:04,,,,,6
+7,Diane Younes & Justina Mockute,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,17:30,,,,,7
+8,Deb Graff & Anikha Greer,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,17:57,,,,,8
+9,Caitlin Donahue & Paris Ammari,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,18:20,,,,,9
+10,Kimberly Miller & Elizabeth Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,20:12,,,,,10
+11,Chloe Foley & Kaya Barker,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,20:20,,,,,11
+12,Valentina Nunez & Linda Taveras,ATHX MIAMI 2026,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,22:43,,,,,12
+13,Elizabeth Gonzalez & Natalia Castano,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Female,ATHX Pro,MetCon X,,,,25:12,,,,,13
+1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,1 (12:04),1 (970KG),2 (11.115KM),,,4
+2,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,2 (13:25),2 (960KG),9 (10.211KM),,,13
+3,James Kirkham & sean kelly,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,3 (13:31),7 (903KG),5 (10.619KM),,,15
+4,Rob Thomas & Joshua Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,5 (14:18),5 (907KG),6 (10.477KM),,,16
+5,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,9 (15:27),6 (905KG),3 (10.652KM),,,18
+6,Rhett Burns & William Lerwick,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,4 (14:07),23 (732KG),1 (11.547KM),,,28
+7,Stephan Mixter & Moe Romero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,6 (15:01),14 (814KG),8 (10.252KM),,,28
+8,Armando Santos & Luis Naranjo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,15 (16:12),3 (940KG),15 (9.49KM),,,33
+9,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,16 (16:24),11 (831KG),7 (10.289KM),,,34
+10,Juan Comito & Nahuel Giannantonio,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,10 (15:29),13 (817KG),12 (9.838KM),,,35
+10,Romain BUTAYE & Santiago Marrugo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,7 (15:09),15 (790KG),13 (9.809KM),,,35
+10,Shay Nissim & Frantz Petitpapa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,11 (15:32),4 (924KG),20 (9.262KM),,,35
+13,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,13 (16:03),20 (760KG),4 (10.65KM),,,37
+13,Robbie Rodriguez & Harry Venis,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,14 (16:11),12 (830KG),11 (10.008KM),,,37
+15,Ruben Ramirez & Daniel Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,8 (15:12),22 (734KG),10 (10.15KM),,,40
+16,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,18 (17:59),10 (835KG),14 (9.53KM),,,42
+17,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,22 (19:53),8 (890KG),16 (9.337KM),,,46
+18,Christian Ochoa & Bryan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,20 (18:26),9 (856KG),18 (9.289KM),,,47
+19,Gregory Donohoe & Carlos Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,21 (19:15),18 (773KG),17 (9.29KM),,,56
+20,Justin Tapper & Andrew Hill,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,12 (15:43),26 (659KG),19 (9.271KM),,,57
+20,Lucas Crispim & Ralph Giansanti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,19 (18:10),16 (784KG),22 (9.082KM),,,57
+22,Paolo Volpe & Luca Galimberti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,23 (20:57),17 (782KG),23 (8.717KM),,,63
+23,Anthony Osorio & Alan Cortez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,25 (22:56),19 (761KG),21 (9.218KM),,,65
+24,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Overall,,,,26 (25:57),24 (690KG),24 (8.599KM),,,74
+1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,170KG,370KG,430KG,,,,,,1
+2,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,200KG,340KG,420KG,,,,,,2
+3,Armando Santos & Luis Naranjo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,180KG,340KG,420KG,,,,,,3
+4,Shay Nissim & Frantz Petitpapa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,184KG,340KG,400KG,,,,,,4
+5,Rob Thomas & Joshua Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,170KG,345KG,392KG,,,,,,5
+6,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,185KG,320KG,400KG,,,,,,6
+7,James Kirkham & sean kelly,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,156KG,352KG,395KG,,,,,,7
+8,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,160KG,340KG,390KG,,,,,,8
+9,Christian Ochoa & Bryan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,164KG,310KG,382KG,,,,,,9
+10,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,165KG,310KG,360KG,,,,,,10
+11,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,165KG,313KG,353KG,,,,,,11
+12,Robbie Rodriguez & Harry Venis,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,180KG,310KG,340KG,,,,,,12
+13,Juan Comito & Nahuel Giannantonio,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,157KG,300KG,360KG,,,,,,13
+14,Stephan Mixter & Moe Romero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,160KG,300KG,354KG,,,,,,14
+15,Romain BUTAYE & Santiago Marrugo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,155KG,295KG,340KG,,,,,,15
+16,Lucas Crispim & Ralph Giansanti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,142KG,311KG,331KG,,,,,,16
+17,Paolo Volpe & Luca Galimberti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,154KG,284KG,344KG,,,,,,17
+18,Gregory Donohoe & Carlos Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,142KG,270KG,361KG,,,,,,18
+19,Anthony Osorio & Alan Cortez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,140KG,291KG,330KG,,,,,,19
+20,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,160KG,280KG,320KG,,,,,,20
+21,Paulo Menezes & Diego Freitas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,132KG,286KG,337KG,,,,,,21
+22,Ruben Ramirez & Daniel Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,152KG,257KG,325KG,,,,,,22
+23,Rhett Burns & William Lerwick,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,137KG,260KG,335KG,,,,,,23
+24,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Strength,130KG,270KG,290KG,,,,,,24
+25,Daniel Abidar & Luis Hernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,132KG,250KG,300KG,,,,,,25
+26,Justin Tapper & Andrew Hill,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Strength,109KG,250KG,300KG,,,,,,26
 1,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.566KM,5.119KM,1
 2,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.539KM,5.138KM,2
 3,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.455KM,5.092KM,3
-4,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.139KM,4.849KM,4
-5,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4KM,4.985KM,5
-6,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.101KM,4.712KM,6
-7,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.248KM,4.556KM,7
-8,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.017KM,8
-9,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.945KM,9
-10,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.775KM,4.89KM,10
-11,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.865KM,11
-12,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.196KM,4.329KM,12
-13,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.498KM,4.994KM,13
-14,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.714KM,14
-15,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.812KM,4.581KM,15
-16,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.5KM,3.821KM,16
-17,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.167KM,4.776KM,17
-18,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.25KM,4.637KM,18
-19,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,3.792KM,19
-20,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.436KM,3.993KM,20
-21,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4KM,3KM,21
-22,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,2.96KM,3.463KM,22
-1,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,13:20,,,,,,1
-2,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,13:39,,,,,,2
-3,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,14:27,,,,,,3
-4,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,14:46,,,,,,4
-5,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,14:55,,,,,,5
-6,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,15:26,,,,,,6
-7,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,15:34,,,,,,7
-8,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,15:37,,,,,,8
-9,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:15,,,,,,9
-10,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:16,,,,,,10
-11,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:19,,,,,,11
-12,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:29,,,,,,12
-13,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:30,,,,,,13
-14,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:46,,,,,,14
-15,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,16:51,,,,,,15
-16,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,17:27,,,,,,16
-17,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,17:48,,,,,,17
-18,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,20:16,,,,,,18
-19,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,21:20,,,,,,19
-20,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,21:58,,,,,,20
-21,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,24:32,,,,,,21
-22,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,24:53,,,,,,22
-23,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,25:48,,,,,,23
+4,Kailynn Violette & Antonio Mujica,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.117KM,5.343KM,4
+5,Maddie Reasoner & Miguel Calcaneo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.409KM,4.988KM,5
+6,Alisson Mona & Tucker Kistner,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.902KM,5.264KM,6
+7,Marte Eilertsen & Alex Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.815KM,5.346KM,7
+8,Lisa Abadie & Eliot Abadie,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.373KM,8
+9,Ricardo Videtta & Maria Ignacia Scharffenorth,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.084KM,5.03KM,9
+10,Jordan Devereaux & Joseph Walmsley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.027KM,5.039KM,10
+11,Jamile Velazquez Perez & Alenka Simancas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.964KM,5.101KM,11
+12,Merissa Carpenito & Michael Tonry,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.923KM,5.111KM,12
+13,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.139KM,4.849KM,13
+14,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4KM,4.985KM,14
+15,Hamlet Aleman & Juli Carazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.882KM,5.09KM,15
+16,Vicente Chiariello & Andrea Negrette,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.94KM,5.025KM,16
+17,Eli Busutil & Javier Busutil,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.708KM,5.241KM,17
+18,Lucas Vinheiros & Doreen Sharkey,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.183KM,18
+19,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.101KM,4.712KM,19
+20,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.248KM,4.556KM,20
+21,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,5.017KM,21
+22,Sthefany Azevedo & Yamil Issa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.898KM,4.867KM,22
+23,Nevaya Warfel & Graham McColgan,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.141KM,4.615KM,23
+24,Victor Saballo & Rossana Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.513KM,5.236KM,24
+24,Joey Welu & CHARITY WELU,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.89KM,4.859KM,24
+26,Kurt Keiser & Julia Chorak,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.562KM,5.145KM,26
+27,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.945KM,27
+28,Ivan Carlo Cardani & Jessica Corcino,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.935KM,28
+29,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.775KM,4.89KM,29
+30,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.865KM,30
+31,Paxton Brantley & Abel Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.108KM,4.506KM,31
+32,Rafael Assayag & Luciana Assayag,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.71KM,4.868KM,32
+33,Andy Mendler & Shaun Hunley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.845KM,4.727KM,33
+34,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.196KM,4.329KM,34
+35,Ivan Blanco & Fernanda Marquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.748KM,35
+36,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.498KM,4.994KM,36
+37,Sean Velas & Hannah Millard,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.73KM,37
+38,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.714KM,38
+39,yuri antonelli & Genesis Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.637KM,4.792KM,39
+40,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.812KM,4.581KM,40
+41,Zoe Matthew & Lamar Newbill,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.855KM,4.529KM,41
+42,Natalie Quevedo & Nicholas Quevedo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.667KM,4.705KM,42
+43,Steffi BARREDA & Erwin Jacobo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.838KM,43
+44,Connie Amador & Angel Amador,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.775KM,4.553KM,44
+44,Devin Kane  Perger & Alejandra Piedrahita,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.88KM,4.448KM,44
+46,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4.5KM,3.821KM,46
+47,Cesar Izaguirre & Alix Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.43KM,4.849KM,47
+48,Fady Issa & Romina DAddio,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.504KM,48
+49,Valentina  Salcedo  & Jean Nadal,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.501KM,49
+50,Simone Eccles & Phillip Eccles,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.538KM,4.683KM,50
+51,Pauline Tran & Louis Grayson,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.543KM,4.664KM,51
+52,Pedro Leyva & Claudia De Armas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,4.45KM,52
+53,Desiree Melo & Carlos Requena,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.423KM,4.774KM,53
+54,orlando rodriguez & Loren Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.286KM,4.832KM,54
+55,Pia Echenique & Rodrigo Börgel,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.617KM,4.448KM,55
+56,Andre Morales & Daniela Quintero,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.733KM,4.281KM,56
+57,Brave Society & Julian Sastoque,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.5KM,4.483KM,57
+58,Salman Abouzied & yara abouzied,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.021KM,4.926KM,58
+59,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.167KM,4.776KM,59
+60,Ivanna Maggiolo & Carlos Zabaleta,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.351KM,4.577KM,60
+61,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.25KM,4.637KM,61
+62,Yves Laventure & Christina Francois,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.45KM,4.412KM,62
+63,Marisol Fernandez & Simon Castellano,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.199KM,4.563KM,63
+64,Bradley Vilsaint & Estrella Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.432KM,4.225KM,64
+65,Andreina Carvallo & Lino Borrelli,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.406KM,4.224KM,65
+66,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.75KM,3.792KM,66
+67,Olvin Otero & Tia Coleman,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,2.92KM,4.539KM,67
+68,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.436KM,3.993KM,68
+69,Alex Labrada & Paola Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,3.018KM,4.232KM,69
+70,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,4KM,3KM,70
+71,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Endurance,,,,,,,2.96KM,3.463KM,71
+1,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,2 (12:26),2 (812KG),1 (11.082KM),,,5
+2,Chandler Smith & Jessie Smith,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,1 (12:03),1 (884KG),4 (10.563KM),,,6
+3,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,3 (13:15),8 (665KG),3 (10.584KM),,,14
+4,Elisa Faria & Juan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,4 (14:30),7 (682KG),6 (9.686KM),,,17
+5,Caio Assayag & Giselle Weisshaupt,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,5 (14:53),13 (597KG),2 (10.685KM),,,20
+6,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,9 (15:47),4 (705KG),7 (9.626KM),,,20
+7,Dr. Rodrigo Salas & Mayara Ramaldes,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,7 (15:38),3 (732KG),12 (9.018KM),,,22
+8,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,8 (15:41),11 (625KG),5 (10.296KM),,,24
+9,Jaime Sanchez & Nicolle Erazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,6 (15:27),12 (600KG),10 (9.3KM),,,28
+9,Leah Smith & Michael Comello,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,10 (16:03),10 (633KG),8 (9.585KM),,,28
+11,JAIRO MONTANO & Andrea Hernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,11 (16:35),5 (690KG),14 (8.976KM),,,30
+12,Thomas Shields & YUN TENG,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,13 (18:27),14 (575KG),9 (9.57KM),,,36
+13,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,12 (17:49),16 (563KG),11 (9.184KM),,,39
+14,Isabella Santamaria & Marcos Medina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,16 (22:18),9 (647KG),15 (8.105KM),,,40
+15,Julian Caicedo & Marcela Bulla,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Overall,,,,15 (20:40),14 (575KG),13 (9.006KM),,,42
+1,Merissa Carpenito & Michael Tonry,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,12:30,,,,,1
+2,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,13:20,,,,,2
+2,Kailynn Violette & Antonio Mujica,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,13:20,,,,,2
+4,Marte Eilertsen & Alex Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,13:35,,,,,4
+5,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,13:39,,,,,5
+6,Jordan Devereaux & Joseph Walmsley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,13:52,,,,,6
+7,Jamile Velazquez Perez & Alenka Simancas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:05,,,,,7
+8,Eli Busutil & Javier Busutil,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:09,,,,,8
+9,Lucas Vinheiros & Doreen Sharkey,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:15,,,,,9
+10,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:27,,,,,10
+11,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:46,,,,,11
+12,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:55,,,,,12
+13,Alisson Mona & Tucker Kistner,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:57,,,,,13
+13,Nevaya Warfel & Graham McColgan,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:57,,,,,13
+15,Vicente Chiariello & Andrea Negrette,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:59,,,,,15
+15,Kurt Keiser & Julia Chorak,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,14:59,,,,,15
+17,Victor Saballo & Rossana Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:05,,,,,17
+18,Ricardo Videtta & Maria Ignacia Scharffenorth,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:24,,,,,18
+19,yuri antonelli & Genesis Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:25,,,,,19
+20,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:26,,,,,20
+21,Fady Issa & Romina DAddio,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:30,,,,,21
+22,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:34,,,,,22
+22,Ivanna Maggiolo & Carlos Zabaleta,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:34,,,,,22
+24,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:37,,,,,24
+25,Maddie Reasoner & Miguel Calcaneo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:51,,,,,25
+26,Sthefany Azevedo & Yamil Issa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:53,,,,,26
+27,Ivan Carlo Cardani & Jessica Corcino,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,15:59,,,,,27
+28,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:15,,,,,28
+28,Hamlet Aleman & Juli Carazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:15,,,,,28
+30,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:16,,,,,30
+31,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:19,,,,,31
+32,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:29,,,,,32
+32,Salman Abouzied & yara abouzied,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:29,,,,,32
+34,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:30,,,,,34
+35,orlando rodriguez & Loren Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:35,,,,,35
+36,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:46,,,,,36
+37,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,16:51,,,,,37
+38,Paxton Brantley & Abel Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:12,,,,,38
+39,Lisa Abadie & Eliot Abadie,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:16,,,,,39
+40,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:27,,,,,40
+41,Desiree Melo & Carlos Requena,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:30,,,,,41
+42,Natalie Quevedo & Nicholas Quevedo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:36,,,,,42
+43,Ivan Blanco & Fernanda Marquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:44,,,,,43
+44,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:48,,,,,44
+45,Sean Velas & Hannah Millard,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,17:50,,,,,45
+46,Zoe Matthew & Lamar Newbill,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,18:20,,,,,46
+47,Andy Mendler & Shaun Hunley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,18:22,,,,,47
+48,Connie Amador & Angel Amador,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,18:35,,,,,48
+49,Joey Welu & CHARITY WELU,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,18:41,,,,,49
+50,Marisol Fernandez & Simon Castellano,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,18:45,,,,,50
+51,Cesar Izaguirre & Alix Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,18:56,,,,,51
+52,Steffi BARREDA & Erwin Jacobo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,19:00,,,,,52
+53,Rafael Assayag & Luciana Assayag,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,19:01,,,,,53
+54,Pedro Leyva & Claudia De Armas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,19:05,,,,,54
+55,Pauline Tran & Louis Grayson,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,19:17,,,,,55
+56,Bradley Vilsaint & Estrella Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,20:00,,,,,56
+57,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,20:16,,,,,57
+58,Devin Kane  Perger & Alejandra Piedrahita,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,20:32,,,,,58
+59,Brave Society & Julian Sastoque,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,20:38,,,,,59
+60,Yves Laventure & Christina Francois,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,21:13,,,,,60
+61,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,21:20,,,,,61
+62,Simone Eccles & Phillip Eccles,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,21:25,,,,,62
+63,Valentina  Salcedo  & Jean Nadal,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,21:28,,,,,63
+64,Olvin Otero & Tia Coleman,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,21:41,,,,,64
+65,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,21:58,,,,,65
+66,Andre Morales & Daniela Quintero,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,22:35,,,,,66
+67,Pia Echenique & Rodrigo Börgel,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,23:40,,,,,67
+68,Andreina Carvallo & Lino Borrelli,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,23:53,,,,,68
+69,Alex Labrada & Paola Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,24:10,,,,,69
+70,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,24:32,,,,,70
+71,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,24:53,,,,,71
+72,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,MetCon X,,,,25:48,,,,,72
+1,Christopher Peete & Claressa Peete,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,150KG,280KG,340KG,,,,,,1
+2,Merissa Carpenito & Michael Tonry,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,137KG,282KG,335KG,,,,,,2
+3,Jesus Caicedo amador & Lorena Di Bella,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,135KG,260KG,340KG,,,,,,3
+4,Ivanna Maggiolo & Carlos Zabaleta,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,140KG,255KG,310KG,,,,,,4
+5,Yves Laventure & Christina Francois,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,146KG,246KG,304KG,,,,,,5
+6,Sthefany Azevedo & Yamil Issa,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,217KG,206KG,272KG,,,,,,6
+7,Jordan Devereaux & Joseph Walmsley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,135KG,240KG,310KG,,,,,,7
+8,Paxton Brantley & Abel Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,127KG,255KG,290KG,,,,,,8
+9,Kailynn Violette & Antonio Mujica,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,122KG,256KG,293KG,,,,,,9
+10,Angela Moon & Gustavo Lima,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,120KG,260KG,290KG,,,,,,10
+11,Monica Vega & Giorgio Rapicavoli,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,138KG,250KG,280KG,,,,,,11
+12,Connie Amador & Angel Amador,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,129KG,240KG,295KG,,,,,,12
+13,Lucas Vinheiros & Doreen Sharkey,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,128KG,245KG,281KG,,,,,,13
+14,Kimberly Miller & Nathan Cruz,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,115KG,240KG,296KG,,,,,,14
+15,Kurt Keiser & Julia Chorak,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,132KG,247KG,260KG,,,,,,15
+16,Victor Saballo & Rossana Sandoval,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,117KG,238KG,280KG,,,,,,16
+16,Marte Eilertsen & Alex Meyer,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,145KG,225KG,265KG,,,,,,16
+16,Salman Abouzied & yara abouzied,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,122KG,218KG,295KG,,,,,,16
+19,Vicente Chiariello & Andrea Negrette,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,117KG,242KG,275KG,,,,,,19
+20,Steffi BARREDA & Erwin Jacobo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,144KG,237KG,251KG,,,,,,20
+21,yuri antonelli & Genesis Lopez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,122KG,215KG,290KG,,,,,,21
+22,Joey Welu & CHARITY WELU,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,117KG,225KG,260KG,,,,,,22
+23,Lisa Abadie & Eliot Abadie,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,102KG,207KG,280KG,,,,,,23
+24,Marcelo Martinez & Caitlin Onks,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,110KG,203KG,275KG,,,,,,24
+25,Zoe Matthew & Lamar Newbill,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,115KG,210KG,260KG,,,,,,25
+26,Hamlet Aleman & Juli Carazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,98KG,222KG,260KG,,,,,,26
+27,orlando rodriguez & Loren Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,107KG,230KG,240KG,,,,,,27
+28,Joao Monteiro & Maria Belfort,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,120KG,210KG,240KG,,,,,,28
+29,Alisson Mona & Tucker Kistner,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,122KG,215KG,229KG,,,,,,29
+29,Fady Issa & Romina DAddio,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,115KG,196KG,255KG,,,,,,29
+31,Cesar Izaguirre & Alix Molina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,105KG,250KG,210KG,,,,,,31
+32,Nevaya Warfel & Graham McColgan,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,110KG,202KG,252KG,,,,,,32
+33,Josh Vasquez & Dayana Perez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,108KG,190KG,265KG,,,,,,33
+34,Bradley Vilsaint & Estrella Gonzalez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,107KG,230KG,225KG,,,,,,34
+35,Merissa Carpenito & Joe Farley,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,110KG,200KG,250KG,,,,,,35
+36,Ivan Carlo Cardani & Jessica Corcino,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,103KG,205KG,250KG,,,,,,36
+37,Ariella Jonas & Christopher Dorazio,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,110KG,195KG,250KG,,,,,,37
+38,Juan Campos & Ariana Pacheco,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,108KG,198KG,245KG,,,,,,38
+39,Sonia Suarez alonso & Delano Pinheiro,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,90KG,230KG,230KG,,,,,,39
+40,WHITNEY BAYLESS & Allan Ajoy,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,101KG,205KG,240KG,,,,,,40
+41,Yosiel Piloto & Abril Altieri,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,93KG,200KG,250KG,,,,,,41
+42,Yeismilay Arvelo & AJ Martinez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,92KG,200KG,250KG,,,,,,42
+43,Daniela Barbieri & Jose Manjarres,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,105KG,190KG,245KG,,,,,,43
+44,Maddie Reasoner & Miguel Calcaneo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,102KG,170KG,255KG,,,,,,44
+45,Jamile Velazquez Perez & Alenka Simancas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,112KG,188KG,225KG,,,,,,45
+46,Desiree Melo & Carlos Requena,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,106KG,181KG,235KG,,,,,,46
+46,Devin Kane  Perger & Alejandra Piedrahita,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,100KG,215KG,207KG,,,,,,46
+46,Marisol Fernandez & Simon Castellano,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,107KG,200KG,215KG,,,,,,46
+49,Tara Philion & William Loheide,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,113KG,190KG,210KG,,,,,,49
+50,Jorge Fernandez & Maria Camila,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,120KG,160KG,230KG,,,,,,50
+50,Ricardo Videtta & Maria Ignacia Scharffenorth,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,100KG,210KG,200KG,,,,,,50
+52,Olvin Otero & Tia Coleman,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,108KG,185KG,215KG,,,,,,52
+53,Simone Eccles & Phillip Eccles,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,103KG,190KG,208KG,,,,,,53
+54,Pauline Tran & Louis Grayson,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,101KG,184KG,215KG,,,,,,54
+54,Andre Morales & Daniela Quintero,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,90KG,200KG,210KG,,,,,,54
+56,Sean Velas & Hannah Millard,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,108KG,168KG,223KG,,,,,,56
+57,Pedro Leyva & Claudia De Armas,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,96KG,190KG,200KG,,,,,,57
+58,Brave Society & Julian Sastoque,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,96KG,180KG,202KG,,,,,,58
+59,Valentina  Salcedo  & Jean Nadal,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,105KG,177KG,195KG,,,,,,59
+60,Natalie Quevedo & Nicholas Quevedo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,92KG,160KG,210KG,,,,,,60
+61,Andy Mendler & Shaun Hunley,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,93KG,170KG,190KG,,,,,,61
+62,Alex Labrada & Paola Garcia,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,85KG,180KG,185KG,,,,,,62
+63,Kevin Piedrahita & Laura Salazar,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,85KG,173KG,176KG,,,,,,63
+64,Rafael Assayag & Luciana Assayag,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,96KG,153KG,181KG,,,,,,64
+65,Andres Konowalskyj & Andrea Vergel,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,85KG,170KG,170KG,,,,,,65
+66,sevgi Tscherven & Nico Tscherven,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,95KG,155KG,170KG,,,,,,66
+67,Andreina Carvallo & Lino Borrelli,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,98KG,130KG,175KG,,,,,,67
+68,Pia Echenique & Rodrigo Börgel,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,78KG,200KG,71KG,,,,,,68
+69,Veronika Toussaint & Ali Faison,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,75KG,130KG,140KG,,,,,,69
+70,Mariah Monahan & Gabriel Gonzalez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX,Strength,67KG,95KG,125KG,,,,,,70
+71,Ivan Blanco & Fernanda Marquez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX,Strength,55KG,76KG,90KG,,,,,,71
+1,Rhett Burns & William Lerwick,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,5KM,6.547KM,1
+2,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,5KM,6.115KM,2
+3,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.947KM,5.705KM,3
+4,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,5.02KM,5.63KM,4
+5,James Kirkham & sean kelly,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.862KM,5.757KM,5
+6,Rob Thomas & Joshua Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.858KM,5.619KM,6
+7,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.64KM,5.649KM,7
+8,Stephan Mixter & Moe Romero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.603KM,5.649KM,8
+9,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.488KM,5.723KM,9
+10,Ruben Ramirez & Daniel Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.687KM,5.463KM,10
+11,Robbie Rodriguez & Harry Venis,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.422KM,5.586KM,11
+12,Juan Comito & Nahuel Giannantonio,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.291KM,5.547KM,12
+13,Romain BUTAYE & Santiago Marrugo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.124KM,5.685KM,13
+14,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.168KM,5.362KM,14
+15,Armando Santos & Luis Naranjo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.49KM,15
+16,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.128KM,5.209KM,16
+17,Gregory Donohoe & Carlos Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,3.811KM,5.479KM,17
+18,Christian Ochoa & Bryan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,3.838KM,5.451KM,18
+19,Justin Tapper & Andrew Hill,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.228KM,5.043KM,19
+20,Shay Nissim & Frantz Petitpapa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,3.903KM,5.359KM,20
+21,Anthony Osorio & Alan Cortez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4.5KM,4.718KM,21
+22,Lucas Crispim & Ralph Giansanti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,5.082KM,22
+23,Paolo Volpe & Luca Galimberti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,3.602KM,5.115KM,23
+24,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,Endurance,,,,,,,4KM,4.599KM,24
+1,Ivan Verdun & Nate Scola,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,12:04,,,,,1
+2,Nicolas Fernandez & Esteban Ospina,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,13:25,,,,,2
+3,James Kirkham & sean kelly,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,13:31,,,,,3
+4,Rhett Burns & William Lerwick,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,14:07,,,,,4
+5,Rob Thomas & Joshua Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,14:18,,,,,5
+6,Stephan Mixter & Moe Romero,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:01,,,,,6
+7,Romain BUTAYE & Santiago Marrugo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:09,,,,,7
+8,Ruben Ramirez & Daniel Martinez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:12,,,,,8
+9,Gibran Rodriguez & Alan Garcia,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:27,,,,,9
+10,Juan Comito & Nahuel Giannantonio,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:29,,,,,10
+11,Shay Nissim & Frantz Petitpapa,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:32,,,,,11
+12,Justin Tapper & Andrew Hill,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,15:43,,,,,12
+13,Boris San Martin & David Anderson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,16:03,,,,,13
+14,Robbie Rodriguez & Harry Venis,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,16:11,,,,,14
+15,Armando Santos & Luis Naranjo,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,16:12,,,,,15
+16,Stephan Mixter & Lucas Bistoquet,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,16:24,,,,,16
+17,Paulo Menezes & Diego Freitas,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,17:54,,,,,17
+18,Max Cantor & Gregory Donohoe,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,17:59,,,,,18
+19,Lucas Crispim & Ralph Giansanti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,18:10,,,,,19
+20,Christian Ochoa & Bryan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,18:26,,,,,20
+21,Gregory Donohoe & Carlos Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,19:15,,,,,21
+22,David Crespo & Christian Espinal,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,19:53,,,,,22
+23,Paolo Volpe & Luca Galimberti,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,20:57,,,,,23
+24,Daniel Abidar & Luis Hernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,21:39,,,,,24
+25,Anthony Osorio & Alan Cortez,ATHX MIAMI 2026,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,22:56,,,,,25
+26,Jalon Colston & Emmanuel Newsome,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Male,ATHX Pro,MetCon X,,,,25:57,,,,,26
+1,Chandler Smith & Jessie Smith,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,168KG,336KG,380KG,,,,,,1
+2,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,152KG,320KG,340KG,,,,,,2
+3,Dr. Rodrigo Salas & Mayara Ramaldes,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,137KG,280KG,315KG,,,,,,3
+4,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,125KG,270KG,310KG,,,,,,4
+5,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,115KG,290KG,285KG,,,,,,5
+5,JAIRO MONTANO & Andrea Hernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,130KG,260KG,300KG,,,,,,5
+7,Elisa Faria & Juan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,137KG,245KG,300KG,,,,,,7
+8,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,135KG,220KG,310KG,,,,,,8
+9,Isabella Santamaria & Marcos Medina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,122KG,255KG,270KG,,,,,,9
+10,Leah Smith & Michael Comello,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,119KG,229KG,285KG,,,,,,10
+11,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,115KG,240KG,270KG,,,,,,11
+12,Jaime Sanchez & Nicolle Erazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,110KG,210KG,280KG,,,,,,12
+13,Caio Assayag & Giselle Weisshaupt,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,123KG,227KG,247KG,,,,,,13
+14,Julian Caicedo & Marcela Bulla,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,105KG,220KG,250KG,,,,,,14
+14,Thomas Shields & YUN TENG,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,105KG,215KG,255KG,,,,,,14
+16,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Strength,108KG,205KG,250KG,,,,,,16
+1,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,5.285KM,5.797KM,1
+2,Caio Assayag & Giselle Weisshaupt,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.999KM,5.686KM,2
+3,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,5.28KM,5.304KM,3
+4,Chandler Smith & Jessie Smith,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.765KM,5.798KM,4
+5,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.589KM,5.707KM,5
+6,Elisa Faria & Juan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.25KM,5.436KM,6
+7,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.421KM,5.205KM,7
+8,Leah Smith & Michael Comello,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.269KM,5.316KM,8
+9,Thomas Shields & YUN TENG,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.262KM,5.308KM,9
+10,Jaime Sanchez & Nicolle Erazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.099KM,5.201KM,10
+11,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,4.419KM,4.765KM,11
+12,Dr. Rodrigo Salas & Mayara Ramaldes,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.87KM,5.148KM,12
+13,Julian Caicedo & Marcela Bulla,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.88KM,5.126KM,13
+14,JAIRO MONTANO & Andrea Hernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.772KM,5.204KM,14
+15,Isabella Santamaria & Marcos Medina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,Endurance,,,,,,,3.073KM,5.032KM,15
+1,Chandler Smith & Jessie Smith,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,12:03,,,,,1
+2,Jonne Koski & Ella Wilkinson,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,12:26,,,,,2
+3,Danielle Brandon & Cooper Marsh,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,13:15,,,,,3
+4,Elisa Faria & Juan Rodriguez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,14:30,,,,,4
+5,Caio Assayag & Giselle Weisshaupt,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,14:53,,,,,5
+6,Jaime Sanchez & Nicolle Erazo,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,15:27,,,,,6
+7,Dr. Rodrigo Salas & Mayara Ramaldes,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,15:38,,,,,7
+8,Shereen Taljebini & Moe Romero,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,15:41,,,,,8
+9,Sebastian Dayoub & sarah guzman,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,15:47,,,,,9
+10,Leah Smith & Michael Comello,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,16:03,,,,,10
+11,JAIRO MONTANO & Andrea Hernandez,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,16:35,,,,,11
+12,Fady Issa & Andrea Hernandez,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,17:49,,,,,12
+13,Thomas Shields & YUN TENG,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,18:27,,,,,13
+14,Troy London & Monique London,ATHX INVITATIONAL MIAMI BEACH,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,20:39,,,,,14
+15,Julian Caicedo & Marcela Bulla,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,20:40,,,,,15
+16,Isabella Santamaria & Marcos Medina,ATHX MIAMI 2026,United States 🇺🇸,2026,Mixed,ATHX Pro,MetCon X,,,,22:18,,,,,16
